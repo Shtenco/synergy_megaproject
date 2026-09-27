@@ -1,0 +1,16 @@
+relation_type,definition,semantic_class
+ENABLES,Source makes target possible or materially unlocks it.,ENABLING
+REQUIRES,Source cannot reasonably function at claimed scope without target.,CAUSAL
+VALIDATES,Source/evidence checks or supports the target claim/capability.,EVIDENTIAL
+DEPENDS_ON,"Source relies on target as an input, substrate or infrastructure dependency.",CAUSAL
+PROPOSED_BY,"Idea/project is attributed to a person, institution or program.",PROVENANCE
+FUNDED_BY,Project/activity receives funding from target. Only use with explicit funding evidence.,PROVENANCE
+USES,Source system uses target technology/resource/capability.,ENABLING
+PRODUCES,Source directly outputs target or an instance of the target class.,CAUSAL
+CONSUMES,Source directly consumes target resource/input.,CAUSAL
+REDUCES_COST_OF,Source measurably lowers resource/cost burden of target.,CAUSAL
+INCREASES_CAPACITY_OF,Source measurably or structurally expands target capability.,ENABLING
+COMPETES_WITH,Source and target are alternative approaches to materially overlapping objectives.,THEMATIC
+FALSIFIES,Source provides evidence inconsistent with target claim.,EVIDENTIAL
+RISKS,Source creates or materially raises a risk to target.,RISK
+GOVERNS,"Source constrains, audits, authorizes or sets rules for target.",GOVERNANCE
