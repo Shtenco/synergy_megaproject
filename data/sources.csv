@@ -1,0 +1,81 @@
+id,title,url,source_role,frontier_ids
+S001,Post-AGI Civilizational Equilibria,https://post-agi.org/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F001;F019;F020
+S002,World Models,https://arxiv.org/abs/1803.10122,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F002
+S003,AI co-scientist,https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F003;F012;F049
+S004,The AI Scientist,https://arxiv.org/abs/2408.06292,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F004;F005
+S005,Gemini Robotics,https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F006;F043;F044
+S006,Isaac GR00T,https://developer.nvidia.com/isaac/gr00t,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F007;F046
+S007,Advanced Automation for Space Missions,https://ntrs.nasa.gov/citations/19830007077,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F008;F028;F094
+S008,Google data-center energy research context,https://deepmind.google/discover/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F009
+S009,Vehicle-to-grid foundational review,https://doi.org/10.1016/j.jpowsour.2004.12.022,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F010
+S010,AlphaGenome,https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F011;F064
+S011,A-Lab,https://www.nature.com/articles/s41586-023-06734-w,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F013;F051
+S012,Programmable mechanical metamaterials,https://www.nature.com/articles/nature18960,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F014;F082
+S013,AlphaEarth Foundations,https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F015;F097
+S014,Destination Earth Digital Twins,https://destine.ecmwf.int/digital-twins/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F016;F098
+S015,High-performance speech neuroprosthesis,https://www.nature.com/articles/s41586-023-06377-x,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F017;F075
+S016,Generative Agents,https://arxiv.org/abs/2304.03442,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F018;F022;F037
+S017,Constitutional AI,https://arxiv.org/abs/2212.08073,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F021;F056
+S018,AI Economist,https://arxiv.org/abs/2108.02755,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F023
+S019,ReAct,https://arxiv.org/abs/2210.03629,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F024;F030
+S020,NASA ISAM,https://www.nasa.gov/isam/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F025
+S021,Starcloud / NVIDIA,https://blogs.nvidia.com/blog/starcloud/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F026;F096
+S022,NASA Lunar Surface Innovation,https://www.nasa.gov/space-technology-mission-directorate/lunar-surface-innovation-initiative/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F027
+S023,AlphaEvolve,https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F029;F052
+S024,Toolformer,https://arxiv.org/abs/2302.04761,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F031
+S025,Reflexion,https://arxiv.org/abs/2303.11366,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F032
+S026,Tree of Thoughts,https://arxiv.org/abs/2305.10601,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F033
+S027,Self-Refine,https://arxiv.org/abs/2303.17651,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F034
+S028,AutoGen,https://arxiv.org/abs/2308.08155,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F035
+S029,Voyager,https://arxiv.org/abs/2305.16291,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F036
+S030,DreamerV3,https://arxiv.org/abs/2301.04104,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F038
+S031,SayCan,https://arxiv.org/abs/2204.01691,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F039
+S032,PaLM-E,https://arxiv.org/abs/2303.03378,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F040
+S033,Open X-Embodiment / RT-X,https://arxiv.org/abs/2310.08864,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F041
+S034,RT-2,https://arxiv.org/abs/2307.15818,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F042
+S035,Gemini Robotics family,https://deepmind.google/models/gemini-robotics/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F045
+S036,Project Go-Big,https://www.figure.ai/news/project-go-big,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F047
+S037,The AI Scientist,https://sakana.ai/ai-scientist/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F048
+S038,ChemCrow,https://arxiv.org/abs/2304.05376,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F050
+S039,FunSearch,https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F053
+S040,AlphaDev,https://deepmind.google/blog/alphadev-discovers-faster-sorting-algorithms/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F054
+S041,AlphaTensor,https://deepmind.google/blog/discovering-novel-algorithms-with-alphatensor/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F055
+S042,AI Safety via Debate,https://arxiv.org/abs/1805.00899,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F057
+S043,ELK report,https://www.alignmentforum.org/posts/QK7hM7XW7W6WZQ9To/eliciting-latent-knowledge,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F058
+S044,CIRL,https://arxiv.org/abs/1606.03137,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F059
+S045,Collective Constitutional AI,https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F060
+S046,Measuring Progress on Scalable Oversight,https://arxiv.org/abs/2211.03540,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F061
+S047,AlphaFold2,https://www.nature.com/articles/s41586-021-03819-2,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F062
+S048,AlphaFold 3,https://www.nature.com/articles/s41586-024-07487-w,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F063
+S049,Enformer,https://www.nature.com/articles/s41592-021-01252-x,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F065
+S050,RFdiffusion,https://www.nature.com/articles/s41586-023-06415-8,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F066
+S051,Science 2012,https://doi.org/10.1126/science.1225829,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F067
+S052,Nature 2016,https://www.nature.com/articles/nature17946,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F068
+S053,Nature 2019,https://www.nature.com/articles/s41586-019-1711-4,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F069
+S054,Science: JCVI-syn3.0,https://doi.org/10.1126/science.aad6253,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F070
+S055,PNAS,https://www.pnas.org/doi/10.1073/pnas.1910837117,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F071
+S056,Organoid Intelligence,https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F072
+S057,DishBrain / Neuron,https://www.cell.com/neuron/fulltext/S0896-6273(22,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F073
+S058,Nature 2020,https://www.nature.com/articles/s41586-020-2975-4,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F074
+S059,Nature 2019,https://www.nature.com/articles/s41586-019-1119-1,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F076
+S060,PNAS 2016,https://www.pnas.org/doi/10.1073/pnas.1521342113,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F077
+S061,GNoME,https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F078
+S062,MatterGen,https://www.nature.com/articles/s41586-025-08628-5,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F079
+S063,MatterSim,https://www.microsoft.com/en-us/research/publication/mattersim-a-deep-learning-atomistic-model-across-elements-temperatures-and-pressures/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F080
+S064,Nature 2001,https://www.nature.com/articles/35057232,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F081
+S065,Nature Chemistry,https://www.nature.com/articles/nchem.2495,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F083
+S066,Nature 2022,https://www.nature.com/articles/s41586-021-04301-9,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F084
+S067,ARPA-E SUPERHOT,https://arpa-e.energy.gov/technologies/programs/superhot,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F085
+S068,Oklo technology,https://oklo.com/technology,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F086
+S069,Caltech SSPP,https://www.spacesolar.caltech.edu/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F087
+S070,Making quantum error correction work,https://research.google/blog/making-quantum-error-correction-work/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F088
+S071,IBM Quantum Roadmap,https://www.ibm.com/roadmaps/quantum/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F089
+S072,DARPA QBI,https://www.darpa.mil/research/programs/quantum-benchmarking-initiative,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F090
+S073,Science 2018,https://www.science.org/doi/10.1126/science.aam9288,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F091
+S074,NASA ISAM State of Play 2025,https://ntrs.nasa.gov/citations/20250008988,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F092
+S075,DARPA NOM4D demos,https://www.darpa.mil/news/2025/novel-tech-space-structures,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F093
+S076,NASA/DOE lunar reactor program,https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F095
+S077,x402,https://www.coinbase.com/developer-platform/discover/launches/x402,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F099
+S078,AP2,https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F100
+S079,ACP,https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F100
+S080,UCP,https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/,REPRESENTATIVE_OR_PRIMARY_AS_DOCUMENTED,F100
