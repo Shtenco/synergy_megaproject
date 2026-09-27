@@ -1,37 +1,50 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "canonical_freeze": "2026-09-27",
+  "review_date": "2026-09-27",
   "source_of_truth": "README.md",
   "counts": {
     "megaprojects": 150,
     "technologies": 100,
     "frontier": 100,
-    "authors": 185,
-    "institutions": 55,
-    "sources": 80,
-    "nodes": 670,
-    "edges": 1090
+    "ideas": 350,
+    "edges": 1105,
+    "strong_edges": 136,
+    "direct_relation_evidence_edges": 7,
+    "edges_needing_relation_evidence": 701
+  },
+  "relation_counts": {
+    "VALIDATES": 103,
+    "PROPOSED_BY": 268,
+    "DEPENDS_ON": 164,
+    "INCREASES_CAPACITY_OF": 285,
+    "USES": 79,
+    "ENABLES": 168,
+    "GOVERNS": 34,
+    "REQUIRES": 1,
+    "PRODUCES": 2,
+    "REDUCES_COST_OF": 1
+  },
+  "evidence_scope_counts": {
+    "PROVENANCE": 102,
+    "ATTRIBUTION": 268,
+    "NODE_SUPPORT_ONLY": 701,
+    "CANONICAL_SYNTHESIS": 27,
+    "RELATION_DIRECT": 7
+  },
+  "review_status_counts": {
+    "VERIFIED_PROVENANCE": 102,
+    "CURATED_ATTRIBUTION": 199,
+    "CURATED_PROGRAM_ASSOCIATION": 69,
+    "AUTO_CURATED_NEEDS_RELATION_EVIDENCE": 701,
+    "CURATED_CANONICAL": 27,
+    "CURATED_RELATION": 7
   },
   "invariants": {
     "megaprojects": 150,
     "technologies": 100,
-    "frontier": 100
+    "frontier": 100,
+    "legacy_mapping_relations": 0
   },
-  "generated_files": [
-    "data/authors.csv",
-    "data/evidence.csv",
-    "data/frontier_edges.csv",
-    "data/frontier_nodes.csv",
-    "data/institutions.csv",
-    "data/megaproject_nodes.csv",
-    "data/sources.csv",
-    "data/technology_nodes.csv",
-    "docs/M2_MACHINE_READABLE_GRAPH.md",
-    "graph/frontier_graph.graphml",
-    "graph/frontier_graph.json",
-    "graph/neo4j_import/nodes.csv",
-    "graph/neo4j_import/relationships.csv",
-    "schema/graph_schema.json",
-    "tools/validate_graph.py"
-  ]
+  "canonical_edge_file": "data/frontier_edges.csv"
 }
