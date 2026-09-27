@@ -1,0 +1,1091 @@
+id,source,target,type,evidence,note
+E00001,F001,S001,SUPPORTED_BY,S001,Source provenance
+E00002,F001,P001,ATTRIBUTED_TO,,Representative author
+E00003,F001,P002,ATTRIBUTED_TO,,Representative author
+E00004,F001,P003,ATTRIBUTED_TO,,Representative author
+E00005,F001,I001,ASSOCIATED_WITH,,Representative institution/program
+E00006,F001,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00007,F001,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00008,F001,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00009,F001,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00010,F001,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00011,F001,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00012,F001,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00013,F001,M128,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00014,F001,M141,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00015,F001,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00016,F002,S002,ENABLED_BY_EVIDENCE,S002,Source provenance
+E00017,F002,P004,ATTRIBUTED_TO,,Representative author
+E00018,F002,P005,ATTRIBUTED_TO,,Representative author
+E00019,F002,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00020,F002,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00021,F002,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00022,F002,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00023,F002,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00024,F002,M039,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00025,F002,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00026,F003,S003,SUPPORTED_BY,S003,Source provenance
+E00027,F003,P006,ATTRIBUTED_TO,,Representative author
+E00028,F003,P007,ATTRIBUTED_TO,,Representative author
+E00029,F003,I002,ASSOCIATED_WITH,,Representative institution/program
+E00030,F003,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00031,F003,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00032,F003,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00033,F003,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00034,F003,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00035,F003,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00036,F003,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00037,F004,S004,SUPPORTED_BY,S004,Source provenance
+E00038,F004,P008,ATTRIBUTED_TO,,Representative author
+E00039,F004,P009,ATTRIBUTED_TO,,Representative author
+E00040,F004,P010,ATTRIBUTED_TO,,Representative author
+E00041,F004,P011,ATTRIBUTED_TO,,Representative author
+E00042,F004,P012,ATTRIBUTED_TO,,Representative author
+E00043,F004,P004,ATTRIBUTED_TO,,Representative author
+E00044,F004,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00045,F004,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00046,F004,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00047,F004,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00048,F004,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00049,F005,S004,ENABLED_BY_EVIDENCE,S004,Source provenance
+E00050,F005,I003,ASSOCIATED_WITH,,Representative institution/program
+E00051,F005,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00052,F005,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00053,F005,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00054,F005,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00055,F006,S005,SUPPORTED_BY,S005,Source provenance
+E00056,F006,I004,ASSOCIATED_WITH,,Representative institution/program
+E00057,F006,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00058,F006,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00059,F006,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00060,F006,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00061,F006,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00062,F006,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00063,F006,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00064,F006,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00065,F006,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00066,F006,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00067,F006,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00068,F007,S006,SUPPORTED_BY,S006,Source provenance
+E00069,F007,I005,ASSOCIATED_WITH,,Representative institution/program
+E00070,F007,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00071,F007,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00072,F007,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00073,F007,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00074,F007,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00075,F007,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00076,F007,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00077,F007,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00078,F007,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00079,F008,S007,SUPPORTED_BY,S007,Source provenance
+E00080,F008,P013,ATTRIBUTED_TO,,Representative author
+E00081,F008,P014,ATTRIBUTED_TO,,Representative author
+E00082,F008,I006,ASSOCIATED_WITH,,Representative institution/program
+E00083,F008,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00084,F008,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00085,F008,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00086,F008,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00087,F008,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00088,F008,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00089,F008,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00090,F008,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00091,F008,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00092,F008,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00093,F009,S008,ENABLED_BY_EVIDENCE,S008,Source provenance
+E00094,F009,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00095,F009,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00096,F009,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00097,F009,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00098,F009,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00099,F009,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00100,F009,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00101,F009,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00102,F009,M128,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00103,F009,M141,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00104,F010,S009,SUPPORTED_BY,S009,Source provenance
+E00105,F010,I007,ASSOCIATED_WITH,,Representative institution/program
+E00106,F010,T041,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00107,F010,T042,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00108,F010,T043,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00109,F010,T049,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00110,F010,T050,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00111,F010,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00112,F010,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00113,F010,M145,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00114,F010,M138,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00115,F011,S010,SUPPORTED_BY,S010,Source provenance
+E00116,F011,P015,ATTRIBUTED_TO,,Representative author
+E00117,F011,P016,ATTRIBUTED_TO,,Representative author
+E00118,F011,I008,ASSOCIATED_WITH,,Representative institution/program
+E00119,F011,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00120,F011,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00121,F011,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00122,F011,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00123,F011,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00124,F011,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00125,F011,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00126,F011,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00127,F011,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00128,F011,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00129,F012,S003,ENABLED_BY_EVIDENCE,S003,Source provenance
+E00130,F012,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00131,F012,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00132,F012,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00133,F012,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00134,F012,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00135,F012,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00136,F012,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00137,F012,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00138,F012,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00139,F012,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00140,F013,S011,SUPPORTED_BY,S011,Source provenance
+E00141,F013,P017,ATTRIBUTED_TO,,Representative author
+E00142,F013,P018,ATTRIBUTED_TO,,Representative author
+E00143,F013,P019,ATTRIBUTED_TO,,Representative author
+E00144,F013,P020,ATTRIBUTED_TO,,Representative author
+E00145,F013,P021,ATTRIBUTED_TO,,Representative author
+E00146,F013,P022,ATTRIBUTED_TO,,Representative author
+E00147,F013,I009,ASSOCIATED_WITH,,Representative institution/program
+E00148,F013,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00149,F013,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00150,F013,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00151,F013,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00152,F013,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00153,F013,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00154,F013,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00155,F013,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00156,F013,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00157,F013,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00158,F014,S012,SUPPORTED_BY,S012,Source provenance
+E00159,F014,P023,ATTRIBUTED_TO,,Representative author
+E00160,F014,P024,ATTRIBUTED_TO,,Representative author
+E00161,F014,P025,ATTRIBUTED_TO,,Representative author
+E00162,F014,P026,ATTRIBUTED_TO,,Representative author
+E00163,F014,P027,ATTRIBUTED_TO,,Representative author
+E00164,F014,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00165,F014,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00166,F014,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00167,F014,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00168,F014,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00169,F014,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00170,F014,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00171,F015,S013,SUPPORTED_BY,S013,Source provenance
+E00172,F015,I010,ASSOCIATED_WITH,,Representative institution/program
+E00173,F015,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00174,F015,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00175,F015,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00176,F015,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00177,F015,M039,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00178,F015,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00179,F016,S014,ENABLED_BY_EVIDENCE,S014,Source provenance
+E00180,F016,I011,ASSOCIATED_WITH,,Representative institution/program
+E00181,F016,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00182,F016,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00183,F016,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00184,F016,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00185,F016,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00186,F016,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00187,F016,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00188,F016,M039,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00189,F016,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00190,F017,S015,SUPPORTED_BY,S015,Source provenance
+E00191,F017,P028,ATTRIBUTED_TO,,Representative author
+E00192,F017,P029,ATTRIBUTED_TO,,Representative author
+E00193,F017,P030,ATTRIBUTED_TO,,Representative author
+E00194,F017,P031,ATTRIBUTED_TO,,Representative author
+E00195,F017,T074,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00196,F017,T075,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00197,F017,T076,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00198,F017,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00199,F017,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00200,F017,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00201,F017,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00202,F018,S016,SUPPORTED_BY,S016,Source provenance
+E00203,F018,P032,ATTRIBUTED_TO,,Representative author
+E00204,F018,P033,ATTRIBUTED_TO,,Representative author
+E00205,F018,P034,ATTRIBUTED_TO,,Representative author
+E00206,F018,P035,ATTRIBUTED_TO,,Representative author
+E00207,F018,P036,ATTRIBUTED_TO,,Representative author
+E00208,F018,P037,ATTRIBUTED_TO,,Representative author
+E00209,F018,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00210,F018,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00211,F018,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00212,F018,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00213,F018,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00214,F018,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00215,F019,S001,ENABLED_BY_EVIDENCE,S001,Source provenance
+E00216,F019,I012,ASSOCIATED_WITH,,Representative institution/program
+E00217,F019,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00218,F019,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00219,F019,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00220,F019,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00221,F019,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00222,F019,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00223,F019,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00224,F019,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00225,F019,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00226,F019,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00227,F019,M128,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00228,F019,M141,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00229,F020,S001,SUPPORTED_BY,S001,Source provenance
+E00230,F020,P038,ATTRIBUTED_TO,,Representative author
+E00231,F020,I013,ASSOCIATED_WITH,,Representative institution/program
+E00232,F020,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00233,F020,T015,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00234,F020,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00235,F020,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00236,F020,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00237,F021,S017,SUPPORTED_BY,S017,Source provenance
+E00238,F021,P039,ATTRIBUTED_TO,,Representative author
+E00239,F021,I014,ASSOCIATED_WITH,,Representative institution/program
+E00240,F021,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00241,F021,T015,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00242,F021,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00243,F021,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00244,F021,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00245,F022,S016,SUPPORTED_BY,S016,Source provenance
+E00246,F022,P040,ATTRIBUTED_TO,,Representative author
+E00247,F022,I015,ASSOCIATED_WITH,,Representative institution/program
+E00248,F022,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00249,F022,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00250,F022,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00251,F022,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00252,F022,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00253,F022,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00254,F023,S018,ENABLED_BY_EVIDENCE,S018,Source provenance
+E00255,F023,P041,ATTRIBUTED_TO,,Representative author
+E00256,F023,P042,ATTRIBUTED_TO,,Representative author
+E00257,F023,P043,ATTRIBUTED_TO,,Representative author
+E00258,F023,P044,ATTRIBUTED_TO,,Representative author
+E00259,F023,P045,ATTRIBUTED_TO,,Representative author
+E00260,F023,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00261,F023,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00262,F023,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00263,F023,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00264,F023,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00265,F023,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00266,F023,M128,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00267,F023,M141,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00268,F023,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00269,F024,S019,ENABLED_BY_EVIDENCE,S019,Source provenance
+E00270,F024,P046,ATTRIBUTED_TO,,Representative author
+E00271,F024,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00272,F024,T016,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00273,F024,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00274,F024,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00275,F024,M145,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00276,F024,M140,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00277,F025,S020,SUPPORTED_BY,S020,Source provenance
+E00278,F025,I016,ASSOCIATED_WITH,,Representative institution/program
+E00279,F025,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00280,F025,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00281,F025,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00282,F025,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00283,F025,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00284,F025,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00285,F025,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00286,F025,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00287,F025,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00288,F025,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00289,F026,S021,SUPPORTED_BY,S021,Source provenance
+E00290,F026,P047,ATTRIBUTED_TO,,Representative author
+E00291,F026,P048,ATTRIBUTED_TO,,Representative author
+E00292,F026,P049,ATTRIBUTED_TO,,Representative author
+E00293,F026,I017,ASSOCIATED_WITH,,Representative institution/program
+E00294,F026,T091,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00295,F026,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00296,F026,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00297,F026,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00298,F026,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00299,F026,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00300,F026,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00301,F027,S022,SUPPORTED_BY,S022,Source provenance
+E00302,F027,I018,ASSOCIATED_WITH,,Representative institution/program
+E00303,F027,T095,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00304,F027,T098,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00305,F027,T100,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00306,F027,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00307,F027,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00308,F027,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00309,F027,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00310,F027,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00311,F027,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00312,F028,S007,SUPPORTED_BY,S007,Source provenance
+E00313,F028,P050,ATTRIBUTED_TO,,Representative author
+E00314,F028,P051,ATTRIBUTED_TO,,Representative author
+E00315,F028,I019,ASSOCIATED_WITH,,Representative institution/program
+E00316,F028,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00317,F028,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00318,F028,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00319,F028,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00320,F028,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00321,F028,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00322,F028,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00323,F028,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00324,F028,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00325,F028,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00326,F029,S023,ENABLED_BY_EVIDENCE,S023,Source provenance
+E00327,F029,P052,ATTRIBUTED_TO,,Representative author
+E00328,F029,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00329,F029,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00330,F029,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00331,F029,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00332,F029,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00333,F030,S019,SUPPORTED_BY,S019,Source provenance
+E00334,F030,P053,ATTRIBUTED_TO,,Representative author
+E00335,F030,P054,ATTRIBUTED_TO,,Representative author
+E00336,F030,P055,ATTRIBUTED_TO,,Representative author
+E00337,F030,P056,ATTRIBUTED_TO,,Representative author
+E00338,F030,P057,ATTRIBUTED_TO,,Representative author
+E00339,F030,P058,ATTRIBUTED_TO,,Representative author
+E00340,F030,P059,ATTRIBUTED_TO,,Representative author
+E00341,F030,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00342,F030,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00343,F030,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00344,F030,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00345,F030,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00346,F030,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00347,F031,S024,SUPPORTED_BY,S024,Source provenance
+E00348,F031,P060,ATTRIBUTED_TO,,Representative author
+E00349,F031,P061,ATTRIBUTED_TO,,Representative author
+E00350,F031,P062,ATTRIBUTED_TO,,Representative author
+E00351,F031,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00352,F031,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00353,F031,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00354,F031,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00355,F031,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00356,F031,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00357,F032,S025,SUPPORTED_BY,S025,Source provenance
+E00358,F032,P063,ATTRIBUTED_TO,,Representative author
+E00359,F032,P064,ATTRIBUTED_TO,,Representative author
+E00360,F032,P065,ATTRIBUTED_TO,,Representative author
+E00361,F032,P066,ATTRIBUTED_TO,,Representative author
+E00362,F032,P058,ATTRIBUTED_TO,,Representative author
+E00363,F032,P053,ATTRIBUTED_TO,,Representative author
+E00364,F032,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00365,F032,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00366,F032,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00367,F032,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00368,F032,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00369,F032,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00370,F033,S026,SUPPORTED_BY,S026,Source provenance
+E00371,F033,P053,ATTRIBUTED_TO,,Representative author
+E00372,F033,P055,ATTRIBUTED_TO,,Representative author
+E00373,F033,P067,ATTRIBUTED_TO,,Representative author
+E00374,F033,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00375,F033,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00376,F033,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00377,F034,S027,SUPPORTED_BY,S027,Source provenance
+E00378,F034,P068,ATTRIBUTED_TO,,Representative author
+E00379,F034,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00380,F034,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00381,F034,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00382,F035,S028,SUPPORTED_BY,S028,Source provenance
+E00383,F035,P069,ATTRIBUTED_TO,,Representative author
+E00384,F035,I020,ASSOCIATED_WITH,,Representative institution/program
+E00385,F035,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00386,F035,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00387,F035,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00388,F035,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00389,F035,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00390,F036,S029,SUPPORTED_BY,S029,Source provenance
+E00391,F036,P070,ATTRIBUTED_TO,,Representative author
+E00392,F036,P071,ATTRIBUTED_TO,,Representative author
+E00393,F036,P072,ATTRIBUTED_TO,,Representative author
+E00394,F036,P073,ATTRIBUTED_TO,,Representative author
+E00395,F036,P074,ATTRIBUTED_TO,,Representative author
+E00396,F036,P075,ATTRIBUTED_TO,,Representative author
+E00397,F036,P076,ATTRIBUTED_TO,,Representative author
+E00398,F036,P077,ATTRIBUTED_TO,,Representative author
+E00399,F036,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00400,F036,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00401,F036,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00402,F036,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00403,F036,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00404,F036,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00405,F036,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00406,F036,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00407,F037,S016,SUPPORTED_BY,S016,Source provenance
+E00408,F037,P078,ATTRIBUTED_TO,,Representative author
+E00409,F037,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00410,F037,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00411,F037,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00412,F037,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00413,F037,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00414,F037,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00415,F037,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00416,F038,S030,SUPPORTED_BY,S030,Source provenance
+E00417,F038,P079,ATTRIBUTED_TO,,Representative author
+E00418,F038,P080,ATTRIBUTED_TO,,Representative author
+E00419,F038,P081,ATTRIBUTED_TO,,Representative author
+E00420,F038,P082,ATTRIBUTED_TO,,Representative author
+E00421,F038,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00422,F038,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00423,F038,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00424,F038,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00425,F039,S031,SUPPORTED_BY,S031,Source provenance
+E00426,F039,P083,ATTRIBUTED_TO,,Representative author
+E00427,F039,I021,ASSOCIATED_WITH,,Representative institution/program
+E00428,F039,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00429,F039,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00430,F039,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00431,F039,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00432,F039,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00433,F039,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00434,F039,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00435,F039,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00436,F040,S032,SUPPORTED_BY,S032,Source provenance
+E00437,F040,P084,ATTRIBUTED_TO,,Representative author
+E00438,F040,P085,ATTRIBUTED_TO,,Representative author
+E00439,F040,P086,ATTRIBUTED_TO,,Representative author
+E00440,F040,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00441,F040,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00442,F040,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00443,F040,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00444,F040,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00445,F040,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00446,F040,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00447,F040,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00448,F041,S033,SUPPORTED_BY,S033,Source provenance
+E00449,F041,I022,ASSOCIATED_WITH,,Representative institution/program
+E00450,F041,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00451,F041,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00452,F041,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00453,F041,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00454,F041,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00455,F041,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00456,F042,S034,SUPPORTED_BY,S034,Source provenance
+E00457,F042,P087,ATTRIBUTED_TO,,Representative author
+E00458,F042,I008,ASSOCIATED_WITH,,Representative institution/program
+E00459,F042,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00460,F042,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00461,F042,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00462,F042,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00463,F042,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00464,F042,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00465,F042,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00466,F042,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00467,F043,S005,SUPPORTED_BY,S005,Source provenance
+E00468,F043,I023,ASSOCIATED_WITH,,Representative institution/program
+E00469,F043,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00470,F043,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00471,F043,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00472,F043,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00473,F043,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00474,F043,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00475,F043,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00476,F043,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00477,F044,S005,SUPPORTED_BY,S005,Source provenance
+E00478,F044,I008,ASSOCIATED_WITH,,Representative institution/program
+E00479,F044,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00480,F044,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00481,F044,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00482,F044,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00483,F044,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00484,F044,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00485,F045,S035,SUPPORTED_BY,S035,Source provenance
+E00486,F045,I008,ASSOCIATED_WITH,,Representative institution/program
+E00487,F045,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00488,F045,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00489,F045,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00490,F045,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00491,F045,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00492,F045,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00493,F045,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00494,F045,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00495,F046,S006,SUPPORTED_BY,S006,Source provenance
+E00496,F046,I005,ASSOCIATED_WITH,,Representative institution/program
+E00497,F046,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00498,F046,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00499,F046,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00500,F046,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00501,F046,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00502,F046,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00503,F046,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00504,F046,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00505,F047,S036,SUPPORTED_BY,S036,Source provenance
+E00506,F047,I024,ASSOCIATED_WITH,,Representative institution/program
+E00507,F047,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00508,F047,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00509,F047,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00510,F047,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00511,F047,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00512,F047,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00513,F047,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00514,F048,S037,SUPPORTED_BY,S037,Source provenance
+E00515,F048,P088,ATTRIBUTED_TO,,Representative author
+E00516,F048,I025,ASSOCIATED_WITH,,Representative institution/program
+E00517,F048,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00518,F048,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00519,F048,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00520,F048,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00521,F048,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00522,F049,S003,SUPPORTED_BY,S003,Source provenance
+E00523,F049,P089,ATTRIBUTED_TO,,Representative author
+E00524,F049,P090,ATTRIBUTED_TO,,Representative author
+E00525,F049,I026,ASSOCIATED_WITH,,Representative institution/program
+E00526,F049,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00527,F049,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00528,F049,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00529,F049,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00530,F049,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00531,F049,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00532,F049,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00533,F049,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00534,F049,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00535,F049,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00536,F050,S038,SUPPORTED_BY,S038,Source provenance
+E00537,F050,P091,ATTRIBUTED_TO,,Representative author
+E00538,F050,P092,ATTRIBUTED_TO,,Representative author
+E00539,F050,P093,ATTRIBUTED_TO,,Representative author
+E00540,F050,P094,ATTRIBUTED_TO,,Representative author
+E00541,F050,P095,ATTRIBUTED_TO,,Representative author
+E00542,F050,P096,ATTRIBUTED_TO,,Representative author
+E00543,F050,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00544,F050,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00545,F050,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00546,F050,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00547,F050,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00548,F050,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00549,F051,S011,SUPPORTED_BY,S011,Source provenance
+E00550,F051,P097,ATTRIBUTED_TO,,Representative author
+E00551,F051,P098,ATTRIBUTED_TO,,Representative author
+E00552,F051,P099,ATTRIBUTED_TO,,Representative author
+E00553,F051,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00554,F051,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00555,F051,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00556,F051,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00557,F051,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00558,F051,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00559,F051,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00560,F051,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00561,F051,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00562,F051,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00563,F052,S023,SUPPORTED_BY,S023,Source provenance
+E00564,F052,I027,ASSOCIATED_WITH,,Representative institution/program
+E00565,F052,I008,ASSOCIATED_WITH,,Representative institution/program
+E00566,F052,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00567,F052,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00568,F052,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00569,F052,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00570,F052,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00571,F053,S039,SUPPORTED_BY,S039,Source provenance
+E00572,F053,P100,ATTRIBUTED_TO,,Representative author
+E00573,F053,I008,ASSOCIATED_WITH,,Representative institution/program
+E00574,F053,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00575,F053,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00576,F053,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00577,F053,T025,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00578,F053,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00579,F053,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00580,F053,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00581,F054,S040,SUPPORTED_BY,S040,Source provenance
+E00582,F054,P101,ATTRIBUTED_TO,,Representative author
+E00583,F054,P102,ATTRIBUTED_TO,,Representative author
+E00584,F054,I008,ASSOCIATED_WITH,,Representative institution/program
+E00585,F054,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00586,F054,T048,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00587,F054,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00588,F054,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00589,F054,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00590,F055,S041,SUPPORTED_BY,S041,Source provenance
+E00591,F055,P103,ATTRIBUTED_TO,,Representative author
+E00592,F055,P104,ATTRIBUTED_TO,,Representative author
+E00593,F055,P100,ATTRIBUTED_TO,,Representative author
+E00594,F055,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00595,F055,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00596,F055,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00597,F055,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00598,F055,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00599,F055,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00600,F056,S017,SUPPORTED_BY,S017,Source provenance
+E00601,F056,P039,ATTRIBUTED_TO,,Representative author
+E00602,F056,I014,ASSOCIATED_WITH,,Representative institution/program
+E00603,F056,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00604,F056,T015,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00605,F056,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00606,F056,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00607,F056,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00608,F057,S042,SUPPORTED_BY,S042,Source provenance
+E00609,F057,P105,ATTRIBUTED_TO,,Representative author
+E00610,F057,P106,ATTRIBUTED_TO,,Representative author
+E00611,F057,P107,ATTRIBUTED_TO,,Representative author
+E00612,F057,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00613,F057,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00614,F057,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00615,F058,S043,SUPPORTED_BY,S043,Source provenance
+E00616,F058,P106,ATTRIBUTED_TO,,Representative author
+E00617,F058,P108,ATTRIBUTED_TO,,Representative author
+E00618,F058,P109,ATTRIBUTED_TO,,Representative author
+E00619,F058,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00620,F058,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00621,F058,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00622,F059,S044,SUPPORTED_BY,S044,Source provenance
+E00623,F059,P110,ATTRIBUTED_TO,,Representative author
+E00624,F059,P111,ATTRIBUTED_TO,,Representative author
+E00625,F059,P112,ATTRIBUTED_TO,,Representative author
+E00626,F059,P113,ATTRIBUTED_TO,,Representative author
+E00627,F059,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00628,F059,T074,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00629,F059,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00630,F059,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00631,F059,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00632,F060,S045,SUPPORTED_BY,S045,Source provenance
+E00633,F060,P114,ATTRIBUTED_TO,,Representative author
+E00634,F060,P115,ATTRIBUTED_TO,,Representative author
+E00635,F060,P116,ATTRIBUTED_TO,,Representative author
+E00636,F060,I028,ASSOCIATED_WITH,,Representative institution/program
+E00637,F060,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00638,F060,T015,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00639,F060,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00640,F060,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00641,F060,M126,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00642,F061,S046,SUPPORTED_BY,S046,Source provenance
+E00643,F061,P117,ATTRIBUTED_TO,,Representative author
+E00644,F061,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00645,F061,T074,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00646,F061,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00647,F061,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00648,F061,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00649,F062,S047,SUPPORTED_BY,S047,Source provenance
+E00650,F062,P118,ATTRIBUTED_TO,,Representative author
+E00651,F062,I029,ASSOCIATED_WITH,,Representative institution/program
+E00652,F062,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00653,F062,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00654,F062,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00655,F062,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00656,F062,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00657,F062,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00658,F062,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00659,F062,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00660,F063,S048,SUPPORTED_BY,S048,Source provenance
+E00661,F063,P119,ATTRIBUTED_TO,,Representative author
+E00662,F063,I030,ASSOCIATED_WITH,,Representative institution/program
+E00663,F063,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00664,F063,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00665,F063,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00666,F063,T058,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00667,F063,T059,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00668,F063,T060,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00669,F063,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00670,F063,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00671,F063,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00672,F063,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00673,F064,S010,SUPPORTED_BY,S010,Source provenance
+E00674,F064,P015,ATTRIBUTED_TO,,Representative author
+E00675,F064,P120,ATTRIBUTED_TO,,Representative author
+E00676,F064,I008,ASSOCIATED_WITH,,Representative institution/program
+E00677,F064,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00678,F064,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00679,F064,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00680,F064,T070,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00681,F064,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00682,F064,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00683,F065,S049,SUPPORTED_BY,S049,Source provenance
+E00684,F065,P121,ATTRIBUTED_TO,,Representative author
+E00685,F065,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00686,F065,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00687,F065,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00688,F065,T070,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00689,F065,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00690,F065,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00691,F066,S050,SUPPORTED_BY,S050,Source provenance
+E00692,F066,P122,ATTRIBUTED_TO,,Representative author
+E00693,F066,P123,ATTRIBUTED_TO,,Representative author
+E00694,F066,P124,ATTRIBUTED_TO,,Representative author
+E00695,F066,I031,ASSOCIATED_WITH,,Representative institution/program
+E00696,F066,T031,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00697,F066,T032,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00698,F066,T033,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00699,F066,T034,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00700,F066,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00701,F066,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00702,F066,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00703,F066,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00704,F066,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00705,F066,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00706,F067,S051,SUPPORTED_BY,S051,Source provenance
+E00707,F067,P125,ATTRIBUTED_TO,,Representative author
+E00708,F067,P126,ATTRIBUTED_TO,,Representative author
+E00709,F067,P127,ATTRIBUTED_TO,,Representative author
+E00710,F067,P128,ATTRIBUTED_TO,,Representative author
+E00711,F067,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00712,F067,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00713,F067,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00714,F067,T070,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00715,F067,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00716,F067,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00717,F068,S052,SUPPORTED_BY,S052,Source provenance
+E00718,F068,P129,ATTRIBUTED_TO,,Representative author
+E00719,F068,P130,ATTRIBUTED_TO,,Representative author
+E00720,F068,P131,ATTRIBUTED_TO,,Representative author
+E00721,F068,P132,ATTRIBUTED_TO,,Representative author
+E00722,F068,P133,ATTRIBUTED_TO,,Representative author
+E00723,F068,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00724,F068,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00725,F068,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00726,F068,T070,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00727,F068,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00728,F068,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00729,F069,S053,SUPPORTED_BY,S053,Source provenance
+E00730,F069,P134,ATTRIBUTED_TO,,Representative author
+E00731,F069,P135,ATTRIBUTED_TO,,Representative author
+E00732,F069,P136,ATTRIBUTED_TO,,Representative author
+E00733,F069,P137,ATTRIBUTED_TO,,Representative author
+E00734,F069,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00735,F069,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00736,F069,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00737,F069,T070,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00738,F069,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00739,F069,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00740,F070,S054,SUPPORTED_BY,S054,Source provenance
+E00741,F070,P138,ATTRIBUTED_TO,,Representative author
+E00742,F070,I032,ASSOCIATED_WITH,,Representative institution/program
+E00743,F070,T061,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00744,F070,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00745,F070,T064,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00746,F070,T070,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00747,F070,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00748,F070,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00749,F071,S055,SUPPORTED_BY,S055,Source provenance
+E00750,F071,P139,ATTRIBUTED_TO,,Representative author
+E00751,F071,P140,ATTRIBUTED_TO,,Representative author
+E00752,F071,P141,ATTRIBUTED_TO,,Representative author
+E00753,F071,P142,ATTRIBUTED_TO,,Representative author
+E00754,F071,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00755,F071,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00756,F071,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00757,F071,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00758,F071,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00759,F071,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00760,F071,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00761,F071,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00762,F072,S056,SUPPORTED_BY,S056,Source provenance
+E00763,F072,P143,ATTRIBUTED_TO,,Representative author
+E00764,F072,P144,ATTRIBUTED_TO,,Representative author
+E00765,F072,P145,ATTRIBUTED_TO,,Representative author
+E00766,F072,P146,ATTRIBUTED_TO,,Representative author
+E00767,F072,P147,ATTRIBUTED_TO,,Representative author
+E00768,F072,P148,ATTRIBUTED_TO,,Representative author
+E00769,F072,T074,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00770,F072,T075,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00771,F072,T076,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00772,F072,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00773,F072,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00774,F072,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00775,F072,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00776,F072,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00777,F072,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00778,F073,S057,SUPPORTED_BY,S057,Source provenance
+E00779,F073,P149,ATTRIBUTED_TO,,Representative author
+E00780,F073,I033,ASSOCIATED_WITH,,Representative institution/program
+E00781,F073,T048,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00782,F073,T063,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00783,F073,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00784,F073,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00785,F073,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00786,F073,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00787,F074,S058,SUPPORTED_BY,S058,Source provenance
+E00788,F074,P150,ATTRIBUTED_TO,,Representative author
+E00789,F074,I034,ASSOCIATED_WITH,,Representative institution/program
+E00790,F074,T077,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00791,F074,T079,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00792,F074,T080,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00793,F074,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00794,F074,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00795,F075,S015,SUPPORTED_BY,S015,Source provenance
+E00796,F075,P151,ATTRIBUTED_TO,,Representative author
+E00797,F075,I035,ASSOCIATED_WITH,,Representative institution/program
+E00798,F075,T074,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00799,F075,T075,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00800,F075,T076,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00801,F075,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00802,F075,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00803,F075,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00804,F076,S059,SUPPORTED_BY,S059,Source provenance
+E00805,F076,P152,ATTRIBUTED_TO,,Representative author
+E00806,F076,P153,ATTRIBUTED_TO,,Representative author
+E00807,F076,P154,ATTRIBUTED_TO,,Representative author
+E00808,F076,T074,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00809,F076,T075,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00810,F076,T076,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00811,F076,M135,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00812,F076,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00813,F077,S060,SUPPORTED_BY,S060,Source provenance
+E00814,F077,P155,ATTRIBUTED_TO,,Representative author
+E00815,F077,P156,ATTRIBUTED_TO,,Representative author
+E00816,F077,P157,ATTRIBUTED_TO,,Representative author
+E00817,F077,I036,ASSOCIATED_WITH,,Representative institution/program
+E00818,F077,T078,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00819,F077,M034,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00820,F077,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00821,F078,S061,SUPPORTED_BY,S061,Source provenance
+E00822,F078,P158,ATTRIBUTED_TO,,Representative author
+E00823,F078,P159,ATTRIBUTED_TO,,Representative author
+E00824,F078,I008,ASSOCIATED_WITH,,Representative institution/program
+E00825,F078,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00826,F078,T003,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00827,F078,T019,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00828,F078,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00829,F078,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00830,F078,T054,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00831,F078,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00832,F078,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00833,F079,S062,SUPPORTED_BY,S062,Source provenance
+E00834,F079,P160,ATTRIBUTED_TO,,Representative author
+E00835,F079,P161,ATTRIBUTED_TO,,Representative author
+E00836,F079,P162,ATTRIBUTED_TO,,Representative author
+E00837,F079,I020,ASSOCIATED_WITH,,Representative institution/program
+E00838,F079,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00839,F079,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00840,F079,T054,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00841,F079,T056,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00842,F079,T057,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00843,F079,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00844,F079,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00845,F079,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00846,F079,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00847,F080,S063,SUPPORTED_BY,S063,Source provenance
+E00848,F080,P163,ATTRIBUTED_TO,,Representative author
+E00849,F080,P164,ATTRIBUTED_TO,,Representative author
+E00850,F080,P165,ATTRIBUTED_TO,,Representative author
+E00851,F080,I020,ASSOCIATED_WITH,,Representative institution/program
+E00852,F080,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00853,F080,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00854,F080,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00855,F080,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00856,F080,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00857,F080,T054,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00858,F080,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00859,F080,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00860,F081,S064,SUPPORTED_BY,S064,Source provenance
+E00861,F081,P166,ATTRIBUTED_TO,,Representative author
+E00862,F081,P167,ATTRIBUTED_TO,,Representative author
+E00863,F081,P168,ATTRIBUTED_TO,,Representative author
+E00864,F081,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00865,F081,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00866,F081,T054,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00867,F081,T056,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00868,F081,T057,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00869,F081,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00870,F082,S012,SUPPORTED_BY,S012,Source provenance
+E00871,F082,P169,ATTRIBUTED_TO,,Representative author
+E00872,F082,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00873,F082,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00874,F082,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00875,F082,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00876,F082,T051,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00877,F082,T052,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00878,F082,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00879,F082,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00880,F082,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00881,F083,S065,SUPPORTED_BY,S065,Source provenance
+E00882,F083,P170,ATTRIBUTED_TO,,Representative author
+E00883,F083,P171,ATTRIBUTED_TO,,Representative author
+E00884,F083,P172,ATTRIBUTED_TO,,Representative author
+E00885,F083,P173,ATTRIBUTED_TO,,Representative author
+E00886,F083,T058,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00887,F083,T059,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00888,F083,T060,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00889,F083,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00890,F084,S066,SUPPORTED_BY,S066,Source provenance
+E00891,F084,P174,ATTRIBUTED_TO,,Representative author
+E00892,F084,I037,ASSOCIATED_WITH,,Representative institution/program
+E00893,F084,T031,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00894,F084,T032,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00895,F084,T033,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00896,F084,T034,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00897,F084,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00898,F084,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00899,F084,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00900,F084,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00901,F085,S067,SUPPORTED_BY,S067,Source provenance
+E00902,F085,I038,ASSOCIATED_WITH,,Representative institution/program
+E00903,F085,T039,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00904,F085,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00905,F085,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00906,F085,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00907,F085,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00908,F086,S068,SUPPORTED_BY,S068,Source provenance
+E00909,F086,I039,ASSOCIATED_WITH,,Representative institution/program
+E00910,F086,T035,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00911,F086,T036,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00912,F086,T037,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00913,F086,T038,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00914,F086,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00915,F086,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00916,F086,M138,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00917,F087,S069,SUPPORTED_BY,S069,Source provenance
+E00918,F087,P175,ATTRIBUTED_TO,,Representative author
+E00919,F087,P176,ATTRIBUTED_TO,,Representative author
+E00920,F087,I040,ASSOCIATED_WITH,,Representative institution/program
+E00921,F087,I041,ASSOCIATED_WITH,,Representative institution/program
+E00922,F087,T040,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00923,F087,T093,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00924,F087,T041,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00925,F087,T042,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00926,F087,T043,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00927,F087,T049,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00928,F087,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00929,F087,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00930,F087,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00931,F087,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00932,F088,S070,SUPPORTED_BY,S070,Source provenance
+E00933,F088,I042,ASSOCIATED_WITH,,Representative institution/program
+E00934,F088,T081,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00935,F088,T082,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00936,F088,T089,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00937,F088,T090,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00938,F088,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00939,F088,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00940,F089,S071,SUPPORTED_BY,S071,Source provenance
+E00941,F089,P177,ATTRIBUTED_TO,,Representative author
+E00942,F089,I043,ASSOCIATED_WITH,,Representative institution/program
+E00943,F089,T081,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00944,F089,T082,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00945,F089,T089,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00946,F089,T090,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00947,F089,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00948,F089,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00949,F090,S072,SUPPORTED_BY,S072,Source provenance
+E00950,F090,I044,ASSOCIATED_WITH,,Representative institution/program
+E00951,F090,I045,ASSOCIATED_WITH,,Representative institution/program
+E00952,F090,T081,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00953,F090,T082,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00954,F090,T089,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00955,F090,T090,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00956,F090,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00957,F091,S073,SUPPORTED_BY,S073,Source provenance
+E00958,F091,P178,ATTRIBUTED_TO,,Representative author
+E00959,F091,P179,ATTRIBUTED_TO,,Representative author
+E00960,F091,P180,ATTRIBUTED_TO,,Representative author
+E00961,F091,T084,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00962,F091,T081,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00963,F091,T082,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00964,F091,T089,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00965,F091,T090,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00966,F091,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00967,F091,M125,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00968,F091,M140,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00969,F092,S074,SUPPORTED_BY,S074,Source provenance
+E00970,F092,P181,ATTRIBUTED_TO,,Representative author
+E00971,F092,P182,ATTRIBUTED_TO,,Representative author
+E00972,F092,I046,ASSOCIATED_WITH,,Representative institution/program
+E00973,F092,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00974,F092,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00975,F092,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00976,F092,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00977,F092,T092,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00978,F092,T098,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00979,F092,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00980,F092,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00981,F092,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00982,F092,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00983,F093,S075,SUPPORTED_BY,S075,Source provenance
+E00984,F093,I047,ASSOCIATED_WITH,,Representative institution/program
+E00985,F093,I048,ASSOCIATED_WITH,,Representative institution/program
+E00986,F093,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00987,F093,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00988,F093,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00989,F093,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E00990,F093,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00991,F093,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00992,F093,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00993,F093,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00994,F093,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E00995,F094,S007,SUPPORTED_BY,S007,Source provenance
+E00996,F094,P013,ATTRIBUTED_TO,,Representative author
+E00997,F094,P014,ATTRIBUTED_TO,,Representative author
+E00998,F094,I049,ASSOCIATED_WITH,,Representative institution/program
+E00999,F094,T021,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01000,F094,T022,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01001,F094,T023,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01002,F094,T024,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01003,F094,T095,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01004,F094,T098,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01005,F094,M134,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01006,F094,M144,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01007,F094,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01008,F094,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01009,F094,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01010,F094,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01011,F095,S076,SUPPORTED_BY,S076,Source provenance
+E01012,F095,I050,ASSOCIATED_WITH,,Representative institution/program
+E01013,F095,T035,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01014,F095,T036,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01015,F095,T037,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01016,F095,T038,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01017,F095,T041,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01018,F095,T042,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01019,F095,M075,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01020,F095,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01021,F095,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01022,F095,M147,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01023,F096,S021,SUPPORTED_BY,S021,Source provenance
+E01024,F096,P047,ATTRIBUTED_TO,,Representative author
+E01025,F096,P048,ATTRIBUTED_TO,,Representative author
+E01026,F096,P049,ATTRIBUTED_TO,,Representative author
+E01027,F096,I017,ASSOCIATED_WITH,,Representative institution/program
+E01028,F096,T091,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01029,F096,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01030,F096,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01031,F096,M088,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01032,F096,M137,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01033,F096,M143,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01034,F096,M105,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01035,F097,S013,SUPPORTED_BY,S013,Source provenance
+E01036,F097,I010,ASSOCIATED_WITH,,Representative institution/program
+E01037,F097,I051,ASSOCIATED_WITH,,Representative institution/program
+E01038,F097,T002,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01039,F097,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01040,F097,M133,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01041,F097,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01042,F097,M039,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01043,F097,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01044,F098,S014,SUPPORTED_BY,S014,Source provenance
+E01045,F098,I052,ASSOCIATED_WITH,,Representative institution/program
+E01046,F098,T001,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01047,F098,T010,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01048,F098,T020,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01049,F098,M039,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01050,F098,M136,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01051,F099,S077,SUPPORTED_BY,S077,Source provenance
+E01052,F099,P183,ATTRIBUTED_TO,,Representative author
+E01053,F099,P184,ATTRIBUTED_TO,,Representative author
+E01054,F099,P185,ATTRIBUTED_TO,,Representative author
+E01055,F099,I053,ASSOCIATED_WITH,,Representative institution/program
+E01056,F099,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01057,F099,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01058,F099,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01059,F099,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01060,F099,M128,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01061,F099,M141,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01062,F100,S078,SUPPORTED_BY,S078,Source provenance
+E01063,F100,S079,SUPPORTED_BY,S079,Source provenance
+E01064,F100,S080,SUPPORTED_BY,S080,Source provenance
+E01065,F100,I054,ASSOCIATED_WITH,,Representative institution/program
+E01066,F100,I055,ASSOCIATED_WITH,,Representative institution/program
+E01067,F100,T011,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01068,F100,T012,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01069,F100,T013,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01070,F100,T014,MAPS_TO_TECHNOLOGY,,Rule-based semantic mapping from canonical concept/connection
+E01071,F100,M150,CONTRIBUTES_TO_MEGAPROJECT,,Rule-based mapping to civilization megaproject layer
+E01072,F003,F051,COMBINES_WITH,README_CANON,autonomous theory-to-experiment science
+E01073,F052,F084,COMBINES_WITH,README_CANON,machine optimization of physical energy systems
+E01074,F078,F051,ENABLES,README_CANON,computational material proposal to robotic synthesis
+E01075,F079,F080,COMBINES_WITH,README_CANON,generate and simulate materials
+E01076,F080,F051,COMBINES_WITH,README_CANON,simulate to synthesize and measure
+E01077,F064,F067,COMBINES_WITH,README_CANON,genome modeling to intervention
+E01078,F064,F068,COMBINES_WITH,README_CANON,genome modeling to base editing
+E01079,F064,F069,COMBINES_WITH,README_CANON,genome modeling to prime editing
+E01080,F043,F046,COMBINES_WITH,README_CANON,robot foundation model stack
+E01081,F046,F041,COMBINES_WITH,README_CANON,cross-embodiment robotics
+E01082,F092,F093,COMBINES_WITH,README_CANON,ISAM plus large-structure manufacturing
+E01083,F093,F095,REQUIRES,README_CANON,space manufacturing enabled by durable surface power
+E01084,F099,F100,COMBINES_WITH,README_CANON,machine payments plus auditable delegated commerce
+E01085,F100,F022,ENABLES,README_CANON,economic interaction for persistent agents
+E01086,F097,F098,ENABLES,README_CANON,planetary representation feeding Earth digital twins
+E01087,F098,F016,ENABLES,README_CANON,digital twin feeding Earth OS synthesis
+E01088,F029,F052,ENABLED_BY,README_CANON,algorithm evolution as Technology Breeder precursor
+E01089,F029,F053,ENABLED_BY,README_CANON,LLM-guided discovery as Technology Breeder precursor
+E01090,F029,F004,ENABLED_BY,README_CANON,autonomous science as Technology Breeder precursor
