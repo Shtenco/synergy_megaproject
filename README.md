@@ -1,2850 +1,2719 @@
-# SINERGY MEGAPROJECT
+# SINERGY MEGAPROJECT — ЦИВИЛИЗАЦИОННЫЕ МЕГАПРОЕКТЫ, ФРОНТИРНЫЕ ИДЕИ И ГРАФ БУДУЩЕГО
 
-> **SINERGY Civilization OS / Civilization Graph / Technology Breeder**
->
-> Living documentation for the megaproject and frontier-technology branch of the SINERGY ecosystem.
-
-## 0. Purpose
-
-This repository is the canonical documentation home for the SINERGY megaproject program.
-
-The project does **not** treat megaprojects as a flat list of futuristic ideas. Its goal is to build a structured civilization-scale knowledge graph that connects:
-
-- historical Russian megaproject traditions;
-- infrastructure and industrial systems;
-- energy and compute;
-- AI, agents and autonomous science;
-- robotics and self-expanding industry;
-- advanced materials and biotechnology;
-- cities, logistics, Arctic and Eurasian infrastructure;
-- space and lunar industry;
-- capital, settlement, governance and risk;
-- authors, institutions, ideas, technologies and projects;
-- an automated **Technology Breeder** that searches for useful combinations between them.
-
-The working meta-formula is:
-
-**SINERGY = Capital × Energy × Intelligence × Matter × Biology × Space × Network**
-
-The multiplication sign is intentional: the thesis is that civilization-scale capability emerges from interacting subsystems, not from one isolated technology.
+> **Главная русскоязычная документация ветки SINERGY, посвящённой мегапроектам, технологиям будущего, фронтирным научным идеям, цивилизационным контурам и машинно-читаемому графу знаний.**
 
 ---
 
-## 1. Epistemic rule
+## 0. Что это за репозиторий
 
-This repository intentionally combines several different kinds of entities. They must never be silently mixed.
+`Shtenco/synergy_megaproject` — центральный репозиторий цивилизационной ветки SINERGY.
 
-Every node should eventually carry one of these labels:
+Его задача — не хранить очередной список «красивых технологий будущего», а собрать **единый граф развития цивилизационных возможностей**:
 
-- **HISTORICAL** — documented historical idea/project;
-- **REALIZED** — substantially implemented;
-- **ACTIVE_PROGRAM** — currently pursued by states, companies or institutions;
-- **EMERGING** — active R&D / early deployment;
-- **EXPERIMENTAL** — demonstrated partially or at laboratory scale;
-- **CONCEPTUAL** — coherent design without full implementation;
-- **HYPOTHETICAL** — extrapolated but not demonstrated;
-- **UTOPIAN / FAR-FUTURE** — highly speculative;
-- **SINERGY_SYNTHESIS** — a new combination produced inside this project.
+- от русской инженерной, космической, энергетической и ноосферной традиции;
+- через реальные исторические мегапроекты;
+- к современным ИИ, робототехнике, автономной науке, материалам, биотехнологиям, квантовым вычислениям и космической индустрии;
+- далее — к новым системным комбинациям, которые SINERGY может обнаруживать автоматически;
+- и в конечном итоге — к **машинно-читаемой операционной модели цивилизационного развития**.
 
-A forum discussion or prediction is a signal of intellectual interest, **not evidence of feasibility**.
+Главная рабочая формула проекта:
 
----
+# **SINERGY = Капитал × Энергия × Интеллект × Материя × Биология × Космос × Сеть**
 
-# PART I — THE 150-NODE MEGAPROJECT GENOME
+Знак умножения выбран намеренно. Идея проекта состоит в том, что большие цивилизационные возможности возникают не из одной «чудо-технологии», а из **замкнутых усиливающих контуров между разными слоями**.
 
-The original megaproject map is best understood as **135 historical/strategic nodes + 15 synthetic future megaprojects = 150 nodes**.
+Пример:
 
-## 2. Branch 01 — Russia as a system
-
-1. Russian space as a unified economic organism  
-2. Mendeleev-style rationalization of resources  
-3. Development of productive forces in the East  
-4. Ural–Siberian industrial belt  
-5. Great Siberia  
-6. Far East as the Pacific facade  
-7. Arctic as a new frontier  
-8. Russia as continental infrastructure  
-9. Russia as a bridge of civilizations  
-10. Russia as an independent civilizational pole  
-
-## 3. Branch 02 — Fedorov / radical cosmism
-
-11. Common Cause  
-12. Active evolution  
-13. Regulation of nature  
-14. Management of climate processes  
-15. Victory over death  
-16. Resurrection of ancestors  
-17. Cosmic settlement of humanity  
-18. Humanity as a single subject  
-19. Earth as the launchpad of civilization  
-20. Immortal civilization  
-
-## 4. Branch 03 — Tsiolkovsky / Earth → Space
-
-21. Rocket propulsion  
-22. Multistage rocket  
-23. Space station  
-24. Orbital settlements  
-25. Space cities  
-26. Planetary expansion  
-27. Solar System as an economic space  
-28. Space industry  
-29. Solar energy in space  
-30. Multi-stage development of civilization  
-
-## 5. Branch 04 — Vernadsky / Noosphere
-
-31. Biosphere as a global system  
-32. Living matter as a geological force  
-33. Humanity as a geological factor  
-34. Noosphere  
-35. Science as a planetary force  
-36. Management of biogeochemical flows  
-37. Closing material cycles  
-38. Rational transformation of the biosphere  
-39. Planetary Earth monitoring  
-40. Global Earth knowledge system  
-
-## 6. Branch 05 — Chizhevsky / biocosmic line
-
-41. Solar activity and biological processes  
-42. Cosmic factors of life cycles  
-43. Heliobiology  
-44. Space medicine  
-45. Monitoring the influence of the space environment on humans  
-
-## 7. Branch 06 — Mendeleev / industrial Russia
-
-46. Periodic system as a foundation for materials science  
-47. Systemic management of natural resources  
-48. Oil industry  
-49. Petrochemical complex  
-50. Siberian resource-industrial base  
-51. Urals as a metallurgical core  
-52. Raw materials → energy → transport → industry  
-53. Scientific organization of industry  
-54. State statistical planning  
-55. Industrial Russia  
-
-## 8. Branch 07 — GOELRO as a megaproject operating system
-
-56. GOELRO  
-57. Regional power systems  
-58. Unified energy system  
-59. Electrification of transport  
-60. Electrification of industry  
-61. Electrification of agriculture  
-62. Energy as the foundation of modernization  
-63. Energy + industry + transport  
-64. Territorial development planning  
-65. Unified economic organism  
-
-Core lesson:
-
-**Do not build a power plant. Build an energy → transport → industry → cities → science → economy feedback system.**
-
-Modernized analogy:
-
-**energy → compute → AI → robots → production → cities → space**
-
-## 9. Branch 08 — Soviet industrial machine
-
-66. Five-year planning  
-67. Ural–Kuznetsk combine  
-68. Magnitogorsk industrial complex  
-69. Kuzbass  
-70. Dnieper energy complex  
-71. DneproGES  
-72. Volga–Kama energy cascade  
-73. Angara–Yenisei energy complex  
-74. Kansk–Achinsk fuel and energy complex  
-75. Territorial-production complexes  
-
-## 10. Branch 09 — Transformation of Siberia
-
-76. Trans-Siberian Railway  
-77. BAM  
-78. Eastern railway polygon  
-79. Angara–Yenisei industrial hub  
-80. Krasnoyarsk industrial belt  
-81. Novosibirsk scientific center  
-82. Akademgorodok  
-83. Tomsk scientific-technological center  
-84. Siberian nuclear complex  
-85. Siberian scientific-industrial belt  
-
-## 11. Branch 10 — Atomic civilization
-
-86. Soviet atomic project  
-87. Peaceful atom  
-88. Nuclear power  
-89. Closed nuclear fuel cycle  
-90. Fast reactors  
-91. Small modular nuclear power  
-92. Nuclear icebreakers  
-93. Nuclear Arctic  
-94. Nuclear power for remote territories  
-95. Nuclear energy as a foundation for industrial development  
-
-## 12. Branch 11 — Space supersystem
-
-96. Satellite navigation  
-97. Satellite communications  
-98. Earth remote sensing  
-99. Human spaceflight  
-100. Orbital stations  
-101. Vostochny Cosmodrome  
-102. Multi-satellite constellations  
-103. Russian orbital station  
-104. Serial satellite manufacturing  
-105. Space industrial infrastructure  
-
-## 13. Branch 12 — Arctic megatechnology
-
-106. Northern Sea Route  
-107. Year-round Arctic navigation  
-108. Nuclear icebreaker fleet  
-109. Arctic ports  
-110. Arctic airfields  
-111. Arctic cities  
-112. Arctic energy complexes  
-113. Underwater Arctic infrastructure  
-114. Arctic satellite network  
-115. Arctic industrial belt  
-
-## 14. Branch 13 — Greater Eurasia
-
-116. EAEU  
-117. Eurasian economic path  
-118. Greater Eurasian Partnership  
-119. North–South corridor  
-120. Eastern transport corridor  
-121. Russia–Kazakhstan–China  
-122. Russia–Iran–India  
-123. Eurasian railway network  
-124. Eurasian energy corridors  
-125. Eurasian digital space  
-
-## 15. Branch 14 — Digital Russia
-
-126. Electronic state  
-127. Digital public services  
-128. Digital ruble  
-129. National payment infrastructure  
-130. National cloud computing  
-131. Sovereign digital infrastructure  
-132. National data system  
-133. National AI  
-134. Industrial robotization  
-135. Human–machine economy  
-
----
-
-# PART II — 15 SYNTHETIC FUTURE MEGAPROJECTS
-
-These are **SINERGY syntheses**, not claims that such official programs already exist.
-
-136. **NOOSPHERE-1** — real-time Digital Earth from satellites, sensors, climate, oceans, agriculture, energy and AI.  
-137. **GOELRO-2** — intelligent Eurasian energy system managed by AI across nuclear, hydro, gas, wind, solar and storage.  
-138. **SIBERIAN MANHATTAN** — a Siberian megaregion linked by high-speed transport, AI, nuclear energy, universities, robotics and biotech.  
-139. **ARCTIC DIGITAL CONTINENT** — Northern Sea Route + autonomous ships + satellite AI + drones + robotic ports + nuclear energy nodes.  
-140. **EURASIAN ECONOMIC INTERNET** — unified identity, payments, customs, logistics, certificates, contracts and documents across physical corridors.  
-141. **EURASIAN FX / CLEARING ROUTER** — distributed clearing between national currencies rather than a single common currency.  
-142. **ATOMIC NORTH** — microreactors + autonomous settlements + robotic mining + AI.  
-143. **SIBERIAN AI-ENERGY COMPLEX** — electricity → data centers → AI → export of compute/inference/scientific computing.  
-144. **ROBOSIBERIA** — highly autonomous industrial belt using mining, construction, maintenance and factory robotics.  
-145. **EURASIAN TRANSPORT NETWORK 4.0** — NSR + North–South + Trans-Sib + BAM + Caspian + China corridor under one AI logistics layer.  
-146. **RUSSIAN SPACE INTERNET / ORBITAL INFRASTRUCTURE** — communication + navigation + Earth observation + weather + transport + agriculture + geology + Arctic monitoring.  
-147. **LUNAR INDUSTRIAL BELT** — Moon as science, energy, resources and industrial infrastructure node.  
-148. **ORBITAL ENERGY** — large-scale space solar energy as a planetary energy layer.  
-149. **IMMORTAL LIBRARY** — preservation of voice, knowledge, biography, works and cognitive patterns as long-lived digital agents/models.  
-150. **FULL CIVILIZATION / CIVILIZATION STACK** — integrated matter, energy, space, information, intelligence, production, biosphere, space industry and noosphere.
-
----
-
-# PART III — 100 TECHNOLOGIES OF THE FUTURE
-
-## 16. AI / Intelligence
-
-1. World Models  
-2. Autonomous Scientific AI  
-3. AI Scientists  
-4. AI Engineers  
-5. Full-cycle AI programmers  
-6. Recursive AI R&D  
-7. Causal AI  
-8. Neuro-symbolic AI  
-9. Collective AI  
-10. Civilization-scale AI simulation  
-
-## 17. Agentic / autonomous systems
-
-11. AI Agents 2.0  
-12. Multi-agent economies  
-13. Agent-to-agent commerce  
-14. Machine organizations  
-15. AI governance engines  
-16. Autonomous infrastructure management  
-17. Self-healing software  
-18. Self-designing algorithms  
-19. Machine science networks  
-20. Civilization Digital Twin  
-
-## 18. Robotics
-
-21. Humanoid robots  
-22. General-purpose industrial robots  
-23. Robot foundation models  
-24. Swarm robotics  
-25. Autonomous construction robots  
-26. Autonomous mining  
-27. Autonomous agriculture  
-28. Autonomous underwater robots  
-29. Arctic robots  
-30. Self-replicating robotic factories  
-
-## 19. Energy
-
-31. Commercial fusion  
-32. Compact fusion reactors  
-33. Next-generation stellarators  
-34. Fusion–fission hybrids  
-35. Small Modular Reactors  
-36. Microreactors  
-37. Fast-spectrum reactors  
-38. Closed nuclear fuel cycle  
-39. Superhot-rock geothermal  
-40. Space-based solar power  
-
-## 20. Energy grids 2.0
-
-41. Everything-to-grid  
-42. AI Grid  
-43. Virtual Power Plants  
-44. Superconducting power grids  
-45. DC megagrids  
-46. Eurasian supergrid  
-47. Nuclear-powered data centers  
-48. Compute-to-energy optimization  
-49. Energy Internet  
-50. Autonomous energy islands  
-
-## 21. Advanced materials
-
-51. AI-designed materials  
-52. Metamaterials  
-53. Programmable matter  
-54. Self-healing materials  
-55. Room-temperature superconductors — far-frontier / unproven as a general technology  
-56. 2D materials  
-57. Ultra-high-performance composites  
-58. Molecular manufacturing  
-59. Nanomachines  
-60. Atomically precise manufacturing  
-
-## 22. Biotechnology
-
-61. Programmable cells  
-62. Engineered living therapeutics  
-63. AI-designed proteins  
-64. Synthetic organisms  
-65. Synthetic food  
-66. Precision fermentation  
-67. Cellular agriculture  
-68. Xenotransplantation  
-69. Personalized mRNA vaccines  
-70. AI-designed drugs  
-
-## 23. Medicine 2.0
-
-71. Digital twins of patients  
-72. AI clinical systems / AI doctors  
-73. Robotic microsurgery  
-74. Brain–computer interfaces  
-75. Neural prosthetics  
-76. Brain-to-brain interfaces — hypothetical frontier  
-77. Regenerative medicine  
-78. Organ bioprinting  
-79. Cellular reprogramming  
-80. Longevity engineering  
-
-## 24. Quantum world
-
-81. Fault-tolerant quantum computers  
-82. Quantum simulation  
-83. Quantum networks  
-84. Quantum internet  
-85. Quantum sensors  
-86. Quantum navigation  
-87. Quantum cryptography  
-88. Post-quantum cryptography  
-89. Quantum machine learning  
-90. Quantum chemistry engines  
-
-## 25. Space
-
-91. Space-based data centers  
-92. Orbital manufacturing  
-93. Space solar power  
-94. Lunar resource extraction  
-95. Lunar industrial bases  
-96. Asteroid mining  
-97. Orbital fuel depots  
-98. Autonomous space robotics  
-99. Active orbital debris removal  
-100. Self-expanding space industry  
-
----
-
-# PART IV — CONVERGENCE: WHERE THE REAL PROJECT STARTS
-
-The strongest thesis of SINERGY is that civilization-scale breakthroughs increasingly appear at the **intersection** of domains.
-
-Examples:
-
-- AI + Robotics + Siberia → Autonomous Siberian Industry
-- Nuclear + AI + Data Centers → Atomic Compute Belt
-- NSR + Autonomous Ships + Satellite AI → Autonomous Northern Sea Route
-- Moon + Robotics + AI + Additive Manufacturing → Self-building lunar base
-- AI + Quantum + Materials + Robotics → Autonomous Materials Discovery Factory
-- AI + Synthetic Biology → Programmable Biology
-- Digital Twin + AI + Economy → Civilization Simulator
-- Space Solar + Supergrid → Orbital Energy System
-- Self-healing Materials + Robots → Self-repairing Infrastructure
-- World Models + Robotics → Physical AI
-- BCI + AI → Cognitive Interface
-- Biotech + Longevity + AI → Aging Engineering
-- AI + Capital + Energy + Industry → Autonomous Capital–Energy–Industry System
-
----
-
-# PART V — 15 CORE CLUSTERS OF SINERGY
-
-1. **SINERGY CAPITAL** — capital, markets, settlement, risk, insurance, tokenization, collateral  
-2. **SINERGY AI** — LLMs, agents, world models, causal AI, scientific AI  
-3. **SINERGY COMPUTE** — CPU, GPU, ASIC, edge, optical, neuromorphic, quantum  
-4. **SINERGY ENERGY** — nuclear, fusion, storage, grids, geothermal, renewables  
-5. **SINERGY ROBOTICS** — robots, drones, autonomous vehicles, swarms  
-6. **SINERGY MATTER** — materials, nanotech, molecular and advanced manufacturing  
-7. **SINERGY BIO** — DNA, proteins, cells, medicine, longevity, synthetic biology  
-8. **SINERGY CITIES** — cyberphysical urban infrastructure  
-9. **SINERGY MOBILITY** — rail, ships, road, drones, logistics  
-10. **SINERGY ARCTIC** — NSR, ports, energy, mining, communications, autonomy  
-11. **SINERGY EURASIA** — trade, transport, finance, data, industrial corridors  
-12. **SINERGY SPACE** — satellites, orbit, Moon, resources, industry  
-13. **SINERGY EARTH** — biosphere, climate, Digital Earth, planetary sensors  
-14. **SINERGY HUMAN** — cognition, education, BCI, memory, human–AI systems  
-15. **SINERGY GOVERNANCE** — identity, rules, policy, audit, simulation, safety  
-
-These are **not 15 independent companies**. One cluster must become an input or customer of another.
-
----
-
-# PART VI — SINERGY CIVILIZATION OS
-
-Canonical layer model:
-
-- **Layer 0 — HUMAN**: person, education, cognition, BCI  
-- **Layer 1 — KNOWLEDGE**: science, knowledge graphs, scientific AI  
-- **Layer 2 — AI**: agents, world models, causal AI  
-- **Layer 3 — COMPUTE**: CPU/GPU/ASIC/quantum/edge  
-- **Layer 4 — ENERGY**: nuclear/fusion/storage/grid  
-- **Layer 5 — MATTER**: materials/nano/manufacturing  
-- **Layer 6 — BIO**: cells/DNA/proteins/medicine  
-- **Layer 7 — ROBOTICS**: robots/drones/autonomous systems  
-- **Layer 8 — INDUSTRY**: autonomous factories and production networks  
-- **Layer 9 — CITIES**: cyberphysical infrastructure  
-- **Layer 10 — MOBILITY**: autonomous logistics  
-- **Layer 11 — EARTH**: Digital Earth / planetary sensing  
-- **Layer 12 — EURASIA**: infrastructural network  
-- **Layer 13 — ARCTIC**: industrial frontier  
-- **Layer 14 — SPACE**: orbit / Moon / space industry  
-- **Layer 15 — CAPITAL**: financing, markets, settlement, risk  
-- **Layer 16 — GOVERNANCE**: rules, identity, safety, audit, simulation  
-- **Layer 17 — SINERGY ENGINE**: generation, scoring and validation of new combinations  
-
-Civilization metaphor:
-
-- Capital = blood
-- AI = nervous system
-- Energy = metabolism
-- Robotics = muscles
-- Infrastructure = skeleton
-- Data = memory
-- Science = mechanism of cognition
-- Human = subject
-
----
-
-# PART VII — 20 ORIGINAL SINERGY TECHNOLOGY SYNTHeses
-
-These are project-native hypotheses generated from the graph.
-
-**S1 — Civilization Digital Twin**  
-Digital twin of economy + energy + transport + production + population + ecology.
-
-**S2 — AI Civilization Simulator**  
-Generate and compare thousands of possible futures before committing real capital and infrastructure.
-
-**S3 — Autonomous Macroeconomy**  
-AI optimization across capital, energy, logistics, production and inventories under human/legal constraints.
-
-**S4 — Compute Currency**  
-A hypothetical economic unit tied to compute-hours / useful computation rather than a proposal to replace national currencies.
-
-**S5 — Energy–Compute Exchange**  
-Dynamic market for kWh ↔ compute, including geographical migration of workloads.
-
-**S6 — Autonomous Factory Network**  
-Factories that coordinate supply, production, maintenance and reconfiguration as a network.
-
-**S7 — Self-Expanding Industry**  
-Industrial systems that manufacture the equipment required to expand their own productive capacity.
-
-**S8 — AI Material Evolution**  
-AI candidate generation → simulation → robotic synthesis → testing → next generation.
-
-**S9 — Biological Cloud**  
-Distributed, digitally orchestrated bioreactors and biological production nodes.
-
-**S10 — Robotic Biosphere**  
-Robotic monitoring and intervention across forests, soils, oceans, glaciers, wildlife and agriculture.
-
-**S11 — Planetary Sensor Web**  
-Massive interconnected sensing across cities, oceans, industry, agriculture, atmosphere and orbit.
-
-**S12 — Earth Operating System**  
-Sensor web + digital twins + AI + simulation + constrained control systems.
-
-**S13 — Autonomous Trade Router**  
-AI selects supplier, currency, route, warehouse, insurance and customs path.
-
-**S14 — Autonomous Capital Router**  
-Capital allocation as a graph across project, risk, liquidity, return and infrastructure.
-
-**S15 — Science Graph**  
-Hypothesis → experiment → result → material → technology → product represented as a machine-readable graph.
-
-**S16 — Technology Breeding Engine**  
-Automated generation and filtering of technology combinations.
-
-**S17 — Autonomous Materials Discovery Factory**  
-AI + quantum/simulation + robotic laboratory + synthesis + feedback.
-
-**S18 — Autonomous Biological Factory**  
-AI + biological design + automated synthesis + testing + manufacturing.
-
-**S19 — Autonomous Space Industry**  
-AI + robotics + materials + local resources + orbital/lunar industry.
-
-**S20 — Autonomous Capital–Energy–Industry Loop**  
-Capital → energy → compute → AI → technology → production → revenue → capital.
-
----
-
-# PART VIII — TECHNOLOGY BREEDER / CIVILIZATION IDEA ENGINE
-
-## 26. Why a graph instead of a list
-
-With 250 initial nodes:
-
-- pairwise combinations: **31,125**
-- 3-node combinations: **2,573,000**
-- higher-order combinations: millions to billions
-
-The question is therefore not:
-
-> “Which technology is cool?”
-
-It is:
-
-> **“What useful system appears when X + Y + Z are connected, and can it create new capabilities downstream?”**
-
-## 27. Core pipeline
-
-~~~text
-SOURCE NODES
-    ↓
-KNOWLEDGE GRAPH
-    ↓
-COMBINATION ENGINE
-    ↓
-2-node / 3-node / N-node candidates
-    ↓
-NOVELTY FILTER
-    ↓
-PHYSICS / ENGINEERING FEASIBILITY
-    ↓
-ECONOMIC FEASIBILITY
-    ↓
-SYSTEM / NETWORK EFFECT MODEL
-    ↓
-RISK / GOVERNANCE FILTER
-    ↓
-SINERGY IDEA
-    ↓
-SIMULATION
-    ↓
-PROTOTYPE
-    ↓
-MEASURED EVIDENCE
-    ↓
-GRAPH UPDATE
-~~~
-
-## 28. Candidate score
-
-Initial conceptual score:
-
-**S = N × F × I × C × T × X**
-
-Where:
-
-- **N — Novelty**
-- **F — Feasibility**
-- **I — Impact**
-- **C — Complementarity**
-- **T — Technology readiness**
-- **X — Network effect / number of other nodes activated**
-
-Future versions should add explicit:
-
-- evidence quality;
-- CAPEX / OPEX;
-- energy intensity;
-- compute intensity;
-- time-to-prototype;
-- regulatory risk;
-- safety risk;
-- reversibility;
-- environmental constraints;
-- dependency depth.
-
----
-
-# PART IX — CURRENT FRONTIER GRAPH SEED
-
-The current chat/research layer has already produced **29 frontier concepts**. This is a seed, not the finished target.
-
-## 29. AI civilization
-
-1. **AI as civilization infrastructure**  
-   Authors / centers already mentioned in the research thread: Paul Christiano, David Duvenaud, Jan Kulveit, Samuel Hammond, Andrew Critch, Michael Muthukrishna, David Krueger and others.  
-   SINERGY interpretation: AI as an intelligence layer across science → industry → energy → logistics → finance → governance.
-
-2. **AI Civilization Simulator / World-Model Civilization Layer**  
-   Related names already mentioned: Terence Tao, Mark Chen in discussions around world models.  
-   SINERGY interpretation: simulate economy + population + energy + transport + production + resources + ecology + science.
-
-## 30. Autonomous science
-
-3. **Autonomous Science**  
-   Names already mentioned: Rick Stevens, Gabriel Manso, Adam Goff, Neil Thompson, Rus Hemley and others.
-
-4. **Autonomous Scientist**  
-   Hypothesis → simulation → experiment → observation → theory → next hypothesis.
-
-5. **Science Graph**  
-   Scientific knowledge represented as causal/operational links from theory to economic and technological outcomes.
-
-## 31. AI × physical world
-
-6. **Agent → Robot → Factory**  
-   AI research → coding → robotics → physical experiments → manufacturing → more robots.
-
-7. **Autonomous Factory**  
-   AI coordinates mining → metallurgy → components → robots → factories → logistics → energy.
-
-8. **Robot Economy**  
-   Capital can acquire productive physical agency through robots and automated manufacturing.
-
-## 32. Energy × compute
-
-9. **Energy–Compute Economy**  
-   energy → compute → intelligence → technology → production → wealth.
-
-10. **Everything-to-Grid / Every Asset ↔ Energy Network**  
-    EVs, batteries, buildings, data centers and industrial assets become bidirectional energy-network nodes.
-
-## 33. AI × biology
-
-11. **Biological World Models**  
-    Multi-level models of proteins, cells, tissues and disease processes.
-
-12. **Biological Cloud**  
-    AI-accessible models + genomic data + automated labs + fermentation + synthesis + experimental loops.
-
-## 34. Materials revolution
-
-13. **AI Material Evolution**  
-    AI + simulation/quantum + robotics + automated labs.
-
-14. **Programmable Matter / Adaptive Material Architecture**  
-    Materials whose effective behavior can be dynamically engineered or reconfigured.
-
-## 35. Planetary intelligence
-
-15. **Planetary Sensor Web**  
-    Satellites + drones + IoT + oceans + weather + industry + AI.
-
-16. **Earth Operating System**  
-    Energy + logistics + climate + agriculture + cities + satellites + economy connected through world models and constrained control.
-
-## 36. Human × machine
-
-17. **Brain–Computer Interface / Cognitive Network**  
-    human ↔ AI ↔ computer ↔ robot.
-
-18. **Digital Person**  
-    Preservation/modeling of memory, preferences, knowledge and behavioral patterns; full “mind upload” remains scientifically unproven.
-
-## 37. Post-work / governance
-
-19. **Work-Optional Civilization / Abundance Economy**  
-    Economic focus shifts from maximizing human labor hours toward access to goods, services, energy, compute and time.
-
-20. **Post-AGI Statecraft**  
-    Author line already mentioned: Samuel Hammond and participants in post-AGI civilization/governance discussions.
-
-21. **AI Constitutionalism**  
-    Explicit authority, limits, audit, human override, rights/responsibility and amendment procedures for AI-mediated systems.
-
-## 38. Multi-agent civilization
-
-22. **Agent Civilization**  
-    Persistent autonomous agents form markets, institutions, contracts, identities and long-lived coordination structures.
-
-## 39. AI × finance
-
-23. **Autonomous Capital / Capital Router**  
-    AI chooses pathways through risk, liquidity, assets, infrastructure and production while property rights and policy remain human/legal.
-
-## 40. AI × logistics
-
-24. **Autonomous Global Logistics / Planetary Supply Chain Graph**  
-    Ships + rail + trucks + warehouses + drones + robots optimized as one system.
-
-## 41. Space economy
-
-25. **Space Industrialization**  
-    Orbital manufacturing, lunar resources, propellant depots, orbital compute, autonomous mining.
-
-26. **Data Centers in Space / Space Compute Grid**  
-    Orbital compute powered by large-scale solar energy; presently frontier/hypothetical at scale.
-
-27. **Moon as Industrial Node**  
-    Moon → materials → energy → manufacturing → orbital infrastructure.
-
-28. **Self-Expanding Industrial System**  
-    Factory → robot components → robots → factories → energy infrastructure → expanded production network.
-
-## 42. Meta-frontier
-
-29. **Technology Breeder**  
-    A graph-native AI system that systematically searches combinations of AI, quantum, robotics, materials, biology, energy, space, finance and logistics and ranks them by evidence, feasibility, impact and network activation.
-
----
-
-# PART X — THE MASTER CIVILIZATION FEEDBACK LOOP
-
-The most important loop identified so far is:
-
-~~~text
-AI
+```text
+ЭНЕРГИЯ
   ↓
-SCIENCE
+ВЫЧИСЛЕНИЯ
   ↓
-TECHNOLOGY
+ИИ
   ↓
-INDUSTRY
+НАУКА
   ↓
-CAPITAL
+ТЕХНОЛОГИИ
   ↓
-ENERGY
+ПРОМЫШЛЕННОСТЬ
   ↓
-COMPUTE
+КАПИТАЛ
   ↓
-AI
-~~~
-
-This is not a single technology.
-
-It is a **civilization-scale self-reinforcing feedback loop**.
-
-The long-term SINERGY research question is:
-
-> How can such loops be made productive, measurable, safe, governable and grounded in real external value instead of circular accounting or purely simulated progress?
+НОВАЯ ЭНЕРГИЯ И ВЫЧИСЛЕНИЯ
+```
 
 ---
 
-# PART XI — GRAPH DATA MODEL
+# 1. Главная цель SINERGY MEGAPROJECT
 
-SINERGY FRONTIER GRAPH should use typed nodes rather than a flat list.
+Проект должен отвечать не на вопрос:
 
-## 43. Node types
+> Какая технология выглядит наиболее футуристично?
 
-- PERSON
-- IDEA
-- TECHNOLOGY
-- PROJECT
-- INSTITUTION
-- PUBLICATION
-- DATASET
-- RESOURCE
-- INFRASTRUCTURE
-- ECONOMIC_MECHANISM
-- CIVILIZATION_MODEL
-- EXPERIMENT
-- PROTOTYPE
-- RISK
-- POLICY
-- METRIC
+А на гораздо более строгий вопрос:
 
-## 44. Edge types
+> **Какая комбинация технологий, ресурсов, институтов и инфраструктуры создаёт новую измеримую способность, которая затем усиливает другие узлы системы?**
 
-Examples:
+Поэтому SINERGY MEGAPROJECT строится как граф:
 
-- PROPOSED_BY
-- INSPIRED_BY
-- DEPENDS_ON
-- ENABLES
-- COMBINES_WITH
-- COMPETES_WITH
-- REQUIRES
-- PRODUCES
-- CONSUMES
-- FUNDS
-- POWERS
-- COMPUTES
-- CONTROLS
-- MEASURES
-- VALIDATES
-- FALSIFIES
-- REGULATES
-- INCREASES_RISK
-- REDUCES_RISK
-- DERIVED_AS_SINERGY_SYNTHESIS
-
-## 45. Minimum node schema
-
-Each frontier idea should eventually preserve:
-
-- canonical ID;
-- name;
-- type;
-- short definition;
-- author(s);
-- institution / community;
-- original formulation or earliest traceable source;
-- source URL;
-- date;
-- domain;
-- maturity;
-- evidence level;
-- feasibility notes;
-- main dependencies;
-- relevant historical SINERGY nodes;
-- technologies connected;
-- risks;
-- measurable milestones;
-- candidate combinations;
-- novelty score;
-- feasibility score;
-- impact score;
-- complementarity score;
-- readiness score;
-- network-effect score.
+```text
+ИСТОРИЧЕСКИЕ ИДЕИ
+        ↓
+МЕГАПРОЕКТЫ
+        ↓
+ФРОНТИРНЫЕ ТЕХНОЛОГИИ
+        ↓
+СОВРЕМЕННЫЕ ИССЛЕДОВАТЕЛЬСКИЕ ИДЕИ
+        ↓
+АВТОРЫ / ИНСТИТУТЫ / ПЕРВОИСТОЧНИКИ
+        ↓
+ДОКАЗАТЕЛЬНЫЕ СВЯЗИ
+        ↓
+КОМБИНАЦИОННЫЙ ДВИЖОК
+        ↓
+НОВЫЕ СИНТЕЗЫ SINERGY
+        ↓
+СИМУЛЯЦИЯ
+        ↓
+ПРОТОТИП
+        ↓
+ИЗМЕРЕНИЕ
+        ↓
+ОБНОВЛЕНИЕ ГРАФА
+```
 
 ---
 
-# PART XII — CURRENT STATUS
+# 2. Эпистемическая дисциплина: что является фактом, а что гипотезой
 
-## 46. Completed conceptually
+В этом репозитории запрещено молча смешивать реальность, прогноз и фантазию.
 
-- [x] Top-50 initial civilizational idea map
-- [x] Megaproject genealogy
-- [x] 150-node megaproject genome
-- [x] 100 technologies of the future
-- [x] 15 SINERGY core clusters
-- [x] 18-layer SINERGY Civilization OS
-- [x] Technology Breeder concept
-- [x] Civilization Idea Engine concept
-- [x] 20 project-native SINERGY technology syntheses
-- [x] Initial forum/frontier scan
-- [x] 29 frontier concepts captured as seed nodes
-- [x] **SINERGY FRONTIER GRAPH 1.0 — 100 canonical frontier concepts (F001–F100) with provenance**
-- [x] typed Frontier Graph concept
-- [x] main civilization feedback loop identified
+Используются следующие уровни:
 
-## 47. SINERGY FRONTIER GRAPH 1.0 — CLOSED
+| Уровень | Что означает |
+|---|---|
+| **ИСТОРИЧЕСКИЙ** | Документированная историческая идея, проект или линия мысли. |
+| **РЕАЛИЗОВАНО** | Технология или проект существенно реализованы. |
+| **АКТИВНАЯ ПРОГРАММА** | Существует действующая программа разработки, испытаний или внедрения. |
+| **ФОРМИРУЮЩАЯСЯ ТЕХНОЛОГИЯ** | Есть активные исследования и ранние внедрения. |
+| **ЭКСПЕРИМЕНТАЛЬНАЯ** | Есть лабораторная или ограниченная демонстрация. |
+| **КОНЦЕПТУАЛЬНАЯ** | Архитектура логична, но не продемонстрирована полностью. |
+| **ГИПОТЕТИЧЕСКАЯ** | Возможность экстраполирована, но не доказана. |
+| **ДАЛЬНИЙ ФРОНТИР** | Очень высокий уровень неопределённости. |
+| **СИНТЕЗ SINERGY** | Новая комбинация, сформированная внутри нашего проекта. |
 
-Status: **CLOSED on 2026-09-27 at 100 canonical frontier concepts (F001–F100), with representative authors/programs, dated sources, maturity labels and SINERGY mappings.**
+Ключевое правило:
 
-For each concept capture:
+> **Обсуждаемость идеи не равна доказательству осуществимости.**
 
-**author → original idea → source → date → domain → maturity → evidence → which of the 250 base nodes it connects → derived SINERGY opportunities**
+И второе правило:
 
-Priority source communities already identified:
-
-- LessWrong
-- AI Alignment Forum
-- Metaculus
-- Hacker News
-- Reddit communities focused on AI / singularity / futurology
-- OpenAI Forum
-- frontier science communities
-- robotics communities
-- energy communities
-- quantum communities
-- biotech communities
-- space-industry communities
-
-Canonical graph composition after this phase:
-
-- ~150 megaproject/historical nodes
-- 100 frontier-technology nodes
-- 100+ modern frontier-idea nodes
-- author/person/institution nodes
-- hundreds to thousands of explicit edges
-- machine-readable source provenance
-
-Expected total: **~400–500 primary semantic nodes before combination expansion**.
+> **Источник, подтверждающий отдельную технологию, не автоматически подтверждает всю цивилизационную комбинацию, в которую мы её включили.**
 
 ---
 
-# PART XIII — LONG-TERM ROADMAP
+# 3. Текущее состояние графа
 
-## M1 — Documentation Canon
-Keep this README as the human-readable source of truth.
+На момент ревизии **27 сентября 2026 года** в проекте зафиксировано:
 
-## M2 — Machine-readable Graph
-Create JSON/CSV/GraphML/Neo4j-compatible datasets for every node and edge.
+- **150 мегапроектных и историко-цивилизационных узлов** `M001–M150`;
+- **100 технологических узлов** `T001–T100`;
+- **100 современных фронтирных концепций** `F001–F100`;
+- **185 узлов авторов / групп авторов**;
+- **55 узлов институтов и программ**;
+- **80 узлов источников**;
+- всего **670 узлов**;
+- **1105 канонических связей M3**.
 
-## M3 — Provenance Layer
-Attach authors, dates, primary sources, evidence and confidence to each claim.
-
-## M4 — Combination Engine
-Enumerate 2-node, 3-node and higher-order candidates.
-
-## M5 — Feasibility Engine
-Filter candidates using physics, engineering, economics, energy, compute, CAPEX and readiness.
-
-## M6 — Impact / Network Engine
-Estimate how many other capabilities a candidate activates.
-
-## M7 — Civilization Simulator
-Model candidate effects across energy, compute, capital, production, logistics, ecology and human systems.
-
-## M8 — Autonomous Science Integration
-Feed selected candidates into literature review, simulation, experiment design and robotic-lab workflows.
-
-## M9 — Portfolio of Megaprojects
-Select a small set of measurable civilization-scale programs with explicit milestones.
-
-## M10 — SINERGY Civilization Graph
-A living graph where new evidence continuously changes the ranking, feasibility and dependency structure of all projects.
+Таким образом, человеческий слой содержит **350 идей**, а полный граф — **670 сущностей** с типизированными связями.
 
 ---
 
-# PART XIV — PROJECT PRINCIPLES
+# 4. Архитектура SINERGY CIVILIZATION OS
 
-1. **Evidence before mythology.** Historical inspiration is useful, but factual claims must be sourced.
-2. **No silent mixing of reality and speculation.** Every node has a maturity/status label.
-3. **Systems over slogans.** A megaproject must specify inputs, outputs, dependencies, resources and feedback loops.
-4. **External value matters.** Circular internal accounting is not equivalent to real productivity.
-5. **AI must touch reality.** The strongest loops connect models to experiments, machines, infrastructure and measurable outputs.
-6. **Energy and compute are first-class resources.**
-7. **Capital is a routing layer, not the purpose of civilization.**
-8. **Human agency remains the final authority.**
-9. **Open architecture beats geopolitical lock-in.** Russian megaproject traditions are part of the intellectual genome; SINERGY itself is designed as an open technological ecosystem.
-10. **The engine must be falsifiable.** A generated idea that cannot survive evidence, physics or economics is archived rather than promoted.
+## Слой 0 — ЧЕЛОВЕК
+
+Личность, образование, когнитивные способности, интерфейсы мозг–компьютер, память, право на окончательное решение.
+
+## Слой 1 — ЗНАНИЯ
+
+Наука, базы знаний, графы знаний, научный ИИ, доказательства, гипотезы и воспроизводимые эксперименты.
+
+## Слой 2 — ИИ
+
+Агенты, мировые модели, причинные модели, планирование, координация, автоматическое исследование и принятие ограниченных решений.
+
+## Слой 3 — ВЫЧИСЛЕНИЯ
+
+CPU, GPU, ASIC, периферийные вычисления, фотоника, нейроморфные и квантовые вычисления.
+
+## Слой 4 — ЭНЕРГИЯ
+
+Атом, термояд, накопители, энергосети, геотермальная энергетика, возобновляемые источники, новые энергетические контуры.
+
+## Слой 5 — МАТЕРИЯ
+
+Новые материалы, метаматериалы, нанотехнологии, молекулярное и атомарно-точное производство.
+
+## Слой 6 — БИОЛОГИЯ
+
+Клетки, ДНК, белки, синтетическая биология, медицина, перепрограммирование, долголетие.
+
+## Слой 7 — РОБОТОТЕХНИКА
+
+Роботы, беспилотники, автономные машины, рои, универсальные физические агенты.
+
+## Слой 8 — ПРОМЫШЛЕННОСТЬ
+
+Автономные фабрики, добыча, производство, ремонт, масштабирование производственных мощностей.
+
+## Слой 9 — ГОРОДА
+
+Киберфизическая инфраструктура, энергетика, транспорт, вода, здания, сенсоры, безопасность и сервисы.
+
+## Слой 10 — МОБИЛЬНОСТЬ
+
+Железные дороги, суда, автомобили, беспилотники, склады, маршрутизация и глобальная логистика.
+
+## Слой 11 — ЗЕМЛЯ
+
+Цифровая Земля, спутниковые данные, климат, океаны, сельское хозяйство, экология, планетарные сенсоры.
+
+## Слой 12 — ЕВРАЗИЯ
+
+Физические и цифровые коридоры, торговля, транспорт, расчёты, данные и промышленная кооперация.
+
+## Слой 13 — АРКТИКА
+
+СМП, порты, энергетика, добыча, автономные системы, спутниковая и подводная инфраструктура.
+
+## Слой 14 — КОСМОС
+
+Спутники, орбита, Луна, орбитальное производство, ресурсы, робототехника, энергетика и вычисления.
+
+## Слой 15 — КАПИТАЛ
+
+Финансирование, рынки, расчёты, обеспечение, страхование, риск, ликвидность и маршрутизация капитала.
+
+## Слой 16 — УПРАВЛЕНИЕ
+
+Правила, идентичность, безопасность, аудит, человеческий контроль, симуляция последствий.
+
+## Слой 17 — ДВИЖОК SINERGY
+
+Автоматическое создание, оценка, фильтрация, доказательная проверка и развитие новых комбинаций.
 
 ---
 
-## Repository role
+# 5. Пятнадцать ядер SINERGY
 
-This repository is the canonical home for:
+1. **SINERGY CAPITAL** — капитал, рынки, расчёты, риск, страхование, обеспечение.
+2. **SINERGY AI** — LLM, агенты, мировые модели, научный ИИ.
+3. **SINERGY COMPUTE** — вычислительная инфраструктура.
+4. **SINERGY ENERGY** — энергетика.
+5. **SINERGY ROBOTICS** — физические агенты.
+6. **SINERGY MATTER** — материалы и производство.
+7. **SINERGY BIO** — биология и медицина.
+8. **SINERGY CITIES** — города и инфраструктура.
+9. **SINERGY MOBILITY** — транспорт и логистика.
+10. **SINERGY ARCTIC** — арктический контур.
+11. **SINERGY EURASIA** — евразийский контур.
+12. **SINERGY SPACE** — космический контур.
+13. **SINERGY EARTH** — планетарный контур.
+14. **SINERGY HUMAN** — человек, образование, когнитивные технологии.
+15. **SINERGY GOVERNANCE** — правила, безопасность, аудит и контроль.
 
-- megaproject genealogy;
-- frontier ideas;
-- civilization-scale technology combinations;
-- SINERGY Civilization OS;
-- SINERGY Frontier Graph;
-- Technology Breeder;
-- future whitepapers, graph datasets, simulators and prototypes.
+Важно:
 
-The README is intended to remain a **living master document**. New frontier research should be added here first or linked from here with clear provenance and status.
-
+> Эти 15 ядер — **не 15 отдельных компаний**. Сильная архитектура возникает только тогда, когда выход одного ядра становится входом для другого.
 
 ---
 
-# PART XV — SINERGY FRONTIER GRAPH 1.0 — CANONICAL F001–F100
+# 6. Двадцать собственных синтезов SINERGY
 
-**Version:** 1.0  
-**Canonical freeze date:** 2026-09-27  
-**Status:** CLOSED — first 100 sourced frontier concepts  
-**Role:** sourced frontier layer on top of the 150-node megaproject genome + 100-technology layer.
+| Код | Синтез | Смысл |
+|---|---|---|
+| S1 | Цифровой двойник цивилизации | Экономика + энергия + транспорт + производство + население + экология в общей модели. |
+| S2 | ИИ-симулятор цивилизации | Массовое сравнение возможных будущих траекторий до расходования реального капитала. |
+| S3 | Автономная макроэкономика | Ограниченная человеческими правилами оптимизация капитала, энергии, логистики, запасов и производства. |
+| S4 | Вычислительная единица стоимости | Гипотетический экономический слой, связанный с полезными вычислениями. |
+| S5 | Биржа «энергия–вычисления» | Динамический рынок между электроэнергией и вычислительной нагрузкой. |
+| S6 | Сеть автономных фабрик | Координация поставок, производства, ремонта и переналадки на уровне сети предприятий. |
+| S7 | Саморасширяющаяся промышленность | Производство оборудования, которое увеличивает собственную производственную мощность. |
+| S8 | Эволюция материалов с ИИ | Генерация → симуляция → роботизированный синтез → тест → новое поколение. |
+| S9 | Биологическое облако | Сеть управляемых вычислительно биореакторов и биопроизводств. |
+| S10 | Роботизированная биосфера | Роботизированный мониторинг и вмешательство в леса, почвы, океаны, ледники и агросистемы. |
+| S11 | Планетарная сенсорная сеть | Спутники + города + океаны + сельское хозяйство + промышленность + атмосфера. |
+| S12 | Операционная система Земли | Сенсоры + цифровые двойники + ИИ + симуляция + ограниченное управление. |
+| S13 | Автономный торговый маршрутизатор | Поставщик + валюта + маршрут + склад + страхование + таможня. |
+| S14 | Автономный маршрутизатор капитала | Проект + риск + ликвидность + доходность + инфраструктурная зависимость. |
+| S15 | Научный граф | Гипотеза → эксперимент → результат → материал → технология → продукт. |
+| S16 | Размножитель технологий | Автоматический поиск комбинаций технологий. |
+| S17 | Автономная фабрика открытия материалов | ИИ + симуляция + роботизированная лаборатория + обратная связь. |
+| S18 | Автономная биологическая фабрика | ИИ + биодизайн + синтез + тест + производство. |
+| S19 | Автономная космическая индустрия | ИИ + робототехника + материалы + местные ресурсы + орбитальная/лунная промышленность. |
+| S20 | Контур «капитал–энергия–промышленность» | Капитал → энергия → вычисления → ИИ → технология → производство → доход → новый капитал. |
 
-## 48. Provenance policy for Frontier Graph 1.0
+---
 
-The catalog below is deliberately stricter than the earlier brainstorming layer.
+# 7. Technology Breeder / «Размножитель технологий»
 
-- **PRIMARY** — original paper, official project page, protocol specification, government program or first-party research release.
-- **REPRESENTATIVE** — a strong source that demonstrates the concept, but is not necessarily the historical origin of the idea.
-- **SINERGY_SYNTHESIS** — a project-native system concept. These entries keep a representative source showing the enabling frontier, but SINERGY does not claim that the source's authors proposed the whole synthesized system.
-- **FOUNDATIONAL** — the concept is already established and is a building block for newer frontier systems.
-- **ACTIVE / EMERGING** — active research/deployment with real demonstrations.
-- **EXPERIMENTAL** — technically demonstrated but not yet general or scalable.
-- **PROGRAM** — an active institutional development/validation program.
-- **CONCEPTUAL / HYPOTHETICAL** — coherent but not yet demonstrated at the claimed system scale.
+При 250 базовых идеях число комбинаций уже огромно:
 
-Where an idea has no single legitimate “inventor”, the table uses **Representative authors / program**, not “inventor”.
+- парные комбинации: **31 125**;
+- тройные комбинации: **2 573 000**;
+- более высокие порядки — миллионы и миллиарды вариантов.
 
-## 49. Canonical catalog
+Поэтому ручной перебор перестаёт быть реалистичным.
 
-| ID | Frontier concept | Representative authors / program | Source | Year | Maturity | SINERGY connection |
-|---|---|---|---|---:|---|---|
-| F001 | Post-AGI civilization as a design/coordination problem | David Duvenaud, Jan Kulveit, Raymond Douglas; workshop participants | [Post-AGI Civilizational Equilibria](https://post-agi.org/) | 2026 | ACTIVE / CONCEPTUAL | GOVERNANCE + AI + HUMAN + CAPITAL |
-| F002 | Civilization/world-model simulation | David Ha, Jürgen Schmidhuber; SINERGY synthesis at civilization scale | [World Models](https://arxiv.org/abs/1803.10122) | 2018 | FOUNDATIONAL → SYNTHESIS | AI + EARTH + ECONOMY + SIMULATION |
-| F003 | Autonomous science / AI co-scientist | Juraj Gottweis, Vivek Natarajan, Google Research | [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) | 2025 | ACTIVE / EMERGING | AI + KNOWLEDGE + BIO |
-| F004 | Fully automated AI scientist | Chris Lu, Cong Lu, Robert T. Lange, Jakob Foerster, Jeff Clune, David Ha | [The AI Scientist](https://arxiv.org/abs/2408.06292) | 2024 | EXPERIMENTAL | AI + SCIENCE + CODE + EVALUATION |
-| F005 | Science Graph / machine-readable discovery loop | SINERGY synthesis; AI Scientist and autonomous-lab work as enabling evidence | [The AI Scientist](https://arxiv.org/abs/2408.06292) | 2024 | SINERGY_SYNTHESIS | KNOWLEDGE GRAPH + EXPERIMENT + TECHNOLOGY |
-| F006 | Agent → robot → physical-world action loop | Google DeepMind robotics teams | [Gemini Robotics](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | 2025 | ACTIVE / EMERGING | AI + ROBOTICS + INDUSTRY |
-| F007 | General-purpose humanoid foundation models | NVIDIA Isaac GR00T team | [Isaac GR00T](https://developer.nvidia.com/isaac/gr00t) | 2024–2026 | ACTIVE / EMERGING | AI + ROBOTICS + MANUFACTURING |
-| F008 | Robot economy / recursively expanding physical production | Robert Freitas Jr., William Gilbreath et al.; NASA study | [Advanced Automation for Space Missions](https://ntrs.nasa.gov/citations/19830007077) | 1982 | CONCEPTUAL / FOUNDATIONAL | ROBOTICS + INDUSTRY + SPACE |
-| F009 | Energy–Compute Economy | SINERGY synthesis; modern AI infrastructure as enabling substrate | [Google data-center energy research context](https://deepmind.google/discover/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/) | 2018–2026 | SINERGY_SYNTHESIS | ENERGY + COMPUTE + CAPITAL |
-| F010 | Bidirectional “everything-to-grid” energy participation | distributed-energy / V2G research community | [Vehicle-to-grid foundational review](https://doi.org/10.1016/j.jpowsour.2004.12.022) | 2005→ | ACTIVE / EMERGING | ENERGY + CITIES + MOBILITY |
-| F011 | Biological world models | Ziga Avsec, Natasha Latysheva; Google DeepMind | [AlphaGenome](https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/) | 2025–2026 | ACTIVE / EMERGING | AI + BIO + MEDICINE |
-| F012 | Biological Cloud / automated design-build-test loops | SINERGY synthesis; automated science as substrate | [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) | 2025 | SINERGY_SYNTHESIS | BIO + COMPUTE + ROBOTIC LABS |
-| F013 | AI-driven materials evolution | Szymanski, Rendy, Fei, Kumar, Ceder, Persson, DeepMind collaborators | [A-Lab](https://www.nature.com/articles/s41586-023-06734-w) | 2023 | EXPERIMENTAL / ACTIVE | AI + MATTER + ROBOTICS + SCIENCE |
-| F014 | Programmable/adaptive mechanical matter | Corentin Coulais, Eial Teomy, Koen de Reus, Yair Shokef, Martin van Hecke | [Programmable mechanical metamaterials](https://www.nature.com/articles/nature18960) | 2016 | EXPERIMENTAL / FOUNDATIONAL | MATTER + ROBOTICS |
-| F015 | Planetary sensor/data fabric | AlphaEarth Foundations team | [AlphaEarth Foundations](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) | 2025 | ACTIVE / EMERGING | EARTH + DATA + AI |
-| F016 | Earth Operating System / Earth digital twin | Destination Earth / ECMWF; SINERGY synthesis above the twin layer | [Destination Earth Digital Twins](https://destine.ecmwf.int/digital-twins/) | 2024–2026 | ACTIVE → SYNTHESIS | EARTH + AI + ENERGY + CITIES |
-| F017 | High-bandwidth brain–computer communication | Francis Willett, Erin Kunz, Chaofei Fan, Jaimie Henderson et al. | [High-performance speech neuroprosthesis](https://www.nature.com/articles/s41586-023-06377-x) | 2023 | EXPERIMENTAL | HUMAN + AI + BCI |
-| F018 | Persistent digital-person / behavioral-agent models | Joon Sung Park, Joseph O'Brien, Carrie Cai, Meredith Ringel Morris, Percy Liang, Michael Bernstein | [Generative Agents](https://arxiv.org/abs/2304.03442) | 2023 | EXPERIMENTAL / CONCEPTUAL | HUMAN + MEMORY + AGENTS |
-| F019 | Work-optional / abundance-oriented civilization | SINERGY synthesis; post-AGI economics community as representative source | [Post-AGI Civilizational Equilibria](https://post-agi.org/) | 2025–2026 | CONCEPTUAL | HUMAN + ROBOTICS + CAPITAL + GOVERNANCE |
-| F020 | Post-AGI statecraft | Samuel Hammond; Post-AGI workshop | [2026 workshop program](https://post-agi.org/) | 2026 | CONCEPTUAL / ACTIVE DISCUSSION | GOVERNANCE + AI + ECONOMY |
-| F021 | AI constitutionalism | Yuntao Bai et al., Anthropic | [Constitutional AI](https://arxiv.org/abs/2212.08073) | 2022 | FOUNDATIONAL / ACTIVE | GOVERNANCE + AI + AUDIT |
-| F022 | Agent civilization / persistent multi-agent social systems | Park et al.; AutoGen / multi-agent research | [Generative Agents](https://arxiv.org/abs/2304.03442) | 2023 | EXPERIMENTAL → CONCEPTUAL | AGENTS + ECONOMY + GOVERNANCE |
-| F023 | Autonomous capital allocation / Capital Router | Stephan Zheng, Alexander Trott, Sunil Srinivasa, David Parkes, Richard Socher et al.; SINERGY extension | [AI Economist](https://arxiv.org/abs/2108.02755) | 2021 | EXPERIMENTAL → SYNTHESIS | CAPITAL + AI + GOVERNANCE |
-| F024 | Autonomous global logistics / planetary supply-chain graph | SINERGY synthesis; agent/robot planning as substrate | [ReAct](https://arxiv.org/abs/2210.03629) | 2022 | SINERGY_SYNTHESIS | MOBILITY + AI + TRADE |
-| F025 | Space industrialization as an infrastructure ecosystem | NASA ISAM community | [NASA ISAM](https://www.nasa.gov/isam/) | 2025–2026 | ACTIVE / PROGRAM | SPACE + ROBOTICS + INDUSTRY |
-| F026 | Orbital compute / data centers in space | Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud | [Starcloud / NVIDIA](https://blogs.nvidia.com/blog/starcloud/) | 2025 | EXPERIMENTAL / EMERGING | SPACE + COMPUTE + ENERGY |
-| F027 | Moon as an industrial node | NASA lunar ISRU / surface technology programs | [NASA Lunar Surface Innovation](https://www.nasa.gov/space-technology-mission-directorate/lunar-surface-innovation-initiative/) | 2020s | PROGRAM / EMERGING | SPACE + MATTER + ENERGY + INDUSTRY |
-| F028 | Self-expanding industrial system | Freitas, Gilbreath et al.; NASA Advanced Automation study | [NASA CP-2255](https://ntrs.nasa.gov/citations/19830007077) | 1982 | CONCEPTUAL | INDUSTRY + ROBOTICS + ENERGY |
-| F029 | Technology Breeder | SINERGY synthesis; AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces | [AlphaEvolve](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) | 2025 | SINERGY_SYNTHESIS | SINERGY ENGINE + SCIENCE + AI |
-| F030 | Reasoning + acting agents (ReAct) | Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao | [ReAct](https://arxiv.org/abs/2210.03629) | 2022 | FOUNDATIONAL / ACTIVE | AI + TOOLS + AGENTS |
-| F031 | Self-taught API/tool use | Timo Schick, Jane Dwivedi-Yu, Roberto Dessì et al. | [Toolformer](https://arxiv.org/abs/2302.04761) | 2023 | FOUNDATIONAL | AI + TOOLS + SERVICES |
-| F032 | Verbal reinforcement / self-reflective agents | Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao | [Reflexion](https://arxiv.org/abs/2303.11366) | 2023 | FOUNDATIONAL / EXPERIMENTAL | AI + MEMORY + LEARNING |
-| F033 | Deliberative search over reasoning paths | Shunyu Yao, Dian Yu, Jeffrey Zhao et al. | [Tree of Thoughts](https://arxiv.org/abs/2305.10601) | 2023 | FOUNDATIONAL | AI + PLANNING |
-| F034 | Iterative self-feedback refinement | Aman Madaan et al. | [Self-Refine](https://arxiv.org/abs/2303.17651) | 2023 | FOUNDATIONAL | AI + SELF-IMPROVEMENT |
-| F035 | Multi-agent conversational orchestration | Qingyun Wu et al., Microsoft Research | [AutoGen](https://arxiv.org/abs/2308.08155) | 2023 | ACTIVE | AGENTS + ORGANIZATIONS |
-| F036 | Lifelong embodied skill acquisition | Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar | [Voyager](https://arxiv.org/abs/2305.16291) | 2023 | EXPERIMENTAL | AGENTS + WORLD MODEL + ROBOTICS |
-| F037 | Generative-agent social simulation | Joon Sung Park et al. | [Generative Agents](https://arxiv.org/abs/2304.03442) | 2023 | EXPERIMENTAL | AGENTS + SOCIETY + SIMULATION |
-| F038 | General reinforcement learning through learned world models | Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap | [DreamerV3](https://arxiv.org/abs/2301.04104) | 2023 | ACTIVE / FOUNDATIONAL | WORLD MODELS + CONTROL |
-| F039 | Language models grounded by robotic affordances | Michael Ahn et al., Google Robotics | [SayCan](https://arxiv.org/abs/2204.01691) | 2022 | FOUNDATIONAL | AI + ROBOTICS + PLANNING |
-| F040 | Embodied multimodal language model | Danny Driess, Fei Xia, Mehdi Sajjadi et al. | [PaLM-E](https://arxiv.org/abs/2303.03378) | 2023 | FOUNDATIONAL | AI + SENSORS + ROBOTICS |
-| F041 | Cross-embodiment robot learning | Open X-Embodiment Collaboration | [Open X-Embodiment / RT-X](https://arxiv.org/abs/2310.08864) | 2023 | ACTIVE | ROBOTICS + SHARED DATA |
-| F042 | Vision-language-action robotics | Anthony Brohan et al., Google DeepMind | [RT-2](https://arxiv.org/abs/2307.15818) | 2023 | ACTIVE / FOUNDATIONAL | AI + ROBOTICS |
-| F043 | Gemini-based physical AI | Google DeepMind robotics team | [Gemini Robotics](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | 2025 | ACTIVE / EMERGING | AI + ROBOTICS + PHYSICAL WORLD |
-| F044 | Embodied reasoning for robots | Google DeepMind | [Gemini Robotics-ER](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | 2025 | ACTIVE / EMERGING | AI + SPATIAL REASONING |
-| F045 | On-device robot foundation models | Google DeepMind | [Gemini Robotics family](https://deepmind.google/models/gemini-robotics/) | 2025–2026 | ACTIVE / EMERGING | EDGE COMPUTE + ROBOTICS |
-| F046 | Open humanoid robot foundation models | NVIDIA Isaac GR00T team | [Isaac GR00T](https://developer.nvidia.com/isaac/gr00t) | 2024–2026 | ACTIVE | ROBOTICS + FOUNDATION MODELS |
-| F047 | Internet-scale human-video pretraining for humanoids | Figure AI | [Project Go-Big](https://www.figure.ai/news/project-go-big) | 2025 | EMERGING | HUMAN VIDEO + ROBOT LEARNING |
-| F048 | End-to-end automated ML research | Chris Lu et al., Sakana AI | [The AI Scientist](https://sakana.ai/ai-scientist/) | 2024 | EXPERIMENTAL | AI + SCIENCE |
-| F049 | Multi-agent scientific hypothesis generation | Gottweis, Natarajan et al., Google | [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) | 2025 | ACTIVE / EXPERIMENTAL | AI + SCIENCE + BIO |
-| F050 | LLM + chemistry tools autonomous chemistry assistant | Andres M. Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, Philippe Schwaller | [ChemCrow](https://arxiv.org/abs/2304.05376) | 2023 | EXPERIMENTAL | AI + CHEMISTRY + TOOLS |
-| F051 | Autonomous robotic materials laboratory | Nathan Szymanski et al.; Gerbrand Ceder, Kristin Persson collaborators | [A-Lab](https://www.nature.com/articles/s41586-023-06734-w) | 2023 | EXPERIMENTAL / ACTIVE | AI + ROBOTICS + MATERIALS |
-| F052 | Evolutionary code/algorithm discovery | AlphaEvolve team, Google DeepMind | [AlphaEvolve](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) | 2025 | ACTIVE / EMERGING | AI + ALGORITHMS + R&D |
-| F053 | LLM-guided search for new mathematical/computer-science constructions | Bernardino Romera-Paredes et al., Google DeepMind | [FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/) | 2023 | EXPERIMENTAL / ACTIVE | AI + MATHEMATICS + SEARCH |
-| F054 | AI-discovered low-level algorithms | Daniel Mankowitz, Andrea Michi et al., Google DeepMind | [AlphaDev](https://deepmind.google/blog/alphadev-discovers-faster-sorting-algorithms/) | 2023 | REALIZED / ACTIVE | AI + COMPUTE EFFICIENCY |
-| F055 | AI discovery of matrix-multiplication algorithms | Alhussein Fawzi, Matej Balog, Bernardino Romera-Paredes et al. | [AlphaTensor](https://deepmind.google/blog/discovering-novel-algorithms-with-alphatensor/) | 2022 | EXPERIMENTAL / FOUNDATIONAL | AI + MATHEMATICS + COMPUTE |
-| F056 | Constitutional AI | Yuntao Bai et al., Anthropic | [Constitutional AI](https://arxiv.org/abs/2212.08073) | 2022 | ACTIVE / FOUNDATIONAL | AI + GOVERNANCE |
-| F057 | AI safety via debate | Geoffrey Irving, Paul Christiano, Dario Amodei | [AI Safety via Debate](https://arxiv.org/abs/1805.00899) | 2018 | FOUNDATIONAL / CONCEPTUAL | AI + OVERSIGHT |
-| F058 | Eliciting latent knowledge from advanced systems | Paul Christiano, Mark Xu, Ajeya Cotra / ARC | [ELK report](https://www.alignmentforum.org/posts/QK7hM7XW7W6WZQ9To/eliciting-latent-knowledge) | 2021 | RESEARCH PROGRAM | AI + VERIFICATION |
-| F059 | Cooperative inverse reinforcement learning | Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, Stuart Russell | [CIRL](https://arxiv.org/abs/1606.03137) | 2016 | FOUNDATIONAL | HUMAN + AI + PREFERENCE LEARNING |
-| F060 | Collective Constitutional AI | Anthropic + Collective Intelligence Project; Saffron Huang, Divya Siddarth, Liane Lovitt et al. | [Collective Constitutional AI](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) | 2023 | EXPERIMENTAL | GOVERNANCE + PARTICIPATION + AI |
-| F061 | Scalable oversight | Samuel Bowman et al. | [Measuring Progress on Scalable Oversight](https://arxiv.org/abs/2211.03540) | 2022 | ACTIVE RESEARCH | AI + AUDIT + HUMAN OVERSIGHT |
-| F062 | Protein-structure prediction at proteome scale | John Jumper et al., DeepMind | [AlphaFold2](https://www.nature.com/articles/s41586-021-03819-2) | 2021 | REALIZED / FOUNDATIONAL | AI + BIO + SCIENCE |
-| F063 | Joint modeling of biomolecular interactions | Josh Abramson et al., Google DeepMind / Isomorphic Labs | [AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) | 2024 | ACTIVE | AI + BIO + DRUG DISCOVERY |
-| F064 | Genome regulatory variant-effect foundation model | Ziga Avsec, Natasha Latysheva et al., Google DeepMind | [AlphaGenome](https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/) | 2025–2026 | ACTIVE / EMERGING | AI + GENOMICS |
-| F065 | Long-range genomic regulatory prediction | Ziga Avsec et al. | [Enformer](https://www.nature.com/articles/s41592-021-01252-x) | 2021 | FOUNDATIONAL | AI + GENOMICS |
-| F066 | Generative protein design with diffusion models | Joseph Watson, David Juergens, Nathaniel Bennett et al.; David Baker lab | [RFdiffusion](https://www.nature.com/articles/s41586-023-06415-8) | 2023 | ACTIVE / EMERGING | AI + BIO + MATERIAL DESIGN |
-| F067 | Programmable CRISPR-Cas9 editing | Martin Jinek, Krzysztof Chylinski, Jennifer Doudna, Emmanuelle Charpentier et al. | [Science 2012](https://doi.org/10.1126/science.1225829) | 2012 | REALIZED / FOUNDATIONAL | BIO + GENETIC ENGINEERING |
-| F068 | Base editing without double-strand breaks | Alexis Komor, Yongjoo Kim, Michael Packer, John Zuris, David Liu et al. | [Nature 2016](https://www.nature.com/articles/nature17946) | 2016 | ACTIVE / FOUNDATIONAL | BIO + MEDICINE |
-| F069 | Prime editing | Andrew Anzalone, Peyton Randolph, Jessie Davis et al.; David Liu | [Nature 2019](https://www.nature.com/articles/s41586-019-1711-4) | 2019 | ACTIVE / EMERGING | BIO + MEDICINE |
-| F070 | Minimal synthetic bacterial cell | Clyde Hutchison III et al., J. Craig Venter Institute | [Science: JCVI-syn3.0](https://doi.org/10.1126/science.aad6253) | 2016 | EXPERIMENTAL / FOUNDATIONAL | SYNTHETIC BIOLOGY |
-| F071 | Designed living robots / xenobots | Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard | [PNAS](https://www.pnas.org/doi/10.1073/pnas.1910837117) | 2020 | EXPERIMENTAL | BIO + ROBOTICS |
-| F072 | Organoid Intelligence / biocomputing with brain organoids | Lena Smirnova, Brian Caffo, David Gracias, Brett Kagan, Alysson Muotri, Thomas Hartung et al. | [Organoid Intelligence](https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full) | 2023 | EXPERIMENTAL / CONCEPTUAL | BIO + COMPUTE + HUMAN |
-| F073 | Living neural systems learning in a closed loop | Brett Kagan et al., Cortical Labs | [DishBrain / Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6) | 2022 | EXPERIMENTAL | BIOCOMPUTE + LEARNING |
-| F074 | Partial epigenetic reprogramming for functional rejuvenation | Yuancheng Lu et al.; David Sinclair lab | [Nature 2020](https://www.nature.com/articles/s41586-020-2975-4) | 2020 | EXPERIMENTAL | LONGEVITY + BIO |
-| F075 | High-performance brain-to-text speech neuroprosthesis | Francis Willett et al.; Jaimie Henderson lab | [Nature 2023](https://www.nature.com/articles/s41586-023-06377-x) | 2023 | EXPERIMENTAL | HUMAN + BCI + AI |
-| F076 | Neural decoding directly to synthesized speech | Gopala Anumanchipalli, Josh Chartier, Edward Chang | [Nature 2019](https://www.nature.com/articles/s41586-019-1119-1) | 2019 | EXPERIMENTAL / FOUNDATIONAL | HUMAN + BCI + COMMUNICATION |
-| F077 | 3D bioprinting of thick vascularized tissues | David Kolesky, Kimberly Homan, Mark Skylar-Scott et al.; Jennifer Lewis lab | [PNAS 2016](https://www.pnas.org/doi/10.1073/pnas.1521342113) | 2016 | EXPERIMENTAL | BIO + MANUFACTURING + MEDICINE |
-| F078 | Massive AI discovery of stable crystal structures | Amil Merchant, Ekin Dogus Cubuk et al., Google DeepMind | [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) | 2023 | ACTIVE / EMERGING | AI + MATTER |
-| F079 | Generative inorganic materials design | Claudio Zeni, Robert Pinsler, Daniel Zügner et al., Microsoft Research | [MatterGen](https://www.nature.com/articles/s41586-025-08628-5) | 2025 | ACTIVE / EMERGING | AI + MATTER + ENERGY |
-| F080 | General atomistic foundation simulation across conditions | Han Yang, Chenxi Hu, Yichi Zhou et al., Microsoft Research | [MatterSim](https://www.microsoft.com/en-us/research/publication/mattersim-a-deep-learning-atomistic-model-across-elements-temperatures-and-pressures/) | 2024 | ACTIVE / EMERGING | AI + MATERIALS SIMULATION |
-| F081 | Self-healing structural materials | S. R. White, N. R. Sottos, P. H. Geubelle et al. | [Nature 2001](https://www.nature.com/articles/35057232) | 2001 | FOUNDATIONAL / ACTIVE FIELD | MATTER + INFRASTRUCTURE |
-| F082 | Programmable textured mechanical metamaterials | Corentin Coulais et al. | [Nature 2016](https://www.nature.com/articles/nature18960) | 2016 | EXPERIMENTAL | MATTER + ROBOTICS |
-| F083 | Autonomous molecular assembly / programmable chemical synthesis | Wenjing Meng, Richard Muscat, Mireya McKee et al.; Andrew Turberfield | [Nature Chemistry](https://www.nature.com/articles/nchem.2495) | 2016 | EXPERIMENTAL | NANOTECH + MANUFACTURING |
-| F084 | Deep-RL control of fusion plasma | Jonas Degrave et al.; DeepMind + Swiss Plasma Center | [Nature 2022](https://www.nature.com/articles/s41586-021-04301-9) | 2022 | EXPERIMENTAL / ACTIVE | AI + FUSION + ENERGY |
-| F085 | Superhot-rock geothermal | ARPA-E SUPERHOT program | [ARPA-E SUPERHOT](https://arpa-e.energy.gov/technologies/programs/superhot) | 2025–2026 | PROGRAM | ENERGY + INDUSTRY |
-| F086 | Compact sodium-cooled fast microreactors | Oklo Aurora | [Oklo technology](https://oklo.com/technology) | 2020s | ACTIVE PROGRAM / PRE-COMMERCIAL | NUCLEAR + CITIES + COMPUTE |
-| F087 | Space-based solar power with wireless power transfer | Caltech Space Solar Power Project; Ali Hajimiri, Sergio Pellegrino, Harry Atwater teams | [Caltech SSPP](https://www.spacesolar.caltech.edu/) | 2013–2020s | EXPERIMENTAL | SPACE + ENERGY |
-| F088 | Below-threshold quantum error correction | Google Quantum AI / Willow team | [Making quantum error correction work](https://research.google/blog/making-quantum-error-correction-work/) | 2024 | EXPERIMENTAL / MAJOR MILESTONE | QUANTUM + COMPUTE |
-| F089 | Modular fault-tolerant quantum supercomputer | IBM Quantum; Starling roadmap | [IBM Quantum Roadmap](https://www.ibm.com/roadmaps/quantum/) | 2025–2030 plan | ACTIVE PROGRAM | QUANTUM + HPC |
-| F090 | Utility-scale quantum validated by value-over-cost | DARPA Quantum Benchmarking Initiative; program manager Micah Stoutimore | [DARPA QBI](https://www.darpa.mil/research/programs/quantum-benchmarking-initiative) | 2024–2026 | ACTIVE PROGRAM | QUANTUM + ECONOMICS + VERIFICATION |
-| F091 | Quantum internet architecture | Stephanie Wehner, David Elkouss, Ronald Hanson | [Science 2018](https://www.science.org/doi/10.1126/science.aam9288) | 2018 | RESEARCH / EMERGING | NETWORK + QUANTUM |
-| F092 | In-space servicing, assembly and manufacturing as a space-infrastructure stack | John Mulvaney, Dale Arney et al.; NASA ISAM | [NASA ISAM State of Play 2025](https://ntrs.nasa.gov/citations/20250008988) | 2025 | ACTIVE PROGRAM | SPACE + ROBOTICS + MANUFACTURING |
-| F093 | On-orbit manufacture of very large structures | DARPA NOM4D; Andrew Detor program line | [DARPA NOM4D demos](https://www.darpa.mil/news/2025/novel-tech-space-structures) | 2021–2026 | ACTIVE PROGRAM / DEMO | SPACE + MATTER + ROBOTICS |
-| F094 | Self-replicating / growing lunar factory | Robert Freitas Jr., William Gilbreath et al.; NASA/ASEE study | [NASA Advanced Automation for Space Missions](https://ntrs.nasa.gov/citations/19830007077) | 1982 | CONCEPTUAL / FAR-FRONTIER | SPACE + ROBOTICS + SELF-EXPANDING INDUSTRY |
-| F095 | Lunar fission surface power | NASA + U.S. Department of Energy | [NASA/DOE lunar reactor program](https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/) | 2026 | ACTIVE PROGRAM | SPACE + NUCLEAR + INDUSTRY |
-| F096 | Orbital data centers / AI compute in space | Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud | [NVIDIA / Starcloud](https://blogs.nvidia.com/blog/starcloud/) | 2025 | EXPERIMENTAL / EMERGING | SPACE + COMPUTE + ENERGY |
-| F097 | Planet-scale geospatial foundation model | AlphaEarth Foundations team, Google DeepMind / Earth Engine | [AlphaEarth Foundations](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) | 2025 | ACTIVE / EMERGING | EARTH + AI + SENSOR WEB |
-| F098 | Operational Earth-system digital twins | Destination Earth / ECMWF and partners | [Destination Earth Digital Twins](https://destine.ecmwf.int/digital-twins/) | 2024–2026 | ACTIVE PROGRAM | EARTH + SIMULATION + POLICY |
-| F099 | Machine-native HTTP payments / autonomous-agent micropayments | Erik Reppel, Nemil Dalal, Dan Kim; Coinbase x402 | [x402](https://www.coinbase.com/developer-platform/discover/launches/x402) | 2025 | ACTIVE / EMERGING | AGENT ECONOMY + CAPITAL + SERVICES |
-| F100 | Agentic-commerce interoperability and auditable delegated payments | Google AP2/UCP ecosystem; Stripe/OpenAI ACP ecosystem | [AP2](https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/) · [ACP](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce) · [UCP](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/) | 2025–2026 | ACTIVE / EMERGING | AGENTS + COMMERCE + IDENTITY + PAYMENTS |
+Рабочий конвейер:
 
-## 50. What changed from the 29-node seed
+```text
+ИСХОДНЫЕ УЗЛЫ
+    ↓
+ГРАФ ЗНАНИЙ
+    ↓
+ДВИЖОК КОМБИНАЦИЙ
+    ↓
+КАНДИДАТЫ 2 / 3 / N УЗЛОВ
+    ↓
+ФИЛЬТР НОВИЗНЫ
+    ↓
+ФИЗИЧЕСКАЯ И ИНЖЕНЕРНАЯ ПРОВЕРКА
+    ↓
+ЭКОНОМИЧЕСКАЯ ПРОВЕРКА
+    ↓
+МОДЕЛЬ СЕТЕВОГО ЭФФЕКТА
+    ↓
+РИСК / УПРАВЛЕНИЕ / БЕЗОПАСНОСТЬ
+    ↓
+СИНТЕЗ SINERGY
+    ↓
+СИМУЛЯЦИЯ
+    ↓
+ПРОТОТИП
+    ↓
+ИЗМЕРЯЕМОЕ ДОКАЗАТЕЛЬСТВО
+    ↓
+ОБНОВЛЕНИЕ ГРАФА
+```
 
-The earlier **29 frontier concepts remain valuable**, but they mixed three different levels:
+Базовая функция оценки:
 
-1. externally sourced frontier concepts;
-2. broad system-level interpretations;
-3. original SINERGY syntheses.
+# **S = N × F × I × C × T × X**
 
-Frontier Graph 1.0 normalizes those layers.
+где:
 
-Examples:
+- **N — новизна**;
+- **F — осуществимость**;
+- **I — потенциальное воздействие**;
+- **C — комплементарность**;
+- **T — технологическая готовность**;
+- **X — сетевой эффект / сколько других узлов активируется**.
 
-- **Earth Operating System**, **Biological Cloud**, **Capital Router**, **Technology Breeder** remain explicitly labeled **SINERGY_SYNTHESIS**.
-- **A-Lab**, **AlphaEvolve**, **AlphaGenome**, **Gemini Robotics**, **MatterGen**, **Willow/QEC**, **NASA ISAM**, **x402**, **AP2/ACP/UCP** are traceable external frontier nodes.
-- A synthetic megaproject can therefore point to its enabling external evidence instead of being presented as if the whole synthesis already exists.
+Следующие версии должны учитывать дополнительно CAPEX, OPEX, энергозатраты, вычислительную стоимость, время до прототипа, регуляторный риск, обратимость, экологические ограничения и глубину зависимостей.
 
-## 51. Frontier Graph 1.0 domain map
+---
 
-The 100-node layer now spans these coupled domains:
+# 8. Пять главных замкнутых контуров
 
-~~~text
-AI / AGENTS / REASONING
-        ↓
-AUTONOMOUS SCIENCE
-        ↓
-ROBOTICS / PHYSICAL AI
-        ↓
-MATERIALS ─────── BIOLOGY
-        ↓              ↓
-MANUFACTURING      HUMAN / BCI
-        ↓              ↓
-ENERGY ───── COMPUTE / QUANTUM
-        ↓              ↓
-INFRASTRUCTURE ── DIGITAL EARTH
-        ↓
-SPACE / LUNAR INDUSTRY
-        ↓
-AGENT ECONOMY / PAYMENTS
-        ↓
-GOVERNANCE / POST-AGI INSTITUTIONS
-        ↓
-SINERGY CIVILIZATION GRAPH
-~~~
+## 8.1. Автономное научное производство
 
-The important result is not that 100 ideas have been collected. The result is that several previously separate frontiers now expose **closed capability loops**.
+```text
+ИИ генерирует гипотезу
+→ симуляция
+→ роботизированный эксперимент
+→ измерение
+→ обновление модели
+→ новый материал / молекула / алгоритм
+→ производственный кандидат
+→ следующая гипотеза
+```
 
-### Loop A — autonomous scientific production
+## 8.2. Воплощённая машинная экономика
 
-~~~text
-AI hypothesis generation
-→ simulation
-→ robotic experiment
-→ measurement
-→ learned model
-→ material / molecule / algorithm
-→ manufacturing candidate
-→ next hypothesis
-~~~
+```text
+АГЕНТ
+→ обнаружение инструмента
+→ платёж
+→ вычисления
+→ действие робота
+→ услуга / продукт
+→ выручка
+→ приобретение нового ресурса
+→ АГЕНТ
+```
 
-Evidence nodes: F003, F004, F050–F055, F078–F080.
+## 8.3. Энергия–вычисления–интеллект
 
-### Loop B — embodied machine economy
+```text
+ЭНЕРГИЯ
+→ ВЫЧИСЛЕНИЯ
+→ ИИ
+→ лучшие алгоритмы и управление
+→ более эффективная энергия и вычисления
+→ больше мощности ИИ
+```
 
-~~~text
-agent
-→ tool discovery
-→ payment
-→ compute
-→ robot action
-→ service / production
-→ revenue
-→ new resource purchase
-→ agent
-~~~
+## 8.4. Саморасширяющаяся внеземная промышленность
 
-Evidence nodes: F030–F047, F099–F100.
+```text
+МЕСТНЫЕ РЕСУРСЫ / ДОСТАВЛЕННОЕ СЫРЬЁ
+→ ЭНЕРГИЯ
+→ РОБОТИЗИРОВАННОЕ ПРОИЗВОДСТВО
+→ БОЛЕЕ КРУПНЫЕ КОНСТРУКЦИИ
+→ БОЛЬШЕ ЭНЕРГИИ И ВЫЧИСЛЕНИЙ
+→ БОЛЬШЕ РОБОТОВ
+→ БОЛЬШЕ ПРОИЗВОДСТВЕННОЙ МОЩНОСТИ
+```
 
-### Loop C — energy–compute–intelligence
+## 8.5. Планетарное наблюдение и моделирование
 
-~~~text
-energy
-→ compute
-→ AI
-→ better algorithms / controls
-→ more efficient energy & compute
-→ more AI capacity
-~~~
+```text
+СПУТНИКИ + СЕНСОРЫ
+→ ГЕОПРОСТРАНСТВЕННЫЕ МОДЕЛИ
+→ ЦИФРОВЫЕ ДВОЙНИКИ ЗЕМЛИ
+→ ПРОГНОЗ
+→ ОГРАНИЧЕННОЕ ПЛАНИРОВАНИЕ
+→ НОВЫЕ НАБЛЮДЕНИЯ
+```
 
-Evidence nodes: F052–F055, F084–F090.
+---
 
-### Loop D — self-expanding off-Earth industry
+# 9. ПОЛНЫЙ КАТАЛОГ МЕГАПРОЕКТОВ — M001–M150
 
-~~~text
-ISRU / imported feedstock
-→ energy
-→ robotic manufacturing
-→ larger structures
-→ more power / compute
-→ more robotics
-→ more industrial capacity
-~~~
+| ID | Идея / мегапроект | Ветвь | Происхождение | Описание |
+|---|---|---|---|---|
+| M001 | Российское пространство как единый экономический организм | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M002 | Менделеевская рационализация ресурсов | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M003 | Развитие производительных сил Востока | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M004 | Урало-Сибирский промышленный пояс | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M005 | Великая Сибирь | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M006 | Дальний Восток как тихоокеанский фасад | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M007 | Арктика как новый фронтир | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M008 | Россия как континентальная инфраструктура | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M009 | Россия как мост цивилизаций | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M010 | Россия как самостоятельный цивилизационный полюс | Ветвь 01 — Россия как система | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M011 | Общее дело | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M012 | Активная эволюция | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M013 | Регулирование природы | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M014 | Управление климатическими процессами | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M015 | Победа над смертью | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M016 | Воскрешение предков | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M017 | Космическое расселение человечества | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M018 | Человечество как единый субъект | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M019 | Земля как стартовая площадка цивилизации | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M020 | Бессмертная цивилизация | Ветвь 02 — Фёдоров / радикальный космизм | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M021 | Ракетное движение | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M022 | Многоступенчатая ракета | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M023 | Космическая станция | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M024 | Орбитальные поселения | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M025 | Космические города | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M026 | Планетарная экспансия | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M027 | Солнечная система как экономическое пространство | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M028 | Космическая промышленность | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M029 | Солнечная энергетика в космосе | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M030 | Многоступенчатое развитие цивилизации | Ветвь 03 — Циолковский / Земля → Космос | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M031 | Биосфера как глобальная система | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M032 | Живое вещество как геологическая сила | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M033 | Человечество как геологический фактор | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M034 | Ноосфера | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M035 | Наука как планетарная сила | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M036 | Управление биогеохимическими потоками | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M037 | Замыкание материальных циклов | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M038 | Рациональное преобразование биосферы | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M039 | Планетарный мониторинг Земли | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M040 | Глобальная система знаний о Земле | Ветвь 04 — Вернадский / Ноосфера | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M041 | Солнечная активность и биологические процессы | Ветвь 05 — Чижевский / биокосмическая линия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M042 | Космические факторы жизненных циклов | Ветвь 05 — Чижевский / биокосмическая линия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M043 | Гелиобиология | Ветвь 05 — Чижевский / биокосмическая линия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M044 | Космическая медицина | Ветвь 05 — Чижевский / биокосмическая линия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M045 | Мониторинг влияния космической среды на человека | Ветвь 05 — Чижевский / биокосмическая линия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M046 | Периодическая система как фундамент материаловедения | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M047 | Системное управление природными ресурсами | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M048 | Нефтяная промышленность | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M049 | Нефтехимический комплекс | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M050 | Сибирская ресурсно-промышленная база | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M051 | Урал как металлургическое ядро | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M052 | Сырьё → энергия → транспорт → промышленность | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M053 | Научная организация промышленности | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M054 | Государственное статистическое планирование | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M055 | Индустриальная Россия | Ветвь 06 — Менделеев / индустриальная Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M056 | ГОЭЛРО | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M057 | Региональные энергосистемы | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M058 | Единая энергосистема | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M059 | Электрификация транспорта | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M060 | Электрификация промышленности | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M061 | Электрификация сельского хозяйства | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M062 | Энергия как основа модернизации | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M063 | Энергия + промышленность + транспорт | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M064 | Территориальное планирование развития | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M065 | Единый хозяйственный организм | Ветвь 07 — ГОЭЛРО как операционная система мегапроектов | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M066 | Пятилетнее планирование | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M067 | Урало-Кузнецкий комбинат | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M068 | Магнитогорский промышленный комплекс | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M069 | Кузбасс | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M070 | Днепровский энергетический комплекс | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M071 | ДнепроГЭС | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M072 | Волжско-Камский энергетический каскад | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M073 | Ангаро-Енисейский энергетический комплекс | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M074 | Канско-Ачинский топливно-энергетический комплекс | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M075 | Территориально-производственные комплексы | Ветвь 08 — Советская индустриальная машина | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M076 | Транссибирская магистраль | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M077 | БАМ | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M078 | Восточный железнодорожный полигон | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M079 | Ангаро-Енисейский промышленный узел | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M080 | Красноярский промышленный пояс | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M081 | Новосибирский научный центр | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M082 | Академгородок | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M083 | Томский научно-технологический центр | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M084 | Сибирский ядерный комплекс | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M085 | Сибирский научно-промышленный пояс | Ветвь 09 — Преобразование Сибири | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M086 | Советский атомный проект | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M087 | Мирный атом | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M088 | Атомная энергетика | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M089 | Замкнутый ядерный топливный цикл | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M090 | Реакторы на быстрых нейтронах | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M091 | Малая модульная атомная энергетика | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M092 | Атомные ледоколы | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M093 | Атомная Арктика | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M094 | Атомная энергетика для удалённых территорий | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M095 | Атомная энергетика как фундамент индустриального развития | Ветвь 10 — Атомная цивилизация | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M096 | Спутниковая навигация | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M097 | Спутниковая связь | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M098 | Дистанционное зондирование Земли | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M099 | Пилотируемая космонавтика | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M100 | Орбитальные станции | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M101 | Космодром Восточный | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M102 | Многоспутниковые группировки | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M103 | Российская орбитальная станция | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M104 | Серийное производство спутников | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M105 | Космическая промышленная инфраструктура | Ветвь 11 — Космическая суперсистема | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M106 | Северный морской путь | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M107 | Круглогодичная арктическая навигация | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M108 | Атомный ледокольный флот | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M109 | Арктические порты | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M110 | Арктические аэродромы | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M111 | Арктические города | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M112 | Арктические энергетические комплексы | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M113 | Подводная арктическая инфраструктура | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M114 | Арктическая спутниковая сеть | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M115 | Арктический промышленный пояс | Ветвь 12 — Арктическая мегатехнология | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M116 | ЕАЭС | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M117 | Евразийский экономический путь | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M118 | Большое Евразийское партнёрство | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M119 | Коридор Север–Юг | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M120 | Восточный транспортный коридор | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M121 | Россия–Казахстан–Китай | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M122 | Россия–Иран–Индия | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M123 | Евразийская железнодорожная сеть | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M124 | Евразийские энергетические коридоры | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M125 | Евразийское цифровое пространство | Ветвь 13 — Большая Евразия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M126 | Электронное государство | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M127 | Цифровые государственные услуги | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M128 | Цифровой рубль | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M129 | Национальная платёжная инфраструктура | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M130 | Национальные облачные вычисления | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M131 | Суверенная цифровая инфраструктура | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M132 | Национальная система данных | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M133 | Национальный искусственный интеллект | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M134 | Промышленная роботизация | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M135 | Человеко-машинная экономика | Ветвь 14 — Цифровая Россия | ИСТОРИКО-СТРАТЕГИЧЕСКИЙ |  |
+| M136 | НООСФЕРА-1 | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Цифровая Земля реального времени на базе спутников, сенсоров, климатических, океанических, аграрных, энергетических данных и ИИ. |
+| M137 | ГОЭЛРО-2 | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Интеллектуальная евразийская энергосистема, координирующая атомную, гидро-, газовую, ветровую, солнечную энергетику и накопители с помощью ИИ. |
+| M138 | СИБИРСКИЙ МАНХЭТТЕН | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Сибирский мегарегион, объединённый скоростным транспортом, ИИ, атомной энергетикой, университетами, робототехникой и биотехнологиями. |
+| M139 | АРКТИЧЕСКИЙ ЦИФРОВОЙ КОНТИНЕНТ | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Северный морской путь + автономные суда + спутниковый ИИ + беспилотники + роботизированные порты + атомные энергетические узлы. |
+| M140 | ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ ИНТЕРНЕТ | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Единый слой идентичности, платежей, таможни, логистики, сертификатов, контрактов и документов поверх физических евразийских коридоров. |
+| M141 | ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Распределённый клиринг между национальными валютами вместо обязательной единой валюты. |
+| M142 | АТОМНЫЙ СЕВЕР | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Микрореакторы + автономные поселения + роботизированная добыча + ИИ. |
+| M143 | СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Электроэнергия → дата-центры → ИИ → экспорт вычислений, инференса и научного суперкомпьютинга. |
+| M144 | РОБОСИБИРЬ | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Высокоавтономный промышленный пояс: добыча, строительство, обслуживание и фабричная робототехника. |
+| M145 | ЕВРАЗИЙСКАЯ ТРАНСПОРТНАЯ СЕТЬ 4.0 | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | СМП + Север–Юг + Транссиб + БАМ + Каспий + китайское направление под единым ИИ-логистическим слоем. |
+| M146 | РОССИЙСКИЙ КОСМИЧЕСКИЙ ИНТЕРНЕТ / ОРБИТАЛЬНАЯ ИНФРАСТРУКТУРА | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Связь + навигация + наблюдение Земли + погода + транспорт + сельское хозяйство + геология + мониторинг Арктики. |
+| M147 | ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Луна как узел науки, энергетики, ресурсов и промышленной инфраструктуры. |
+| M148 | ОРБИТАЛЬНАЯ ЭНЕРГЕТИКА | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Крупномасштабная космическая солнечная энергетика как новый энергетический слой. |
+| M149 | БЕССМЕРТНАЯ БИБЛИОТЕКА | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Сохранение голоса, знаний, биографии, работ и когнитивных паттернов в виде долговечных цифровых агентов и моделей. |
+| M150 | ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | Синтетические мегапроекты будущего | СИНТЕЗ SINERGY | Интегрированный стек материи, энергии, космоса, информации, интеллекта, производства, биосферы, космической индустрии и ноосферы. |
 
-Evidence / precursor nodes: F092–F096 and F028/F094.
+---
 
-This loop remains **far from fully autonomous self-replication**; the graph explicitly separates today's ISAM demonstrations from the much stronger self-expanding-industry hypothesis.
+# 10. ПОЛНЫЙ КАТАЛОГ 100 ТЕХНОЛОГИЙ БУДУЩЕГО — T001–T100
 
-### Loop E — planet-scale sensing and simulation
+| ID | Технология | Область | Статус | Примечание |
+|---|---|---|---|---|
+| T001 | Мировые модели | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T002 | Автономный научный ИИ | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T003 | ИИ-учёные | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T004 | ИИ-инженеры | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T005 | ИИ-программисты полного цикла | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T006 | Рекурсивные исследования и разработки ИИ | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T007 | Причинно-следственный ИИ | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T008 | Нейросимвольный ИИ | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T009 | Коллективный ИИ | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T010 | Моделирование цивилизационного масштаба с помощью ИИ | ИИ / интеллект | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T011 | ИИ-агенты 2.0 | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T012 | Мультиагентные экономики | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T013 | Торговля агент–агент | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T014 | Машинные организации | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T015 | Движки управления и регулирования ИИ | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T016 | Автономное управление инфраструктурой | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T017 | Самовосстанавливающееся программное обеспечение | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T018 | Самопроектирующиеся алгоритмы | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T019 | Машинные научные сети | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T020 | Цифровой двойник цивилизации | Агентные / автономные системы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T021 | Гуманоидные роботы | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T022 | Универсальные промышленные роботы | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T023 | Фундаментальные модели для роботов | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T024 | Роевая робототехника | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T025 | Автономные строительные роботы | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T026 | Автономная добыча полезных ископаемых | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T027 | Автономное сельское хозяйство | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T028 | Автономные подводные роботы | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T029 | Арктические роботы | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T030 | Самореплицирующиеся роботизированные фабрики | Робототехника | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T031 | Коммерческий термоядерный синтез | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T032 | Компактные термоядерные реакторы | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T033 | Стеллараторы нового поколения | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T034 | Гибридные термоядерно-ядерные системы | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T035 | Малые модульные реакторы | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T036 | Микрореакторы | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T037 | Реакторы быстрого спектра | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T038 | Замкнутый ядерный топливный цикл | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T039 | Сверхгорячая геотермальная энергетика | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T040 | Космическая солнечная энергетика | Энергетика | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T041 | Всё-в-сеть / Everything-to-Grid | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T042 | ИИ-управляемая энергосеть | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T043 | Виртуальные электростанции | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T044 | Сверхпроводящие энергосети | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T045 | Мегасети постоянного тока | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T046 | Евразийская суперсеть | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T047 | Атомные дата-центры | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T048 | Оптимизация «вычисления ↔ энергия» | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T049 | Энергетический интернет | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T050 | Автономные энергетические острова | Энергосети 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T051 | Материалы, спроектированные ИИ | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T052 | Метаматериалы | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T053 | Программируемая материя | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T054 | Самовосстанавливающиеся материалы | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T055 | Комнатно-температурные сверхпроводники | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ | дальний фронтир; как универсальная технология не доказана |
+| T056 | Двумерные материалы | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T057 | Сверхвысокопрочные композиты | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T058 | Молекулярное производство | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T059 | Наномашины | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T060 | Атомарно-точное производство | Передовые материалы | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T061 | Программируемые клетки | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T062 | Инженерные живые терапевтические системы | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T063 | Белки, спроектированные ИИ | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T064 | Синтетические организмы | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T065 | Синтетическая пища | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T066 | Прецизионная ферментация | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T067 | Клеточное сельское хозяйство | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T068 | Ксенотрансплантация | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T069 | Персонализированные мРНК-вакцины | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T070 | Лекарства, спроектированные ИИ | Биотехнологии | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T071 | Цифровые двойники пациентов | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T072 | Клинические ИИ-системы / ИИ-врачи | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T073 | Роботизированная микрохирургия | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T074 | Интерфейсы мозг–компьютер | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T075 | Нейропротезы | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T076 | Интерфейсы мозг–мозг | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ | hypothetical frontier |
+| T077 | Регенеративная медицина | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T078 | Биопечать органов | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T079 | Клеточное перепрограммирование | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T080 | Инженерия долголетия | Медицина 2.0 | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T081 | Отказоустойчивые квантовые компьютеры | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T082 | Квантовое моделирование | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T083 | Квантовые сети | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T084 | Квантовый интернет | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T085 | Квантовые сенсоры | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T086 | Квантовая навигация | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T087 | Квантовая криптография | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T088 | Постквантовая криптография | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T089 | Квантовое машинное обучение | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T090 | Квантовые химические вычислители | Квантовый мир | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T091 | Космические дата-центры | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T092 | Орбитальное производство | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T093 | Космическая солнечная энергетика | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T094 | Добыча лунных ресурсов | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T095 | Лунные промышленные базы | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T096 | Добыча ресурсов астероидов | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T097 | Орбитальные топливные депо | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T098 | Автономная космическая робототехника | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T099 | Активное удаление орбитального мусора | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
+| T100 | Саморасширяющаяся космическая промышленность | Космос | КАТАЛОГИЗИРОВАННАЯ ФРОНТИРНАЯ ТЕХНОЛОГИЯ |  |
 
-~~~text
-satellites + sensors
-→ geospatial foundation models
-→ Earth-system digital twins
-→ prediction
-→ constrained planning / intervention
-→ new observations
-~~~
+---
 
-Evidence nodes: F015–F016 and F097–F098.
+# 11. ПОЛНЫЙ КАТАЛОГ ФРОНТИРНЫХ ИДЕЙ — F001–F100
 
-## 52. Strongest cross-domain edges discovered in v1.0
+В этой таблице «авторы / программа» означает **репрезентативную авторскую или институциональную связь**, а не автоматическое утверждение, что перечисленные лица являются единственными изобретателями всей концепции.
 
-The first 100-node freeze exposes particularly important edges for future SINERGY work:
+| ID | Фронтирная концепция | Год | Зрелость | Происхождение | Авторы / программа | Источники | Связь с SINERGY |
+|---|---|---:|---|---|---|---|---|
+| F001 | Пост-AGI цивилизация как задача проектирования и координации | 2026 | АКТИВНАЯ / КОНЦЕПТУАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | David Duvenaud, Jan Kulveit, Raymond Douglas; участники воркшопа | S001 | УПРАВЛЕНИЕ + AI + ЧЕЛОВЕК + КАПИТАЛ |
+| F002 | Моделирование цивилизации с помощью мировых моделей | 2018 | ФУНДАМЕНТАЛЬНАЯ → СИНТЕЗ | СИНТЕЗ SINERGY | David Ha, Jürgen Schmidhuber; синтез SINERGY at civilization scale | S002 | AI + ЗЕМЛЯ + ЭКОНОМИКА + МОДЕЛИРОВАНИЕ |
+| F003 | Автономная наука / ИИ-соисследователь | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Juraj Gottweis, Vivek Natarajan, Google Research | S003 | AI + ЗНАНИЯ + БИО |
+| F004 | Полностью автоматизированный ИИ-учёный | 2024 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Chris Lu, Cong Lu, Robert T. Lange, Jakob Foerster, Jeff Clune, David Ha | S004 | AI + НАУКА + CODE + ОЦЕНКА |
+| F005 | Научный граф / машиночитаемый цикл открытий | 2024 | СИНТЕЗ SINERGY | СИНТЕЗ SINERGY | синтез SINERGY; AI Scientist and autonomous-lab work как подтверждение обеспечивающей технологии | S004 | ЗНАНИЯ GRAPH + EXPERIMENT + TECHNOLOGY |
+| F006 | Контур «агент → робот → действие в физическом мире» | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Google DeepMind robotics команды | S005 | AI + РОБОТОТЕХНИКА + ПРОМЫШЛЕННОСТЬ |
+| F007 | Универсальные фундаментальные модели для гуманоидов | 2024–2026 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | NVIDIA Isaac GR00T команда | S006 | AI + РОБОТОТЕХНИКА + ПРОИЗВОДСТВО |
+| F008 | Роботизированная экономика / рекурсивно расширяющееся физическое производство | 1982 | КОНЦЕПТУАЛЬНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Robert Freitas Jr., William Gilbreath et al.; NASA study | S007 | РОБОТОТЕХНИКА + ПРОМЫШЛЕННОСТЬ + КОСМОС |
+| F009 | Экономика «энергия–вычисления» | 2018–2026 | СИНТЕЗ SINERGY | СИНТЕЗ SINERGY | синтез SINERGY; modern AI infrastructure как обеспечивающая технологическая база | S008 | ЭНЕРГИЯ + ВЫЧИСЛЕНИЯ + КАПИТАЛ |
+| F010 | Двунаправленное участие всех активов в энергосети | 2005→ | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | distributed-energy / V2G research сообщество | S009 | ЭНЕРГИЯ + ГОРОДА + МОБИЛЬНОСТЬ |
+| F011 | Биологические мировые модели | 2025–2026 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Ziga Avsec, Natasha Latysheva; Google DeepMind | S010 | AI + БИО + МЕДИЦИНА |
+| F012 | Биологическое облако / автоматизированные циклы проектирование–сборка–тест | 2025 | СИНТЕЗ SINERGY | СИНТЕЗ SINERGY | синтез SINERGY; automated science as substrate | S003 | БИО + ВЫЧИСЛЕНИЯ + ROBOTIC LABS |
+| F013 | Эволюция материалов под управлением ИИ | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Szymanski, Rendy, Fei, Kumar, Ceder, Persson, DeepMind соавторы и исследовательские партнёры | S011 | AI + МАТЕРИЯ + РОБОТОТЕХНИКА + НАУКА |
+| F014 | Программируемая / адаптивная механическая материя | 2016 | ЭКСПЕРИМЕНТАЛЬНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Corentin Coulais, Eial Teomy, Koen de Reus, Yair Shokef, Martin van Hecke | S012 | МАТЕРИЯ + РОБОТОТЕХНИКА |
+| F015 | Планетарная сенсорная и информационная ткань | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | AlphaEarth Foundations команда | S013 | ЗЕМЛЯ + ДАННЫЕ + AI |
+| F016 | Операционная система Земли / цифровой двойник Земли | 2024–2026 | АКТИВНАЯ → СИНТЕЗ | СИНТЕЗ SINERGY | Destination Earth / ECMWF; синтез SINERGY above the twin layer | S014 | ЗЕМЛЯ + AI + ЭНЕРГИЯ + ГОРОДА |
+| F017 | Высокоскоростная связь мозг–компьютер | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Francis Willett, Erin Kunz, Chaofei Fan, Jaimie Henderson et al. | S015 | ЧЕЛОВЕК + AI + BCI |
+| F018 | Постоянная цифровая личность / поведенческая агентная модель | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ / КОНЦЕПТУАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Joon Sung Park, Joseph O'Brien, Carrie Cai, Meredith Ringel Morris, Percy Liang, Michael Bernstein | S016 | ЧЕЛОВЕК + ПАМЯТЬ + АГЕНТЫ |
+| F019 | Цивилизация с необязательным трудом / экономика изобилия | 2025–2026 | КОНЦЕПТУАЛЬНАЯ | СИНТЕЗ SINERGY | синтез SINERGY; post-AGI economics сообщество как репрезентативный источник | S001 | ЧЕЛОВЕК + РОБОТОТЕХНИКА + КАПИТАЛ + УПРАВЛЕНИЕ |
+| F020 | Государственное и институциональное устройство после AGI | 2026 | КОНЦЕПТУАЛЬНАЯ / АКТИВНО ОБСУЖДАЕТСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Samuel Hammond; Post-AGI workshop | S001 | УПРАВЛЕНИЕ + AI + ЭКОНОМИКА |
+| F021 | Конституционализм ИИ | 2022 | ФУНДАМЕНТАЛЬНАЯ / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Yuntao Bai et al., Anthropic | S017 | УПРАВЛЕНИЕ + AI + АУДИТ |
+| F022 | Цивилизация агентов / устойчивые мультиагентные социальные системы | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ → КОНЦЕПТУАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Park et al.; AutoGen / multi-agent research | S016 | АГЕНТЫ + ЭКОНОМИКА + УПРАВЛЕНИЕ |
+| F023 | Автономное распределение капитала / маршрутизатор капитала | 2021 | ЭКСПЕРИМЕНТАЛЬНАЯ → СИНТЕЗ | СИНТЕЗ SINERGY | Stephan Zheng, Alexander Trott, Sunil Srinivasa, David Parkes, Richard Socher et al.; расширение SINERGY | S018 | КАПИТАЛ + AI + УПРАВЛЕНИЕ |
+| F024 | Автономная глобальная логистика / планетарный граф цепочек поставок | 2022 | СИНТЕЗ SINERGY | СИНТЕЗ SINERGY | синтез SINERGY; agent/robot planning as substrate | S019 | МОБИЛЬНОСТЬ + AI + ТОРГОВЛЯ |
+| F025 | Космическая индустриализация как инфраструктурная экосистема | 2025–2026 | АКТИВНАЯ / ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | NASA ISAM сообщество | S020 | КОСМОС + РОБОТОТЕХНИКА + ПРОМЫШЛЕННОСТЬ |
+| F026 | Орбитальные вычисления / дата-центры в космосе | 2025 | ЭКСПЕРИМЕНТАЛЬНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud | S021 | КОСМОС + ВЫЧИСЛЕНИЯ + ЭНЕРГИЯ |
+| F027 | Луна как промышленный узел | 2020s | ПРОГРАММА / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | NASA lunar ISRU / surface technology programs | S022 | КОСМОС + МАТЕРИЯ + ЭНЕРГИЯ + ПРОМЫШЛЕННОСТЬ |
+| F028 | Саморасширяющаяся промышленная система | 1982 | КОНЦЕПТУАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Freitas, Gilbreath et al.; NASA Advanced Automation study | S007 | ПРОМЫШЛЕННОСТЬ + РОБОТОТЕХНИКА + ЭНЕРГИЯ |
+| F029 | Размножитель технологий / Technology Breeder | 2025 | СИНТЕЗ SINERGY | СИНТЕЗ SINERGY | синтез SINERGY; AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces | S023 | SINERGY ENGINE + НАУКА + AI |
+| F030 | Агенты, объединяющие рассуждение и действие — ReAct | 2022 | ФУНДАМЕНТАЛЬНАЯ / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao | S019 | AI + ИНСТРУМЕНТЫ + АГЕНТЫ |
+| F031 | Самостоятельное освоение API и инструментов | 2023 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Timo Schick, Jane Dwivedi-Yu, Roberto Dessì et al. | S024 | AI + ИНСТРУМЕНТЫ + СЕРВИСЫ |
+| F032 | Вербальное подкрепление и саморефлексия агентов | 2023 | ФУНДАМЕНТАЛЬНАЯ / ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao | S025 | AI + ПАМЯТЬ + ОБУЧЕНИЕ |
+| F033 | Дерево рассуждений / поиск по траекториям мышления | 2023 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Shunyu Yao, Dian Yu, Jeffrey Zhao et al. | S026 | AI + ПЛАНИРОВАНИЕ |
+| F034 | Итеративное самоулучшение через обратную связь | 2023 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Aman Madaan et al. | S027 | AI + SELF-IMPROVEMENT |
+| F035 | Мультиагентная разговорная оркестрация | 2023 | АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Qingyun Wu et al., Microsoft Research | S028 | АГЕНТЫ + ОРГАНИЗАЦИИ |
+| F036 | Непрерывное накопление навыков воплощённым агентом | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar | S029 | АГЕНТЫ + МИРОВАЯ МОДЕЛЬ + РОБОТОТЕХНИКА |
+| F037 | Социальное моделирование генеративными агентами | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Joon Sung Park et al. | S016 | АГЕНТЫ + SOCIETY + МОДЕЛИРОВАНИЕ |
+| F038 | Обучение с подкреплением через изученные мировые модели | 2023 | АКТИВНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap | S030 | МИРОВАЯ МОДЕЛЬS + УПРАВЛЕНИЕ |
+| F039 | Языковые модели, заземлённые в доступностях робота | 2022 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Michael Ahn et al., Google Robotics | S031 | AI + РОБОТОТЕХНИКА + ПЛАНИРОВАНИЕ |
+| F040 | Воплощённая мультимодальная языковая модель | 2023 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Danny Driess, Fei Xia, Mehdi Sajjadi et al. | S032 | AI + СЕНСОРЫ + РОБОТОТЕХНИКА |
+| F041 | Межплатформенное обучение роботов на разных телах | 2023 | АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Open X-Embodiment Collaboration | S033 | РОБОТОТЕХНИКА + ОБЩИЕ ДАННЫЕ |
+| F042 | Робототехника «зрение–язык–действие» | 2023 | АКТИВНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Anthony Brohan et al., Google DeepMind | S034 | AI + РОБОТОТЕХНИКА |
+| F043 | Физический ИИ на базе Gemini | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Google DeepMind robotics команда | S005 | AI + РОБОТОТЕХНИКА + ФИЗИЧЕСКИЙ МИР |
+| F044 | Воплощённое пространственное рассуждение для роботов | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Google DeepMind | S005 | AI + ПРОСТРАНСТВЕННОЕ МЫШЛЕНИЕ |
+| F045 | Фундаментальные модели роботов на устройстве | 2025–2026 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Google DeepMind | S035 | ПЕРИФЕРИЙНЫЕ ВЫЧИСЛЕНИЯ + РОБОТОТЕХНИКА |
+| F046 | Открытые фундаментальные модели для гуманоидов | 2024–2026 | АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | NVIDIA Isaac GR00T команда | S006 | РОБОТОТЕХНИКА + ФУНДАМЕНТАЛЬНЫЕ МОДЕЛИ |
+| F047 | Предобучение гуманоидов на интернет-масштабном человеческом видео | 2025 | ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Figure AI | S036 | ЧЕЛОВЕК VIDEO + ROBOT ОБУЧЕНИЕ |
+| F048 | Полностью автоматизированные исследования в машинном обучении | 2024 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Chris Lu et al., Sakana AI | S037 | AI + НАУКА |
+| F049 | Мультиагентная генерация научных гипотез | 2025 | АКТИВНАЯ / ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Gottweis, Natarajan et al., Google | S003 | AI + НАУКА + БИО |
+| F050 | Автономный химический ассистент: LLM + химические инструменты | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Andres M. Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, Philippe Schwaller | S038 | AI + CHEMISTRY + ИНСТРУМЕНТЫ |
+| F051 | Автономная роботизированная лаборатория материалов | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Nathan Szymanski et al.; Gerbrand Ceder, Kristin Persson соавторы и исследовательские партнёры | S011 | AI + РОБОТОТЕХНИКА + МАТЕРИАЛЫ |
+| F052 | Эволюционный поиск кода и алгоритмов | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | AlphaEvolve команда, Google DeepMind | S023 | AI + ALGORITHMS + НИОКР |
+| F053 | Поиск новых математических и вычислительных конструкций с помощью LLM | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Bernardino Romera-Paredes et al., Google DeepMind | S039 | AI + МАТЕМАТИКА + ПОИСК |
+| F054 | Алгоритмы низкого уровня, открытые ИИ | 2023 | РЕАЛИЗОВАНА / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Daniel Mankowitz, Andrea Michi et al., Google DeepMind | S040 | AI + ЭФФЕКТИВНОСТЬ ВЫЧИСЛЕНИЙ |
+| F055 | Открытие алгоритмов матричного умножения с помощью ИИ | 2022 | ЭКСПЕРИМЕНТАЛЬНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Alhussein Fawzi, Matej Balog, Bernardino Romera-Paredes et al. | S041 | AI + МАТЕМАТИКА + ВЫЧИСЛЕНИЯ |
+| F056 | Конституционный ИИ | 2022 | АКТИВНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Yuntao Bai et al., Anthropic | S017 | AI + УПРАВЛЕНИЕ |
+| F057 | Безопасность ИИ через дебаты | 2018 | ФУНДАМЕНТАЛЬНАЯ / КОНЦЕПТУАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Geoffrey Irving, Paul Christiano, Dario Amodei | S042 | AI + НАДЗОР |
+| F058 | Извлечение скрытых знаний из продвинутых систем | 2021 | ИССЛЕДОВАТЕЛЬСКАЯ ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Paul Christiano, Mark Xu, Ajeya Cotra / ARC | S043 | AI + ВЕРИФИКАЦИЯ |
+| F059 | Кооперативное обратное обучение с подкреплением | 2016 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, Stuart Russell | S044 | ЧЕЛОВЕК + AI + ОБУЧЕНИЕ ПРЕДПОЧТЕНИЯМ |
+| F060 | Коллективный конституционный ИИ | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Anthropic + Collective Intelligence Project; Saffron Huang, Divya Siddarth, Liane Lovitt et al. | S045 | УПРАВЛЕНИЕ + УЧАСТИЕ + AI |
+| F061 | Масштабируемый надзор | 2022 | АКТИВНАЯ ИССЛЕДОВАТЕЛЬСКАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Samuel Bowman et al. | S046 | AI + АУДИТ + ЧЕЛОВЕК НАДЗОР |
+| F062 | Предсказание структуры белков в масштабе протеома | 2021 | РЕАЛИЗОВАНА / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | John Jumper et al., DeepMind | S047 | AI + БИО + НАУКА |
+| F063 | Совместное моделирование биомолекулярных взаимодействий | 2024 | АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Josh Abramson et al., Google DeepMind / Isomorphic Labs | S048 | AI + БИО + ПОИСК ЛЕКАРСТВ |
+| F064 | Фундаментальная модель регуляторных эффектов геномных вариантов | 2025–2026 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Ziga Avsec, Natasha Latysheva et al., Google DeepMind | S010 | AI + ГЕНОМИКА |
+| F065 | Предсказание дальнодействующей регуляции генома | 2021 | ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Ziga Avsec et al. | S049 | AI + ГЕНОМИКА |
+| F066 | Генеративное проектирование белков диффузионными моделями | 2023 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Joseph Watson, David Juergens, Nathaniel Bennett et al.; David Baker lab | S050 | AI + БИО + ПРОЕКТИРОВАНИЕ МАТЕРИАЛОВ |
+| F067 | Программируемое редактирование CRISPR-Cas9 | 2012 | РЕАЛИЗОВАНА / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Martin Jinek, Krzysztof Chylinski, Jennifer Doudna, Emmanuelle Charpentier et al. | S051 | БИО + ГЕННАЯ ИНЖЕНЕРИЯ |
+| F068 | Базовое редактирование без двунитевых разрывов ДНК | 2016 | АКТИВНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Alexis Komor, Yongjoo Kim, Michael Packer, John Zuris, David Liu et al. | S052 | БИО + МЕДИЦИНА |
+| F069 | Прайм-редактирование генома | 2019 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Andrew Anzalone, Peyton Randolph, Jessie Davis et al.; David Liu | S053 | БИО + МЕДИЦИНА |
+| F070 | Минимальная синтетическая бактериальная клетка | 2016 | ЭКСПЕРИМЕНТАЛЬНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Clyde Hutchison III et al., J. Craig Venter Institute | S054 | СИНТЕТИЧЕСКАЯ БИОЛОГИЯ |
+| F071 | Спроектированные живые роботы / ксеноботы | 2020 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard | S055 | БИО + РОБОТОТЕХНИКА |
+| F072 | Органоидный интеллект / биовычисления на органоидах мозга | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ / КОНЦЕПТУАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Lena Smirnova, Brian Caffo, David Gracias, Brett Kagan, Alysson Muotri, Thomas Hartung et al. | S056 | БИО + ВЫЧИСЛЕНИЯ + ЧЕЛОВЕК |
+| F073 | Обучение живых нейронных систем в замкнутом контуре | 2022 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Brett Kagan et al., Cortical Labs | S057 | БИОВЫЧИСЛЕНИЯ + ОБУЧЕНИЕ |
+| F074 | Частичное эпигенетическое перепрограммирование для функционального омоложения | 2020 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Yuancheng Lu et al.; David Sinclair lab | S058 | ДОЛГОЛЕТИЕ + БИО |
+| F075 | Высокопроизводительный нейропротез речи «мозг → текст» | 2023 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Francis Willett et al.; Jaimie Henderson lab | S015 | ЧЕЛОВЕК + BCI + AI |
+| F076 | Нейронное декодирование непосредственно в синтезированную речь | 2019 | ЭКСПЕРИМЕНТАЛЬНАЯ / ФУНДАМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Gopala Anumanchipalli, Josh Chartier, Edward Chang | S059 | ЧЕЛОВЕК + BCI + КОММУНИКАЦИЯ |
+| F077 | 3D-биопечать толстых васкуляризованных тканей | 2016 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | David Kolesky, Kimberly Homan, Mark Skylar-Scott et al.; Jennifer Lewis lab | S060 | БИО + ПРОИЗВОДСТВО + МЕДИЦИНА |
+| F078 | Массовое открытие стабильных кристаллических структур с помощью ИИ | 2023 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Amil Merchant, Ekin Dogus Cubuk et al., Google DeepMind | S061 | AI + МАТЕРИЯ |
+| F079 | Генеративное проектирование неорганических материалов | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Claudio Zeni, Robert Pinsler, Daniel Zügner et al., Microsoft Research | S062 | AI + МАТЕРИЯ + ЭНЕРГИЯ |
+| F080 | Универсальное атомистическое моделирование в разных условиях | 2024 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Han Yang, Chenxi Hu, Yichi Zhou et al., Microsoft Research | S063 | AI + МОДЕЛИРОВАНИЕ МАТЕРИАЛОВ |
+| F081 | Самовосстанавливающиеся конструкционные материалы | 2001 | ФУНДАМЕНТАЛЬНАЯ / АКТИВНАЯ ОБЛАСТЬ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | S. R. White, N. R. Sottos, P. H. Geubelle et al. | S064 | МАТЕРИЯ + INFRASTRUCTURE |
+| F082 | Программируемые текстурированные механические метаматериалы | 2016 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Corentin Coulais et al. | S012 | МАТЕРИЯ + РОБОТОТЕХНИКА |
+| F083 | Автономная молекулярная сборка / программируемый химический синтез | 2016 | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Wenjing Meng, Richard Muscat, Mireya McKee et al.; Andrew Turberfield | S065 | НАНОТЕХНОЛОГИИ + ПРОИЗВОДСТВО |
+| F084 | Управление термоядерной плазмой глубоким обучением с подкреплением | 2022 | ЭКСПЕРИМЕНТАЛЬНАЯ / АКТИВНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Jonas Degrave et al.; DeepMind + Swiss Plasma Center | S066 | AI + ТЕРМОЯД + ЭНЕРГИЯ |
+| F085 | Сверхгорячая геотермальная энергетика | 2025–2026 | ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | ARPA-E SUPERHOT program | S067 | ЭНЕРГИЯ + ПРОМЫШЛЕННОСТЬ |
+| F086 | Компактные натриевые быстрые микрореакторы | 2020s | АКТИВНАЯ ПРОГРАММА / ДОКОММЕРЧЕСКАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Oklo Aurora | S068 | АТОМНАЯ ЭНЕРГЕТИКА + ГОРОДА + ВЫЧИСЛЕНИЯ |
+| F087 | Космическая солнечная энергетика с беспроводной передачей энергии | 2013–2020s | ЭКСПЕРИМЕНТАЛЬНАЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Caltech Space Solar Power Project; Ali Hajimiri, Sergio Pellegrino, Harry Atwater команды | S069 | КОСМОС + ЭНЕРГИЯ |
+| F088 | Квантовая коррекция ошибок ниже порогового уровня | 2024 | ЭКСПЕРИМЕНТАЛЬНАЯ / КРУПНЫЙ РУБЕЖ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Google Quantum AI / Willow команда | S070 | КВАНТЫ + ВЫЧИСЛЕНИЯ |
+| F089 | Модульный отказоустойчивый квантовый суперкомпьютер | 2025–2030 plan | АКТИВНАЯ ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | IBM Quantum; Starling roadmap | S071 | КВАНТЫ + СУПЕРВЫЧИСЛЕНИЯ |
+| F090 | Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | 2024–2026 | АКТИВНАЯ ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | DARPA Quantum Benchmarking Initiative; program manager Micah Stoutimore | S072 | КВАНТЫ + ЭКОНОМИКА + ВЕРИФИКАЦИЯ |
+| F091 | Архитектура квантового интернета | 2018 | ИССЛЕДОВАТЕЛЬСКАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Stephanie Wehner, David Elkouss, Ronald Hanson | S073 | СЕТЬ + КВАНТЫ |
+| F092 | Орбитальное обслуживание, сборка и производство как инфраструктурный стек | 2025 | АКТИВНАЯ ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | John Mulvaney, Dale Arney et al.; NASA ISAM | S074 | КОСМОС + РОБОТОТЕХНИКА + ПРОИЗВОДСТВО |
+| F093 | Орбитальное производство сверхкрупных конструкций | 2021–2026 | АКТИВНАЯ ПРОГРАММА / DEMO | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | DARPA NOM4D; Andrew Detor программная линия | S075 | КОСМОС + МАТЕРИЯ + РОБОТОТЕХНИКА |
+| F094 | Самореплицирующаяся / растущая лунная фабрика | 1982 | КОНЦЕПТУАЛЬНАЯ / ДАЛЬНИЙ ФРОНТИР | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Robert Freitas Jr., William Gilbreath et al.; NASA/ASEE study | S007 | КОСМОС + РОБОТОТЕХНИКА + SELF-EXPANDING ПРОМЫШЛЕННОСТЬ |
+| F095 | Лунная ядерная энергетика поверхности | 2026 | АКТИВНАЯ ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | NASA + U.S. Department of Energy | S076 | КОСМОС + АТОМНАЯ ЭНЕРГЕТИКА + ПРОМЫШЛЕННОСТЬ |
+| F096 | Орбитальные дата-центры / ИИ-вычисления в космосе | 2025 | ЭКСПЕРИМЕНТАЛЬНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud | S021 | КОСМОС + ВЫЧИСЛЕНИЯ + ЭНЕРГИЯ |
+| F097 | Планетарная геопространственная фундаментальная модель | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | AlphaEarth Foundations команда, Google DeepMind / Earth Engine | S013 | ЗЕМЛЯ + AI + СЕНСОРНАЯ СЕТЬ |
+| F098 | Операционные цифровые двойники системы Земли | 2024–2026 | АКТИВНАЯ ПРОГРАММА | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Destination Earth / ECMWF and partners | S014 | ЗЕМЛЯ + МОДЕЛИРОВАНИЕ + ПОЛИТИКИ / ПРАВИЛА |
+| F099 | Машинные HTTP-платежи / микроплатежи автономных агентов | 2025 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Erik Reppel, Nemil Dalal, Dan Kim; Coinbase x402 | S077 | АГЕНТНАЯ ЭКОНОМИКА + КАПИТАЛ + СЕРВИСЫ |
+| F100 | Интероперабельная агентная коммерция и аудируемые делегированные платежи | 2025–2026 | АКТИВНАЯ / ФОРМИРУЮЩАЯСЯ | РЕПРЕЗЕНТАТИВНЫЙ ИСТОЧНИК | Google AP2/UCP ecosystem; Stripe/OpenAI ACP ecosystem | S078;S079;S080 | АГЕНТЫ + КОММЕРЦИЯ + ИДЕНТИЧНОСТЬ + ПЛАТЕЖИ |
 
-- **F003 AI co-scientist ↔ F051 A-Lab** → autonomous theory-to-experiment science.
-- **F052 AlphaEvolve ↔ F084 fusion control** → machine discovery/optimization directly affecting physical energy systems.
-- **F078 GNoME ↔ F051 A-Lab** → computationally proposed matter → robotic synthesis.
-- **F079 MatterGen ↔ F080 MatterSim ↔ F051 A-Lab** → generate → simulate → synthesize → measure.
-- **F064 AlphaGenome ↔ F067–F074 genetic/reprogramming tools** → model → design → biological intervention → feedback.
-- **F043 Gemini Robotics ↔ F046 GR00T ↔ F041 Open X-Embodiment** → shared foundation layer for heterogeneous physical agents.
-- **F085–F087 advanced energy ↔ F096 orbital compute** → new compute geographies constrained by real energy economics.
-- **F088–F091 quantum stack ↔ F029 Technology Breeder** → future hybrid search/simulation capabilities, only when validated against classical cost/performance.
-- **F092 ISAM ↔ F093 NOM4D ↔ F095 lunar fission** → power + assembly + manufacturing as the precursor stack for industrial space.
-- **F099 x402 ↔ F100 AP2/ACP/UCP ↔ F022 Agent Civilization** → agents can move from “talking to one another” toward discoverable, payable, auditable economic interaction.
-- **F097 AlphaEarth ↔ F098 Destination Earth ↔ F016 Earth OS** → measurements → representation → digital twin → decision layer.
-- **F001/F020/F021/F056–F061 ↔ all autonomous loops** → governance and oversight become architectural dependencies, not a late compliance add-on.
+---
 
-## 53. What Frontier Graph 1.0 does NOT claim
+# 12. КАНОНИЧЕСКИЙ СЛОВАРЬ СВЯЗЕЙ M3
 
-Frontier Graph 1.0 deliberately avoids several category errors:
+Машинные коды сохраняются на английском, чтобы GraphML, Neo4j, JSON и валидатор оставались совместимыми. Вся человеческая интерпретация — на русском.
 
-- A paper is not the same as a scalable product.
-- A lab demonstration is not the same as an economically viable infrastructure system.
-- A roadmap is not a delivered technology.
-- An institutional program is not proof that its end-state will work.
-- A frontier forecast is not a physical law.
-- “Self-expanding industry” is substantially stronger than today's robotics or ISAM.
-- “Digital person” is not evidence that consciousness can be uploaded.
-- “Organoid intelligence” is not equivalent to human-like intelligence.
-- Quantum utility is not assumed; F090 explicitly keeps **value-over-cost verification** in the graph.
-- Agent payments do not by themselves create a healthy economy; identity, authorization, liability, fraud controls, accounting and external value production remain required.
+| Машинный код | Русское значение | Точное назначение | Класс |
+|---|---|---|---|
+| `ENABLES` | **ОБЕСПЕЧИВАЕТ** | Делает целевую систему возможной либо существенно разблокирует её развитие. | ОБЕСПЕЧИВАЮЩАЯ |
+| `REQUIRES` | **ТРЕБУЕТ** | Целевая зависимость необходима для работы исходного узла в заявленном масштабе. | ПРИЧИННАЯ |
+| `VALIDATES` | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** | Источник или эксперимент подтверждает, проверяет либо поддерживает целевое утверждение. | ДОКАЗАТЕЛЬНАЯ |
+| `DEPENDS_ON` | **ЗАВИСИТ ОТ** | Исходный узел опирается на целевой как на ресурс, инфраструктуру, технологию или обязательную предпосылку. | ПРИЧИННАЯ |
+| `PROPOSED_BY` | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** | Идея, проект или линия исследований репрезентативно связана с человеком, институтом или программой. | ПРОИСХОЖДЕНИЕ |
+| `FUNDED_BY` | **ФИНАНСИРУЕТСЯ** | Исходный проект получает финансирование от целевого субъекта. Требует прямого подтверждения. | ПРОИСХОЖДЕНИЕ |
+| `USES` | **ИСПОЛЬЗУЕТ** | Исходная система использует целевую технологию, ресурс или способность. | ОБЕСПЕЧИВАЮЩАЯ |
+| `PRODUCES` | **ПРОИЗВОДИТ** | Исходная система непосредственно создаёт целевой результат либо экземпляр целевого класса. | ПРИЧИННАЯ |
+| `CONSUMES` | **ПОТРЕБЛЯЕТ** | Исходная система непосредственно потребляет целевой ресурс или вход. | ПРИЧИННАЯ |
+| `REDUCES_COST_OF` | **СНИЖАЕТ СТОИМОСТЬ** | Исходная технология уменьшает стоимость, ресурсную нагрузку или вычислительные затраты целевой способности. | ПРИЧИННАЯ |
+| `INCREASES_CAPACITY_OF` | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** | Исходная технология расширяет производительность, масштаб или функциональные возможности целевого узла. | ОБЕСПЕЧИВАЮЩАЯ |
+| `COMPETES_WITH` | **КОНКУРИРУЕТ С** | Узлы являются альтернативными подходами к существенно пересекающейся задаче. | ТЕМАТИЧЕСКАЯ |
+| `FALSIFIES` | **ОПРОВЕРГАЕТ / ФАЛЬСИФИЦИРУЕТ** | Источник содержит данные, несовместимые с целевым утверждением. | ДОКАЗАТЕЛЬНАЯ |
+| `RISKS` | **СОЗДАЁТ РИСК ДЛЯ** | Исходный узел создаёт или существенно повышает риск для целевого. | РИСК |
+| `GOVERNS` | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** | Исходный узел задаёт правила, ограничения, аудит, полномочия или контроль целевой системы. | УПРАВЛЕНИЕ |
 
-## 54. Frontier Graph 1.0 completion criterion
+---
 
-The milestone is considered **closed** because the repository now contains:
+# 13. УРОВНИ ДОКАЗАТЕЛЬНОСТИ СВЯЗЕЙ
 
-- exactly **100 canonical F-nodes**;
-- representative authors/programs;
-- a dated source for every node;
-- a maturity/status field;
-- an explicit SINERGY mapping;
-- separation of external evidence from SINERGY synthesis;
-- first cross-domain edge map;
-- first capability-loop map.
+| Код | Русское значение | Как читать |
+|---|---|---|
+| `RELATION_DIRECT` | **ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ** | Текущий первоисточник материально подтверждает именно связь «источник → цель». |
+| `PROVENANCE` | **ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК** | Источник подтверждает существование и содержание фронтирного узла. |
+| `ATTRIBUTION` | **АТРИБУЦИЯ** | Источник поддерживает связь с автором, группой или программой. |
+| `CANONICAL_SYNTHESIS` | **КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY** | Это явно отмеченная системная гипотеза SINERGY, построенная из подтверждённых компонентов. |
+| `NODE_SUPPORT_ONLY` | **ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ** | Источник подтверждает исходную технологию или идею, но ещё не доказывает конкретную межслойную связь. |
 
-The next milestone is no longer “find 100 ideas”.
+Самый важный принцип M3:
 
-It is:
+> **NODE_SUPPORT_ONLY ≠ доказанная причинная связь.**
 
-# **M2 — MACHINE-READABLE SINERGY CIVILIZATION GRAPH**
+Именно поэтому граф можно постепенно усиливать доказательствами, не притворяясь, что все 1105 связей одинаково доказаны.
 
-Required artifacts:
+---
 
-~~~text
-data/frontier_nodes.csv
-data/frontier_edges.csv
+# 14. ПОЛНАЯ ТАБЛИЦА ВСЕХ СВЯЗЕЙ M3 — 1105 РЁБЕР
+
+Это **не выборка** и не «топ связей». Ниже перечисляется весь канонический edge-set M3.
+
+| Ребро | Откуда | Тип связи | Куда | Класс | Уверенность | Источник доказательства | Область доказательства | Статус проверки | Сильное | Дата | Комментарий |
+|---|---|---|---|---|---:|---|---|---|---|---|---|
+| E00001 | S001 — Post-AGI Civilizational Equilibria | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F001 — Пост-AGI цивилизация как задача проектирования и координации | ДОКАЗАТЕЛЬНАЯ | 0.95 | S001 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00002 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P001 — David Duvenaud | ПРОИСХОЖДЕНИЕ | 0.78 | S001 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00003 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P002 — Jan Kulveit | ПРОИСХОЖДЕНИЕ | 0.78 | S001 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00004 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P003 — Raymond Douglas | ПРОИСХОЖДЕНИЕ | 0.78 | S001 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00005 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I001 — workshop participants | ПРОИСХОЖДЕНИЕ | 0.68 | S001 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00006 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T011 — ИИ-агенты 2.0 | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00007 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T012 — Мультиагентные экономики | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00008 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T013 — Торговля агент–агент | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00009 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T014 — Машинные организации | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00010 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00011 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00012 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00013 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M128 — Цифровой рубль | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00014 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M141 — ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00015 | F001 — Пост-AGI цивилизация как задача проектирования и координации | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M126 — Электронное государство | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00016 | S002 — World Models | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F002 — Моделирование цивилизации с помощью мировых моделей | ДОКАЗАТЕЛЬНАЯ | 0.95 | S002 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00017 | F002 — Моделирование цивилизации с помощью мировых моделей | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P004 — David Ha | ПРОИСХОЖДЕНИЕ | 0.78 | S002 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00018 | F002 — Моделирование цивилизации с помощью мировых моделей | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P005 — Jürgen Schmidhuber | ПРОИСХОЖДЕНИЕ | 0.78 | S002 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00019 | F002 — Моделирование цивилизации с помощью мировых моделей | **ИСПОЛЬЗУЕТ** (`USES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00020 | F002 — Моделирование цивилизации с помощью мировых моделей | **ИСПОЛЬЗУЕТ** (`USES`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00021 | F002 — Моделирование цивилизации с помощью мировых моделей | **ИСПОЛЬЗУЕТ** (`USES`) | T020 — Цифровой двойник цивилизации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00022 | F002 — Моделирование цивилизации с помощью мировых моделей | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00023 | F002 — Моделирование цивилизации с помощью мировых моделей | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00024 | F002 — Моделирование цивилизации с помощью мировых моделей | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M039 — Планетарный мониторинг Земли | ТЕМАТИЧЕСКАЯ | 0.58 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00025 | F002 — Моделирование цивилизации с помощью мировых моделей | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S002 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00026 | S003 — AI co-scientist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F003 — Автономная наука / ИИ-соисследователь | ДОКАЗАТЕЛЬНАЯ | 0.95 | S003 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00027 | F003 — Автономная наука / ИИ-соисследователь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P006 — Juraj Gottweis | ПРОИСХОЖДЕНИЕ | 0.78 | S003 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00028 | F003 — Автономная наука / ИИ-соисследователь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P007 — Vivek Natarajan | ПРОИСХОЖДЕНИЕ | 0.78 | S003 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00029 | F003 — Автономная наука / ИИ-соисследователь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I002 — Google Research | ПРОИСХОЖДЕНИЕ | 0.68 | S003 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00030 | F003 — Автономная наука / ИИ-соисследователь | **ИСПОЛЬЗУЕТ** (`USES`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00031 | F003 — Автономная наука / ИИ-соисследователь | **ИСПОЛЬЗУЕТ** (`USES`) | T003 — ИИ-учёные | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00032 | F003 — Автономная наука / ИИ-соисследователь | **ИСПОЛЬЗУЕТ** (`USES`) | T019 — Машинные научные сети | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00033 | F003 — Автономная наука / ИИ-соисследователь | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00034 | F003 — Автономная наука / ИИ-соисследователь | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00035 | F003 — Автономная наука / ИИ-соисследователь | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00036 | F003 — Автономная наука / ИИ-соисследователь | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00037 | S004 — The AI Scientist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F004 — Полностью автоматизированный ИИ-учёный | ДОКАЗАТЕЛЬНАЯ | 0.95 | S004 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00038 | F004 — Полностью автоматизированный ИИ-учёный | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P008 — Chris Lu | ПРОИСХОЖДЕНИЕ | 0.78 | S004 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00039 | F004 — Полностью автоматизированный ИИ-учёный | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P009 — Cong Lu | ПРОИСХОЖДЕНИЕ | 0.78 | S004 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00040 | F004 — Полностью автоматизированный ИИ-учёный | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P010 — Robert T. Lange | ПРОИСХОЖДЕНИЕ | 0.78 | S004 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00041 | F004 — Полностью автоматизированный ИИ-учёный | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P011 — Jakob Foerster | ПРОИСХОЖДЕНИЕ | 0.78 | S004 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00042 | F004 — Полностью автоматизированный ИИ-учёный | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P012 — Jeff Clune | ПРОИСХОЖДЕНИЕ | 0.78 | S004 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00043 | F004 — Полностью автоматизированный ИИ-учёный | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P004 — David Ha | ПРОИСХОЖДЕНИЕ | 0.78 | S004 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00044 | F004 — Полностью автоматизированный ИИ-учёный | **ИСПОЛЬЗУЕТ** (`USES`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00045 | F004 — Полностью автоматизированный ИИ-учёный | **ИСПОЛЬЗУЕТ** (`USES`) | T003 — ИИ-учёные | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00046 | F004 — Полностью автоматизированный ИИ-учёный | **ИСПОЛЬЗУЕТ** (`USES`) | T019 — Машинные научные сети | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00047 | F004 — Полностью автоматизированный ИИ-учёный | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00048 | F004 — Полностью автоматизированный ИИ-учёный | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00049 | S004 — The AI Scientist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F005 — Научный граф / машиночитаемый цикл открытий | ДОКАЗАТЕЛЬНАЯ | 0.95 | S004 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00050 | F005 — Научный граф / машиночитаемый цикл открытий | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I003 — AI Scientist and autonomous-lab work as enabling evidence | ПРОИСХОЖДЕНИЕ | 0.68 | S004 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00051 | F005 — Научный граф / машиночитаемый цикл открытий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00052 | F005 — Научный граф / машиночитаемый цикл открытий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00053 | F005 — Научный граф / машиночитаемый цикл открытий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00054 | F005 — Научный граф / машиночитаемый цикл открытий | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S004 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00055 | S005 — Gemini Robotics | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F006 — Контур «агент → робот → действие в физическом мире» | ДОКАЗАТЕЛЬНАЯ | 0.95 | S005 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00056 | F006 — Контур «агент → робот → действие в физическом мире» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I004 — Google DeepMind robotics teams | ПРОИСХОЖДЕНИЕ | 0.68 | S005 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00057 | F006 — Контур «агент → робот → действие в физическом мире» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00058 | F006 — Контур «агент → робот → действие в физическом мире» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00059 | F006 — Контур «агент → робот → действие в физическом мире» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00060 | F006 — Контур «агент → робот → действие в физическом мире» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00061 | F006 — Контур «агент → робот → действие в физическом мире» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00062 | F006 — Контур «агент → робот → действие в физическом мире» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00063 | F006 — Контур «агент → робот → действие в физическом мире» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00064 | F006 — Контур «агент → робот → действие в физическом мире» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00065 | F006 — Контур «агент → робот → действие в физическом мире» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00066 | F006 — Контур «агент → робот → действие в физическом мире» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00067 | F006 — Контур «агент → робот → действие в физическом мире» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M075 — Территориально-производственные комплексы | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00068 | S006 — Isaac GR00T | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F007 — Универсальные фундаментальные модели для гуманоидов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S006 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00069 | F007 — Универсальные фундаментальные модели для гуманоидов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I005 — NVIDIA Isaac GR00T team | ПРОИСХОЖДЕНИЕ | 0.68 | S006 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00070 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00071 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00072 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00073 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00074 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00075 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00076 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00077 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00078 | F007 — Универсальные фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00079 | S007 — Advanced Automation for Space Missions | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | ДОКАЗАТЕЛЬНАЯ | 0.95 | S007 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00080 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P013 — Robert Freitas Jr. | ПРОИСХОЖДЕНИЕ | 0.78 | S007 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00081 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P014 — William Gilbreath . | ПРОИСХОЖДЕНИЕ | 0.78 | S007 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00082 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I006 — NASA study | ПРОИСХОЖДЕНИЕ | 0.68 | S007 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00083 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00084 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00085 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00086 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00087 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M134 — Промышленная роботизация | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00088 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M144 — РОБОСИБИРЬ | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00089 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M075 — Территориально-производственные комплексы | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00090 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00091 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00092 | F008 — Роботизированная экономика / рекурсивно расширяющееся физическое производство | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00093 | S008 — Google data-center energy research context | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F009 — Экономика «энергия–вычисления» | ДОКАЗАТЕЛЬНАЯ | 0.95 | S008 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00094 | F009 — Экономика «энергия–вычисления» | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00095 | F009 — Экономика «энергия–вычисления» | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00096 | F009 — Экономика «энергия–вычисления» | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00097 | F009 — Экономика «энергия–вычисления» | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00098 | F009 — Экономика «энергия–вычисления» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M088 — Атомная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00099 | F009 — Экономика «энергия–вычисления» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M137 — ГОЭЛРО-2 | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00100 | F009 — Экономика «энергия–вычисления» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00101 | F009 — Экономика «энергия–вычисления» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00102 | F009 — Экономика «энергия–вычисления» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M128 — Цифровой рубль | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00103 | F009 — Экономика «энергия–вычисления» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M141 — ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S008 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00104 | S009 — Vehicle-to-grid foundational review | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F010 — Двунаправленное участие всех активов в энергосети | ДОКАЗАТЕЛЬНАЯ | 0.95 | S009 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00105 | F010 — Двунаправленное участие всех активов в энергосети | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I007 — distributed-energy / V2G research community | ПРОИСХОЖДЕНИЕ | 0.68 | S009 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00106 | F010 — Двунаправленное участие всех активов в энергосети | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T041 — Всё-в-сеть / Everything-to-Grid | ОБЕСПЕЧИВАЮЩАЯ | 0.70 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00107 | F010 — Двунаправленное участие всех активов в энергосети | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T042 — ИИ-управляемая энергосеть | ТЕМАТИЧЕСКАЯ | 0.56 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00108 | F010 — Двунаправленное участие всех активов в энергосети | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T043 — Виртуальные электростанции | ТЕМАТИЧЕСКАЯ | 0.56 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00109 | F010 — Двунаправленное участие всех активов в энергосети | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T049 — Энергетический интернет | ТЕМАТИЧЕСКАЯ | 0.56 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00110 | F010 — Двунаправленное участие всех активов в энергосети | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T050 — Автономные энергетические острова | ТЕМАТИЧЕСКАЯ | 0.56 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00111 | F010 — Двунаправленное участие всех активов в энергосети | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00112 | F010 — Двунаправленное участие всех активов в энергосети | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00113 | F010 — Двунаправленное участие всех активов в энергосети | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M145 — ЕВРАЗИЙСКАЯ ТРАНСПОРТНАЯ СЕТЬ 4.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00114 | F010 — Двунаправленное участие всех активов в энергосети | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M138 — СИБИРСКИЙ МАНХЭТТЕН | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S009 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00115 | S010 — AlphaGenome | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F011 — Биологические мировые модели | ДОКАЗАТЕЛЬНАЯ | 0.95 | S010 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00116 | F011 — Биологические мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P015 — Ziga Avsec | ПРОИСХОЖДЕНИЕ | 0.78 | S010 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00117 | F011 — Биологические мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P016 — Natasha Latysheva | ПРОИСХОЖДЕНИЕ | 0.78 | S010 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00118 | F011 — Биологические мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S010 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00119 | F011 — Биологические мировые модели | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.70 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00120 | F011 — Биологические мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00121 | F011 — Биологические мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T020 — Цифровой двойник цивилизации | ТЕМАТИЧЕСКАЯ | 0.56 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00122 | F011 — Биологические мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T061 — Программируемые клетки | ТЕМАТИЧЕСКАЯ | 0.56 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00123 | F011 — Биологические мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T063 — Белки, спроектированные ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00124 | F011 — Биологические мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T064 — Синтетические организмы | ТЕМАТИЧЕСКАЯ | 0.56 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00125 | F011 — Биологические мировые модели | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00126 | F011 — Биологические мировые модели | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00127 | F011 — Биологические мировые модели | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00128 | F011 — Биологические мировые модели | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00129 | S003 — AI co-scientist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | ДОКАЗАТЕЛЬНАЯ | 0.95 | S003 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00130 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **ИСПОЛЬЗУЕТ** (`USES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00131 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **ИСПОЛЬЗУЕТ** (`USES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00132 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **ИСПОЛЬЗУЕТ** (`USES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00133 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **ИСПОЛЬЗУЕТ** (`USES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00134 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **ИСПОЛЬЗУЕТ** (`USES`) | T061 — Программируемые клетки | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00135 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **ИСПОЛЬЗУЕТ** (`USES`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00136 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00137 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00138 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00139 | F012 — Биологическое облако / автоматизированные циклы проектирование–сборка–тест | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00140 | S011 — A-Lab | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F013 — Эволюция материалов под управлением ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S011 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00141 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P017 — Szymanski | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00142 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P018 — Rendy | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00143 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P019 — Fei | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00144 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P020 — Kumar | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00145 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P021 — Ceder | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00146 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P022 — Persson | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00147 | F013 — Эволюция материалов под управлением ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I009 — DeepMind collaborators | ПРОИСХОЖДЕНИЕ | 0.68 | S011 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00148 | F013 — Эволюция материалов под управлением ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00149 | F013 — Эволюция материалов под управлением ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00150 | F013 — Эволюция материалов под управлением ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00151 | F013 — Эволюция материалов под управлением ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00152 | F013 — Эволюция материалов под управлением ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00153 | F013 — Эволюция материалов под управлением ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00154 | F013 — Эволюция материалов под управлением ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00155 | F013 — Эволюция материалов под управлением ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00156 | F013 — Эволюция материалов под управлением ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00157 | F013 — Эволюция материалов под управлением ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00158 | S012 — Programmable mechanical metamaterials | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F014 — Программируемая / адаптивная механическая материя | ДОКАЗАТЕЛЬНАЯ | 0.95 | S012 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00159 | F014 — Программируемая / адаптивная механическая материя | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P023 — Corentin Coulais | ПРОИСХОЖДЕНИЕ | 0.78 | S012 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00160 | F014 — Программируемая / адаптивная механическая материя | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P024 — Eial Teomy | ПРОИСХОЖДЕНИЕ | 0.78 | S012 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00161 | F014 — Программируемая / адаптивная механическая материя | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P025 — Koen de Reus | ПРОИСХОЖДЕНИЕ | 0.78 | S012 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00162 | F014 — Программируемая / адаптивная механическая материя | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P026 — Yair Shokef | ПРОИСХОЖДЕНИЕ | 0.78 | S012 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00163 | F014 — Программируемая / адаптивная механическая материя | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P027 — Martin van Hecke | ПРОИСХОЖДЕНИЕ | 0.78 | S012 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00164 | F014 — Программируемая / адаптивная механическая материя | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00165 | F014 — Программируемая / адаптивная механическая материя | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00166 | F014 — Программируемая / адаптивная механическая материя | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00167 | F014 — Программируемая / адаптивная механическая материя | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T024 — Роевая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00168 | F014 — Программируемая / адаптивная механическая материя | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00169 | F014 — Программируемая / адаптивная механическая материя | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00170 | F014 — Программируемая / адаптивная механическая материя | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00171 | S013 — AlphaEarth Foundations | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F015 — Планетарная сенсорная и информационная ткань | ДОКАЗАТЕЛЬНАЯ | 0.95 | S013 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00172 | F015 — Планетарная сенсорная и информационная ткань | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I010 — AlphaEarth Foundations team | ПРОИСХОЖДЕНИЕ | 0.68 | S013 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00173 | F015 — Планетарная сенсорная и информационная ткань | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00174 | F015 — Планетарная сенсорная и информационная ткань | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T020 — Цифровой двойник цивилизации | ТЕМАТИЧЕСКАЯ | 0.56 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00175 | F015 — Планетарная сенсорная и информационная ткань | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00176 | F015 — Планетарная сенсорная и информационная ткань | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00177 | F015 — Планетарная сенсорная и информационная ткань | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M039 — Планетарный мониторинг Земли | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00178 | F015 — Планетарная сенсорная и информационная ткань | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00179 | S014 — Destination Earth Digital Twins | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F016 — Операционная система Земли / цифровой двойник Земли | ДОКАЗАТЕЛЬНАЯ | 0.95 | S014 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00180 | F016 — Операционная система Земли / цифровой двойник Земли | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I011 — Destination Earth / ECMWF | ПРОИСХОЖДЕНИЕ | 0.68 | S014 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00181 | F016 — Операционная система Земли / цифровой двойник Земли | **ИСПОЛЬЗУЕТ** (`USES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00182 | F016 — Операционная система Земли / цифровой двойник Земли | **ИСПОЛЬЗУЕТ** (`USES`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00183 | F016 — Операционная система Земли / цифровой двойник Земли | **ИСПОЛЬЗУЕТ** (`USES`) | T020 — Цифровой двойник цивилизации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00184 | F016 — Операционная система Земли / цифровой двойник Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00185 | F016 — Операционная система Земли / цифровой двойник Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00186 | F016 — Операционная система Земли / цифровой двойник Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00187 | F016 — Операционная система Земли / цифровой двойник Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00188 | F016 — Операционная система Земли / цифровой двойник Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M039 — Планетарный мониторинг Земли | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00189 | F016 — Операционная система Земли / цифровой двойник Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00190 | S015 — High-performance speech neuroprosthesis | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F017 — Высокоскоростная связь мозг–компьютер | ДОКАЗАТЕЛЬНАЯ | 0.95 | S015 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00191 | F017 — Высокоскоростная связь мозг–компьютер | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P028 — Francis Willett | ПРОИСХОЖДЕНИЕ | 0.78 | S015 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00192 | F017 — Высокоскоростная связь мозг–компьютер | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P029 — Erin Kunz | ПРОИСХОЖДЕНИЕ | 0.78 | S015 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00193 | F017 — Высокоскоростная связь мозг–компьютер | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P030 — Chaofei Fan | ПРОИСХОЖДЕНИЕ | 0.78 | S015 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00194 | F017 — Высокоскоростная связь мозг–компьютер | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P031 — Jaimie Henderson . | ПРОИСХОЖДЕНИЕ | 0.78 | S015 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00195 | F017 — Высокоскоростная связь мозг–компьютер | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T074 — Интерфейсы мозг–компьютер | ОБЕСПЕЧИВАЮЩАЯ | 0.70 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00196 | F017 — Высокоскоростная связь мозг–компьютер | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T075 — Нейропротезы | ТЕМАТИЧЕСКАЯ | 0.56 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00197 | F017 — Высокоскоростная связь мозг–компьютер | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T076 — Интерфейсы мозг–мозг | ТЕМАТИЧЕСКАЯ | 0.56 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00198 | F017 — Высокоскоростная связь мозг–компьютер | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00199 | F017 — Высокоскоростная связь мозг–компьютер | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00200 | F017 — Высокоскоростная связь мозг–компьютер | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00201 | F017 — Высокоскоростная связь мозг–компьютер | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00202 | S016 — Generative Agents | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F018 — Постоянная цифровая личность / поведенческая агентная модель | ДОКАЗАТЕЛЬНАЯ | 0.95 | S016 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00203 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P032 — Joon Sung Park | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00204 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P033 — Joseph O'Brien | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00205 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P034 — Carrie Cai | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00206 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P035 — Meredith Ringel Morris | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00207 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P036 — Percy Liang | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00208 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P037 — Michael Bernstein | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00209 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00210 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00211 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00212 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00213 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.52 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00214 | F018 — Постоянная цифровая личность / поведенческая агентная модель | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00215 | S001 — Post-AGI Civilizational Equilibria | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F019 — Цивилизация с необязательным трудом / экономика изобилия | ДОКАЗАТЕЛЬНАЯ | 0.95 | S001 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00216 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I012 — post-AGI economics community as representative source | ПРОИСХОЖДЕНИЕ | 0.68 | S001 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00217 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T011 — ИИ-агенты 2.0 | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00218 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T012 — Мультиагентные экономики | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00219 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T013 — Торговля агент–агент | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00220 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T014 — Машинные организации | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00221 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00222 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00223 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00224 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00225 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00226 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00227 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M128 — Цифровой рубль | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00228 | F019 — Цивилизация с необязательным трудом / экономика изобилия | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M141 — ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР | ТЕМАТИЧЕСКАЯ | 0.58 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00229 | S001 — Post-AGI Civilizational Equilibria | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F020 — Государственное и институциональное устройство после AGI | ДОКАЗАТЕЛЬНАЯ | 0.95 | S001 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00230 | F020 — Государственное и институциональное устройство после AGI | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P038 — Samuel Hammond | ПРОИСХОЖДЕНИЕ | 0.78 | S001 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00231 | F020 — Государственное и институциональное устройство после AGI | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I013 — Post-AGI workshop | ПРОИСХОЖДЕНИЕ | 0.68 | S001 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00232 | F020 — Государственное и институциональное устройство после AGI | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00233 | F020 — Государственное и институциональное устройство после AGI | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T015 — Движки управления и регулирования ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00234 | F020 — Государственное и институциональное устройство после AGI | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00235 | F020 — Государственное и институциональное устройство после AGI | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00236 | F020 — Государственное и институциональное устройство после AGI | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M126 — Электронное государство | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S001 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00237 | S017 — Constitutional AI | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F021 — Конституционализм ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S017 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00238 | F021 — Конституционализм ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P039 — Yuntao Bai . | ПРОИСХОЖДЕНИЕ | 0.78 | S017 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00239 | F021 — Конституционализм ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I014 — Anthropic | ПРОИСХОЖДЕНИЕ | 0.68 | S017 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00240 | F021 — Конституционализм ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00241 | F021 — Конституционализм ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T015 — Движки управления и регулирования ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00242 | F021 — Конституционализм ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00243 | F021 — Конституционализм ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00244 | F021 — Конституционализм ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M126 — Электронное государство | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00245 | S016 — Generative Agents | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | ДОКАЗАТЕЛЬНАЯ | 0.95 | S016 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00246 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P040 — Park . | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00247 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I015 — AutoGen / multi-agent research | ПРОИСХОЖДЕНИЕ | 0.68 | S016 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00248 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00249 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00250 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00251 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00252 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M126 — Электронное государство | ТЕМАТИЧЕСКАЯ | 0.52 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00253 | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00254 | S018 — AI Economist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F023 — Автономное распределение капитала / маршрутизатор капитала | ДОКАЗАТЕЛЬНАЯ | 0.95 | S018 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00255 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P041 — Stephan Zheng | ПРОИСХОЖДЕНИЕ | 0.78 | S018 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00256 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P042 — Alexander Trott | ПРОИСХОЖДЕНИЕ | 0.78 | S018 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00257 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P043 — Sunil Srinivasa | ПРОИСХОЖДЕНИЕ | 0.78 | S018 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00258 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P044 — David Parkes | ПРОИСХОЖДЕНИЕ | 0.78 | S018 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00259 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P045 — Richard Socher . | ПРОИСХОЖДЕНИЕ | 0.78 | S018 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00260 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T011 — ИИ-агенты 2.0 | ТЕМАТИЧЕСКАЯ | 0.56 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00261 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T012 — Мультиагентные экономики | ТЕМАТИЧЕСКАЯ | 0.56 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00262 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T013 — Торговля агент–агент | ТЕМАТИЧЕСКАЯ | 0.56 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00263 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T014 — Машинные организации | ТЕМАТИЧЕСКАЯ | 0.56 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00264 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00265 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00266 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M128 — Цифровой рубль | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00267 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M141 — ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00268 | F023 — Автономное распределение капитала / маршрутизатор капитала | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M126 — Электронное государство | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S018 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00269 | S019 — ReAct | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | ДОКАЗАТЕЛЬНАЯ | 0.95 | S019 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00270 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P046 — agent/robot planning as substrate | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00271 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00272 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T016 — Автономное управление инфраструктурой | ТЕМАТИЧЕСКАЯ | 0.56 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00273 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00274 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00275 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M145 — ЕВРАЗИЙСКАЯ ТРАНСПОРТНАЯ СЕТЬ 4.0 | ТЕМАТИЧЕСКАЯ | 0.58 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00276 | F024 — Автономная глобальная логистика / планетарный граф цепочек поставок | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M140 — ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ ИНТЕРНЕТ | ТЕМАТИЧЕСКАЯ | 0.58 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00277 | S020 — NASA ISAM | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F025 — Космическая индустриализация как инфраструктурная экосистема | ДОКАЗАТЕЛЬНАЯ | 0.95 | S020 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00278 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I016 — NASA ISAM community | ПРОИСХОЖДЕНИЕ | 0.68 | S020 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00279 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00280 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00281 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00282 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T024 — Роевая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00283 | F025 — Космическая индустриализация как инфраструктурная экосистема | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00284 | F025 — Космическая индустриализация как инфраструктурная экосистема | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00285 | F025 — Космическая индустриализация как инфраструктурная экосистема | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M075 — Территориально-производственные комплексы | ТЕМАТИЧЕСКАЯ | 0.58 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00286 | F025 — Космическая индустриализация как инфраструктурная экосистема | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00287 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00288 | F025 — Космическая индустриализация как инфраструктурная экосистема | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S020 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00289 | S021 — Starcloud / NVIDIA | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F026 — Орбитальные вычисления / дата-центры в космосе | ДОКАЗАТЕЛЬНАЯ | 0.95 | S021 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00290 | F026 — Орбитальные вычисления / дата-центры в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P047 — Philip Johnston | ПРОИСХОЖДЕНИЕ | 0.78 | S021 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00291 | F026 — Орбитальные вычисления / дата-центры в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P048 — Ezra Feilden | ПРОИСХОЖДЕНИЕ | 0.78 | S021 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00292 | F026 — Орбитальные вычисления / дата-центры в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P049 — Adi Oltean | ПРОИСХОЖДЕНИЕ | 0.78 | S021 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00293 | F026 — Орбитальные вычисления / дата-центры в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I017 — Starcloud | ПРОИСХОЖДЕНИЕ | 0.68 | S021 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00294 | F026 — Орбитальные вычисления / дата-центры в космосе | **ИСПОЛЬЗУЕТ** (`USES`) | T091 — Космические дата-центры | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00295 | F026 — Орбитальные вычисления / дата-центры в космосе | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M088 — Атомная энергетика | ТЕМАТИЧЕСКАЯ | 0.52 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00296 | F026 — Орбитальные вычисления / дата-центры в космосе | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M137 — ГОЭЛРО-2 | ТЕМАТИЧЕСКАЯ | 0.52 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00297 | F026 — Орбитальные вычисления / дата-центры в космосе | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.52 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00298 | F026 — Орбитальные вычисления / дата-центры в космосе | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00299 | F026 — Орбитальные вычисления / дата-центры в космосе | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00300 | F026 — Орбитальные вычисления / дата-центры в космосе | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00301 | S022 — NASA Lunar Surface Innovation | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F027 — Луна как промышленный узел | ДОКАЗАТЕЛЬНАЯ | 0.95 | S022 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00302 | F027 — Луна как промышленный узел | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I018 — NASA lunar ISRU / surface technology programs | ПРОИСХОЖДЕНИЕ | 0.68 | S022 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00303 | F027 — Луна как промышленный узел | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T095 — Лунные промышленные базы | ТЕМАТИЧЕСКАЯ | 0.56 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00304 | F027 — Луна как промышленный узел | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T098 — Автономная космическая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00305 | F027 — Луна как промышленный узел | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T100 — Саморасширяющаяся космическая промышленность | ТЕМАТИЧЕСКАЯ | 0.56 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00306 | F027 — Луна как промышленный узел | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M075 — Территориально-производственные комплексы | ТЕМАТИЧЕСКАЯ | 0.52 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00307 | F027 — Луна как промышленный узел | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00308 | F027 — Луна как промышленный узел | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M088 — Атомная энергетика | ТЕМАТИЧЕСКАЯ | 0.52 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00309 | F027 — Луна как промышленный узел | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M137 — ГОЭЛРО-2 | ТЕМАТИЧЕСКАЯ | 0.52 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00310 | F027 — Луна как промышленный узел | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00311 | F027 — Луна как промышленный узел | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S022 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00312 | S007 — Advanced Automation for Space Missions | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F028 — Саморасширяющаяся промышленная система | ДОКАЗАТЕЛЬНАЯ | 0.95 | S007 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00313 | F028 — Саморасширяющаяся промышленная система | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P050 — Freitas | ПРОИСХОЖДЕНИЕ | 0.78 | S007 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00314 | F028 — Саморасширяющаяся промышленная система | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P051 — Gilbreath . | ПРОИСХОЖДЕНИЕ | 0.78 | S007 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00315 | F028 — Саморасширяющаяся промышленная система | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I019 — NASA Advanced Automation study | ПРОИСХОЖДЕНИЕ | 0.68 | S007 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00316 | F028 — Саморасширяющаяся промышленная система | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00317 | F028 — Саморасширяющаяся промышленная система | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00318 | F028 — Саморасширяющаяся промышленная система | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00319 | F028 — Саморасширяющаяся промышленная система | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T024 — Роевая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00320 | F028 — Саморасширяющаяся промышленная система | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00321 | F028 — Саморасширяющаяся промышленная система | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00322 | F028 — Саморасширяющаяся промышленная система | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M075 — Территориально-производственные комплексы | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00323 | F028 — Саморасширяющаяся промышленная система | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00324 | F028 — Саморасширяющаяся промышленная система | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00325 | F028 — Саморасширяющаяся промышленная система | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00326 | S023 — AlphaEvolve | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F029 — Размножитель технологий / Technology Breeder | ДОКАЗАТЕЛЬНАЯ | 0.95 | S023 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Источник подтверждает обеспечивающий компонент, но не обязательно весь синтез SINERGY. |
+| E00327 | F029 — Размножитель технологий / Technology Breeder | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P052 — AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces | ПРОИСХОЖДЕНИЕ | 0.78 | S023 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00328 | F029 — Размножитель технологий / Technology Breeder | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00329 | F029 — Размножитель технологий / Technology Breeder | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00330 | F029 — Размножитель технологий / Technology Breeder | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00331 | F029 — Размножитель технологий / Technology Breeder | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.52 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00332 | F029 — Размножитель технологий / Technology Breeder | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00333 | S019 — ReAct | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F030 — Агенты, объединяющие рассуждение и действие — ReAct | ДОКАЗАТЕЛЬНАЯ | 0.95 | S019 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00334 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P053 — Shunyu Yao | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00335 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P054 — Jeffrey Zhao | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00336 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P055 — Dian Yu | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00337 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P056 — Nan Du | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00338 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P057 — Izhak Shafran | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00339 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P058 — Karthik Narasimhan | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00340 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P059 — Yuan Cao | ПРОИСХОЖДЕНИЕ | 0.78 | S019 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00341 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00342 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00343 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00344 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00345 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00346 | F030 — Агенты, объединяющие рассуждение и действие — ReAct | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S019 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00347 | S024 — Toolformer | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F031 — Самостоятельное освоение API и инструментов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S024 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00348 | F031 — Самостоятельное освоение API и инструментов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P060 — Timo Schick | ПРОИСХОЖДЕНИЕ | 0.78 | S024 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00349 | F031 — Самостоятельное освоение API и инструментов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P061 — Jane Dwivedi-Yu | ПРОИСХОЖДЕНИЕ | 0.78 | S024 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00350 | F031 — Самостоятельное освоение API и инструментов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P062 — Roberto Dessì . | ПРОИСХОЖДЕНИЕ | 0.78 | S024 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00351 | F031 — Самостоятельное освоение API и инструментов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T011 — ИИ-агенты 2.0 | ТЕМАТИЧЕСКАЯ | 0.56 | S024 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00352 | F031 — Самостоятельное освоение API и инструментов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T012 — Мультиагентные экономики | ТЕМАТИЧЕСКАЯ | 0.56 | S024 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00353 | F031 — Самостоятельное освоение API и инструментов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T013 — Торговля агент–агент | ТЕМАТИЧЕСКАЯ | 0.56 | S024 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00354 | F031 — Самостоятельное освоение API и инструментов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T014 — Машинные организации | ТЕМАТИЧЕСКАЯ | 0.56 | S024 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00355 | F031 — Самостоятельное освоение API и инструментов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S024 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00356 | F031 — Самостоятельное освоение API и инструментов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S024 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00357 | S025 — Reflexion | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F032 — Вербальное подкрепление и саморефлексия агентов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S025 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00358 | F032 — Вербальное подкрепление и саморефлексия агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P063 — Noah Shinn | ПРОИСХОЖДЕНИЕ | 0.78 | S025 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00359 | F032 — Вербальное подкрепление и саморефлексия агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P064 — Federico Cassano | ПРОИСХОЖДЕНИЕ | 0.78 | S025 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00360 | F032 — Вербальное подкрепление и саморефлексия агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P065 — Edward Berman | ПРОИСХОЖДЕНИЕ | 0.78 | S025 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00361 | F032 — Вербальное подкрепление и саморефлексия агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P066 — Ashwin Gopinath | ПРОИСХОЖДЕНИЕ | 0.78 | S025 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00362 | F032 — Вербальное подкрепление и саморефлексия агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P058 — Karthik Narasimhan | ПРОИСХОЖДЕНИЕ | 0.78 | S025 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00363 | F032 — Вербальное подкрепление и саморефлексия агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P053 — Shunyu Yao | ПРОИСХОЖДЕНИЕ | 0.78 | S025 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00364 | F032 — Вербальное подкрепление и саморефлексия агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S025 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00365 | F032 — Вербальное подкрепление и саморефлексия агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S025 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00366 | F032 — Вербальное подкрепление и саморефлексия агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S025 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00367 | F032 — Вербальное подкрепление и саморефлексия агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S025 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00368 | F032 — Вербальное подкрепление и саморефлексия агентов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S025 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00369 | F032 — Вербальное подкрепление и саморефлексия агентов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S025 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00370 | S026 — Tree of Thoughts | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F033 — Дерево рассуждений / поиск по траекториям мышления | ДОКАЗАТЕЛЬНАЯ | 0.95 | S026 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00371 | F033 — Дерево рассуждений / поиск по траекториям мышления | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P053 — Shunyu Yao | ПРОИСХОЖДЕНИЕ | 0.78 | S026 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00372 | F033 — Дерево рассуждений / поиск по траекториям мышления | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P055 — Dian Yu | ПРОИСХОЖДЕНИЕ | 0.78 | S026 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00373 | F033 — Дерево рассуждений / поиск по траекториям мышления | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P067 — Jeffrey Zhao . | ПРОИСХОЖДЕНИЕ | 0.78 | S026 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00374 | F033 — Дерево рассуждений / поиск по траекториям мышления | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S026 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00375 | F033 — Дерево рассуждений / поиск по траекториям мышления | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S026 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00376 | F033 — Дерево рассуждений / поиск по траекториям мышления | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S026 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00377 | S027 — Self-Refine | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F034 — Итеративное самоулучшение через обратную связь | ДОКАЗАТЕЛЬНАЯ | 0.95 | S027 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00378 | F034 — Итеративное самоулучшение через обратную связь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P068 — Aman Madaan . | ПРОИСХОЖДЕНИЕ | 0.78 | S027 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00379 | F034 — Итеративное самоулучшение через обратную связь | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S027 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00380 | F034 — Итеративное самоулучшение через обратную связь | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S027 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00381 | F034 — Итеративное самоулучшение через обратную связь | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S027 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00382 | S028 — AutoGen | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F035 — Мультиагентная разговорная оркестрация | ДОКАЗАТЕЛЬНАЯ | 0.95 | S028 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00383 | F035 — Мультиагентная разговорная оркестрация | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P069 — Qingyun Wu . | ПРОИСХОЖДЕНИЕ | 0.78 | S028 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00384 | F035 — Мультиагентная разговорная оркестрация | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I020 — Microsoft Research | ПРОИСХОЖДЕНИЕ | 0.68 | S028 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00385 | F035 — Мультиагентная разговорная оркестрация | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S028 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00386 | F035 — Мультиагентная разговорная оркестрация | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S028 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00387 | F035 — Мультиагентная разговорная оркестрация | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S028 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00388 | F035 — Мультиагентная разговорная оркестрация | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S028 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00389 | F035 — Мультиагентная разговорная оркестрация | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S028 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00390 | S029 — Voyager | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F036 — Непрерывное накопление навыков воплощённым агентом | ДОКАЗАТЕЛЬНАЯ | 0.95 | S029 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00391 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P070 — Guanzhi Wang | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00392 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P071 — Yuqi Xie | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00393 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P072 — Yunfan Jiang | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00394 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P073 — Ajay Mandlekar | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00395 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P074 — Chaowei Xiao | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00396 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P075 — Yuke Zhu | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00397 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P076 — Linxi Fan | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00398 | F036 — Непрерывное накопление навыков воплощённым агентом | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P077 — Anima Anandkumar | ПРОИСХОЖДЕНИЕ | 0.78 | S029 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00399 | F036 — Непрерывное накопление навыков воплощённым агентом | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T001 — Мировые модели | ТЕМАТИЧЕСКАЯ | 0.56 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00400 | F036 — Непрерывное накопление навыков воплощённым агентом | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00401 | F036 — Непрерывное накопление навыков воплощённым агентом | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T020 — Цифровой двойник цивилизации | ТЕМАТИЧЕСКАЯ | 0.56 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00402 | F036 — Непрерывное накопление навыков воплощённым агентом | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T011 — ИИ-агенты 2.0 | ТЕМАТИЧЕСКАЯ | 0.56 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00403 | F036 — Непрерывное накопление навыков воплощённым агентом | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T012 — Мультиагентные экономики | ТЕМАТИЧЕСКАЯ | 0.56 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00404 | F036 — Непрерывное накопление навыков воплощённым агентом | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T013 — Торговля агент–агент | ТЕМАТИЧЕСКАЯ | 0.56 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00405 | F036 — Непрерывное накопление навыков воплощённым агентом | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00406 | F036 — Непрерывное накопление навыков воплощённым агентом | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S029 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00407 | S016 — Generative Agents | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F037 — Социальное моделирование генеративными агентами | ДОКАЗАТЕЛЬНАЯ | 0.95 | S016 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00408 | F037 — Социальное моделирование генеративными агентами | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P078 — Joon Sung Park . | ПРОИСХОЖДЕНИЕ | 0.78 | S016 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00409 | F037 — Социальное моделирование генеративными агентами | **ИСПОЛЬЗУЕТ** (`USES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00410 | F037 — Социальное моделирование генеративными агентами | **ИСПОЛЬЗУЕТ** (`USES`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00411 | F037 — Социальное моделирование генеративными агентами | **ИСПОЛЬЗУЕТ** (`USES`) | T020 — Цифровой двойник цивилизации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00412 | F037 — Социальное моделирование генеративными агентами | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00413 | F037 — Социальное моделирование генеративными агентами | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00414 | F037 — Социальное моделирование генеративными агентами | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00415 | F037 — Социальное моделирование генеративными агентами | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S016 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00416 | S030 — DreamerV3 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F038 — Обучение с подкреплением через изученные мировые модели | ДОКАЗАТЕЛЬНАЯ | 0.95 | S030 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00417 | F038 — Обучение с подкреплением через изученные мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P079 — Danijar Hafner | ПРОИСХОЖДЕНИЕ | 0.78 | S030 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00418 | F038 — Обучение с подкреплением через изученные мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P080 — Jurgis Pasukonis | ПРОИСХОЖДЕНИЕ | 0.78 | S030 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00419 | F038 — Обучение с подкреплением через изученные мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P081 — Jimmy Ba | ПРОИСХОЖДЕНИЕ | 0.78 | S030 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00420 | F038 — Обучение с подкреплением через изученные мировые модели | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P082 — Timothy Lillicrap | ПРОИСХОЖДЕНИЕ | 0.78 | S030 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00421 | F038 — Обучение с подкреплением через изученные мировые модели | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.70 | S030 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00422 | F038 — Обучение с подкреплением через изученные мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S030 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00423 | F038 — Обучение с подкреплением через изученные мировые модели | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T020 — Цифровой двойник цивилизации | ТЕМАТИЧЕСКАЯ | 0.56 | S030 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00424 | F038 — Обучение с подкреплением через изученные мировые модели | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S030 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00425 | S031 — SayCan | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F039 — Языковые модели, заземлённые в доступностях робота | ДОКАЗАТЕЛЬНАЯ | 0.95 | S031 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00426 | F039 — Языковые модели, заземлённые в доступностях робота | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P083 — Michael Ahn . | ПРОИСХОЖДЕНИЕ | 0.78 | S031 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00427 | F039 — Языковые модели, заземлённые в доступностях робота | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I021 — Google Robotics | ПРОИСХОЖДЕНИЕ | 0.68 | S031 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00428 | F039 — Языковые модели, заземлённые в доступностях робота | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00429 | F039 — Языковые модели, заземлённые в доступностях робота | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00430 | F039 — Языковые модели, заземлённые в доступностях робота | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00431 | F039 — Языковые модели, заземлённые в доступностях робота | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00432 | F039 — Языковые модели, заземлённые в доступностях робота | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00433 | F039 — Языковые модели, заземлённые в доступностях робота | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00434 | F039 — Языковые модели, заземлённые в доступностях робота | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00435 | F039 — Языковые модели, заземлённые в доступностях робота | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S031 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00436 | S032 — PaLM-E | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F040 — Воплощённая мультимодальная языковая модель | ДОКАЗАТЕЛЬНАЯ | 0.95 | S032 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00437 | F040 — Воплощённая мультимодальная языковая модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P084 — Danny Driess | ПРОИСХОЖДЕНИЕ | 0.78 | S032 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00438 | F040 — Воплощённая мультимодальная языковая модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P085 — Fei Xia | ПРОИСХОЖДЕНИЕ | 0.78 | S032 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00439 | F040 — Воплощённая мультимодальная языковая модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P086 — Mehdi Sajjadi . | ПРОИСХОЖДЕНИЕ | 0.78 | S032 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00440 | F040 — Воплощённая мультимодальная языковая модель | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00441 | F040 — Воплощённая мультимодальная языковая модель | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00442 | F040 — Воплощённая мультимодальная языковая модель | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00443 | F040 — Воплощённая мультимодальная языковая модель | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T024 — Роевая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00444 | F040 — Воплощённая мультимодальная языковая модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00445 | F040 — Воплощённая мультимодальная языковая модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00446 | F040 — Воплощённая мультимодальная языковая модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00447 | F040 — Воплощённая мультимодальная языковая модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S032 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00448 | S033 — Open X-Embodiment / RT-X | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F041 — Межплатформенное обучение роботов на разных телах | ДОКАЗАТЕЛЬНАЯ | 0.95 | S033 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00449 | F041 — Межплатформенное обучение роботов на разных телах | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I022 — Open X-Embodiment Collaboration | ПРОИСХОЖДЕНИЕ | 0.68 | S033 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00450 | F041 — Межплатформенное обучение роботов на разных телах | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S033 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00451 | F041 — Межплатформенное обучение роботов на разных телах | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S033 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00452 | F041 — Межплатформенное обучение роботов на разных телах | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S033 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00453 | F041 — Межплатформенное обучение роботов на разных телах | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S033 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00454 | F041 — Межплатформенное обучение роботов на разных телах | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S033 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00455 | F041 — Межплатформенное обучение роботов на разных телах | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S033 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00456 | S034 — RT-2 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F042 — Робототехника «зрение–язык–действие» | ДОКАЗАТЕЛЬНАЯ | 0.95 | S034 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00457 | F042 — Робототехника «зрение–язык–действие» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P087 — Anthony Brohan . | ПРОИСХОЖДЕНИЕ | 0.78 | S034 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00458 | F042 — Робототехника «зрение–язык–действие» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S034 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00459 | F042 — Робототехника «зрение–язык–действие» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00460 | F042 — Робототехника «зрение–язык–действие» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00461 | F042 — Робототехника «зрение–язык–действие» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00462 | F042 — Робототехника «зрение–язык–действие» | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00463 | F042 — Робототехника «зрение–язык–действие» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00464 | F042 — Робототехника «зрение–язык–действие» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00465 | F042 — Робототехника «зрение–язык–действие» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00466 | F042 — Робототехника «зрение–язык–действие» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S034 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00467 | S005 — Gemini Robotics | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F043 — Физический ИИ на базе Gemini | ДОКАЗАТЕЛЬНАЯ | 0.95 | S005 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00468 | F043 — Физический ИИ на базе Gemini | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I023 — Google DeepMind robotics team | ПРОИСХОЖДЕНИЕ | 0.68 | S005 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00469 | F043 — Физический ИИ на базе Gemini | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00470 | F043 — Физический ИИ на базе Gemini | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00471 | F043 — Физический ИИ на базе Gemini | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00472 | F043 — Физический ИИ на базе Gemini | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T024 — Роевая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00473 | F043 — Физический ИИ на базе Gemini | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00474 | F043 — Физический ИИ на базе Gemini | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00475 | F043 — Физический ИИ на базе Gemini | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00476 | F043 — Физический ИИ на базе Gemini | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00477 | S005 — Gemini Robotics | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F044 — Воплощённое пространственное рассуждение для роботов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S005 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00478 | F044 — Воплощённое пространственное рассуждение для роботов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S005 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00479 | F044 — Воплощённое пространственное рассуждение для роботов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00480 | F044 — Воплощённое пространственное рассуждение для роботов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00481 | F044 — Воплощённое пространственное рассуждение для роботов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00482 | F044 — Воплощённое пространственное рассуждение для роботов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00483 | F044 — Воплощённое пространственное рассуждение для роботов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00484 | F044 — Воплощённое пространственное рассуждение для роботов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S005 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00485 | S035 — Gemini Robotics family | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F045 — Фундаментальные модели роботов на устройстве | ДОКАЗАТЕЛЬНАЯ | 0.95 | S035 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00486 | F045 — Фундаментальные модели роботов на устройстве | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S035 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00487 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00488 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00489 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00490 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00491 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00492 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00493 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00494 | F045 — Фундаментальные модели роботов на устройстве | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S035 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00495 | S006 — Isaac GR00T | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F046 — Открытые фундаментальные модели для гуманоидов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S006 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00496 | F046 — Открытые фундаментальные модели для гуманоидов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I005 — NVIDIA Isaac GR00T team | ПРОИСХОЖДЕНИЕ | 0.68 | S006 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00497 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00498 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00499 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00500 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00501 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00502 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00503 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00504 | F046 — Открытые фундаментальные модели для гуманоидов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S006 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00505 | S036 — Project Go-Big | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | ДОКАЗАТЕЛЬНАЯ | 0.95 | S036 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00506 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I024 — Figure AI | ПРОИСХОЖДЕНИЕ | 0.68 | S036 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00507 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T021 — Гуманоидные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00508 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T022 — Универсальные промышленные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00509 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T023 — Фундаментальные модели для роботов | ТЕМАТИЧЕСКАЯ | 0.56 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00510 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T024 — Роевая робототехника | ТЕМАТИЧЕСКАЯ | 0.56 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00511 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00512 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00513 | F047 — Предобучение гуманоидов на интернет-масштабном человеческом видео | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S036 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00514 | S037 — The AI Scientist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F048 — Полностью автоматизированные исследования в машинном обучении | ДОКАЗАТЕЛЬНАЯ | 0.95 | S037 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00515 | F048 — Полностью автоматизированные исследования в машинном обучении | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P088 — Chris Lu . | ПРОИСХОЖДЕНИЕ | 0.78 | S037 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00516 | F048 — Полностью автоматизированные исследования в машинном обучении | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I025 — Sakana AI | ПРОИСХОЖДЕНИЕ | 0.68 | S037 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00517 | F048 — Полностью автоматизированные исследования в машинном обучении | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S037 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00518 | F048 — Полностью автоматизированные исследования в машинном обучении | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S037 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00519 | F048 — Полностью автоматизированные исследования в машинном обучении | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S037 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00520 | F048 — Полностью автоматизированные исследования в машинном обучении | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S037 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00521 | F048 — Полностью автоматизированные исследования в машинном обучении | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S037 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00522 | S003 — AI co-scientist | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F049 — Мультиагентная генерация научных гипотез | ДОКАЗАТЕЛЬНАЯ | 0.95 | S003 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00523 | F049 — Мультиагентная генерация научных гипотез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P089 — Gottweis | ПРОИСХОЖДЕНИЕ | 0.78 | S003 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00524 | F049 — Мультиагентная генерация научных гипотез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P090 — Natarajan . | ПРОИСХОЖДЕНИЕ | 0.78 | S003 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00525 | F049 — Мультиагентная генерация научных гипотез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I026 — Google | ПРОИСХОЖДЕНИЕ | 0.68 | S003 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00526 | F049 — Мультиагентная генерация научных гипотез | **ИСПОЛЬЗУЕТ** (`USES`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00527 | F049 — Мультиагентная генерация научных гипотез | **ИСПОЛЬЗУЕТ** (`USES`) | T003 — ИИ-учёные | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00528 | F049 — Мультиагентная генерация научных гипотез | **ИСПОЛЬЗУЕТ** (`USES`) | T019 — Машинные научные сети | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00529 | F049 — Мультиагентная генерация научных гипотез | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00530 | F049 — Мультиагентная генерация научных гипотез | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00531 | F049 — Мультиагентная генерация научных гипотез | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00532 | F049 — Мультиагентная генерация научных гипотез | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00533 | F049 — Мультиагентная генерация научных гипотез | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00534 | F049 — Мультиагентная генерация научных гипотез | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00535 | F049 — Мультиагентная генерация научных гипотез | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S003 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00536 | S038 — ChemCrow | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F050 — Автономный химический ассистент: LLM + химические инструменты | ДОКАЗАТЕЛЬНАЯ | 0.95 | S038 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00537 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P091 — Andres M. Bran | ПРОИСХОЖДЕНИЕ | 0.78 | S038 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00538 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P092 — Sam Cox | ПРОИСХОЖДЕНИЕ | 0.78 | S038 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00539 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P093 — Oliver Schilter | ПРОИСХОЖДЕНИЕ | 0.78 | S038 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00540 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P094 — Carlo Baldassari | ПРОИСХОЖДЕНИЕ | 0.78 | S038 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00541 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P095 — Andrew D. White | ПРОИСХОЖДЕНИЕ | 0.78 | S038 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00542 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P096 — Philippe Schwaller | ПРОИСХОЖДЕНИЕ | 0.78 | S038 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00543 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T011 — ИИ-агенты 2.0 | ТЕМАТИЧЕСКАЯ | 0.56 | S038 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00544 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T012 — Мультиагентные экономики | ТЕМАТИЧЕСКАЯ | 0.56 | S038 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00545 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T013 — Торговля агент–агент | ТЕМАТИЧЕСКАЯ | 0.56 | S038 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00546 | F050 — Автономный химический ассистент: LLM + химические инструменты | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T014 — Машинные организации | ТЕМАТИЧЕСКАЯ | 0.56 | S038 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00547 | F050 — Автономный химический ассистент: LLM + химические инструменты | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S038 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00548 | F050 — Автономный химический ассистент: LLM + химические инструменты | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S038 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00549 | S011 — A-Lab | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F051 — Автономная роботизированная лаборатория материалов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S011 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00550 | F051 — Автономная роботизированная лаборатория материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P097 — Nathan Szymanski . | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00551 | F051 — Автономная роботизированная лаборатория материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P098 — Gerbrand Ceder | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00552 | F051 — Автономная роботизированная лаборатория материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P099 — Kristin Persson collaborators | ПРОИСХОЖДЕНИЕ | 0.78 | S011 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00553 | F051 — Автономная роботизированная лаборатория материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00554 | F051 — Автономная роботизированная лаборатория материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00555 | F051 — Автономная роботизированная лаборатория материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00556 | F051 — Автономная роботизированная лаборатория материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00557 | F051 — Автономная роботизированная лаборатория материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00558 | F051 — Автономная роботизированная лаборатория материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T052 — Метаматериалы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00559 | F051 — Автономная роботизированная лаборатория материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00560 | F051 — Автономная роботизированная лаборатория материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00561 | F051 — Автономная роботизированная лаборатория материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00562 | F051 — Автономная роботизированная лаборатория материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S011 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00563 | S023 — AlphaEvolve | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F052 — Эволюционный поиск кода и алгоритмов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S023 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00564 | F052 — Эволюционный поиск кода и алгоритмов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I027 — AlphaEvolve team | ПРОИСХОЖДЕНИЕ | 0.68 | S023 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00565 | F052 — Эволюционный поиск кода и алгоритмов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S023 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00566 | F052 — Эволюционный поиск кода и алгоритмов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00567 | F052 — Эволюционный поиск кода и алгоритмов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00568 | F052 — Эволюционный поиск кода и алгоритмов | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00569 | F052 — Эволюционный поиск кода и алгоритмов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00570 | F052 — Эволюционный поиск кода и алгоритмов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S023 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00571 | S039 — FunSearch | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | ДОКАЗАТЕЛЬНАЯ | 0.95 | S039 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00572 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P100 — Bernardino Romera-Paredes . | ПРОИСХОЖДЕНИЕ | 0.78 | S039 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00573 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S039 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00574 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00575 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00576 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00577 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T025 — Автономные строительные роботы | ТЕМАТИЧЕСКАЯ | 0.56 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00578 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00579 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00580 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S039 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00581 | S040 — AlphaDev | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F054 — Алгоритмы низкого уровня, открытые ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S040 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00582 | F054 — Алгоритмы низкого уровня, открытые ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P101 — Daniel Mankowitz | ПРОИСХОЖДЕНИЕ | 0.78 | S040 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00583 | F054 — Алгоритмы низкого уровня, открытые ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P102 — Andrea Michi . | ПРОИСХОЖДЕНИЕ | 0.78 | S040 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00584 | F054 — Алгоритмы низкого уровня, открытые ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S040 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00585 | F054 — Алгоритмы низкого уровня, открытые ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S040 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00586 | F054 — Алгоритмы низкого уровня, открытые ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T048 — Оптимизация «вычисления ↔ энергия» | ТЕМАТИЧЕСКАЯ | 0.56 | S040 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00587 | F054 — Алгоритмы низкого уровня, открытые ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S040 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00588 | F054 — Алгоритмы низкого уровня, открытые ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S040 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00589 | F054 — Алгоритмы низкого уровня, открытые ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S040 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00590 | S041 — AlphaTensor | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S041 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00591 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P103 — Alhussein Fawzi | ПРОИСХОЖДЕНИЕ | 0.78 | S041 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00592 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P104 — Matej Balog | ПРОИСХОЖДЕНИЕ | 0.78 | S041 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00593 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P100 — Bernardino Romera-Paredes . | ПРОИСХОЖДЕНИЕ | 0.78 | S041 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00594 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S041 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00595 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S041 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00596 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S041 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00597 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S041 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00598 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S041 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00599 | F055 — Открытие алгоритмов матричного умножения с помощью ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S041 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00600 | S017 — Constitutional AI | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F056 — Конституционный ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S017 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00601 | F056 — Конституционный ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P039 — Yuntao Bai . | ПРОИСХОЖДЕНИЕ | 0.78 | S017 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00602 | F056 — Конституционный ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I014 — Anthropic | ПРОИСХОЖДЕНИЕ | 0.68 | S017 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00603 | F056 — Конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00604 | F056 — Конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T015 — Движки управления и регулирования ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00605 | F056 — Конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00606 | F056 — Конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00607 | F056 — Конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M126 — Электронное государство | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S017 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00608 | S042 — AI Safety via Debate | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F057 — Безопасность ИИ через дебаты | ДОКАЗАТЕЛЬНАЯ | 0.95 | S042 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00609 | F057 — Безопасность ИИ через дебаты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P105 — Geoffrey Irving | ПРОИСХОЖДЕНИЕ | 0.78 | S042 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00610 | F057 — Безопасность ИИ через дебаты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P106 — Paul Christiano | ПРОИСХОЖДЕНИЕ | 0.78 | S042 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00611 | F057 — Безопасность ИИ через дебаты | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P107 — Dario Amodei | ПРОИСХОЖДЕНИЕ | 0.78 | S042 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00612 | F057 — Безопасность ИИ через дебаты | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S042 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00613 | F057 — Безопасность ИИ через дебаты | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S042 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00614 | F057 — Безопасность ИИ через дебаты | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S042 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00615 | S043 — ELK report | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F058 — Извлечение скрытых знаний из продвинутых систем | ДОКАЗАТЕЛЬНАЯ | 0.95 | S043 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00616 | F058 — Извлечение скрытых знаний из продвинутых систем | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P106 — Paul Christiano | ПРОИСХОЖДЕНИЕ | 0.78 | S043 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00617 | F058 — Извлечение скрытых знаний из продвинутых систем | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P108 — Mark Xu | ПРОИСХОЖДЕНИЕ | 0.78 | S043 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00618 | F058 — Извлечение скрытых знаний из продвинутых систем | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P109 — Ajeya Cotra / ARC | ПРОИСХОЖДЕНИЕ | 0.78 | S043 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00619 | F058 — Извлечение скрытых знаний из продвинутых систем | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S043 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00620 | F058 — Извлечение скрытых знаний из продвинутых систем | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S043 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00621 | F058 — Извлечение скрытых знаний из продвинутых систем | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S043 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00622 | S044 — CIRL | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F059 — Кооперативное обратное обучение с подкреплением | ДОКАЗАТЕЛЬНАЯ | 0.95 | S044 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00623 | F059 — Кооперативное обратное обучение с подкреплением | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P110 — Dylan Hadfield-Menell | ПРОИСХОЖДЕНИЕ | 0.78 | S044 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00624 | F059 — Кооперативное обратное обучение с подкреплением | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P111 — Anca Dragan | ПРОИСХОЖДЕНИЕ | 0.78 | S044 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00625 | F059 — Кооперативное обратное обучение с подкреплением | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P112 — Pieter Abbeel | ПРОИСХОЖДЕНИЕ | 0.78 | S044 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00626 | F059 — Кооперативное обратное обучение с подкреплением | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P113 — Stuart Russell | ПРОИСХОЖДЕНИЕ | 0.78 | S044 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00627 | F059 — Кооперативное обратное обучение с подкреплением | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S044 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00628 | F059 — Кооперативное обратное обучение с подкреплением | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T074 — Интерфейсы мозг–компьютер | ТЕМАТИЧЕСКАЯ | 0.56 | S044 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00629 | F059 — Кооперативное обратное обучение с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S044 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00630 | F059 — Кооперативное обратное обучение с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S044 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00631 | F059 — Кооперативное обратное обучение с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S044 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00632 | S045 — Collective Constitutional AI | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F060 — Коллективный конституционный ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S045 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00633 | F060 — Коллективный конституционный ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P114 — Saffron Huang | ПРОИСХОЖДЕНИЕ | 0.78 | S045 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00634 | F060 — Коллективный конституционный ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P115 — Divya Siddarth | ПРОИСХОЖДЕНИЕ | 0.78 | S045 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00635 | F060 — Коллективный конституционный ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P116 — Liane Lovitt . | ПРОИСХОЖДЕНИЕ | 0.78 | S045 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00636 | F060 — Коллективный конституционный ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I028 — Anthropic + Collective Intelligence Project | ПРОИСХОЖДЕНИЕ | 0.68 | S045 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00637 | F060 — Коллективный конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S045 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00638 | F060 — Коллективный конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T015 — Движки управления и регулирования ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S045 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00639 | F060 — Коллективный конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S045 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00640 | F060 — Коллективный конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S045 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00641 | F060 — Коллективный конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M126 — Электронное государство | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S045 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00642 | S046 — Measuring Progress on Scalable Oversight | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F061 — Масштабируемый надзор | ДОКАЗАТЕЛЬНАЯ | 0.95 | S046 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00643 | F061 — Масштабируемый надзор | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P117 — Samuel Bowman . | ПРОИСХОЖДЕНИЕ | 0.78 | S046 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00644 | F061 — Масштабируемый надзор | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S046 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00645 | F061 — Масштабируемый надзор | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | T074 — Интерфейсы мозг–компьютер | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S046 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00646 | F061 — Масштабируемый надзор | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S046 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00647 | F061 — Масштабируемый надзор | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S046 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00648 | F061 — Масштабируемый надзор | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | M135 — Человеко-машинная экономика | ОБЕСПЕЧИВАЮЩАЯ | 0.69 | S046 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00649 | S047 — AlphaFold2 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F062 — Предсказание структуры белков в масштабе протеома | ДОКАЗАТЕЛЬНАЯ | 0.95 | S047 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00650 | F062 — Предсказание структуры белков в масштабе протеома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P118 — John Jumper . | ПРОИСХОЖДЕНИЕ | 0.78 | S047 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00651 | F062 — Предсказание структуры белков в масштабе протеома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I029 — DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S047 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00652 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00653 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T003 — ИИ-учёные | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00654 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T019 — Машинные научные сети | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00655 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00656 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00657 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00658 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00659 | F062 — Предсказание структуры белков в масштабе протеома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S047 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00660 | S048 — AlphaFold 3 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F063 — Совместное моделирование биомолекулярных взаимодействий | ДОКАЗАТЕЛЬНАЯ | 0.95 | S048 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00661 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P119 — Josh Abramson . | ПРОИСХОЖДЕНИЕ | 0.78 | S048 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00662 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I030 — Google DeepMind / Isomorphic Labs | ПРОИСХОЖДЕНИЕ | 0.68 | S048 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00663 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00664 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00665 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00666 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T058 — Молекулярное производство | ТЕМАТИЧЕСКАЯ | 0.56 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00667 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T059 — Наномашины | ТЕМАТИЧЕСКАЯ | 0.56 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00668 | F063 — Совместное моделирование биомолекулярных взаимодействий | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T060 — Атомарно-точное производство | ТЕМАТИЧЕСКАЯ | 0.56 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00669 | F063 — Совместное моделирование биомолекулярных взаимодействий | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00670 | F063 — Совместное моделирование биомолекулярных взаимодействий | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00671 | F063 — Совместное моделирование биомолекулярных взаимодействий | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00672 | F063 — Совместное моделирование биомолекулярных взаимодействий | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S048 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00673 | S010 — AlphaGenome | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S010 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00674 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P015 — Ziga Avsec | ПРОИСХОЖДЕНИЕ | 0.78 | S010 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00675 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P120 — Natasha Latysheva . | ПРОИСХОЖДЕНИЕ | 0.78 | S010 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00676 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S010 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00677 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T061 — Программируемые клетки | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00678 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00679 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T064 — Синтетические организмы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00680 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T070 — Лекарства, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00681 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00682 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S010 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00683 | S049 — Enformer | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F065 — Предсказание дальнодействующей регуляции генома | ДОКАЗАТЕЛЬНАЯ | 0.95 | S049 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00684 | F065 — Предсказание дальнодействующей регуляции генома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P121 — Ziga Avsec . | ПРОИСХОЖДЕНИЕ | 0.78 | S049 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00685 | F065 — Предсказание дальнодействующей регуляции генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T061 — Программируемые клетки | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S049 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00686 | F065 — Предсказание дальнодействующей регуляции генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S049 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00687 | F065 — Предсказание дальнодействующей регуляции генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T064 — Синтетические организмы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S049 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00688 | F065 — Предсказание дальнодействующей регуляции генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T070 — Лекарства, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S049 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00689 | F065 — Предсказание дальнодействующей регуляции генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S049 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00690 | F065 — Предсказание дальнодействующей регуляции генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S049 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00691 | S050 — RFdiffusion | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F066 — Генеративное проектирование белков диффузионными моделями | ДОКАЗАТЕЛЬНАЯ | 0.95 | S050 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00692 | F066 — Генеративное проектирование белков диффузионными моделями | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P122 — Joseph Watson | ПРОИСХОЖДЕНИЕ | 0.78 | S050 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00693 | F066 — Генеративное проектирование белков диффузионными моделями | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P123 — David Juergens | ПРОИСХОЖДЕНИЕ | 0.78 | S050 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00694 | F066 — Генеративное проектирование белков диффузионными моделями | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P124 — Nathaniel Bennett . | ПРОИСХОЖДЕНИЕ | 0.78 | S050 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00695 | F066 — Генеративное проектирование белков диффузионными моделями | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I031 — David Baker lab | ПРОИСХОЖДЕНИЕ | 0.68 | S050 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00696 | F066 — Генеративное проектирование белков диффузионными моделями | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T031 — Коммерческий термоядерный синтез | ТЕМАТИЧЕСКАЯ | 0.56 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00697 | F066 — Генеративное проектирование белков диффузионными моделями | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T032 — Компактные термоядерные реакторы | ТЕМАТИЧЕСКАЯ | 0.56 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00698 | F066 — Генеративное проектирование белков диффузионными моделями | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T033 — Стеллараторы нового поколения | ТЕМАТИЧЕСКАЯ | 0.56 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00699 | F066 — Генеративное проектирование белков диффузионными моделями | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T034 — Гибридные термоядерно-ядерные системы | ТЕМАТИЧЕСКАЯ | 0.56 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00700 | F066 — Генеративное проектирование белков диффузионными моделями | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T051 — Материалы, спроектированные ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00701 | F066 — Генеративное проектирование белков диффузионными моделями | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T052 — Метаматериалы | ТЕМАТИЧЕСКАЯ | 0.56 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00702 | F066 — Генеративное проектирование белков диффузионными моделями | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00703 | F066 — Генеративное проектирование белков диффузионными моделями | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00704 | F066 — Генеративное проектирование белков диффузионными моделями | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00705 | F066 — Генеративное проектирование белков диффузионными моделями | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S050 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00706 | S051 — Science 2012 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F067 — Программируемое редактирование CRISPR-Cas9 | ДОКАЗАТЕЛЬНАЯ | 0.95 | S051 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00707 | F067 — Программируемое редактирование CRISPR-Cas9 | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P125 — Martin Jinek | ПРОИСХОЖДЕНИЕ | 0.78 | S051 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00708 | F067 — Программируемое редактирование CRISPR-Cas9 | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P126 — Krzysztof Chylinski | ПРОИСХОЖДЕНИЕ | 0.78 | S051 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00709 | F067 — Программируемое редактирование CRISPR-Cas9 | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P127 — Jennifer Doudna | ПРОИСХОЖДЕНИЕ | 0.78 | S051 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00710 | F067 — Программируемое редактирование CRISPR-Cas9 | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P128 — Emmanuelle Charpentier . | ПРОИСХОЖДЕНИЕ | 0.78 | S051 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00711 | F067 — Программируемое редактирование CRISPR-Cas9 | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T061 — Программируемые клетки | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S051 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00712 | F067 — Программируемое редактирование CRISPR-Cas9 | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S051 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00713 | F067 — Программируемое редактирование CRISPR-Cas9 | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T064 — Синтетические организмы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S051 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00714 | F067 — Программируемое редактирование CRISPR-Cas9 | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T070 — Лекарства, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S051 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00715 | F067 — Программируемое редактирование CRISPR-Cas9 | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S051 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00716 | F067 — Программируемое редактирование CRISPR-Cas9 | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S051 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00717 | S052 — Nature 2016 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F068 — Базовое редактирование без двунитевых разрывов ДНК | ДОКАЗАТЕЛЬНАЯ | 0.95 | S052 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00718 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P129 — Alexis Komor | ПРОИСХОЖДЕНИЕ | 0.78 | S052 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00719 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P130 — Yongjoo Kim | ПРОИСХОЖДЕНИЕ | 0.78 | S052 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00720 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P131 — Michael Packer | ПРОИСХОЖДЕНИЕ | 0.78 | S052 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00721 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P132 — John Zuris | ПРОИСХОЖДЕНИЕ | 0.78 | S052 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00722 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P133 — David Liu . | ПРОИСХОЖДЕНИЕ | 0.78 | S052 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00723 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T061 — Программируемые клетки | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S052 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00724 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S052 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00725 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T064 — Синтетические организмы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S052 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00726 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T070 — Лекарства, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S052 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00727 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S052 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00728 | F068 — Базовое редактирование без двунитевых разрывов ДНК | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S052 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00729 | S053 — Nature 2019 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F069 — Прайм-редактирование генома | ДОКАЗАТЕЛЬНАЯ | 0.95 | S053 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00730 | F069 — Прайм-редактирование генома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P134 — Andrew Anzalone | ПРОИСХОЖДЕНИЕ | 0.78 | S053 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00731 | F069 — Прайм-редактирование генома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P135 — Peyton Randolph | ПРОИСХОЖДЕНИЕ | 0.78 | S053 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00732 | F069 — Прайм-редактирование генома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P136 — Jessie Davis . | ПРОИСХОЖДЕНИЕ | 0.78 | S053 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00733 | F069 — Прайм-редактирование генома | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P137 — David Liu | ПРОИСХОЖДЕНИЕ | 0.78 | S053 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00734 | F069 — Прайм-редактирование генома | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T061 — Программируемые клетки | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S053 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00735 | F069 — Прайм-редактирование генома | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T063 — Белки, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S053 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00736 | F069 — Прайм-редактирование генома | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T064 — Синтетические организмы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S053 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00737 | F069 — Прайм-редактирование генома | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T070 — Лекарства, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S053 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00738 | F069 — Прайм-редактирование генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S053 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00739 | F069 — Прайм-редактирование генома | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S053 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00740 | S054 — Science: JCVI-syn3.0 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F070 — Минимальная синтетическая бактериальная клетка | ДОКАЗАТЕЛЬНАЯ | 0.95 | S054 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00741 | F070 — Минимальная синтетическая бактериальная клетка | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P138 — Clyde Hutchison III . | ПРОИСХОЖДЕНИЕ | 0.78 | S054 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00742 | F070 — Минимальная синтетическая бактериальная клетка | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I032 — J. Craig Venter Institute | ПРОИСХОЖДЕНИЕ | 0.68 | S054 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00743 | F070 — Минимальная синтетическая бактериальная клетка | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T061 — Программируемые клетки | ТЕМАТИЧЕСКАЯ | 0.56 | S054 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00744 | F070 — Минимальная синтетическая бактериальная клетка | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T063 — Белки, спроектированные ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S054 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00745 | F070 — Минимальная синтетическая бактериальная клетка | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T064 — Синтетические организмы | ТЕМАТИЧЕСКАЯ | 0.56 | S054 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00746 | F070 — Минимальная синтетическая бактериальная клетка | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T070 — Лекарства, спроектированные ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S054 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00747 | F070 — Минимальная синтетическая бактериальная клетка | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S054 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00748 | F070 — Минимальная синтетическая бактериальная клетка | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S054 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00749 | S055 — PNAS | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F071 — Спроектированные живые роботы / ксеноботы | ДОКАЗАТЕЛЬНАЯ | 0.95 | S055 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00750 | F071 — Спроектированные живые роботы / ксеноботы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P139 — Sam Kriegman | ПРОИСХОЖДЕНИЕ | 0.78 | S055 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00751 | F071 — Спроектированные живые роботы / ксеноботы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P140 — Douglas Blackiston | ПРОИСХОЖДЕНИЕ | 0.78 | S055 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00752 | F071 — Спроектированные живые роботы / ксеноботы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P141 — Michael Levin | ПРОИСХОЖДЕНИЕ | 0.78 | S055 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00753 | F071 — Спроектированные живые роботы / ксеноботы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P142 — Josh Bongard | ПРОИСХОЖДЕНИЕ | 0.78 | S055 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00754 | F071 — Спроектированные живые роботы / ксеноботы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00755 | F071 — Спроектированные живые роботы / ксеноботы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00756 | F071 — Спроектированные живые роботы / ксеноботы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00757 | F071 — Спроектированные живые роботы / ксеноботы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00758 | F071 — Спроектированные живые роботы / ксеноботы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00759 | F071 — Спроектированные живые роботы / ксеноботы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00760 | F071 — Спроектированные живые роботы / ксеноботы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00761 | F071 — Спроектированные живые роботы / ксеноботы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S055 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00762 | S056 — Organoid Intelligence | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F072 — Органоидный интеллект / биовычисления на органоидах мозга | ДОКАЗАТЕЛЬНАЯ | 0.95 | S056 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00763 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P143 — Lena Smirnova | ПРОИСХОЖДЕНИЕ | 0.78 | S056 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00764 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P144 — Brian Caffo | ПРОИСХОЖДЕНИЕ | 0.78 | S056 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00765 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P145 — David Gracias | ПРОИСХОЖДЕНИЕ | 0.78 | S056 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00766 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P146 — Brett Kagan | ПРОИСХОЖДЕНИЕ | 0.78 | S056 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00767 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P147 — Alysson Muotri | ПРОИСХОЖДЕНИЕ | 0.78 | S056 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00768 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P148 — Thomas Hartung . | ПРОИСХОЖДЕНИЕ | 0.78 | S056 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00769 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T074 — Интерфейсы мозг–компьютер | ТЕМАТИЧЕСКАЯ | 0.56 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00770 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T075 — Нейропротезы | ТЕМАТИЧЕСКАЯ | 0.56 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00771 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T076 — Интерфейсы мозг–мозг | ТЕМАТИЧЕСКАЯ | 0.56 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00772 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00773 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00774 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00775 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00776 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00777 | F072 — Органоидный интеллект / биовычисления на органоидах мозга | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S056 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00778 | S057 — DishBrain / Neuron | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F073 — Обучение живых нейронных систем в замкнутом контуре | ДОКАЗАТЕЛЬНАЯ | 0.95 | S057 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00779 | F073 — Обучение живых нейронных систем в замкнутом контуре | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P149 — Brett Kagan . | ПРОИСХОЖДЕНИЕ | 0.78 | S057 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00780 | F073 — Обучение живых нейронных систем в замкнутом контуре | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I033 — Cortical Labs | ПРОИСХОЖДЕНИЕ | 0.68 | S057 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00781 | F073 — Обучение живых нейронных систем в замкнутом контуре | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T048 — Оптимизация «вычисления ↔ энергия» | ТЕМАТИЧЕСКАЯ | 0.56 | S057 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00782 | F073 — Обучение живых нейронных систем в замкнутом контуре | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T063 — Белки, спроектированные ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S057 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00783 | F073 — Обучение живых нейронных систем в замкнутом контуре | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S057 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00784 | F073 — Обучение живых нейронных систем в замкнутом контуре | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S057 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00785 | F073 — Обучение живых нейронных систем в замкнутом контуре | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S057 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00786 | F073 — Обучение живых нейронных систем в замкнутом контуре | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S057 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00787 | S058 — Nature 2020 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | ДОКАЗАТЕЛЬНАЯ | 0.95 | S058 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00788 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P150 — Yuancheng Lu . | ПРОИСХОЖДЕНИЕ | 0.78 | S058 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00789 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I034 — David Sinclair lab | ПРОИСХОЖДЕНИЕ | 0.68 | S058 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00790 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T077 — Регенеративная медицина | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S058 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00791 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T079 — Клеточное перепрограммирование | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S058 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00792 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T080 — Инженерия долголетия | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S058 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00793 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S058 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00794 | F074 — Частичное эпигенетическое перепрограммирование для функционального омоложения | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S058 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00795 | S015 — High-performance speech neuroprosthesis | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | ДОКАЗАТЕЛЬНАЯ | 0.95 | S015 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00796 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P151 — Francis Willett . | ПРОИСХОЖДЕНИЕ | 0.78 | S015 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00797 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I035 — Jaimie Henderson lab | ПРОИСХОЖДЕНИЕ | 0.68 | S015 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00798 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T074 — Интерфейсы мозг–компьютер | ТЕМАТИЧЕСКАЯ | 0.56 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00799 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T075 — Нейропротезы | ТЕМАТИЧЕСКАЯ | 0.56 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00800 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T076 — Интерфейсы мозг–мозг | ТЕМАТИЧЕСКАЯ | 0.56 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00801 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00802 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00803 | F075 — Высокопроизводительный нейропротез речи «мозг → текст» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.58 | S015 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00804 | S059 — Nature 2019 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F076 — Нейронное декодирование непосредственно в синтезированную речь | ДОКАЗАТЕЛЬНАЯ | 0.95 | S059 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00805 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P152 — Gopala Anumanchipalli | ПРОИСХОЖДЕНИЕ | 0.78 | S059 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00806 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P153 — Josh Chartier | ПРОИСХОЖДЕНИЕ | 0.78 | S059 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00807 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P154 — Edward Chang | ПРОИСХОЖДЕНИЕ | 0.78 | S059 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00808 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T074 — Интерфейсы мозг–компьютер | ТЕМАТИЧЕСКАЯ | 0.56 | S059 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00809 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T075 — Нейропротезы | ТЕМАТИЧЕСКАЯ | 0.56 | S059 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00810 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T076 — Интерфейсы мозг–мозг | ТЕМАТИЧЕСКАЯ | 0.56 | S059 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00811 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M135 — Человеко-машинная экономика | ТЕМАТИЧЕСКАЯ | 0.52 | S059 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00812 | F076 — Нейронное декодирование непосредственно в синтезированную речь | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S059 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00813 | S060 — PNAS 2016 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F077 — 3D-биопечать толстых васкуляризованных тканей | ДОКАЗАТЕЛЬНАЯ | 0.95 | S060 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00814 | F077 — 3D-биопечать толстых васкуляризованных тканей | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P155 — David Kolesky | ПРОИСХОЖДЕНИЕ | 0.78 | S060 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00815 | F077 — 3D-биопечать толстых васкуляризованных тканей | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P156 — Kimberly Homan | ПРОИСХОЖДЕНИЕ | 0.78 | S060 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00816 | F077 — 3D-биопечать толстых васкуляризованных тканей | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P157 — Mark Skylar-Scott . | ПРОИСХОЖДЕНИЕ | 0.78 | S060 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00817 | F077 — 3D-биопечать толстых васкуляризованных тканей | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I036 — Jennifer Lewis lab | ПРОИСХОЖДЕНИЕ | 0.68 | S060 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00818 | F077 — 3D-биопечать толстых васкуляризованных тканей | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T078 — Биопечать органов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S060 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00819 | F077 — 3D-биопечать толстых васкуляризованных тканей | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M034 — Ноосфера | ТЕМАТИЧЕСКАЯ | 0.58 | S060 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00820 | F077 — 3D-биопечать толстых васкуляризованных тканей | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S060 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00821 | S061 — GNoME | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | ДОКАЗАТЕЛЬНАЯ | 0.95 | S061 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00822 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P158 — Amil Merchant | ПРОИСХОЖДЕНИЕ | 0.78 | S061 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00823 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P159 — Ekin Dogus Cubuk . | ПРОИСХОЖДЕНИЕ | 0.78 | S061 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00824 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I008 — Google DeepMind | ПРОИСХОЖДЕНИЕ | 0.68 | S061 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00825 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T002 — Автономный научный ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00826 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T003 — ИИ-учёные | ТЕМАТИЧЕСКАЯ | 0.56 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00827 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T019 — Машинные научные сети | ТЕМАТИЧЕСКАЯ | 0.56 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00828 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T051 — Материалы, спроектированные ИИ | ТЕМАТИЧЕСКАЯ | 0.56 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00829 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T052 — Метаматериалы | ТЕМАТИЧЕСКАЯ | 0.56 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00830 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T054 — Самовосстанавливающиеся материалы | ТЕМАТИЧЕСКАЯ | 0.56 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00831 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00832 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S061 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00833 | S062 — MatterGen | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F079 — Генеративное проектирование неорганических материалов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S062 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00834 | F079 — Генеративное проектирование неорганических материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P160 — Claudio Zeni | ПРОИСХОЖДЕНИЕ | 0.78 | S062 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00835 | F079 — Генеративное проектирование неорганических материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P161 — Robert Pinsler | ПРОИСХОЖДЕНИЕ | 0.78 | S062 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00836 | F079 — Генеративное проектирование неорганических материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P162 — Daniel Zügner . | ПРОИСХОЖДЕНИЕ | 0.78 | S062 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00837 | F079 — Генеративное проектирование неорганических материалов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I020 — Microsoft Research | ПРОИСХОЖДЕНИЕ | 0.68 | S062 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00838 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00839 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T052 — Метаматериалы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00840 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T054 — Самовосстанавливающиеся материалы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00841 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T056 — Двумерные материалы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00842 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T057 — Сверхвысокопрочные композиты | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00843 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00844 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00845 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ТЕМАТИЧЕСКАЯ | 0.58 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00846 | F079 — Генеративное проектирование неорганических материалов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ТЕМАТИЧЕСКАЯ | 0.58 | S062 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00847 | S063 — MatterSim | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F080 — Универсальное атомистическое моделирование в разных условиях | ДОКАЗАТЕЛЬНАЯ | 0.95 | S063 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00848 | F080 — Универсальное атомистическое моделирование в разных условиях | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P163 — Han Yang | ПРОИСХОЖДЕНИЕ | 0.78 | S063 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00849 | F080 — Универсальное атомистическое моделирование в разных условиях | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P164 — Chenxi Hu | ПРОИСХОЖДЕНИЕ | 0.78 | S063 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00850 | F080 — Универсальное атомистическое моделирование в разных условиях | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P165 — Yichi Zhou . | ПРОИСХОЖДЕНИЕ | 0.78 | S063 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00851 | F080 — Универсальное атомистическое моделирование в разных условиях | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I020 — Microsoft Research | ПРОИСХОЖДЕНИЕ | 0.68 | S063 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00852 | F080 — Универсальное атомистическое моделирование в разных условиях | **ИСПОЛЬЗУЕТ** (`USES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00853 | F080 — Универсальное атомистическое моделирование в разных условиях | **ИСПОЛЬЗУЕТ** (`USES`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00854 | F080 — Универсальное атомистическое моделирование в разных условиях | **ИСПОЛЬЗУЕТ** (`USES`) | T020 — Цифровой двойник цивилизации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00855 | F080 — Универсальное атомистическое моделирование в разных условиях | **ИСПОЛЬЗУЕТ** (`USES`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00856 | F080 — Универсальное атомистическое моделирование в разных условиях | **ИСПОЛЬЗУЕТ** (`USES`) | T052 — Метаматериалы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00857 | F080 — Универсальное атомистическое моделирование в разных условиях | **ИСПОЛЬЗУЕТ** (`USES`) | T054 — Самовосстанавливающиеся материалы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00858 | F080 — Универсальное атомистическое моделирование в разных условиях | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00859 | F080 — Универсальное атомистическое моделирование в разных условиях | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S063 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00860 | S064 — Nature 2001 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F081 — Самовосстанавливающиеся конструкционные материалы | ДОКАЗАТЕЛЬНАЯ | 0.95 | S064 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00861 | F081 — Самовосстанавливающиеся конструкционные материалы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P166 — S. R. White | ПРОИСХОЖДЕНИЕ | 0.78 | S064 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00862 | F081 — Самовосстанавливающиеся конструкционные материалы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P167 — N. R. Sottos | ПРОИСХОЖДЕНИЕ | 0.78 | S064 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00863 | F081 — Самовосстанавливающиеся конструкционные материалы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P168 — P. H. Geubelle . | ПРОИСХОЖДЕНИЕ | 0.78 | S064 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00864 | F081 — Самовосстанавливающиеся конструкционные материалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S064 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00865 | F081 — Самовосстанавливающиеся конструкционные материалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T052 — Метаматериалы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S064 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00866 | F081 — Самовосстанавливающиеся конструкционные материалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T054 — Самовосстанавливающиеся материалы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S064 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00867 | F081 — Самовосстанавливающиеся конструкционные материалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T056 — Двумерные материалы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S064 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00868 | F081 — Самовосстанавливающиеся конструкционные материалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T057 — Сверхвысокопрочные композиты | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S064 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00869 | F081 — Самовосстанавливающиеся конструкционные материалы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S064 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00870 | S012 — Programmable mechanical metamaterials | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F082 — Программируемые текстурированные механические метаматериалы | ДОКАЗАТЕЛЬНАЯ | 0.95 | S012 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00871 | F082 — Программируемые текстурированные механические метаматериалы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P169 — Corentin Coulais . | ПРОИСХОЖДЕНИЕ | 0.78 | S012 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00872 | F082 — Программируемые текстурированные механические метаматериалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00873 | F082 — Программируемые текстурированные механические метаматериалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00874 | F082 — Программируемые текстурированные механические метаматериалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00875 | F082 — Программируемые текстурированные механические метаматериалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00876 | F082 — Программируемые текстурированные механические метаматериалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00877 | F082 — Программируемые текстурированные механические метаматериалы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T052 — Метаматериалы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00878 | F082 — Программируемые текстурированные механические метаматериалы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00879 | F082 — Программируемые текстурированные механические метаматериалы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00880 | F082 — Программируемые текстурированные механические метаматериалы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S012 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00881 | S065 — Nature Chemistry | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F083 — Автономная молекулярная сборка / программируемый химический синтез | ДОКАЗАТЕЛЬНАЯ | 0.95 | S065 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00882 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P170 — Wenjing Meng | ПРОИСХОЖДЕНИЕ | 0.78 | S065 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00883 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P171 — Richard Muscat | ПРОИСХОЖДЕНИЕ | 0.78 | S065 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00884 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P172 — Mireya McKee . | ПРОИСХОЖДЕНИЕ | 0.78 | S065 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00885 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P173 — Andrew Turberfield | ПРОИСХОЖДЕНИЕ | 0.78 | S065 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00886 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T058 — Молекулярное производство | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S065 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00887 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T059 — Наномашины | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S065 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00888 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T060 — Атомарно-точное производство | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S065 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00889 | F083 — Автономная молекулярная сборка / программируемый химический синтез | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S065 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00890 | S066 — Nature 2022 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | ДОКАЗАТЕЛЬНАЯ | 0.95 | S066 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00891 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P174 — Jonas Degrave . | ПРОИСХОЖДЕНИЕ | 0.78 | S066 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00892 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I037 — DeepMind + Swiss Plasma Center | ПРОИСХОЖДЕНИЕ | 0.68 | S066 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00893 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T031 — Коммерческий термоядерный синтез | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00894 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T032 — Компактные термоядерные реакторы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00895 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T033 — Стеллараторы нового поколения | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00896 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T034 — Гибридные термоядерно-ядерные системы | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00897 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00898 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00899 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00900 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S066 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00901 | S067 — ARPA-E SUPERHOT | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F085 — Сверхгорячая геотермальная энергетика | ДОКАЗАТЕЛЬНАЯ | 0.95 | S067 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00902 | F085 — Сверхгорячая геотермальная энергетика | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I038 — ARPA-E SUPERHOT program | ПРОИСХОЖДЕНИЕ | 0.68 | S067 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00903 | F085 — Сверхгорячая геотермальная энергетика | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T039 — Сверхгорячая геотермальная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S067 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00904 | F085 — Сверхгорячая геотермальная энергетика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M075 — Территориально-производственные комплексы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S067 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00905 | F085 — Сверхгорячая геотермальная энергетика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S067 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00906 | F085 — Сверхгорячая геотермальная энергетика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S067 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00907 | F085 — Сверхгорячая геотермальная энергетика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S067 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00908 | S068 — Oklo technology | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F086 — Компактные натриевые быстрые микрореакторы | ДОКАЗАТЕЛЬНАЯ | 0.95 | S068 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00909 | F086 — Компактные натриевые быстрые микрореакторы | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I039 — Oklo Aurora | ПРОИСХОЖДЕНИЕ | 0.68 | S068 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00910 | F086 — Компактные натриевые быстрые микрореакторы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T035 — Малые модульные реакторы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00911 | F086 — Компактные натриевые быстрые микрореакторы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T036 — Микрореакторы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00912 | F086 — Компактные натриевые быстрые микрореакторы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T037 — Реакторы быстрого спектра | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00913 | F086 — Компактные натриевые быстрые микрореакторы | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T038 — Замкнутый ядерный топливный цикл | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00914 | F086 — Компактные натриевые быстрые микрореакторы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00915 | F086 — Компактные натриевые быстрые микрореакторы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00916 | F086 — Компактные натриевые быстрые микрореакторы | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M138 — СИБИРСКИЙ МАНХЭТТЕН | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S068 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00917 | S069 — Caltech SSPP | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | ДОКАЗАТЕЛЬНАЯ | 0.95 | S069 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00918 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P175 — Ali Hajimiri | ПРОИСХОЖДЕНИЕ | 0.78 | S069 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00919 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P176 — Sergio Pellegrino | ПРОИСХОЖДЕНИЕ | 0.78 | S069 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00920 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I040 — Caltech Space Solar Power Project | ПРОИСХОЖДЕНИЕ | 0.68 | S069 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00921 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I041 — Harry Atwater teams | ПРОИСХОЖДЕНИЕ | 0.68 | S069 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00922 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T040 — Космическая солнечная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00923 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T093 — Космическая солнечная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00924 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T041 — Всё-в-сеть / Everything-to-Grid | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00925 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T042 — ИИ-управляемая энергосеть | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00926 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T043 — Виртуальные электростанции | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00927 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T049 — Энергетический интернет | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00928 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00929 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00930 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00931 | F087 — Космическая солнечная энергетика с беспроводной передачей энергии | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S069 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00932 | S070 — Making quantum error correction work | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F088 — Квантовая коррекция ошибок ниже порогового уровня | ДОКАЗАТЕЛЬНАЯ | 0.95 | S070 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00933 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I042 — Google Quantum AI / Willow team | ПРОИСХОЖДЕНИЕ | 0.68 | S070 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00934 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T081 — Отказоустойчивые квантовые компьютеры | ПРИЧИННАЯ | 0.82 | S070 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00935 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T082 — Квантовое моделирование | ПРИЧИННАЯ | 0.82 | S070 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00936 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T089 — Квантовое машинное обучение | ПРИЧИННАЯ | 0.82 | S070 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00937 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T090 — Квантовые химические вычислители | ПРИЧИННАЯ | 0.82 | S070 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00938 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S070 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00939 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S070 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00940 | S071 — IBM Quantum Roadmap | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | ДОКАЗАТЕЛЬНАЯ | 0.95 | S071 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00941 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P177 — Starling roadmap | ПРОИСХОЖДЕНИЕ | 0.78 | S071 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00942 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I043 — IBM Quantum | ПРОИСХОЖДЕНИЕ | 0.68 | S071 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00943 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T081 — Отказоустойчивые квантовые компьютеры | ОБЕСПЕЧИВАЮЩАЯ | 0.70 | S071 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00944 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T082 — Квантовое моделирование | ТЕМАТИЧЕСКАЯ | 0.56 | S071 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00945 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T089 — Квантовое машинное обучение | ТЕМАТИЧЕСКАЯ | 0.56 | S071 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00946 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T090 — Квантовые химические вычислители | ТЕМАТИЧЕСКАЯ | 0.56 | S071 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00947 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S071 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00948 | F089 — Модульный отказоустойчивый квантовый суперкомпьютер | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S071 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00949 | S072 — DARPA QBI | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | ДОКАЗАТЕЛЬНАЯ | 0.95 | S072 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00950 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I044 — DARPA Quantum Benchmarking Initiative | ПРОИСХОЖДЕНИЕ | 0.68 | S072 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00951 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I045 — program manager Micah Stoutimore | ПРОИСХОЖДЕНИЕ | 0.68 | S072 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00952 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T081 — Отказоустойчивые квантовые компьютеры | ТЕМАТИЧЕСКАЯ | 0.56 | S072 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00953 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T082 — Квантовое моделирование | ТЕМАТИЧЕСКАЯ | 0.56 | S072 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00954 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T089 — Квантовое машинное обучение | ТЕМАТИЧЕСКАЯ | 0.56 | S072 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00955 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T090 — Квантовые химические вычислители | ТЕМАТИЧЕСКАЯ | 0.56 | S072 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00956 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S072 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00957 | S073 — Science 2018 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F091 — Архитектура квантового интернета | ДОКАЗАТЕЛЬНАЯ | 0.95 | S073 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00958 | F091 — Архитектура квантового интернета | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P178 — Stephanie Wehner | ПРОИСХОЖДЕНИЕ | 0.78 | S073 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00959 | F091 — Архитектура квантового интернета | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P179 — David Elkouss | ПРОИСХОЖДЕНИЕ | 0.78 | S073 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00960 | F091 — Архитектура квантового интернета | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P180 — Ronald Hanson | ПРОИСХОЖДЕНИЕ | 0.78 | S073 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00961 | F091 — Архитектура квантового интернета | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T084 — Квантовый интернет | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00962 | F091 — Архитектура квантового интернета | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T081 — Отказоустойчивые квантовые компьютеры | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00963 | F091 — Архитектура квантового интернета | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T082 — Квантовое моделирование | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00964 | F091 — Архитектура квантового интернета | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T089 — Квантовое машинное обучение | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00965 | F091 — Архитектура квантового интернета | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T090 — Квантовые химические вычислители | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00966 | F091 — Архитектура квантового интернета | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00967 | F091 — Архитектура квантового интернета | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M125 — Евразийское цифровое пространство | ТЕМАТИЧЕСКАЯ | 0.58 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00968 | F091 — Архитектура квантового интернета | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M140 — ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ ИНТЕРНЕТ | ТЕМАТИЧЕСКАЯ | 0.58 | S073 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00969 | S074 — NASA ISAM State of Play 2025 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | ДОКАЗАТЕЛЬНАЯ | 0.95 | S074 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00970 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P181 — John Mulvaney | ПРОИСХОЖДЕНИЕ | 0.78 | S074 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00971 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P182 — Dale Arney . | ПРОИСХОЖДЕНИЕ | 0.78 | S074 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00972 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I046 — NASA ISAM | ПРОИСХОЖДЕНИЕ | 0.68 | S074 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00973 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00974 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00975 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00976 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00977 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T092 — Орбитальное производство | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00978 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T098 — Автономная космическая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00979 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00980 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00981 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00982 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S074 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00983 | S075 — DARPA NOM4D demos | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F093 — Орбитальное производство сверхкрупных конструкций | ДОКАЗАТЕЛЬНАЯ | 0.95 | S075 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00984 | F093 — Орбитальное производство сверхкрупных конструкций | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I047 — DARPA NOM4D | ПРОИСХОЖДЕНИЕ | 0.68 | S075 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00985 | F093 — Орбитальное производство сверхкрупных конструкций | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I048 — Andrew Detor program line | ПРОИСХОЖДЕНИЕ | 0.68 | S075 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00986 | F093 — Орбитальное производство сверхкрупных конструкций | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00987 | F093 — Орбитальное производство сверхкрупных конструкций | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00988 | F093 — Орбитальное производство сверхкрупных конструкций | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00989 | F093 — Орбитальное производство сверхкрупных конструкций | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.74 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E00990 | F093 — Орбитальное производство сверхкрупных конструкций | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00991 | F093 — Орбитальное производство сверхкрупных конструкций | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00992 | F093 — Орбитальное производство сверхкрупных конструкций | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00993 | F093 — Орбитальное производство сверхкрупных конструкций | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M105 — Космическая промышленная инфраструктура | ТЕМАТИЧЕСКАЯ | 0.58 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00994 | F093 — Орбитальное производство сверхкрупных конструкций | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ТЕМАТИЧЕСКАЯ | 0.58 | S075 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E00995 | S007 — Advanced Automation for Space Missions | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F094 — Самореплицирующаяся / растущая лунная фабрика | ДОКАЗАТЕЛЬНАЯ | 0.95 | S007 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E00996 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P013 — Robert Freitas Jr. | ПРОИСХОЖДЕНИЕ | 0.78 | S007 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00997 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P014 — William Gilbreath . | ПРОИСХОЖДЕНИЕ | 0.78 | S007 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E00998 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I049 — NASA/ASEE study | ПРОИСХОЖДЕНИЕ | 0.68 | S007 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E00999 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ИСПОЛЬЗУЕТ** (`USES`) | T021 — Гуманоидные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01000 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ИСПОЛЬЗУЕТ** (`USES`) | T022 — Универсальные промышленные роботы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01001 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ИСПОЛЬЗУЕТ** (`USES`) | T023 — Фундаментальные модели для роботов | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01002 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ИСПОЛЬЗУЕТ** (`USES`) | T024 — Роевая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01003 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ИСПОЛЬЗУЕТ** (`USES`) | T095 — Лунные промышленные базы | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01004 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ИСПОЛЬЗУЕТ** (`USES`) | T098 — Автономная космическая робототехника | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01005 | F094 — Самореплицирующаяся / растущая лунная фабрика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M134 — Промышленная роботизация | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01006 | F094 — Самореплицирующаяся / растущая лунная фабрика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M144 — РОБОСИБИРЬ | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01007 | F094 — Самореплицирующаяся / растущая лунная фабрика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M075 — Территориально-производственные комплексы | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01008 | F094 — Самореплицирующаяся / растущая лунная фабрика | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01009 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01010 | F094 — Самореплицирующаяся / растущая лунная фабрика | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S007 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01011 | S076 — NASA/DOE lunar reactor program | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F095 — Лунная ядерная энергетика поверхности | ДОКАЗАТЕЛЬНАЯ | 0.95 | S076 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01012 | F095 — Лунная ядерная энергетика поверхности | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I050 — NASA + U.S. Department of Energy | ПРОИСХОЖДЕНИЕ | 0.68 | S076 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01013 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T035 — Малые модульные реакторы | ТЕМАТИЧЕСКАЯ | 0.56 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01014 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T036 — Микрореакторы | ТЕМАТИЧЕСКАЯ | 0.56 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01015 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T037 — Реакторы быстрого спектра | ТЕМАТИЧЕСКАЯ | 0.56 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01016 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T038 — Замкнутый ядерный топливный цикл | ТЕМАТИЧЕСКАЯ | 0.56 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01017 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T041 — Всё-в-сеть / Everything-to-Grid | ТЕМАТИЧЕСКАЯ | 0.56 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01018 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | T042 — ИИ-управляемая энергосеть | ТЕМАТИЧЕСКАЯ | 0.56 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01019 | F095 — Лунная ядерная энергетика поверхности | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M075 — Территориально-производственные комплексы | ТЕМАТИЧЕСКАЯ | 0.52 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01020 | F095 — Лунная ядерная энергетика поверхности | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.52 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01021 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01022 | F095 — Лунная ядерная энергетика поверхности | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S076 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01023 | S021 — Starcloud / NVIDIA | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | ДОКАЗАТЕЛЬНАЯ | 0.95 | S021 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01024 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P047 — Philip Johnston | ПРОИСХОЖДЕНИЕ | 0.78 | S021 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E01025 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P048 — Ezra Feilden | ПРОИСХОЖДЕНИЕ | 0.78 | S021 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E01026 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P049 — Adi Oltean | ПРОИСХОЖДЕНИЕ | 0.78 | S021 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E01027 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I017 — Starcloud | ПРОИСХОЖДЕНИЕ | 0.68 | S021 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01028 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **ИСПОЛЬЗУЕТ** (`USES`) | T091 — Космические дата-центры | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01029 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01030 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01031 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M088 — Атомная энергетика | ТЕМАТИЧЕСКАЯ | 0.58 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01032 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M137 — ГОЭЛРО-2 | ТЕМАТИЧЕСКАЯ | 0.58 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01033 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M143 — СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС | ТЕМАТИЧЕСКАЯ | 0.58 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01034 | F096 — Орбитальные дата-центры / ИИ-вычисления в космосе | **ЗАВИСИТ ОТ** (`DEPENDS_ON`) | M105 — Космическая промышленная инфраструктура | ОБЕСПЕЧИВАЮЩАЯ | 0.68 | S021 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01035 | S013 — AlphaEarth Foundations | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F097 — Планетарная геопространственная фундаментальная модель | ДОКАЗАТЕЛЬНАЯ | 0.95 | S013 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01036 | F097 — Планетарная геопространственная фундаментальная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I010 — AlphaEarth Foundations team | ПРОИСХОЖДЕНИЕ | 0.68 | S013 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01037 | F097 — Планетарная геопространственная фундаментальная модель | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I051 — Google DeepMind / Earth Engine | ПРОИСХОЖДЕНИЕ | 0.68 | S013 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01038 | F097 — Планетарная геопространственная фундаментальная модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T002 — Автономный научный ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01039 | F097 — Планетарная геопространственная фундаментальная модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T020 — Цифровой двойник цивилизации | ОБЕСПЕЧИВАЮЩАЯ | 0.72 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01040 | F097 — Планетарная геопространственная фундаментальная модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M133 — Национальный искусственный интеллект | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01041 | F097 — Планетарная геопространственная фундаментальная модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01042 | F097 — Планетарная геопространственная фундаментальная модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M039 — Планетарный мониторинг Земли | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01043 | F097 — Планетарная геопространственная фундаментальная модель | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S013 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01044 | S014 — Destination Earth Digital Twins | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F098 — Операционные цифровые двойники системы Земли | ДОКАЗАТЕЛЬНАЯ | 0.95 | S014 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01045 | F098 — Операционные цифровые двойники системы Земли | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I052 — Destination Earth / ECMWF and partners | ПРОИСХОЖДЕНИЕ | 0.68 | S014 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01046 | F098 — Операционные цифровые двойники системы Земли | **ИСПОЛЬЗУЕТ** (`USES`) | T001 — Мировые модели | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01047 | F098 — Операционные цифровые двойники системы Земли | **ИСПОЛЬЗУЕТ** (`USES`) | T010 — Моделирование цивилизационного масштаба с помощью ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01048 | F098 — Операционные цифровые двойники системы Земли | **ИСПОЛЬЗУЕТ** (`USES`) | T020 — Цифровой двойник цивилизации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01049 | F098 — Операционные цифровые двойники системы Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M039 — Планетарный мониторинг Земли | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01050 | F098 — Операционные цифровые двойники системы Земли | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | M136 — НООСФЕРА-1 | ТЕМАТИЧЕСКАЯ | 0.58 | S014 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01051 | S077 — x402 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | ДОКАЗАТЕЛЬНАЯ | 0.95 | S077 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01052 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P183 — Erik Reppel | ПРОИСХОЖДЕНИЕ | 0.78 | S077 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E01053 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P184 — Nemil Dalal | ПРОИСХОЖДЕНИЕ | 0.78 | S077 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E01054 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | P185 — Dan Kim | ПРОИСХОЖДЕНИЕ | 0.78 | S077 | АТРИБУЦИЯ | АТРИБУЦИЯ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная атрибуция автора из Frontier Graph 1.0. |
+| E01055 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I053 — Coinbase x402 | ПРОИСХОЖДЕНИЕ | 0.68 | S077 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01056 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S077 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01057 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S077 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01058 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S077 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01059 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S077 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01060 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M128 — Цифровой рубль | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S077 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01061 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M141 — ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S077 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01062 | S078 — AP2 | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | ДОКАЗАТЕЛЬНАЯ | 0.95 | S078 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01063 | S079 — ACP | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | ДОКАЗАТЕЛЬНАЯ | 0.95 | S079 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01064 | S080 — UCP | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | ДОКАЗАТЕЛЬНАЯ | 0.95 | S080 | ПРОИСХОЖДЕНИЕ / ПЕРВОИСТОЧНИК | ПРОИСХОЖДЕНИЕ ПРОВЕРЕНО | ДА | 2026-09-27 | Каноническое происхождение источника. |
+| E01065 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I054 — Google AP2/UCP ecosystem | ПРОИСХОЖДЕНИЕ | 0.68 | S078;S079;S080 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01066 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ПРЕДЛОЖЕНО / СВЯЗАНО С АВТОРОМ** (`PROPOSED_BY`) | I055 — Stripe/OpenAI ACP ecosystem | ПРОИСХОЖДЕНИЕ | 0.68 | S078;S079;S080 | АТРИБУЦИЯ | СВЯЗЬ С ПРОГРАММОЙ ПРОВЕРЕНА | НЕТ | 2026-09-27 | Репрезентативная связь с институтом/программой; это не утверждение о финансировании. |
+| E01067 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ИСПОЛЬЗУЕТ** (`USES`) | T011 — ИИ-агенты 2.0 | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S078;S079;S080 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01068 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ИСПОЛЬЗУЕТ** (`USES`) | T012 — Мультиагентные экономики | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S078;S079;S080 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01069 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ИСПОЛЬЗУЕТ** (`USES`) | T013 — Торговля агент–агент | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S078;S079;S080 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01070 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ИСПОЛЬЗУЕТ** (`USES`) | T014 — Машинные организации | ОБЕСПЕЧИВАЮЩАЯ | 0.66 | S078;S079;S080 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи MAPS_TO_TECHNOLOGY. Источник подтверждает фронтирный узел; прямое доказательство самой связи всё ещё требует экспертной проверки. |
+| E01071 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M150 — ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК | ОБЕСПЕЧИВАЮЩАЯ | 0.64 | S078;S079;S080 | ИСТОЧНИК ПОДТВЕРЖДАЕТ ТОЛЬКО УЗЕЛ | АВТОКУРАЦИЯ — НУЖНО ОТДЕЛЬНОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | НЕТ | 2026-09-27 | Семантическая курация M3 бывшей связи CONTRIBUTES_TO_MEGAPROJECT. Пока не найдено отдельное доказательство, связь является системной интерпретацией SINERGY. |
+| E01072 | F003 — Автономная наука / ИИ-соисследователь | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F051 — Автономная роботизированная лаборатория материалов | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S003;S011 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01073 | F052 — Эволюционный поиск кода и алгоритмов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S023;S066 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01074 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F051 — Автономная роботизированная лаборатория материалов | ОБЕСПЕЧИВАЮЩАЯ | 0.82 | S061;S011 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | от вычислительного предложения материала к роботизированному синтезу |
+| E01075 | F079 — Генеративное проектирование неорганических материалов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F080 — Универсальное атомистическое моделирование в разных условиях | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S062;S063 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01076 | F080 — Универсальное атомистическое моделирование в разных условиях | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F051 — Автономная роботизированная лаборатория материалов | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S063;S011 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01077 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F067 — Программируемое редактирование CRISPR-Cas9 | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S010;S051 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01078 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F068 — Базовое редактирование без двунитевых разрывов ДНК | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S010;S052 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01079 | F064 — Фундаментальная модель регуляторных эффектов геномных вариантов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F069 — Прайм-редактирование генома | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S010;S053 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01080 | F043 — Физический ИИ на базе Gemini | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F046 — Открытые фундаментальные модели для гуманоидов | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S005;S006 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01081 | F046 — Открытые фундаментальные модели для гуманоидов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F041 — Межплатформенное обучение роботов на разных телах | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S006;S033 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01082 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F093 — Орбитальное производство сверхкрупных конструкций | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S074;S075 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01083 | F093 — Орбитальное производство сверхкрупных конструкций | **ТРЕБУЕТ** (`REQUIRES`) | F095 — Лунная ядерная энергетика поверхности | ПРИЧИННАЯ | 0.82 | S075;S076 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | космическое производство, обеспеченное устойчивой поверхностной энергетикой |
+| E01084 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | ОБЕСПЕЧИВАЮЩАЯ | 0.76 | S077;S078;S079;S080 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Каноническая взаимно усиливающая комбинация. Направление сохранено для стабильного представления; концептуально связь двусторонняя. |
+| E01085 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | ОБЕСПЕЧИВАЮЩАЯ | 0.82 | S078;S079;S080;S016 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | экономическое взаимодействие устойчивых агентов |
+| E01086 | F097 — Планетарная геопространственная фундаментальная модель | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F098 — Операционные цифровые двойники системы Земли | ОБЕСПЕЧИВАЮЩАЯ | 0.82 | S013;S014 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | планетарное представление данных, питающее цифровые двойники Земли |
+| E01087 | F098 — Операционные цифровые двойники системы Земли | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F016 — Операционная система Земли / цифровой двойник Земли | ОБЕСПЕЧИВАЮЩАЯ | 0.82 | S014 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | цифровой двойник как вход для синтеза Операционной системы Земли |
+| E01088 | F052 — Эволюционный поиск кода и алгоритмов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F029 — Размножитель технологий / Technology Breeder | ОБЕСПЕЧИВАЮЩАЯ | 0.80 | S023 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | эволюция алгоритмов как предшественник Technology Breeder |
+| E01089 | F053 — Поиск новых математических и вычислительных конструкций с помощью LLM | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F029 — Размножитель технологий / Technology Breeder | ОБЕСПЕЧИВАЮЩАЯ | 0.80 | S039 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | поиск под управлением LLM как предшественник Technology Breeder |
+| E01090 | F004 — Полностью автоматизированный ИИ-учёный | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F029 — Размножитель технологий / Technology Breeder | ОБЕСПЕЧИВАЮЩАЯ | 0.80 | S004 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | автономная наука как предшественник Technology Breeder |
+| E01091 | F090 — Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости» | **ПОДТВЕРЖДАЕТ / ВАЛИДИРУЕТ** (`VALIDATES`) | T081 — Отказоустойчивые квантовые компьютеры | ДОКАЗАТЕЛЬНАЯ | 0.88 | S072 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | DARPA QBI explicitly evaluates whether utility-scale quantum computing can deliver value exceeding cost. |
+| E01092 | F088 — Квантовая коррекция ошибок ниже порогового уровня | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | T081 — Отказоустойчивые квантовые компьютеры | ОБЕСПЕЧИВАЮЩАЯ | 0.88 | S070 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | Below-threshold quantum error correction is a direct enabling step toward fault-tolerant quantum computing. |
+| E01093 | F084 — Управление термоядерной плазмой глубоким обучением с подкреплением | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T031 — Коммерческий термоядерный синтез | ОБЕСПЕЧИВАЮЩАЯ | 0.86 | S066 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | Deep-RL plasma control increases control capability relevant to fusion systems. |
+| E01094 | F078 — Массовое открытие стабильных кристаллических структур с помощью ИИ | **ПРОИЗВОДИТ** (`PRODUCES`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.82 | S061 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | GNoME produces computational candidates for new stable materials. |
+| E01095 | F051 — Автономная роботизированная лаборатория материалов | **ПРОИЗВОДИТ** (`PRODUCES`) | T051 — Материалы, спроектированные ИИ | ОБЕСПЕЧИВАЮЩАЯ | 0.84 | S011 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | A-Lab autonomously synthesizes and tests inorganic material candidates. |
+| E01096 | F054 — Алгоритмы низкого уровня, открытые ИИ | **СНИЖАЕТ СТОИМОСТЬ** (`REDUCES_COST_OF`) | T048 — Оптимизация «вычисления ↔ энергия» | ПРИЧИННАЯ | 0.80 | S040 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | AlphaDev targets more efficient low-level algorithms, reducing compute work for affected operations. |
+| E01097 | F052 — Эволюционный поиск кода и алгоритмов | **УВЕЛИЧИВАЕТ ВОЗМОЖНОСТИ** (`INCREASES_CAPACITY_OF`) | T048 — Оптимизация «вычисления ↔ энергия» | ОБЕСПЕЧИВАЮЩАЯ | 0.80 | S023 | ПРЯМОЕ ДОКАЗАТЕЛЬСТВО СВЯЗИ | СВЯЗЬ ПРОВЕРЕНА ПО ИСТОЧНИКУ | ДА | 2026-09-27 | AlphaEvolve searches for improved algorithms and infrastructure optimizations. |
+| E01098 | F099 — Машинные HTTP-платежи / микроплатежи автономных агентов | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | ОБЕСПЕЧИВАЮЩАЯ | 0.78 | S077;S016 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Machine-native payments enable economic interaction among autonomous agents. |
+| E01099 | F100 — Интероперабельная агентная коммерция и аудируемые делегированные платежи | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | УПРАВЛЕНИЕ | 0.78 | S078;S079;S080;S016 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Delegated payment/commerce protocols constrain and audit agent economic actions. |
+| E01100 | F095 — Лунная ядерная энергетика поверхности | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.80 | S076 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Durable lunar surface power is an enabling dependency for a persistent lunar industrial node. |
+| E01101 | F092 — Орбитальное обслуживание, сборка и производство как инфраструктурный стек | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | M147 — ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС | ОБЕСПЕЧИВАЮЩАЯ | 0.78 | S074 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | In-space servicing, assembly and manufacturing are enabling capabilities for a lunar/orbital industrial stack. |
+| E01102 | F097 — Планетарная геопространственная фундаментальная модель | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F098 — Операционные цифровые двойники системы Земли | ОБЕСПЕЧИВАЮЩАЯ | 0.82 | S013;S014 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Planet-scale geospatial representation can feed operational Earth-system digital twins. |
+| E01103 | F056 — Конституционный ИИ | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | УПРАВЛЕНИЕ | 0.78 | S017;S016 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Constitutional constraints are a governance mechanism for persistent agent systems. |
+| E01104 | F061 — Масштабируемый надзор | **УПРАВЛЯЕТ / РЕГУЛИРУЕТ** (`GOVERNS`) | F022 — Цивилизация агентов / устойчивые мультиагентные социальные системы | УПРАВЛЕНИЕ | 0.76 | S046;S016 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | Scalable oversight is a governance dependency for large autonomous-agent systems. |
+| E01105 | F003 — Автономная наука / ИИ-соисследователь | **ОБЕСПЕЧИВАЕТ** (`ENABLES`) | F051 — Автономная роботизированная лаборатория материалов | ОБЕСПЕЧИВАЮЩАЯ | 0.80 | S003;S011 | КАНОНИЧЕСКИЙ СИНТЕЗ SINERGY | КАНОНИЧЕСКАЯ СВЯЗЬ SINERGY ПРОВЕРЕНА | ДА | 2026-09-27 | AI hypothesis generation plus robotic synthesis closes a theory-to-experiment loop. |
+
+---
+
+# 15. ПЕРВОИСТОЧНИКИ — S-УЗЛЫ
+
+Официальные названия публикаций и проектов сохраняются в оригинале, чтобы их можно было однозначно сопоставить с первоисточником. Пояснения документации вокруг них — русские.
+
+| ID | Официальное название источника | URL | Связанные F-узлы |
+|---|---|---|---|
+| S001 | Post-AGI Civilizational Equilibria | https://post-agi.org/ | F001;F019;F020 |
+| S002 | World Models | https://arxiv.org/abs/1803.10122 | F002 |
+| S003 | AI co-scientist | https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/ | F003;F012;F049 |
+| S004 | The AI Scientist | https://arxiv.org/abs/2408.06292 | F004;F005 |
+| S005 | Gemini Robotics | https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/ | F006;F043;F044 |
+| S006 | Isaac GR00T | https://developer.nvidia.com/isaac/gr00t | F007;F046 |
+| S007 | Advanced Automation for Space Missions | https://ntrs.nasa.gov/citations/19830007077 | F008;F028;F094 |
+| S008 | Google data-center energy research context | https://deepmind.google/discover/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/ | F009 |
+| S009 | Vehicle-to-grid foundational review | https://doi.org/10.1016/j.jpowsour.2004.12.022 | F010 |
+| S010 | AlphaGenome | https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/ | F011;F064 |
+| S011 | A-Lab | https://www.nature.com/articles/s41586-023-06734-w | F013;F051 |
+| S012 | Programmable mechanical metamaterials | https://www.nature.com/articles/nature18960 | F014;F082 |
+| S013 | AlphaEarth Foundations | https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/ | F015;F097 |
+| S014 | Destination Earth Digital Twins | https://destine.ecmwf.int/digital-twins/ | F016;F098 |
+| S015 | High-performance speech neuroprosthesis | https://www.nature.com/articles/s41586-023-06377-x | F017;F075 |
+| S016 | Generative Agents | https://arxiv.org/abs/2304.03442 | F018;F022;F037 |
+| S017 | Constitutional AI | https://arxiv.org/abs/2212.08073 | F021;F056 |
+| S018 | AI Economist | https://arxiv.org/abs/2108.02755 | F023 |
+| S019 | ReAct | https://arxiv.org/abs/2210.03629 | F024;F030 |
+| S020 | NASA ISAM | https://www.nasa.gov/isam/ | F025 |
+| S021 | Starcloud / NVIDIA | https://blogs.nvidia.com/blog/starcloud/ | F026;F096 |
+| S022 | NASA Lunar Surface Innovation | https://www.nasa.gov/space-technology-mission-directorate/lunar-surface-innovation-initiative/ | F027 |
+| S023 | AlphaEvolve | https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/ | F029;F052 |
+| S024 | Toolformer | https://arxiv.org/abs/2302.04761 | F031 |
+| S025 | Reflexion | https://arxiv.org/abs/2303.11366 | F032 |
+| S026 | Tree of Thoughts | https://arxiv.org/abs/2305.10601 | F033 |
+| S027 | Self-Refine | https://arxiv.org/abs/2303.17651 | F034 |
+| S028 | AutoGen | https://arxiv.org/abs/2308.08155 | F035 |
+| S029 | Voyager | https://arxiv.org/abs/2305.16291 | F036 |
+| S030 | DreamerV3 | https://arxiv.org/abs/2301.04104 | F038 |
+| S031 | SayCan | https://arxiv.org/abs/2204.01691 | F039 |
+| S032 | PaLM-E | https://arxiv.org/abs/2303.03378 | F040 |
+| S033 | Open X-Embodiment / RT-X | https://arxiv.org/abs/2310.08864 | F041 |
+| S034 | RT-2 | https://arxiv.org/abs/2307.15818 | F042 |
+| S035 | Gemini Robotics family | https://deepmind.google/models/gemini-robotics/ | F045 |
+| S036 | Project Go-Big | https://www.figure.ai/news/project-go-big | F047 |
+| S037 | The AI Scientist | https://sakana.ai/ai-scientist/ | F048 |
+| S038 | ChemCrow | https://arxiv.org/abs/2304.05376 | F050 |
+| S039 | FunSearch | https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/ | F053 |
+| S040 | AlphaDev | https://deepmind.google/blog/alphadev-discovers-faster-sorting-algorithms/ | F054 |
+| S041 | AlphaTensor | https://deepmind.google/blog/discovering-novel-algorithms-with-alphatensor/ | F055 |
+| S042 | AI Safety via Debate | https://arxiv.org/abs/1805.00899 | F057 |
+| S043 | ELK report | https://www.alignmentforum.org/posts/QK7hM7XW7W6WZQ9To/eliciting-latent-knowledge | F058 |
+| S044 | CIRL | https://arxiv.org/abs/1606.03137 | F059 |
+| S045 | Collective Constitutional AI | https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input | F060 |
+| S046 | Measuring Progress on Scalable Oversight | https://arxiv.org/abs/2211.03540 | F061 |
+| S047 | AlphaFold2 | https://www.nature.com/articles/s41586-021-03819-2 | F062 |
+| S048 | AlphaFold 3 | https://www.nature.com/articles/s41586-024-07487-w | F063 |
+| S049 | Enformer | https://www.nature.com/articles/s41592-021-01252-x | F065 |
+| S050 | RFdiffusion | https://www.nature.com/articles/s41586-023-06415-8 | F066 |
+| S051 | Science 2012 | https://doi.org/10.1126/science.1225829 | F067 |
+| S052 | Nature 2016 | https://www.nature.com/articles/nature17946 | F068 |
+| S053 | Nature 2019 | https://www.nature.com/articles/s41586-019-1711-4 | F069 |
+| S054 | Science: JCVI-syn3.0 | https://doi.org/10.1126/science.aad6253 | F070 |
+| S055 | PNAS | https://www.pnas.org/doi/10.1073/pnas.1910837117 | F071 |
+| S056 | Organoid Intelligence | https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full | F072 |
+| S057 | DishBrain / Neuron | https://www.cell.com/neuron/fulltext/S0896-6273(22 | F073 |
+| S058 | Nature 2020 | https://www.nature.com/articles/s41586-020-2975-4 | F074 |
+| S059 | Nature 2019 | https://www.nature.com/articles/s41586-019-1119-1 | F076 |
+| S060 | PNAS 2016 | https://www.pnas.org/doi/10.1073/pnas.1521342113 | F077 |
+| S061 | GNoME | https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/ | F078 |
+| S062 | MatterGen | https://www.nature.com/articles/s41586-025-08628-5 | F079 |
+| S063 | MatterSim | https://www.microsoft.com/en-us/research/publication/mattersim-a-deep-learning-atomistic-model-across-elements-temperatures-and-pressures/ | F080 |
+| S064 | Nature 2001 | https://www.nature.com/articles/35057232 | F081 |
+| S065 | Nature Chemistry | https://www.nature.com/articles/nchem.2495 | F083 |
+| S066 | Nature 2022 | https://www.nature.com/articles/s41586-021-04301-9 | F084 |
+| S067 | ARPA-E SUPERHOT | https://arpa-e.energy.gov/technologies/programs/superhot | F085 |
+| S068 | Oklo technology | https://oklo.com/technology | F086 |
+| S069 | Caltech SSPP | https://www.spacesolar.caltech.edu/ | F087 |
+| S070 | Making quantum error correction work | https://research.google/blog/making-quantum-error-correction-work/ | F088 |
+| S071 | IBM Quantum Roadmap | https://www.ibm.com/roadmaps/quantum/ | F089 |
+| S072 | DARPA QBI | https://www.darpa.mil/research/programs/quantum-benchmarking-initiative | F090 |
+| S073 | Science 2018 | https://www.science.org/doi/10.1126/science.aam9288 | F091 |
+| S074 | NASA ISAM State of Play 2025 | https://ntrs.nasa.gov/citations/20250008988 | F092 |
+| S075 | DARPA NOM4D demos | https://www.darpa.mil/news/2025/novel-tech-space-structures | F093 |
+| S076 | NASA/DOE lunar reactor program | https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/ | F095 |
+| S077 | x402 | https://www.coinbase.com/developer-platform/discover/launches/x402 | F099 |
+| S078 | AP2 | https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/ | F100 |
+| S079 | ACP | https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce | F100 |
+| S080 | UCP | https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/ | F100 |
+
+---
+
+# 16. АВТОРЫ И ИССЛЕДОВАТЕЛЬСКИЕ ГРУППЫ — P-УЗЛЫ
+
+Имена собственные не переводятся.
+
+| ID | Автор / группа | Связанные F-узлы |
+|---|---|---|
+| P001 | David Duvenaud | F001 |
+| P002 | Jan Kulveit | F001 |
+| P003 | Raymond Douglas | F001 |
+| P004 | David Ha | F002;F004 |
+| P005 | Jürgen Schmidhuber | F002 |
+| P006 | Juraj Gottweis | F003 |
+| P007 | Vivek Natarajan | F003 |
+| P008 | Chris Lu | F004 |
+| P009 | Cong Lu | F004 |
+| P010 | Robert T. Lange | F004 |
+| P011 | Jakob Foerster | F004 |
+| P012 | Jeff Clune | F004 |
+| P013 | Robert Freitas Jr. | F008;F094 |
+| P014 | William Gilbreath . | F008;F094 |
+| P015 | Ziga Avsec | F011;F064 |
+| P016 | Natasha Latysheva | F011 |
+| P017 | Szymanski | F013 |
+| P018 | Rendy | F013 |
+| P019 | Fei | F013 |
+| P020 | Kumar | F013 |
+| P021 | Ceder | F013 |
+| P022 | Persson | F013 |
+| P023 | Corentin Coulais | F014 |
+| P024 | Eial Teomy | F014 |
+| P025 | Koen de Reus | F014 |
+| P026 | Yair Shokef | F014 |
+| P027 | Martin van Hecke | F014 |
+| P028 | Francis Willett | F017 |
+| P029 | Erin Kunz | F017 |
+| P030 | Chaofei Fan | F017 |
+| P031 | Jaimie Henderson . | F017 |
+| P032 | Joon Sung Park | F018 |
+| P033 | Joseph O'Brien | F018 |
+| P034 | Carrie Cai | F018 |
+| P035 | Meredith Ringel Morris | F018 |
+| P036 | Percy Liang | F018 |
+| P037 | Michael Bernstein | F018 |
+| P038 | Samuel Hammond | F020 |
+| P039 | Yuntao Bai . | F021;F056 |
+| P040 | Park . | F022 |
+| P041 | Stephan Zheng | F023 |
+| P042 | Alexander Trott | F023 |
+| P043 | Sunil Srinivasa | F023 |
+| P044 | David Parkes | F023 |
+| P045 | Richard Socher . | F023 |
+| P046 | agent/robot planning as substrate | F024 |
+| P047 | Philip Johnston | F026;F096 |
+| P048 | Ezra Feilden | F026;F096 |
+| P049 | Adi Oltean | F026;F096 |
+| P050 | Freitas | F028 |
+| P051 | Gilbreath . | F028 |
+| P052 | AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces | F029 |
+| P053 | Shunyu Yao | F030;F032;F033 |
+| P054 | Jeffrey Zhao | F030 |
+| P055 | Dian Yu | F030;F033 |
+| P056 | Nan Du | F030 |
+| P057 | Izhak Shafran | F030 |
+| P058 | Karthik Narasimhan | F030;F032 |
+| P059 | Yuan Cao | F030 |
+| P060 | Timo Schick | F031 |
+| P061 | Jane Dwivedi-Yu | F031 |
+| P062 | Roberto Dessì . | F031 |
+| P063 | Noah Shinn | F032 |
+| P064 | Federico Cassano | F032 |
+| P065 | Edward Berman | F032 |
+| P066 | Ashwin Gopinath | F032 |
+| P067 | Jeffrey Zhao . | F033 |
+| P068 | Aman Madaan . | F034 |
+| P069 | Qingyun Wu . | F035 |
+| P070 | Guanzhi Wang | F036 |
+| P071 | Yuqi Xie | F036 |
+| P072 | Yunfan Jiang | F036 |
+| P073 | Ajay Mandlekar | F036 |
+| P074 | Chaowei Xiao | F036 |
+| P075 | Yuke Zhu | F036 |
+| P076 | Linxi Fan | F036 |
+| P077 | Anima Anandkumar | F036 |
+| P078 | Joon Sung Park . | F037 |
+| P079 | Danijar Hafner | F038 |
+| P080 | Jurgis Pasukonis | F038 |
+| P081 | Jimmy Ba | F038 |
+| P082 | Timothy Lillicrap | F038 |
+| P083 | Michael Ahn . | F039 |
+| P084 | Danny Driess | F040 |
+| P085 | Fei Xia | F040 |
+| P086 | Mehdi Sajjadi . | F040 |
+| P087 | Anthony Brohan . | F042 |
+| P088 | Chris Lu . | F048 |
+| P089 | Gottweis | F049 |
+| P090 | Natarajan . | F049 |
+| P091 | Andres M. Bran | F050 |
+| P092 | Sam Cox | F050 |
+| P093 | Oliver Schilter | F050 |
+| P094 | Carlo Baldassari | F050 |
+| P095 | Andrew D. White | F050 |
+| P096 | Philippe Schwaller | F050 |
+| P097 | Nathan Szymanski . | F051 |
+| P098 | Gerbrand Ceder | F051 |
+| P099 | Kristin Persson collaborators | F051 |
+| P100 | Bernardino Romera-Paredes . | F053;F055 |
+| P101 | Daniel Mankowitz | F054 |
+| P102 | Andrea Michi . | F054 |
+| P103 | Alhussein Fawzi | F055 |
+| P104 | Matej Balog | F055 |
+| P105 | Geoffrey Irving | F057 |
+| P106 | Paul Christiano | F057;F058 |
+| P107 | Dario Amodei | F057 |
+| P108 | Mark Xu | F058 |
+| P109 | Ajeya Cotra / ARC | F058 |
+| P110 | Dylan Hadfield-Menell | F059 |
+| P111 | Anca Dragan | F059 |
+| P112 | Pieter Abbeel | F059 |
+| P113 | Stuart Russell | F059 |
+| P114 | Saffron Huang | F060 |
+| P115 | Divya Siddarth | F060 |
+| P116 | Liane Lovitt . | F060 |
+| P117 | Samuel Bowman . | F061 |
+| P118 | John Jumper . | F062 |
+| P119 | Josh Abramson . | F063 |
+| P120 | Natasha Latysheva . | F064 |
+| P121 | Ziga Avsec . | F065 |
+| P122 | Joseph Watson | F066 |
+| P123 | David Juergens | F066 |
+| P124 | Nathaniel Bennett . | F066 |
+| P125 | Martin Jinek | F067 |
+| P126 | Krzysztof Chylinski | F067 |
+| P127 | Jennifer Doudna | F067 |
+| P128 | Emmanuelle Charpentier . | F067 |
+| P129 | Alexis Komor | F068 |
+| P130 | Yongjoo Kim | F068 |
+| P131 | Michael Packer | F068 |
+| P132 | John Zuris | F068 |
+| P133 | David Liu . | F068 |
+| P134 | Andrew Anzalone | F069 |
+| P135 | Peyton Randolph | F069 |
+| P136 | Jessie Davis . | F069 |
+| P137 | David Liu | F069 |
+| P138 | Clyde Hutchison III . | F070 |
+| P139 | Sam Kriegman | F071 |
+| P140 | Douglas Blackiston | F071 |
+| P141 | Michael Levin | F071 |
+| P142 | Josh Bongard | F071 |
+| P143 | Lena Smirnova | F072 |
+| P144 | Brian Caffo | F072 |
+| P145 | David Gracias | F072 |
+| P146 | Brett Kagan | F072 |
+| P147 | Alysson Muotri | F072 |
+| P148 | Thomas Hartung . | F072 |
+| P149 | Brett Kagan . | F073 |
+| P150 | Yuancheng Lu . | F074 |
+| P151 | Francis Willett . | F075 |
+| P152 | Gopala Anumanchipalli | F076 |
+| P153 | Josh Chartier | F076 |
+| P154 | Edward Chang | F076 |
+| P155 | David Kolesky | F077 |
+| P156 | Kimberly Homan | F077 |
+| P157 | Mark Skylar-Scott . | F077 |
+| P158 | Amil Merchant | F078 |
+| P159 | Ekin Dogus Cubuk . | F078 |
+| P160 | Claudio Zeni | F079 |
+| P161 | Robert Pinsler | F079 |
+| P162 | Daniel Zügner . | F079 |
+| P163 | Han Yang | F080 |
+| P164 | Chenxi Hu | F080 |
+| P165 | Yichi Zhou . | F080 |
+| P166 | S. R. White | F081 |
+| P167 | N. R. Sottos | F081 |
+| P168 | P. H. Geubelle . | F081 |
+| P169 | Corentin Coulais . | F082 |
+| P170 | Wenjing Meng | F083 |
+| P171 | Richard Muscat | F083 |
+| P172 | Mireya McKee . | F083 |
+| P173 | Andrew Turberfield | F083 |
+| P174 | Jonas Degrave . | F084 |
+| P175 | Ali Hajimiri | F087 |
+| P176 | Sergio Pellegrino | F087 |
+| P177 | Starling roadmap | F089 |
+| P178 | Stephanie Wehner | F091 |
+| P179 | David Elkouss | F091 |
+| P180 | Ronald Hanson | F091 |
+| P181 | John Mulvaney | F092 |
+| P182 | Dale Arney . | F092 |
+| P183 | Erik Reppel | F099 |
+| P184 | Nemil Dalal | F099 |
+| P185 | Dan Kim | F099 |
+
+---
+
+# 17. ИНСТИТУТЫ И ПРОГРАММЫ — I-УЗЛЫ
+
+Официальные имена институтов и программ сохраняются там, где перевод мог бы ухудшить однозначность идентификации.
+
+| ID | Институт / программа | Связанные F-узлы |
+|---|---|---|
+| I001 | workshop participants | F001 |
+| I002 | Google Research | F003 |
+| I003 | AI Scientist and autonomous-lab work as enabling evidence | F005 |
+| I004 | Google DeepMind robotics teams | F006 |
+| I005 | NVIDIA Isaac GR00T team | F007;F046 |
+| I006 | NASA study | F008 |
+| I007 | distributed-energy / V2G research community | F010 |
+| I008 | Google DeepMind | F011;F042;F044;F045;F052;F053;F054;F064;F078 |
+| I009 | DeepMind collaborators | F013 |
+| I010 | AlphaEarth Foundations team | F015;F097 |
+| I011 | Destination Earth / ECMWF | F016 |
+| I012 | post-AGI economics community as representative source | F019 |
+| I013 | Post-AGI workshop | F020 |
+| I014 | Anthropic | F021;F056 |
+| I015 | AutoGen / multi-agent research | F022 |
+| I016 | NASA ISAM community | F025 |
+| I017 | Starcloud | F026;F096 |
+| I018 | NASA lunar ISRU / surface technology programs | F027 |
+| I019 | NASA Advanced Automation study | F028 |
+| I020 | Microsoft Research | F035;F079;F080 |
+| I021 | Google Robotics | F039 |
+| I022 | Open X-Embodiment Collaboration | F041 |
+| I023 | Google DeepMind robotics team | F043 |
+| I024 | Figure AI | F047 |
+| I025 | Sakana AI | F048 |
+| I026 | Google | F049 |
+| I027 | AlphaEvolve team | F052 |
+| I028 | Anthropic + Collective Intelligence Project | F060 |
+| I029 | DeepMind | F062 |
+| I030 | Google DeepMind / Isomorphic Labs | F063 |
+| I031 | David Baker lab | F066 |
+| I032 | J. Craig Venter Institute | F070 |
+| I033 | Cortical Labs | F073 |
+| I034 | David Sinclair lab | F074 |
+| I035 | Jaimie Henderson lab | F075 |
+| I036 | Jennifer Lewis lab | F077 |
+| I037 | DeepMind + Swiss Plasma Center | F084 |
+| I038 | ARPA-E SUPERHOT program | F085 |
+| I039 | Oklo Aurora | F086 |
+| I040 | Caltech Space Solar Power Project | F087 |
+| I041 | Harry Atwater teams | F087 |
+| I042 | Google Quantum AI / Willow team | F088 |
+| I043 | IBM Quantum | F089 |
+| I044 | DARPA Quantum Benchmarking Initiative | F090 |
+| I045 | program manager Micah Stoutimore | F090 |
+| I046 | NASA ISAM | F092 |
+| I047 | DARPA NOM4D | F093 |
+| I048 | Andrew Detor program line | F093 |
+| I049 | NASA/ASEE study | F094 |
+| I050 | NASA + U.S. Department of Energy | F095 |
+| I051 | Google DeepMind / Earth Engine | F097 |
+| I052 | Destination Earth / ECMWF and partners | F098 |
+| I053 | Coinbase x402 | F099 |
+| I054 | Google AP2/UCP ecosystem | F100 |
+| I055 | Stripe/OpenAI ACP ecosystem | F100 |
+
+---
+
+# 18. Что уже реализовано
+
+## M1 — Канон документации
+
+**ЗАВЕРШЕНО.**
+
+Сформирован единый человеческий канон мегапроектов, технологий, фронтирных идей и синтезов SINERGY.
+
+## M2 — Машинно-читаемый граф
+
+**ЗАВЕРШЕНО.**
+
+Созданы:
+
+```text
 data/megaproject_nodes.csv
 data/technology_nodes.csv
+data/frontier_nodes.csv
+data/frontier_edges.csv
 data/authors.csv
 data/institutions.csv
 data/sources.csv
 data/evidence.csv
+data/relation_types.csv
 
 graph/frontier_graph.json
 graph/frontier_graph.graphml
-graph/neo4j_import/
-~~~
+graph/neo4j_import/nodes.csv
+graph/neo4j_import/relationships.csv
+graph/manifest.json
 
-And every F-node must receive stable machine IDs, normalized source provenance, evidence confidence and explicit edges to the 150 megaproject nodes and 100 technology nodes.
+schema/graph_schema.json
+tools/validate_graph.py
+```
 
+## M3 — Происхождение и курация связей
 
+**ЗАВЕРШЁН ПЕРВЫЙ ПОЛНЫЙ ПРОХОД.**
 
----
+Каждое каноническое ребро имеет:
 
-# PART XVI — M2 MACHINE-READABLE GRAPH
+- тип связи;
+- источник доказательства;
+- уровень доказательства;
+- коэффициент уверенности;
+- статус проверки;
+- семантический класс;
+- признак сильной связи;
+- дату проверки;
+- пояснение.
 
-**Status:** IMPLEMENTED — initial canonical machine-readable build.
-
-The README remains the human-readable canon; the graph is now materialized under `data/`, `graph/`, `schema/` and `tools/`.
-
-Canonical invariants:
-
-- `M001..M150` — 150 megaproject nodes
-- `T001..T100` — 100 technology nodes
-- `F001..F100` — 100 frontier nodes
-- separate people, institution and source nodes
-- explicit typed edges
-- JSON + CSV + GraphML + Neo4j imports
-- integrity validator: `python tools/validate_graph.py`
-
-See [M2 documentation](docs/M2_MACHINE_READABLE_GRAPH.md) and [graph manifest](graph/manifest.json).
-
-**Important:** M2 technology/megaproject cross-layer edges are a deterministic first-pass semantic mapping, not yet expert-curated causal claims. M3 must review and promote them to evidence-backed relation types.
-
-
-<!-- M3_FULL_TABLES_START -->
+Старые грубые типы `MAPS_TO_TECHNOLOGY` и `CONTRIBUTES_TO_MEGAPROJECT` исключены из канонического графа.
 
 ---
 
-# PART XVII — M3 PROVENANCE & EDGE CURATION — FULL REGISTRY
+# 19. Что M3 НЕ означает
 
-**Status:** IMPLEMENTED — first full semantic/provenance pass  
-**Review date:** 2026-09-27  
-**Schema:** 3.0
+M3 не означает, что все связи стали одинаково доказанными.
 
-M3 removes the rough M2 relation types `MAPS_TO_TECHNOLOGY` and `CONTRIBUTES_TO_MEGAPROJECT` from the canonical graph. Every edge now has relation semantics and explicit review metadata.
+Наоборот, M3 впервые делает видимой разницу между:
 
-## 55. Evidence semantics
+1. **прямым доказательством связи**;
+2. **проверенным происхождением узла**;
+3. **авторской атрибуцией**;
+4. **системным синтезом SINERGY**;
+5. **гипотезой связи, которая пока подтверждена только на уровне исходного узла**.
 
-- **RELATION_DIRECT** — source materially supports the specific relation.
-- **CANONICAL_SYNTHESIS** — explicit SINERGY system-design relation grounded in sourced component nodes.
-- **NODE_SUPPORT_ONLY** — source supports the frontier node; the cross-layer relation still needs relation-specific evidence.
-- **ATTRIBUTION** — representative authorship/program association.
-- **PROVENANCE** — source validates the frontier node.
+Это важно, потому что настоящий граф знаний должен уметь не только добавлять связи, но и **понижать уверенность, удалять и фальсифицировать их**.
 
-### Counts
+---
 
-- **350 ideas** = 150 megaprojects + 100 technologies + 100 frontier concepts
-- **1105 canonical M3 edges**
-- **136 strong edges**
-- **7 direct relation-evidence edges**
-- **701 edges pending relation-specific evidence**
+# 20. Главные сильные перекрёстные связи
 
-## 56. Complete megaproject registry — M001–M150
+## ИИ-соисследователь ↔ автономная лаборатория материалов
 
-| ID | Idea | Branch | Origin |
-|---|---|---|---|
-| M001 | Russian space as a unified economic organism | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M002 | Mendeleev-style rationalization of resources | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M003 | Development of productive forces in the East | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M004 | Ural–Siberian industrial belt | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M005 | Great Siberia | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M006 | Far East as the Pacific facade | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M007 | Arctic as a new frontier | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M008 | Russia as continental infrastructure | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M009 | Russia as a bridge of civilizations | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M010 | Russia as an independent civilizational pole | Branch 01 — Russia as a system | HISTORICAL_STRATEGIC |
-| M011 | Common Cause | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M012 | Active evolution | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M013 | Regulation of nature | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M014 | Management of climate processes | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M015 | Victory over death | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M016 | Resurrection of ancestors | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M017 | Cosmic settlement of humanity | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M018 | Humanity as a single subject | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M019 | Earth as the launchpad of civilization | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M020 | Immortal civilization | Branch 02 — Fedorov / radical cosmism | HISTORICAL_STRATEGIC |
-| M021 | Rocket propulsion | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M022 | Multistage rocket | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M023 | Space station | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M024 | Orbital settlements | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M025 | Space cities | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M026 | Planetary expansion | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M027 | Solar System as an economic space | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M028 | Space industry | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M029 | Solar energy in space | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M030 | Multi-stage development of civilization | Branch 03 — Tsiolkovsky / Earth → Space | HISTORICAL_STRATEGIC |
-| M031 | Biosphere as a global system | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M032 | Living matter as a geological force | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M033 | Humanity as a geological factor | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M034 | Noosphere | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M035 | Science as a planetary force | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M036 | Management of biogeochemical flows | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M037 | Closing material cycles | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M038 | Rational transformation of the biosphere | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M039 | Planetary Earth monitoring | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M040 | Global Earth knowledge system | Branch 04 — Vernadsky / Noosphere | HISTORICAL_STRATEGIC |
-| M041 | Solar activity and biological processes | Branch 05 — Chizhevsky / biocosmic line | HISTORICAL_STRATEGIC |
-| M042 | Cosmic factors of life cycles | Branch 05 — Chizhevsky / biocosmic line | HISTORICAL_STRATEGIC |
-| M043 | Heliobiology | Branch 05 — Chizhevsky / biocosmic line | HISTORICAL_STRATEGIC |
-| M044 | Space medicine | Branch 05 — Chizhevsky / biocosmic line | HISTORICAL_STRATEGIC |
-| M045 | Monitoring the influence of the space environment on humans | Branch 05 — Chizhevsky / biocosmic line | HISTORICAL_STRATEGIC |
-| M046 | Periodic system as a foundation for materials science | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M047 | Systemic management of natural resources | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M048 | Oil industry | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M049 | Petrochemical complex | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M050 | Siberian resource-industrial base | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M051 | Urals as a metallurgical core | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M052 | Raw materials → energy → transport → industry | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M053 | Scientific organization of industry | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M054 | State statistical planning | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M055 | Industrial Russia | Branch 06 — Mendeleev / industrial Russia | HISTORICAL_STRATEGIC |
-| M056 | GOELRO | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M057 | Regional power systems | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M058 | Unified energy system | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M059 | Electrification of transport | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M060 | Electrification of industry | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M061 | Electrification of agriculture | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M062 | Energy as the foundation of modernization | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M063 | Energy + industry + transport | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M064 | Territorial development planning | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M065 | Unified economic organism | Branch 07 — GOELRO as a megaproject operating system | HISTORICAL_STRATEGIC |
-| M066 | Five-year planning | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M067 | Ural–Kuznetsk combine | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M068 | Magnitogorsk industrial complex | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M069 | Kuzbass | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M070 | Dnieper energy complex | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M071 | DneproGES | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M072 | Volga–Kama energy cascade | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M073 | Angara–Yenisei energy complex | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M074 | Kansk–Achinsk fuel and energy complex | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M075 | Territorial-production complexes | Branch 08 — Soviet industrial machine | HISTORICAL_STRATEGIC |
-| M076 | Trans-Siberian Railway | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M077 | BAM | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M078 | Eastern railway polygon | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M079 | Angara–Yenisei industrial hub | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M080 | Krasnoyarsk industrial belt | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M081 | Novosibirsk scientific center | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M082 | Akademgorodok | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M083 | Tomsk scientific-technological center | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M084 | Siberian nuclear complex | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M085 | Siberian scientific-industrial belt | Branch 09 — Transformation of Siberia | HISTORICAL_STRATEGIC |
-| M086 | Soviet atomic project | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M087 | Peaceful atom | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M088 | Nuclear power | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M089 | Closed nuclear fuel cycle | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M090 | Fast reactors | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M091 | Small modular nuclear power | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M092 | Nuclear icebreakers | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M093 | Nuclear Arctic | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M094 | Nuclear power for remote territories | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M095 | Nuclear energy as a foundation for industrial development | Branch 10 — Atomic civilization | HISTORICAL_STRATEGIC |
-| M096 | Satellite navigation | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M097 | Satellite communications | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M098 | Earth remote sensing | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M099 | Human spaceflight | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M100 | Orbital stations | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M101 | Vostochny Cosmodrome | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M102 | Multi-satellite constellations | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M103 | Russian orbital station | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M104 | Serial satellite manufacturing | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M105 | Space industrial infrastructure | Branch 11 — Space supersystem | HISTORICAL_STRATEGIC |
-| M106 | Northern Sea Route | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M107 | Year-round Arctic navigation | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M108 | Nuclear icebreaker fleet | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M109 | Arctic ports | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M110 | Arctic airfields | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M111 | Arctic cities | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M112 | Arctic energy complexes | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M113 | Underwater Arctic infrastructure | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M114 | Arctic satellite network | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M115 | Arctic industrial belt | Branch 12 — Arctic megatechnology | HISTORICAL_STRATEGIC |
-| M116 | EAEU | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M117 | Eurasian economic path | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M118 | Greater Eurasian Partnership | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M119 | North–South corridor | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M120 | Eastern transport corridor | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M121 | Russia–Kazakhstan–China | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M122 | Russia–Iran–India | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M123 | Eurasian railway network | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M124 | Eurasian energy corridors | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M125 | Eurasian digital space | Branch 13 — Greater Eurasia | HISTORICAL_STRATEGIC |
-| M126 | Electronic state | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M127 | Digital public services | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M128 | Digital ruble | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M129 | National payment infrastructure | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M130 | National cloud computing | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M131 | Sovereign digital infrastructure | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M132 | National data system | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M133 | National AI | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M134 | Industrial robotization | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M135 | Human–machine economy | Branch 14 — Digital Russia | HISTORICAL_STRATEGIC |
-| M136 | NOOSPHERE-1 | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M137 | GOELRO-2 | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M138 | SIBERIAN MANHATTAN | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M139 | ARCTIC DIGITAL CONTINENT | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M140 | EURASIAN ECONOMIC INTERNET | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M141 | EURASIAN FX / CLEARING ROUTER | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M142 | ATOMIC NORTH | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M143 | SIBERIAN AI-ENERGY COMPLEX | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M144 | ROBOSIBERIA | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M145 | EURASIAN TRANSPORT NETWORK 4.0 | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M146 | RUSSIAN SPACE INTERNET / ORBITAL INFRASTRUCTURE | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M147 | LUNAR INDUSTRIAL BELT | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M148 | ORBITAL ENERGY | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M149 | IMMORTAL LIBRARY | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
-| M150 | FULL CIVILIZATION / CIVILIZATION STACK | Synthetic Future Megaprojects | SINERGY_SYNTHESIS |
+Если ИИ генерирует научную гипотезу, а роботизированная лаборатория умеет автоматически синтезировать и измерять материалы, возникает контур:
 
-## 57. Complete technology registry — T001–T100
+```text
+ГИПОТЕЗА
+→ ПЛАН ЭКСПЕРИМЕНТА
+→ РОБОТИЗИРОВАННЫЙ СИНТЕЗ
+→ ИЗМЕРЕНИЕ
+→ ОБНОВЛЕНИЕ МОДЕЛИ
+→ НОВАЯ ГИПОТЕЗА
+```
 
-| ID | Technology | Domain | Status |
-|---|---|---|---|
-| T001 | World Models | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T002 | Autonomous Scientific AI | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T003 | AI Scientists | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T004 | AI Engineers | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T005 | Full-cycle AI programmers | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T006 | Recursive AI R&D | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T007 | Causal AI | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T008 | Neuro-symbolic AI | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T009 | Collective AI | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T010 | Civilization-scale AI simulation | AI / Intelligence | CATALOGED_FRONTIER_TECHNOLOGY |
-| T011 | AI Agents 2.0 | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T012 | Multi-agent economies | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T013 | Agent-to-agent commerce | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T014 | Machine organizations | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T015 | AI governance engines | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T016 | Autonomous infrastructure management | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T017 | Self-healing software | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T018 | Self-designing algorithms | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T019 | Machine science networks | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T020 | Civilization Digital Twin | Agentic / autonomous systems | CATALOGED_FRONTIER_TECHNOLOGY |
-| T021 | Humanoid robots | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T022 | General-purpose industrial robots | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T023 | Robot foundation models | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T024 | Swarm robotics | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T025 | Autonomous construction robots | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T026 | Autonomous mining | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T027 | Autonomous agriculture | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T028 | Autonomous underwater robots | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T029 | Arctic robots | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T030 | Self-replicating robotic factories | Robotics | CATALOGED_FRONTIER_TECHNOLOGY |
-| T031 | Commercial fusion | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T032 | Compact fusion reactors | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T033 | Next-generation stellarators | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T034 | Fusion–fission hybrids | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T035 | Small Modular Reactors | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T036 | Microreactors | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T037 | Fast-spectrum reactors | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T038 | Closed nuclear fuel cycle | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T039 | Superhot-rock geothermal | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T040 | Space-based solar power | Energy | CATALOGED_FRONTIER_TECHNOLOGY |
-| T041 | Everything-to-grid | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T042 | AI Grid | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T043 | Virtual Power Plants | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T044 | Superconducting power grids | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T045 | DC megagrids | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T046 | Eurasian supergrid | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T047 | Nuclear-powered data centers | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T048 | Compute-to-energy optimization | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T049 | Energy Internet | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T050 | Autonomous energy islands | Energy grids 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T051 | AI-designed materials | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T052 | Metamaterials | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T053 | Programmable matter | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T054 | Self-healing materials | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T055 | Room-temperature superconductors | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T056 | 2D materials | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T057 | Ultra-high-performance composites | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T058 | Molecular manufacturing | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T059 | Nanomachines | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T060 | Atomically precise manufacturing | Advanced materials | CATALOGED_FRONTIER_TECHNOLOGY |
-| T061 | Programmable cells | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T062 | Engineered living therapeutics | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T063 | AI-designed proteins | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T064 | Synthetic organisms | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T065 | Synthetic food | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T066 | Precision fermentation | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T067 | Cellular agriculture | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T068 | Xenotransplantation | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T069 | Personalized mRNA vaccines | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T070 | AI-designed drugs | Biotechnology | CATALOGED_FRONTIER_TECHNOLOGY |
-| T071 | Digital twins of patients | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T072 | AI clinical systems / AI doctors | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T073 | Robotic microsurgery | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T074 | Brain–computer interfaces | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T075 | Neural prosthetics | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T076 | Brain-to-brain interfaces | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T077 | Regenerative medicine | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T078 | Organ bioprinting | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T079 | Cellular reprogramming | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T080 | Longevity engineering | Medicine 2.0 | CATALOGED_FRONTIER_TECHNOLOGY |
-| T081 | Fault-tolerant quantum computers | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T082 | Quantum simulation | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T083 | Quantum networks | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T084 | Quantum internet | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T085 | Quantum sensors | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T086 | Quantum navigation | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T087 | Quantum cryptography | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T088 | Post-quantum cryptography | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T089 | Quantum machine learning | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T090 | Quantum chemistry engines | Quantum world | CATALOGED_FRONTIER_TECHNOLOGY |
-| T091 | Space-based data centers | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T092 | Orbital manufacturing | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T093 | Space solar power | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T094 | Lunar resource extraction | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T095 | Lunar industrial bases | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T096 | Asteroid mining | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T097 | Orbital fuel depots | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T098 | Autonomous space robotics | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T099 | Active orbital debris removal | Space | CATALOGED_FRONTIER_TECHNOLOGY |
-| T100 | Self-expanding space industry | Space | CATALOGED_FRONTIER_TECHNOLOGY |
+## GNoME ↔ A-Lab
 
-## 58. Complete frontier registry — F001–F100
+```text
+ВЫЧИСЛИТЕЛЬНОЕ ПРЕДЛОЖЕНИЕ СТАБИЛЬНОГО МАТЕРИАЛА
+→ РОБОТИЗИРОВАННЫЙ СИНТЕЗ
+→ ПРОВЕРКА
+```
 
-| ID | Frontier concept | Year | Maturity | Provenance | Sources | SINERGY connection |
-|---|---|---:|---|---|---|---|
-| F001 | Post-AGI civilization as a design/coordination problem | 2026 | ACTIVE / CONCEPTUAL | REPRESENTATIVE | S001 | GOVERNANCE + AI + HUMAN + CAPITAL |
-| F002 | Civilization/world-model simulation | 2018 | FOUNDATIONAL → SYNTHESIS | SINERGY_SYNTHESIS | S002 | AI + EARTH + ECONOMY + SIMULATION |
-| F003 | Autonomous science / AI co-scientist | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S003 | AI + KNOWLEDGE + BIO |
-| F004 | Fully automated AI scientist | 2024 | EXPERIMENTAL | REPRESENTATIVE | S004 | AI + SCIENCE + CODE + EVALUATION |
-| F005 | Science Graph / machine-readable discovery loop | 2024 | SINERGY_SYNTHESIS | SINERGY_SYNTHESIS | S004 | KNOWLEDGE GRAPH + EXPERIMENT + TECHNOLOGY |
-| F006 | Agent → robot → physical-world action loop | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S005 | AI + ROBOTICS + INDUSTRY |
-| F007 | General-purpose humanoid foundation models | 2024–2026 | ACTIVE / EMERGING | REPRESENTATIVE | S006 | AI + ROBOTICS + MANUFACTURING |
-| F008 | Robot economy / recursively expanding physical production | 1982 | CONCEPTUAL / FOUNDATIONAL | REPRESENTATIVE | S007 | ROBOTICS + INDUSTRY + SPACE |
-| F009 | Energy–Compute Economy | 2018–2026 | SINERGY_SYNTHESIS | SINERGY_SYNTHESIS | S008 | ENERGY + COMPUTE + CAPITAL |
-| F010 | Bidirectional “everything-to-grid” energy participation | 2005→ | ACTIVE / EMERGING | REPRESENTATIVE | S009 | ENERGY + CITIES + MOBILITY |
-| F011 | Biological world models | 2025–2026 | ACTIVE / EMERGING | REPRESENTATIVE | S010 | AI + BIO + MEDICINE |
-| F012 | Biological Cloud / automated design-build-test loops | 2025 | SINERGY_SYNTHESIS | SINERGY_SYNTHESIS | S003 | BIO + COMPUTE + ROBOTIC LABS |
-| F013 | AI-driven materials evolution | 2023 | EXPERIMENTAL / ACTIVE | REPRESENTATIVE | S011 | AI + MATTER + ROBOTICS + SCIENCE |
-| F014 | Programmable/adaptive mechanical matter | 2016 | EXPERIMENTAL / FOUNDATIONAL | REPRESENTATIVE | S012 | MATTER + ROBOTICS |
-| F015 | Planetary sensor/data fabric | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S013 | EARTH + DATA + AI |
-| F016 | Earth Operating System / Earth digital twin | 2024–2026 | ACTIVE → SYNTHESIS | SINERGY_SYNTHESIS | S014 | EARTH + AI + ENERGY + CITIES |
-| F017 | High-bandwidth brain–computer communication | 2023 | EXPERIMENTAL | REPRESENTATIVE | S015 | HUMAN + AI + BCI |
-| F018 | Persistent digital-person / behavioral-agent models | 2023 | EXPERIMENTAL / CONCEPTUAL | REPRESENTATIVE | S016 | HUMAN + MEMORY + AGENTS |
-| F019 | Work-optional / abundance-oriented civilization | 2025–2026 | CONCEPTUAL | SINERGY_SYNTHESIS | S001 | HUMAN + ROBOTICS + CAPITAL + GOVERNANCE |
-| F020 | Post-AGI statecraft | 2026 | CONCEPTUAL / ACTIVE DISCUSSION | REPRESENTATIVE | S001 | GOVERNANCE + AI + ECONOMY |
-| F021 | AI constitutionalism | 2022 | FOUNDATIONAL / ACTIVE | REPRESENTATIVE | S017 | GOVERNANCE + AI + AUDIT |
-| F022 | Agent civilization / persistent multi-agent social systems | 2023 | EXPERIMENTAL → CONCEPTUAL | REPRESENTATIVE | S016 | AGENTS + ECONOMY + GOVERNANCE |
-| F023 | Autonomous capital allocation / Capital Router | 2021 | EXPERIMENTAL → SYNTHESIS | SINERGY_SYNTHESIS | S018 | CAPITAL + AI + GOVERNANCE |
-| F024 | Autonomous global logistics / planetary supply-chain graph | 2022 | SINERGY_SYNTHESIS | SINERGY_SYNTHESIS | S019 | MOBILITY + AI + TRADE |
-| F025 | Space industrialization as an infrastructure ecosystem | 2025–2026 | ACTIVE / PROGRAM | REPRESENTATIVE | S020 | SPACE + ROBOTICS + INDUSTRY |
-| F026 | Orbital compute / data centers in space | 2025 | EXPERIMENTAL / EMERGING | REPRESENTATIVE | S021 | SPACE + COMPUTE + ENERGY |
-| F027 | Moon as an industrial node | 2020s | PROGRAM / EMERGING | REPRESENTATIVE | S022 | SPACE + MATTER + ENERGY + INDUSTRY |
-| F028 | Self-expanding industrial system | 1982 | CONCEPTUAL | REPRESENTATIVE | S007 | INDUSTRY + ROBOTICS + ENERGY |
-| F029 | Technology Breeder | 2025 | SINERGY_SYNTHESIS | SINERGY_SYNTHESIS | S023 | SINERGY ENGINE + SCIENCE + AI |
-| F030 | Reasoning + acting agents (ReAct) | 2022 | FOUNDATIONAL / ACTIVE | REPRESENTATIVE | S019 | AI + TOOLS + AGENTS |
-| F031 | Self-taught API/tool use | 2023 | FOUNDATIONAL | REPRESENTATIVE | S024 | AI + TOOLS + SERVICES |
-| F032 | Verbal reinforcement / self-reflective agents | 2023 | FOUNDATIONAL / EXPERIMENTAL | REPRESENTATIVE | S025 | AI + MEMORY + LEARNING |
-| F033 | Deliberative search over reasoning paths | 2023 | FOUNDATIONAL | REPRESENTATIVE | S026 | AI + PLANNING |
-| F034 | Iterative self-feedback refinement | 2023 | FOUNDATIONAL | REPRESENTATIVE | S027 | AI + SELF-IMPROVEMENT |
-| F035 | Multi-agent conversational orchestration | 2023 | ACTIVE | REPRESENTATIVE | S028 | AGENTS + ORGANIZATIONS |
-| F036 | Lifelong embodied skill acquisition | 2023 | EXPERIMENTAL | REPRESENTATIVE | S029 | AGENTS + WORLD MODEL + ROBOTICS |
-| F037 | Generative-agent social simulation | 2023 | EXPERIMENTAL | REPRESENTATIVE | S016 | AGENTS + SOCIETY + SIMULATION |
-| F038 | General reinforcement learning through learned world models | 2023 | ACTIVE / FOUNDATIONAL | REPRESENTATIVE | S030 | WORLD MODELS + CONTROL |
-| F039 | Language models grounded by robotic affordances | 2022 | FOUNDATIONAL | REPRESENTATIVE | S031 | AI + ROBOTICS + PLANNING |
-| F040 | Embodied multimodal language model | 2023 | FOUNDATIONAL | REPRESENTATIVE | S032 | AI + SENSORS + ROBOTICS |
-| F041 | Cross-embodiment robot learning | 2023 | ACTIVE | REPRESENTATIVE | S033 | ROBOTICS + SHARED DATA |
-| F042 | Vision-language-action robotics | 2023 | ACTIVE / FOUNDATIONAL | REPRESENTATIVE | S034 | AI + ROBOTICS |
-| F043 | Gemini-based physical AI | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S005 | AI + ROBOTICS + PHYSICAL WORLD |
-| F044 | Embodied reasoning for robots | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S005 | AI + SPATIAL REASONING |
-| F045 | On-device robot foundation models | 2025–2026 | ACTIVE / EMERGING | REPRESENTATIVE | S035 | EDGE COMPUTE + ROBOTICS |
-| F046 | Open humanoid robot foundation models | 2024–2026 | ACTIVE | REPRESENTATIVE | S006 | ROBOTICS + FOUNDATION MODELS |
-| F047 | Internet-scale human-video pretraining for humanoids | 2025 | EMERGING | REPRESENTATIVE | S036 | HUMAN VIDEO + ROBOT LEARNING |
-| F048 | End-to-end automated ML research | 2024 | EXPERIMENTAL | REPRESENTATIVE | S037 | AI + SCIENCE |
-| F049 | Multi-agent scientific hypothesis generation | 2025 | ACTIVE / EXPERIMENTAL | REPRESENTATIVE | S003 | AI + SCIENCE + BIO |
-| F050 | LLM + chemistry tools autonomous chemistry assistant | 2023 | EXPERIMENTAL | REPRESENTATIVE | S038 | AI + CHEMISTRY + TOOLS |
-| F051 | Autonomous robotic materials laboratory | 2023 | EXPERIMENTAL / ACTIVE | REPRESENTATIVE | S011 | AI + ROBOTICS + MATERIALS |
-| F052 | Evolutionary code/algorithm discovery | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S023 | AI + ALGORITHMS + R&D |
-| F053 | LLM-guided search for new mathematical/computer-science constructions | 2023 | EXPERIMENTAL / ACTIVE | REPRESENTATIVE | S039 | AI + MATHEMATICS + SEARCH |
-| F054 | AI-discovered low-level algorithms | 2023 | REALIZED / ACTIVE | REPRESENTATIVE | S040 | AI + COMPUTE EFFICIENCY |
-| F055 | AI discovery of matrix-multiplication algorithms | 2022 | EXPERIMENTAL / FOUNDATIONAL | REPRESENTATIVE | S041 | AI + MATHEMATICS + COMPUTE |
-| F056 | Constitutional AI | 2022 | ACTIVE / FOUNDATIONAL | REPRESENTATIVE | S017 | AI + GOVERNANCE |
-| F057 | AI safety via debate | 2018 | FOUNDATIONAL / CONCEPTUAL | REPRESENTATIVE | S042 | AI + OVERSIGHT |
-| F058 | Eliciting latent knowledge from advanced systems | 2021 | RESEARCH PROGRAM | REPRESENTATIVE | S043 | AI + VERIFICATION |
-| F059 | Cooperative inverse reinforcement learning | 2016 | FOUNDATIONAL | REPRESENTATIVE | S044 | HUMAN + AI + PREFERENCE LEARNING |
-| F060 | Collective Constitutional AI | 2023 | EXPERIMENTAL | REPRESENTATIVE | S045 | GOVERNANCE + PARTICIPATION + AI |
-| F061 | Scalable oversight | 2022 | ACTIVE RESEARCH | REPRESENTATIVE | S046 | AI + AUDIT + HUMAN OVERSIGHT |
-| F062 | Protein-structure prediction at proteome scale | 2021 | REALIZED / FOUNDATIONAL | REPRESENTATIVE | S047 | AI + BIO + SCIENCE |
-| F063 | Joint modeling of biomolecular interactions | 2024 | ACTIVE | REPRESENTATIVE | S048 | AI + BIO + DRUG DISCOVERY |
-| F064 | Genome regulatory variant-effect foundation model | 2025–2026 | ACTIVE / EMERGING | REPRESENTATIVE | S010 | AI + GENOMICS |
-| F065 | Long-range genomic regulatory prediction | 2021 | FOUNDATIONAL | REPRESENTATIVE | S049 | AI + GENOMICS |
-| F066 | Generative protein design with diffusion models | 2023 | ACTIVE / EMERGING | REPRESENTATIVE | S050 | AI + BIO + MATERIAL DESIGN |
-| F067 | Programmable CRISPR-Cas9 editing | 2012 | REALIZED / FOUNDATIONAL | REPRESENTATIVE | S051 | BIO + GENETIC ENGINEERING |
-| F068 | Base editing without double-strand breaks | 2016 | ACTIVE / FOUNDATIONAL | REPRESENTATIVE | S052 | BIO + MEDICINE |
-| F069 | Prime editing | 2019 | ACTIVE / EMERGING | REPRESENTATIVE | S053 | BIO + MEDICINE |
-| F070 | Minimal synthetic bacterial cell | 2016 | EXPERIMENTAL / FOUNDATIONAL | REPRESENTATIVE | S054 | SYNTHETIC BIOLOGY |
-| F071 | Designed living robots / xenobots | 2020 | EXPERIMENTAL | REPRESENTATIVE | S055 | BIO + ROBOTICS |
-| F072 | Organoid Intelligence / biocomputing with brain organoids | 2023 | EXPERIMENTAL / CONCEPTUAL | REPRESENTATIVE | S056 | BIO + COMPUTE + HUMAN |
-| F073 | Living neural systems learning in a closed loop | 2022 | EXPERIMENTAL | REPRESENTATIVE | S057 | BIOCOMPUTE + LEARNING |
-| F074 | Partial epigenetic reprogramming for functional rejuvenation | 2020 | EXPERIMENTAL | REPRESENTATIVE | S058 | LONGEVITY + BIO |
-| F075 | High-performance brain-to-text speech neuroprosthesis | 2023 | EXPERIMENTAL | REPRESENTATIVE | S015 | HUMAN + BCI + AI |
-| F076 | Neural decoding directly to synthesized speech | 2019 | EXPERIMENTAL / FOUNDATIONAL | REPRESENTATIVE | S059 | HUMAN + BCI + COMMUNICATION |
-| F077 | 3D bioprinting of thick vascularized tissues | 2016 | EXPERIMENTAL | REPRESENTATIVE | S060 | BIO + MANUFACTURING + MEDICINE |
-| F078 | Massive AI discovery of stable crystal structures | 2023 | ACTIVE / EMERGING | REPRESENTATIVE | S061 | AI + MATTER |
-| F079 | Generative inorganic materials design | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S062 | AI + MATTER + ENERGY |
-| F080 | General atomistic foundation simulation across conditions | 2024 | ACTIVE / EMERGING | REPRESENTATIVE | S063 | AI + MATERIALS SIMULATION |
-| F081 | Self-healing structural materials | 2001 | FOUNDATIONAL / ACTIVE FIELD | REPRESENTATIVE | S064 | MATTER + INFRASTRUCTURE |
-| F082 | Programmable textured mechanical metamaterials | 2016 | EXPERIMENTAL | REPRESENTATIVE | S012 | MATTER + ROBOTICS |
-| F083 | Autonomous molecular assembly / programmable chemical synthesis | 2016 | EXPERIMENTAL | REPRESENTATIVE | S065 | NANOTECH + MANUFACTURING |
-| F084 | Deep-RL control of fusion plasma | 2022 | EXPERIMENTAL / ACTIVE | REPRESENTATIVE | S066 | AI + FUSION + ENERGY |
-| F085 | Superhot-rock geothermal | 2025–2026 | PROGRAM | REPRESENTATIVE | S067 | ENERGY + INDUSTRY |
-| F086 | Compact sodium-cooled fast microreactors | 2020s | ACTIVE PROGRAM / PRE-COMMERCIAL | REPRESENTATIVE | S068 | NUCLEAR + CITIES + COMPUTE |
-| F087 | Space-based solar power with wireless power transfer | 2013–2020s | EXPERIMENTAL | REPRESENTATIVE | S069 | SPACE + ENERGY |
-| F088 | Below-threshold quantum error correction | 2024 | EXPERIMENTAL / MAJOR MILESTONE | REPRESENTATIVE | S070 | QUANTUM + COMPUTE |
-| F089 | Modular fault-tolerant quantum supercomputer | 2025–2030 plan | ACTIVE PROGRAM | REPRESENTATIVE | S071 | QUANTUM + HPC |
-| F090 | Utility-scale quantum validated by value-over-cost | 2024–2026 | ACTIVE PROGRAM | REPRESENTATIVE | S072 | QUANTUM + ECONOMICS + VERIFICATION |
-| F091 | Quantum internet architecture | 2018 | RESEARCH / EMERGING | REPRESENTATIVE | S073 | NETWORK + QUANTUM |
-| F092 | In-space servicing, assembly and manufacturing as a space-infrastructure stack | 2025 | ACTIVE PROGRAM | REPRESENTATIVE | S074 | SPACE + ROBOTICS + MANUFACTURING |
-| F093 | On-orbit manufacture of very large structures | 2021–2026 | ACTIVE PROGRAM / DEMO | REPRESENTATIVE | S075 | SPACE + MATTER + ROBOTICS |
-| F094 | Self-replicating / growing lunar factory | 1982 | CONCEPTUAL / FAR-FRONTIER | REPRESENTATIVE | S007 | SPACE + ROBOTICS + SELF-EXPANDING INDUSTRY |
-| F095 | Lunar fission surface power | 2026 | ACTIVE PROGRAM | REPRESENTATIVE | S076 | SPACE + NUCLEAR + INDUSTRY |
-| F096 | Orbital data centers / AI compute in space | 2025 | EXPERIMENTAL / EMERGING | REPRESENTATIVE | S021 | SPACE + COMPUTE + ENERGY |
-| F097 | Planet-scale geospatial foundation model | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S013 | EARTH + AI + SENSOR WEB |
-| F098 | Operational Earth-system digital twins | 2024–2026 | ACTIVE PROGRAM | REPRESENTATIVE | S014 | EARTH + SIMULATION + POLICY |
-| F099 | Machine-native HTTP payments / autonomous-agent micropayments | 2025 | ACTIVE / EMERGING | REPRESENTATIVE | S077 | AGENT ECONOMY + CAPITAL + SERVICES |
-| F100 | Agentic-commerce interoperability and auditable delegated payments | 2025–2026 | ACTIVE / EMERGING | REPRESENTATIVE | S078;S079;S080 | AGENTS + COMMERCE + IDENTITY + PAYMENTS |
+## MatterGen ↔ MatterSim ↔ A-Lab
 
-## 59. Canonical M3 relation vocabulary
+```text
+ГЕНЕРАЦИЯ МАТЕРИАЛА
+→ АТОМИСТИЧЕСКАЯ СИМУЛЯЦИЯ
+→ СИНТЕЗ
+→ ИЗМЕРЕНИЕ
+→ НОВОЕ ПОКОЛЕНИЕ
+```
 
-| Relation | Meaning | Class |
-|---|---|---|
-| ENABLES | Makes target possible or materially unlocks it. | ENABLING |
-| REQUIRES | Cannot reasonably function at claimed scope without target. | CAUSAL |
-| VALIDATES | Provides evidence checking/supporting the target claim. | EVIDENTIAL |
-| DEPENDS_ON | Relies on target as an input, substrate or infrastructure dependency. | CAUSAL |
-| PROPOSED_BY | Attributed to a representative person, institution or program. | PROVENANCE |
-| FUNDED_BY | Receives funding from target; requires explicit funding evidence. | PROVENANCE |
-| USES | Uses target technology/resource/capability. | ENABLING |
-| PRODUCES | Directly outputs target or an instance of target class. | CAUSAL |
-| CONSUMES | Directly consumes target resource/input. | CAUSAL |
-| REDUCES_COST_OF | Lowers resource/cost burden of target. | CAUSAL |
-| INCREASES_CAPACITY_OF | Expands target capability/capacity. | ENABLING |
-| COMPETES_WITH | Alternative approach to materially overlapping objective. | THEMATIC |
-| FALSIFIES | Evidence inconsistent with target claim. | EVIDENTIAL |
-| RISKS | Creates or materially raises risk to target. | RISK |
-| GOVERNS | Constrains, audits, authorizes or sets rules for target. | GOVERNANCE |
+## AlphaGenome ↔ инструменты редактирования генома
 
-## 60. COMPLETE CONNECTION REGISTRY — ALL 1105 EDGES
+```text
+МОДЕЛЬ ГЕНОМА
+→ ПРЕДСКАЗАНИЕ ЭФФЕКТА
+→ ПРОЕКТИРОВАНИЕ ВМЕШАТЕЛЬСТВА
+→ РЕДАКТИРОВАНИЕ
+→ ИЗМЕРЕНИЕ
+```
 
-| Edge | From | Relation | To | Class | Confidence | Evidence | Scope | Review | Strong |
-|---|---|---|---|---|---:|---|---|---|---|
-| E00001 | S001 S001 | VALIDATES | F001 Post-AGI civilization as a design/coordination problem | EVIDENTIAL | 0.95 | S001 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00002 | F001 Post-AGI civilization as a design/coordination problem | PROPOSED_BY | P001 P001 | PROVENANCE | 0.78 | S001 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00003 | F001 Post-AGI civilization as a design/coordination problem | PROPOSED_BY | P002 P002 | PROVENANCE | 0.78 | S001 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00004 | F001 Post-AGI civilization as a design/coordination problem | PROPOSED_BY | P003 P003 | PROVENANCE | 0.78 | S001 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00005 | F001 Post-AGI civilization as a design/coordination problem | PROPOSED_BY | I001 I001 | PROVENANCE | 0.68 | S001 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00006 | F001 Post-AGI civilization as a design/coordination problem | DEPENDS_ON | T011 AI Agents 2.0 | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00007 | F001 Post-AGI civilization as a design/coordination problem | DEPENDS_ON | T012 Multi-agent economies | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00008 | F001 Post-AGI civilization as a design/coordination problem | DEPENDS_ON | T013 Agent-to-agent commerce | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00009 | F001 Post-AGI civilization as a design/coordination problem | DEPENDS_ON | T014 Machine organizations | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00010 | F001 Post-AGI civilization as a design/coordination problem | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00011 | F001 Post-AGI civilization as a design/coordination problem | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00012 | F001 Post-AGI civilization as a design/coordination problem | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00013 | F001 Post-AGI civilization as a design/coordination problem | INCREASES_CAPACITY_OF | M128 Digital ruble | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00014 | F001 Post-AGI civilization as a design/coordination problem | INCREASES_CAPACITY_OF | M141 EURASIAN FX / CLEARING ROUTER | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00015 | F001 Post-AGI civilization as a design/coordination problem | INCREASES_CAPACITY_OF | M126 Electronic state | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00016 | S002 S002 | VALIDATES | F002 Civilization/world-model simulation | EVIDENTIAL | 0.95 | S002 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00017 | F002 Civilization/world-model simulation | PROPOSED_BY | P004 P004 | PROVENANCE | 0.78 | S002 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00018 | F002 Civilization/world-model simulation | PROPOSED_BY | P005 P005 | PROVENANCE | 0.78 | S002 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00019 | F002 Civilization/world-model simulation | USES | T001 World Models | ENABLING | 0.66 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00020 | F002 Civilization/world-model simulation | USES | T010 Civilization-scale AI simulation | ENABLING | 0.66 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00021 | F002 Civilization/world-model simulation | USES | T020 Civilization Digital Twin | ENABLING | 0.66 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00022 | F002 Civilization/world-model simulation | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00023 | F002 Civilization/world-model simulation | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00024 | F002 Civilization/world-model simulation | INCREASES_CAPACITY_OF | M039 Planetary Earth monitoring | THEMATIC | 0.58 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00025 | F002 Civilization/world-model simulation | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S002 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00026 | S003 S003 | VALIDATES | F003 Autonomous science / AI co-scientist | EVIDENTIAL | 0.95 | S003 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00027 | F003 Autonomous science / AI co-scientist | PROPOSED_BY | P006 P006 | PROVENANCE | 0.78 | S003 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00028 | F003 Autonomous science / AI co-scientist | PROPOSED_BY | P007 P007 | PROVENANCE | 0.78 | S003 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00029 | F003 Autonomous science / AI co-scientist | PROPOSED_BY | I002 I002 | PROVENANCE | 0.68 | S003 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00030 | F003 Autonomous science / AI co-scientist | USES | T002 Autonomous Scientific AI | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00031 | F003 Autonomous science / AI co-scientist | USES | T003 AI Scientists | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00032 | F003 Autonomous science / AI co-scientist | USES | T019 Machine science networks | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00033 | F003 Autonomous science / AI co-scientist | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00034 | F003 Autonomous science / AI co-scientist | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00035 | F003 Autonomous science / AI co-scientist | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00036 | F003 Autonomous science / AI co-scientist | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00037 | S004 S004 | VALIDATES | F004 Fully automated AI scientist | EVIDENTIAL | 0.95 | S004 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00038 | F004 Fully automated AI scientist | PROPOSED_BY | P008 P008 | PROVENANCE | 0.78 | S004 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00039 | F004 Fully automated AI scientist | PROPOSED_BY | P009 P009 | PROVENANCE | 0.78 | S004 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00040 | F004 Fully automated AI scientist | PROPOSED_BY | P010 P010 | PROVENANCE | 0.78 | S004 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00041 | F004 Fully automated AI scientist | PROPOSED_BY | P011 P011 | PROVENANCE | 0.78 | S004 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00042 | F004 Fully automated AI scientist | PROPOSED_BY | P012 P012 | PROVENANCE | 0.78 | S004 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00043 | F004 Fully automated AI scientist | PROPOSED_BY | P004 P004 | PROVENANCE | 0.78 | S004 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00044 | F004 Fully automated AI scientist | USES | T002 Autonomous Scientific AI | ENABLING | 0.66 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00045 | F004 Fully automated AI scientist | USES | T003 AI Scientists | ENABLING | 0.66 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00046 | F004 Fully automated AI scientist | USES | T019 Machine science networks | ENABLING | 0.66 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00047 | F004 Fully automated AI scientist | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00048 | F004 Fully automated AI scientist | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00049 | S004 S004 | VALIDATES | F005 Science Graph / machine-readable discovery loop | EVIDENTIAL | 0.95 | S004 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00050 | F005 Science Graph / machine-readable discovery loop | PROPOSED_BY | I003 I003 | PROVENANCE | 0.68 | S004 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00051 | F005 Science Graph / machine-readable discovery loop | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00052 | F005 Science Graph / machine-readable discovery loop | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00053 | F005 Science Graph / machine-readable discovery loop | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00054 | F005 Science Graph / machine-readable discovery loop | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S004 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00055 | S005 S005 | VALIDATES | F006 Agent → robot → physical-world action loop | EVIDENTIAL | 0.95 | S005 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00056 | F006 Agent → robot → physical-world action loop | PROPOSED_BY | I004 I004 | PROVENANCE | 0.68 | S005 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00057 | F006 Agent → robot → physical-world action loop | ENABLES | T011 AI Agents 2.0 | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00058 | F006 Agent → robot → physical-world action loop | ENABLES | T012 Multi-agent economies | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00059 | F006 Agent → robot → physical-world action loop | ENABLES | T013 Agent-to-agent commerce | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00060 | F006 Agent → robot → physical-world action loop | ENABLES | T014 Machine organizations | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00061 | F006 Agent → robot → physical-world action loop | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00062 | F006 Agent → robot → physical-world action loop | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00063 | F006 Agent → robot → physical-world action loop | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00064 | F006 Agent → robot → physical-world action loop | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00065 | F006 Agent → robot → physical-world action loop | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00066 | F006 Agent → robot → physical-world action loop | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00067 | F006 Agent → robot → physical-world action loop | INCREASES_CAPACITY_OF | M075 Territorial-production complexes | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00068 | S006 S006 | VALIDATES | F007 General-purpose humanoid foundation models | EVIDENTIAL | 0.95 | S006 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00069 | F007 General-purpose humanoid foundation models | PROPOSED_BY | I005 I005 | PROVENANCE | 0.68 | S006 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00070 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | T021 Humanoid robots | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00071 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | T022 General-purpose industrial robots | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00072 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | T023 Robot foundation models | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00073 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | T024 Swarm robotics | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00074 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00075 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00076 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00077 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00078 | F007 General-purpose humanoid foundation models | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00079 | S007 S007 | VALIDATES | F008 Robot economy / recursively expanding physical production | EVIDENTIAL | 0.95 | S007 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00080 | F008 Robot economy / recursively expanding physical production | PROPOSED_BY | P013 P013 | PROVENANCE | 0.78 | S007 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00081 | F008 Robot economy / recursively expanding physical production | PROPOSED_BY | P014 P014 | PROVENANCE | 0.78 | S007 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00082 | F008 Robot economy / recursively expanding physical production | PROPOSED_BY | I006 I006 | PROVENANCE | 0.68 | S007 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00083 | F008 Robot economy / recursively expanding physical production | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00084 | F008 Robot economy / recursively expanding physical production | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00085 | F008 Robot economy / recursively expanding physical production | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00086 | F008 Robot economy / recursively expanding physical production | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00087 | F008 Robot economy / recursively expanding physical production | ENABLES | M134 Industrial robotization | ENABLING | 0.64 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00088 | F008 Robot economy / recursively expanding physical production | ENABLES | M144 ROBOSIBERIA | ENABLING | 0.64 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00089 | F008 Robot economy / recursively expanding physical production | ENABLES | M075 Territorial-production complexes | ENABLING | 0.64 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00090 | F008 Robot economy / recursively expanding physical production | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.64 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00091 | F008 Robot economy / recursively expanding physical production | ENABLES | M105 Space industrial infrastructure | ENABLING | 0.64 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00092 | F008 Robot economy / recursively expanding physical production | ENABLES | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.64 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00093 | S008 S008 | VALIDATES | F009 Energy–Compute Economy | EVIDENTIAL | 0.95 | S008 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00094 | F009 Energy–Compute Economy | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00095 | F009 Energy–Compute Economy | USES | T012 Multi-agent economies | ENABLING | 0.66 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00096 | F009 Energy–Compute Economy | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00097 | F009 Energy–Compute Economy | USES | T014 Machine organizations | ENABLING | 0.66 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00098 | F009 Energy–Compute Economy | ENABLES | M088 Nuclear power | ENABLING | 0.64 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00099 | F009 Energy–Compute Economy | ENABLES | M137 GOELRO-2 | ENABLING | 0.64 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00100 | F009 Energy–Compute Economy | ENABLES | M143 SIBERIAN AI-ENERGY COMPLEX | ENABLING | 0.64 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00101 | F009 Energy–Compute Economy | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.64 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00102 | F009 Energy–Compute Economy | ENABLES | M128 Digital ruble | ENABLING | 0.64 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00103 | F009 Energy–Compute Economy | ENABLES | M141 EURASIAN FX / CLEARING ROUTER | ENABLING | 0.64 | S008 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00104 | S009 S009 | VALIDATES | F010 Bidirectional “everything-to-grid” energy participation | EVIDENTIAL | 0.95 | S009 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00105 | F010 Bidirectional “everything-to-grid” energy participation | PROPOSED_BY | I007 I007 | PROVENANCE | 0.68 | S009 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00106 | F010 Bidirectional “everything-to-grid” energy participation | ENABLES | T041 Everything-to-grid | ENABLING | 0.70 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00107 | F010 Bidirectional “everything-to-grid” energy participation | DEPENDS_ON | T042 AI Grid | THEMATIC | 0.56 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00108 | F010 Bidirectional “everything-to-grid” energy participation | DEPENDS_ON | T043 Virtual Power Plants | THEMATIC | 0.56 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00109 | F010 Bidirectional “everything-to-grid” energy participation | DEPENDS_ON | T049 Energy Internet | THEMATIC | 0.56 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00110 | F010 Bidirectional “everything-to-grid” energy participation | DEPENDS_ON | T050 Autonomous energy islands | THEMATIC | 0.56 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00111 | F010 Bidirectional “everything-to-grid” energy participation | INCREASES_CAPACITY_OF | M088 Nuclear power | ENABLING | 0.66 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00112 | F010 Bidirectional “everything-to-grid” energy participation | INCREASES_CAPACITY_OF | M137 GOELRO-2 | ENABLING | 0.66 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00113 | F010 Bidirectional “everything-to-grid” energy participation | INCREASES_CAPACITY_OF | M145 EURASIAN TRANSPORT NETWORK 4.0 | ENABLING | 0.66 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00114 | F010 Bidirectional “everything-to-grid” energy participation | INCREASES_CAPACITY_OF | M138 SIBERIAN MANHATTAN | ENABLING | 0.66 | S009 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00115 | S010 S010 | VALIDATES | F011 Biological world models | EVIDENTIAL | 0.95 | S010 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00116 | F011 Biological world models | PROPOSED_BY | P015 P015 | PROVENANCE | 0.78 | S010 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00117 | F011 Biological world models | PROPOSED_BY | P016 P016 | PROVENANCE | 0.78 | S010 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00118 | F011 Biological world models | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S010 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00119 | F011 Biological world models | ENABLES | T001 World Models | ENABLING | 0.70 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00120 | F011 Biological world models | DEPENDS_ON | T010 Civilization-scale AI simulation | THEMATIC | 0.56 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00121 | F011 Biological world models | DEPENDS_ON | T020 Civilization Digital Twin | THEMATIC | 0.56 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00122 | F011 Biological world models | DEPENDS_ON | T061 Programmable cells | THEMATIC | 0.56 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00123 | F011 Biological world models | DEPENDS_ON | T063 AI-designed proteins | THEMATIC | 0.56 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00124 | F011 Biological world models | DEPENDS_ON | T064 Synthetic organisms | THEMATIC | 0.56 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00125 | F011 Biological world models | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00126 | F011 Biological world models | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00127 | F011 Biological world models | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00128 | F011 Biological world models | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00129 | S003 S003 | VALIDATES | F012 Biological Cloud / automated design-build-test loops | EVIDENTIAL | 0.95 | S003 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00130 | F012 Biological Cloud / automated design-build-test loops | USES | T021 Humanoid robots | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00131 | F012 Biological Cloud / automated design-build-test loops | USES | T022 General-purpose industrial robots | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00132 | F012 Biological Cloud / automated design-build-test loops | USES | T023 Robot foundation models | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00133 | F012 Biological Cloud / automated design-build-test loops | USES | T024 Swarm robotics | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00134 | F012 Biological Cloud / automated design-build-test loops | USES | T061 Programmable cells | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00135 | F012 Biological Cloud / automated design-build-test loops | USES | T063 AI-designed proteins | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00136 | F012 Biological Cloud / automated design-build-test loops | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00137 | F012 Biological Cloud / automated design-build-test loops | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00138 | F012 Biological Cloud / automated design-build-test loops | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00139 | F012 Biological Cloud / automated design-build-test loops | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00140 | S011 S011 | VALIDATES | F013 AI-driven materials evolution | EVIDENTIAL | 0.95 | S011 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00141 | F013 AI-driven materials evolution | PROPOSED_BY | P017 P017 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00142 | F013 AI-driven materials evolution | PROPOSED_BY | P018 P018 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00143 | F013 AI-driven materials evolution | PROPOSED_BY | P019 P019 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00144 | F013 AI-driven materials evolution | PROPOSED_BY | P020 P020 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00145 | F013 AI-driven materials evolution | PROPOSED_BY | P021 P021 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00146 | F013 AI-driven materials evolution | PROPOSED_BY | P022 P022 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00147 | F013 AI-driven materials evolution | PROPOSED_BY | I009 I009 | PROVENANCE | 0.68 | S011 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00148 | F013 AI-driven materials evolution | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00149 | F013 AI-driven materials evolution | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00150 | F013 AI-driven materials evolution | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00151 | F013 AI-driven materials evolution | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00152 | F013 AI-driven materials evolution | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00153 | F013 AI-driven materials evolution | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00154 | F013 AI-driven materials evolution | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00155 | F013 AI-driven materials evolution | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00156 | F013 AI-driven materials evolution | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00157 | F013 AI-driven materials evolution | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00158 | S012 S012 | VALIDATES | F014 Programmable/adaptive mechanical matter | EVIDENTIAL | 0.95 | S012 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00159 | F014 Programmable/adaptive mechanical matter | PROPOSED_BY | P023 P023 | PROVENANCE | 0.78 | S012 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00160 | F014 Programmable/adaptive mechanical matter | PROPOSED_BY | P024 P024 | PROVENANCE | 0.78 | S012 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00161 | F014 Programmable/adaptive mechanical matter | PROPOSED_BY | P025 P025 | PROVENANCE | 0.78 | S012 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00162 | F014 Programmable/adaptive mechanical matter | PROPOSED_BY | P026 P026 | PROVENANCE | 0.78 | S012 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00163 | F014 Programmable/adaptive mechanical matter | PROPOSED_BY | P027 P027 | PROVENANCE | 0.78 | S012 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00164 | F014 Programmable/adaptive mechanical matter | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00165 | F014 Programmable/adaptive mechanical matter | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00166 | F014 Programmable/adaptive mechanical matter | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00167 | F014 Programmable/adaptive mechanical matter | DEPENDS_ON | T024 Swarm robotics | THEMATIC | 0.56 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00168 | F014 Programmable/adaptive mechanical matter | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00169 | F014 Programmable/adaptive mechanical matter | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00170 | F014 Programmable/adaptive mechanical matter | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00171 | S013 S013 | VALIDATES | F015 Planetary sensor/data fabric | EVIDENTIAL | 0.95 | S013 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00172 | F015 Planetary sensor/data fabric | PROPOSED_BY | I010 I010 | PROVENANCE | 0.68 | S013 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00173 | F015 Planetary sensor/data fabric | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00174 | F015 Planetary sensor/data fabric | DEPENDS_ON | T020 Civilization Digital Twin | THEMATIC | 0.56 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00175 | F015 Planetary sensor/data fabric | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00176 | F015 Planetary sensor/data fabric | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00177 | F015 Planetary sensor/data fabric | INCREASES_CAPACITY_OF | M039 Planetary Earth monitoring | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00178 | F015 Planetary sensor/data fabric | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00179 | S014 S014 | VALIDATES | F016 Earth Operating System / Earth digital twin | EVIDENTIAL | 0.95 | S014 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00180 | F016 Earth Operating System / Earth digital twin | PROPOSED_BY | I011 I011 | PROVENANCE | 0.68 | S014 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00181 | F016 Earth Operating System / Earth digital twin | USES | T001 World Models | ENABLING | 0.66 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00182 | F016 Earth Operating System / Earth digital twin | USES | T010 Civilization-scale AI simulation | ENABLING | 0.66 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00183 | F016 Earth Operating System / Earth digital twin | USES | T020 Civilization Digital Twin | ENABLING | 0.66 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00184 | F016 Earth Operating System / Earth digital twin | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00185 | F016 Earth Operating System / Earth digital twin | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00186 | F016 Earth Operating System / Earth digital twin | INCREASES_CAPACITY_OF | M088 Nuclear power | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00187 | F016 Earth Operating System / Earth digital twin | INCREASES_CAPACITY_OF | M137 GOELRO-2 | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00188 | F016 Earth Operating System / Earth digital twin | INCREASES_CAPACITY_OF | M039 Planetary Earth monitoring | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00189 | F016 Earth Operating System / Earth digital twin | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00190 | S015 S015 | VALIDATES | F017 High-bandwidth brain–computer communication | EVIDENTIAL | 0.95 | S015 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00191 | F017 High-bandwidth brain–computer communication | PROPOSED_BY | P028 P028 | PROVENANCE | 0.78 | S015 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00192 | F017 High-bandwidth brain–computer communication | PROPOSED_BY | P029 P029 | PROVENANCE | 0.78 | S015 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00193 | F017 High-bandwidth brain–computer communication | PROPOSED_BY | P030 P030 | PROVENANCE | 0.78 | S015 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00194 | F017 High-bandwidth brain–computer communication | PROPOSED_BY | P031 P031 | PROVENANCE | 0.78 | S015 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00195 | F017 High-bandwidth brain–computer communication | ENABLES | T074 Brain–computer interfaces | ENABLING | 0.70 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00196 | F017 High-bandwidth brain–computer communication | DEPENDS_ON | T075 Neural prosthetics | THEMATIC | 0.56 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00197 | F017 High-bandwidth brain–computer communication | DEPENDS_ON | T076 Brain-to-brain interfaces | THEMATIC | 0.56 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00198 | F017 High-bandwidth brain–computer communication | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00199 | F017 High-bandwidth brain–computer communication | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00200 | F017 High-bandwidth brain–computer communication | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00201 | F017 High-bandwidth brain–computer communication | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00202 | S016 S016 | VALIDATES | F018 Persistent digital-person / behavioral-agent models | EVIDENTIAL | 0.95 | S016 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00203 | F018 Persistent digital-person / behavioral-agent models | PROPOSED_BY | P032 P032 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00204 | F018 Persistent digital-person / behavioral-agent models | PROPOSED_BY | P033 P033 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00205 | F018 Persistent digital-person / behavioral-agent models | PROPOSED_BY | P034 P034 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00206 | F018 Persistent digital-person / behavioral-agent models | PROPOSED_BY | P035 P035 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00207 | F018 Persistent digital-person / behavioral-agent models | PROPOSED_BY | P036 P036 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00208 | F018 Persistent digital-person / behavioral-agent models | PROPOSED_BY | P037 P037 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00209 | F018 Persistent digital-person / behavioral-agent models | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00210 | F018 Persistent digital-person / behavioral-agent models | USES | T012 Multi-agent economies | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00211 | F018 Persistent digital-person / behavioral-agent models | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00212 | F018 Persistent digital-person / behavioral-agent models | USES | T014 Machine organizations | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00213 | F018 Persistent digital-person / behavioral-agent models | ENABLES | M135 Human–machine economy | THEMATIC | 0.52 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00214 | F018 Persistent digital-person / behavioral-agent models | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00215 | S001 S001 | VALIDATES | F019 Work-optional / abundance-oriented civilization | EVIDENTIAL | 0.95 | S001 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00216 | F019 Work-optional / abundance-oriented civilization | PROPOSED_BY | I012 I012 | PROVENANCE | 0.68 | S001 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00217 | F019 Work-optional / abundance-oriented civilization | DEPENDS_ON | T011 AI Agents 2.0 | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00218 | F019 Work-optional / abundance-oriented civilization | DEPENDS_ON | T012 Multi-agent economies | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00219 | F019 Work-optional / abundance-oriented civilization | DEPENDS_ON | T013 Agent-to-agent commerce | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00220 | F019 Work-optional / abundance-oriented civilization | DEPENDS_ON | T014 Machine organizations | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00221 | F019 Work-optional / abundance-oriented civilization | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00222 | F019 Work-optional / abundance-oriented civilization | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00223 | F019 Work-optional / abundance-oriented civilization | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00224 | F019 Work-optional / abundance-oriented civilization | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00225 | F019 Work-optional / abundance-oriented civilization | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00226 | F019 Work-optional / abundance-oriented civilization | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00227 | F019 Work-optional / abundance-oriented civilization | INCREASES_CAPACITY_OF | M128 Digital ruble | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00228 | F019 Work-optional / abundance-oriented civilization | INCREASES_CAPACITY_OF | M141 EURASIAN FX / CLEARING ROUTER | THEMATIC | 0.58 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00229 | S001 S001 | VALIDATES | F020 Post-AGI statecraft | EVIDENTIAL | 0.95 | S001 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00230 | F020 Post-AGI statecraft | PROPOSED_BY | P038 P038 | PROVENANCE | 0.78 | S001 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00231 | F020 Post-AGI statecraft | PROPOSED_BY | I013 I013 | PROVENANCE | 0.68 | S001 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00232 | F020 Post-AGI statecraft | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00233 | F020 Post-AGI statecraft | GOVERNS | T015 AI governance engines | ENABLING | 0.74 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00234 | F020 Post-AGI statecraft | GOVERNS | M133 National AI | ENABLING | 0.69 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00235 | F020 Post-AGI statecraft | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00236 | F020 Post-AGI statecraft | GOVERNS | M126 Electronic state | ENABLING | 0.69 | S001 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00237 | S017 S017 | VALIDATES | F021 AI constitutionalism | EVIDENTIAL | 0.95 | S017 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00238 | F021 AI constitutionalism | PROPOSED_BY | P039 P039 | PROVENANCE | 0.78 | S017 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00239 | F021 AI constitutionalism | PROPOSED_BY | I014 I014 | PROVENANCE | 0.68 | S017 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00240 | F021 AI constitutionalism | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00241 | F021 AI constitutionalism | GOVERNS | T015 AI governance engines | ENABLING | 0.74 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00242 | F021 AI constitutionalism | GOVERNS | M133 National AI | ENABLING | 0.69 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00243 | F021 AI constitutionalism | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00244 | F021 AI constitutionalism | GOVERNS | M126 Electronic state | ENABLING | 0.69 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00245 | S016 S016 | VALIDATES | F022 Agent civilization / persistent multi-agent social systems | EVIDENTIAL | 0.95 | S016 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00246 | F022 Agent civilization / persistent multi-agent social systems | PROPOSED_BY | P040 P040 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00247 | F022 Agent civilization / persistent multi-agent social systems | PROPOSED_BY | I015 I015 | PROVENANCE | 0.68 | S016 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00248 | F022 Agent civilization / persistent multi-agent social systems | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00249 | F022 Agent civilization / persistent multi-agent social systems | USES | T012 Multi-agent economies | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00250 | F022 Agent civilization / persistent multi-agent social systems | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00251 | F022 Agent civilization / persistent multi-agent social systems | USES | T014 Machine organizations | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00252 | F022 Agent civilization / persistent multi-agent social systems | ENABLES | M126 Electronic state | THEMATIC | 0.52 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00253 | F022 Agent civilization / persistent multi-agent social systems | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00254 | S018 S018 | VALIDATES | F023 Autonomous capital allocation / Capital Router | EVIDENTIAL | 0.95 | S018 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00255 | F023 Autonomous capital allocation / Capital Router | PROPOSED_BY | P041 P041 | PROVENANCE | 0.78 | S018 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00256 | F023 Autonomous capital allocation / Capital Router | PROPOSED_BY | P042 P042 | PROVENANCE | 0.78 | S018 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00257 | F023 Autonomous capital allocation / Capital Router | PROPOSED_BY | P043 P043 | PROVENANCE | 0.78 | S018 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00258 | F023 Autonomous capital allocation / Capital Router | PROPOSED_BY | P044 P044 | PROVENANCE | 0.78 | S018 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00259 | F023 Autonomous capital allocation / Capital Router | PROPOSED_BY | P045 P045 | PROVENANCE | 0.78 | S018 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00260 | F023 Autonomous capital allocation / Capital Router | DEPENDS_ON | T011 AI Agents 2.0 | THEMATIC | 0.56 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00261 | F023 Autonomous capital allocation / Capital Router | DEPENDS_ON | T012 Multi-agent economies | THEMATIC | 0.56 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00262 | F023 Autonomous capital allocation / Capital Router | DEPENDS_ON | T013 Agent-to-agent commerce | THEMATIC | 0.56 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00263 | F023 Autonomous capital allocation / Capital Router | DEPENDS_ON | T014 Machine organizations | THEMATIC | 0.56 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00264 | F023 Autonomous capital allocation / Capital Router | ENABLES | M133 National AI | ENABLING | 0.64 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00265 | F023 Autonomous capital allocation / Capital Router | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.64 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00266 | F023 Autonomous capital allocation / Capital Router | ENABLES | M128 Digital ruble | ENABLING | 0.64 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00267 | F023 Autonomous capital allocation / Capital Router | ENABLES | M141 EURASIAN FX / CLEARING ROUTER | ENABLING | 0.64 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00268 | F023 Autonomous capital allocation / Capital Router | ENABLES | M126 Electronic state | ENABLING | 0.64 | S018 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00269 | S019 S019 | VALIDATES | F024 Autonomous global logistics / planetary supply-chain graph | EVIDENTIAL | 0.95 | S019 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00270 | F024 Autonomous global logistics / planetary supply-chain graph | PROPOSED_BY | P046 P046 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00271 | F024 Autonomous global logistics / planetary supply-chain graph | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00272 | F024 Autonomous global logistics / planetary supply-chain graph | DEPENDS_ON | T016 Autonomous infrastructure management | THEMATIC | 0.56 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00273 | F024 Autonomous global logistics / planetary supply-chain graph | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00274 | F024 Autonomous global logistics / planetary supply-chain graph | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00275 | F024 Autonomous global logistics / planetary supply-chain graph | INCREASES_CAPACITY_OF | M145 EURASIAN TRANSPORT NETWORK 4.0 | THEMATIC | 0.58 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00276 | F024 Autonomous global logistics / planetary supply-chain graph | INCREASES_CAPACITY_OF | M140 EURASIAN ECONOMIC INTERNET | THEMATIC | 0.58 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00277 | S020 S020 | VALIDATES | F025 Space industrialization as an infrastructure ecosystem | EVIDENTIAL | 0.95 | S020 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00278 | F025 Space industrialization as an infrastructure ecosystem | PROPOSED_BY | I016 I016 | PROVENANCE | 0.68 | S020 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00279 | F025 Space industrialization as an infrastructure ecosystem | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00280 | F025 Space industrialization as an infrastructure ecosystem | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00281 | F025 Space industrialization as an infrastructure ecosystem | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00282 | F025 Space industrialization as an infrastructure ecosystem | DEPENDS_ON | T024 Swarm robotics | THEMATIC | 0.56 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00283 | F025 Space industrialization as an infrastructure ecosystem | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00284 | F025 Space industrialization as an infrastructure ecosystem | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00285 | F025 Space industrialization as an infrastructure ecosystem | INCREASES_CAPACITY_OF | M075 Territorial-production complexes | THEMATIC | 0.58 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00286 | F025 Space industrialization as an infrastructure ecosystem | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00287 | F025 Space industrialization as an infrastructure ecosystem | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00288 | F025 Space industrialization as an infrastructure ecosystem | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S020 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00289 | S021 S021 | VALIDATES | F026 Orbital compute / data centers in space | EVIDENTIAL | 0.95 | S021 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00290 | F026 Orbital compute / data centers in space | PROPOSED_BY | P047 P047 | PROVENANCE | 0.78 | S021 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00291 | F026 Orbital compute / data centers in space | PROPOSED_BY | P048 P048 | PROVENANCE | 0.78 | S021 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00292 | F026 Orbital compute / data centers in space | PROPOSED_BY | P049 P049 | PROVENANCE | 0.78 | S021 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00293 | F026 Orbital compute / data centers in space | PROPOSED_BY | I017 I017 | PROVENANCE | 0.68 | S021 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00294 | F026 Orbital compute / data centers in space | USES | T091 Space-based data centers | ENABLING | 0.66 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00295 | F026 Orbital compute / data centers in space | ENABLES | M088 Nuclear power | THEMATIC | 0.52 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00296 | F026 Orbital compute / data centers in space | ENABLES | M137 GOELRO-2 | THEMATIC | 0.52 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00297 | F026 Orbital compute / data centers in space | ENABLES | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.52 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00298 | F026 Orbital compute / data centers in space | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00299 | F026 Orbital compute / data centers in space | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00300 | F026 Orbital compute / data centers in space | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00301 | S022 S022 | VALIDATES | F027 Moon as an industrial node | EVIDENTIAL | 0.95 | S022 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00302 | F027 Moon as an industrial node | PROPOSED_BY | I018 I018 | PROVENANCE | 0.68 | S022 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00303 | F027 Moon as an industrial node | DEPENDS_ON | T095 Lunar industrial bases | THEMATIC | 0.56 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00304 | F027 Moon as an industrial node | DEPENDS_ON | T098 Autonomous space robotics | THEMATIC | 0.56 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00305 | F027 Moon as an industrial node | DEPENDS_ON | T100 Self-expanding space industry | THEMATIC | 0.56 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00306 | F027 Moon as an industrial node | ENABLES | M075 Territorial-production complexes | THEMATIC | 0.52 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00307 | F027 Moon as an industrial node | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00308 | F027 Moon as an industrial node | ENABLES | M088 Nuclear power | THEMATIC | 0.52 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00309 | F027 Moon as an industrial node | ENABLES | M137 GOELRO-2 | THEMATIC | 0.52 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00310 | F027 Moon as an industrial node | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00311 | F027 Moon as an industrial node | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S022 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00312 | S007 S007 | VALIDATES | F028 Self-expanding industrial system | EVIDENTIAL | 0.95 | S007 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00313 | F028 Self-expanding industrial system | PROPOSED_BY | P050 P050 | PROVENANCE | 0.78 | S007 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00314 | F028 Self-expanding industrial system | PROPOSED_BY | P051 P051 | PROVENANCE | 0.78 | S007 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00315 | F028 Self-expanding industrial system | PROPOSED_BY | I019 I019 | PROVENANCE | 0.68 | S007 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00316 | F028 Self-expanding industrial system | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00317 | F028 Self-expanding industrial system | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00318 | F028 Self-expanding industrial system | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00319 | F028 Self-expanding industrial system | DEPENDS_ON | T024 Swarm robotics | THEMATIC | 0.56 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00320 | F028 Self-expanding industrial system | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00321 | F028 Self-expanding industrial system | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00322 | F028 Self-expanding industrial system | INCREASES_CAPACITY_OF | M075 Territorial-production complexes | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00323 | F028 Self-expanding industrial system | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00324 | F028 Self-expanding industrial system | INCREASES_CAPACITY_OF | M088 Nuclear power | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00325 | F028 Self-expanding industrial system | INCREASES_CAPACITY_OF | M137 GOELRO-2 | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00326 | S023 S023 | VALIDATES | F029 Technology Breeder | EVIDENTIAL | 0.95 | S023 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00327 | F029 Technology Breeder | PROPOSED_BY | P052 P052 | PROVENANCE | 0.78 | S023 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00328 | F029 Technology Breeder | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00329 | F029 Technology Breeder | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00330 | F029 Technology Breeder | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00331 | F029 Technology Breeder | ENABLES | M133 National AI | THEMATIC | 0.52 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00332 | F029 Technology Breeder | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00333 | S019 S019 | VALIDATES | F030 Reasoning + acting agents (ReAct) | EVIDENTIAL | 0.95 | S019 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00334 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P053 P053 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00335 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P054 P054 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00336 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P055 P055 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00337 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P056 P056 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00338 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P057 P057 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00339 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P058 P058 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00340 | F030 Reasoning + acting agents (ReAct) | PROPOSED_BY | P059 P059 | PROVENANCE | 0.78 | S019 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00341 | F030 Reasoning + acting agents (ReAct) | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00342 | F030 Reasoning + acting agents (ReAct) | USES | T012 Multi-agent economies | ENABLING | 0.66 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00343 | F030 Reasoning + acting agents (ReAct) | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00344 | F030 Reasoning + acting agents (ReAct) | USES | T014 Machine organizations | ENABLING | 0.66 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00345 | F030 Reasoning + acting agents (ReAct) | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00346 | F030 Reasoning + acting agents (ReAct) | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S019 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00347 | S024 S024 | VALIDATES | F031 Self-taught API/tool use | EVIDENTIAL | 0.95 | S024 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00348 | F031 Self-taught API/tool use | PROPOSED_BY | P060 P060 | PROVENANCE | 0.78 | S024 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00349 | F031 Self-taught API/tool use | PROPOSED_BY | P061 P061 | PROVENANCE | 0.78 | S024 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00350 | F031 Self-taught API/tool use | PROPOSED_BY | P062 P062 | PROVENANCE | 0.78 | S024 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00351 | F031 Self-taught API/tool use | DEPENDS_ON | T011 AI Agents 2.0 | THEMATIC | 0.56 | S024 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00352 | F031 Self-taught API/tool use | DEPENDS_ON | T012 Multi-agent economies | THEMATIC | 0.56 | S024 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00353 | F031 Self-taught API/tool use | DEPENDS_ON | T013 Agent-to-agent commerce | THEMATIC | 0.56 | S024 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00354 | F031 Self-taught API/tool use | DEPENDS_ON | T014 Machine organizations | THEMATIC | 0.56 | S024 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00355 | F031 Self-taught API/tool use | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S024 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00356 | F031 Self-taught API/tool use | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S024 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00357 | S025 S025 | VALIDATES | F032 Verbal reinforcement / self-reflective agents | EVIDENTIAL | 0.95 | S025 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00358 | F032 Verbal reinforcement / self-reflective agents | PROPOSED_BY | P063 P063 | PROVENANCE | 0.78 | S025 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00359 | F032 Verbal reinforcement / self-reflective agents | PROPOSED_BY | P064 P064 | PROVENANCE | 0.78 | S025 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00360 | F032 Verbal reinforcement / self-reflective agents | PROPOSED_BY | P065 P065 | PROVENANCE | 0.78 | S025 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00361 | F032 Verbal reinforcement / self-reflective agents | PROPOSED_BY | P066 P066 | PROVENANCE | 0.78 | S025 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00362 | F032 Verbal reinforcement / self-reflective agents | PROPOSED_BY | P058 P058 | PROVENANCE | 0.78 | S025 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00363 | F032 Verbal reinforcement / self-reflective agents | PROPOSED_BY | P053 P053 | PROVENANCE | 0.78 | S025 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00364 | F032 Verbal reinforcement / self-reflective agents | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S025 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00365 | F032 Verbal reinforcement / self-reflective agents | USES | T012 Multi-agent economies | ENABLING | 0.66 | S025 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00366 | F032 Verbal reinforcement / self-reflective agents | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S025 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00367 | F032 Verbal reinforcement / self-reflective agents | USES | T014 Machine organizations | ENABLING | 0.66 | S025 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00368 | F032 Verbal reinforcement / self-reflective agents | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S025 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00369 | F032 Verbal reinforcement / self-reflective agents | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S025 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00370 | S026 S026 | VALIDATES | F033 Deliberative search over reasoning paths | EVIDENTIAL | 0.95 | S026 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00371 | F033 Deliberative search over reasoning paths | PROPOSED_BY | P053 P053 | PROVENANCE | 0.78 | S026 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00372 | F033 Deliberative search over reasoning paths | PROPOSED_BY | P055 P055 | PROVENANCE | 0.78 | S026 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00373 | F033 Deliberative search over reasoning paths | PROPOSED_BY | P067 P067 | PROVENANCE | 0.78 | S026 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00374 | F033 Deliberative search over reasoning paths | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S026 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00375 | F033 Deliberative search over reasoning paths | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S026 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00376 | F033 Deliberative search over reasoning paths | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S026 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00377 | S027 S027 | VALIDATES | F034 Iterative self-feedback refinement | EVIDENTIAL | 0.95 | S027 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00378 | F034 Iterative self-feedback refinement | PROPOSED_BY | P068 P068 | PROVENANCE | 0.78 | S027 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00379 | F034 Iterative self-feedback refinement | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S027 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00380 | F034 Iterative self-feedback refinement | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S027 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00381 | F034 Iterative self-feedback refinement | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S027 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00382 | S028 S028 | VALIDATES | F035 Multi-agent conversational orchestration | EVIDENTIAL | 0.95 | S028 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00383 | F035 Multi-agent conversational orchestration | PROPOSED_BY | P069 P069 | PROVENANCE | 0.78 | S028 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00384 | F035 Multi-agent conversational orchestration | PROPOSED_BY | I020 I020 | PROVENANCE | 0.68 | S028 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00385 | F035 Multi-agent conversational orchestration | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S028 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00386 | F035 Multi-agent conversational orchestration | USES | T012 Multi-agent economies | ENABLING | 0.66 | S028 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00387 | F035 Multi-agent conversational orchestration | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S028 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00388 | F035 Multi-agent conversational orchestration | USES | T014 Machine organizations | ENABLING | 0.66 | S028 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00389 | F035 Multi-agent conversational orchestration | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S028 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00390 | S029 S029 | VALIDATES | F036 Lifelong embodied skill acquisition | EVIDENTIAL | 0.95 | S029 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00391 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P070 P070 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00392 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P071 P071 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00393 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P072 P072 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00394 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P073 P073 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00395 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P074 P074 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00396 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P075 P075 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00397 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P076 P076 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00398 | F036 Lifelong embodied skill acquisition | PROPOSED_BY | P077 P077 | PROVENANCE | 0.78 | S029 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00399 | F036 Lifelong embodied skill acquisition | DEPENDS_ON | T001 World Models | THEMATIC | 0.56 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00400 | F036 Lifelong embodied skill acquisition | DEPENDS_ON | T010 Civilization-scale AI simulation | THEMATIC | 0.56 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00401 | F036 Lifelong embodied skill acquisition | DEPENDS_ON | T020 Civilization Digital Twin | THEMATIC | 0.56 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00402 | F036 Lifelong embodied skill acquisition | DEPENDS_ON | T011 AI Agents 2.0 | THEMATIC | 0.56 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00403 | F036 Lifelong embodied skill acquisition | DEPENDS_ON | T012 Multi-agent economies | THEMATIC | 0.56 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00404 | F036 Lifelong embodied skill acquisition | DEPENDS_ON | T013 Agent-to-agent commerce | THEMATIC | 0.56 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00405 | F036 Lifelong embodied skill acquisition | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00406 | F036 Lifelong embodied skill acquisition | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S029 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00407 | S016 S016 | VALIDATES | F037 Generative-agent social simulation | EVIDENTIAL | 0.95 | S016 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00408 | F037 Generative-agent social simulation | PROPOSED_BY | P078 P078 | PROVENANCE | 0.78 | S016 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00409 | F037 Generative-agent social simulation | USES | T001 World Models | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00410 | F037 Generative-agent social simulation | USES | T010 Civilization-scale AI simulation | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00411 | F037 Generative-agent social simulation | USES | T020 Civilization Digital Twin | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00412 | F037 Generative-agent social simulation | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00413 | F037 Generative-agent social simulation | USES | T012 Multi-agent economies | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00414 | F037 Generative-agent social simulation | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00415 | F037 Generative-agent social simulation | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S016 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00416 | S030 S030 | VALIDATES | F038 General reinforcement learning through learned world models | EVIDENTIAL | 0.95 | S030 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00417 | F038 General reinforcement learning through learned world models | PROPOSED_BY | P079 P079 | PROVENANCE | 0.78 | S030 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00418 | F038 General reinforcement learning through learned world models | PROPOSED_BY | P080 P080 | PROVENANCE | 0.78 | S030 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00419 | F038 General reinforcement learning through learned world models | PROPOSED_BY | P081 P081 | PROVENANCE | 0.78 | S030 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00420 | F038 General reinforcement learning through learned world models | PROPOSED_BY | P082 P082 | PROVENANCE | 0.78 | S030 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00421 | F038 General reinforcement learning through learned world models | ENABLES | T001 World Models | ENABLING | 0.70 | S030 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00422 | F038 General reinforcement learning through learned world models | DEPENDS_ON | T010 Civilization-scale AI simulation | THEMATIC | 0.56 | S030 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00423 | F038 General reinforcement learning through learned world models | DEPENDS_ON | T020 Civilization Digital Twin | THEMATIC | 0.56 | S030 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00424 | F038 General reinforcement learning through learned world models | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S030 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00425 | S031 S031 | VALIDATES | F039 Language models grounded by robotic affordances | EVIDENTIAL | 0.95 | S031 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00426 | F039 Language models grounded by robotic affordances | PROPOSED_BY | P083 P083 | PROVENANCE | 0.78 | S031 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00427 | F039 Language models grounded by robotic affordances | PROPOSED_BY | I021 I021 | PROVENANCE | 0.68 | S031 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00428 | F039 Language models grounded by robotic affordances | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00429 | F039 Language models grounded by robotic affordances | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00430 | F039 Language models grounded by robotic affordances | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00431 | F039 Language models grounded by robotic affordances | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00432 | F039 Language models grounded by robotic affordances | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00433 | F039 Language models grounded by robotic affordances | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00434 | F039 Language models grounded by robotic affordances | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00435 | F039 Language models grounded by robotic affordances | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S031 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00436 | S032 S032 | VALIDATES | F040 Embodied multimodal language model | EVIDENTIAL | 0.95 | S032 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00437 | F040 Embodied multimodal language model | PROPOSED_BY | P084 P084 | PROVENANCE | 0.78 | S032 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00438 | F040 Embodied multimodal language model | PROPOSED_BY | P085 P085 | PROVENANCE | 0.78 | S032 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00439 | F040 Embodied multimodal language model | PROPOSED_BY | P086 P086 | PROVENANCE | 0.78 | S032 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00440 | F040 Embodied multimodal language model | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00441 | F040 Embodied multimodal language model | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00442 | F040 Embodied multimodal language model | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00443 | F040 Embodied multimodal language model | DEPENDS_ON | T024 Swarm robotics | THEMATIC | 0.56 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00444 | F040 Embodied multimodal language model | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00445 | F040 Embodied multimodal language model | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00446 | F040 Embodied multimodal language model | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00447 | F040 Embodied multimodal language model | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S032 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00448 | S033 S033 | VALIDATES | F041 Cross-embodiment robot learning | EVIDENTIAL | 0.95 | S033 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00449 | F041 Cross-embodiment robot learning | PROPOSED_BY | I022 I022 | PROVENANCE | 0.68 | S033 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00450 | F041 Cross-embodiment robot learning | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S033 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00451 | F041 Cross-embodiment robot learning | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S033 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00452 | F041 Cross-embodiment robot learning | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S033 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00453 | F041 Cross-embodiment robot learning | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S033 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00454 | F041 Cross-embodiment robot learning | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S033 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00455 | F041 Cross-embodiment robot learning | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S033 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00456 | S034 S034 | VALIDATES | F042 Vision-language-action robotics | EVIDENTIAL | 0.95 | S034 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00457 | F042 Vision-language-action robotics | PROPOSED_BY | P087 P087 | PROVENANCE | 0.78 | S034 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00458 | F042 Vision-language-action robotics | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S034 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00459 | F042 Vision-language-action robotics | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00460 | F042 Vision-language-action robotics | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00461 | F042 Vision-language-action robotics | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00462 | F042 Vision-language-action robotics | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00463 | F042 Vision-language-action robotics | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00464 | F042 Vision-language-action robotics | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00465 | F042 Vision-language-action robotics | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00466 | F042 Vision-language-action robotics | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S034 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00467 | S005 S005 | VALIDATES | F043 Gemini-based physical AI | EVIDENTIAL | 0.95 | S005 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00468 | F043 Gemini-based physical AI | PROPOSED_BY | I023 I023 | PROVENANCE | 0.68 | S005 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00469 | F043 Gemini-based physical AI | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00470 | F043 Gemini-based physical AI | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00471 | F043 Gemini-based physical AI | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00472 | F043 Gemini-based physical AI | DEPENDS_ON | T024 Swarm robotics | THEMATIC | 0.56 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00473 | F043 Gemini-based physical AI | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00474 | F043 Gemini-based physical AI | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00475 | F043 Gemini-based physical AI | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00476 | F043 Gemini-based physical AI | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00477 | S005 S005 | VALIDATES | F044 Embodied reasoning for robots | EVIDENTIAL | 0.95 | S005 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00478 | F044 Embodied reasoning for robots | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S005 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00479 | F044 Embodied reasoning for robots | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00480 | F044 Embodied reasoning for robots | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00481 | F044 Embodied reasoning for robots | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00482 | F044 Embodied reasoning for robots | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00483 | F044 Embodied reasoning for robots | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00484 | F044 Embodied reasoning for robots | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S005 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00485 | S035 S035 | VALIDATES | F045 On-device robot foundation models | EVIDENTIAL | 0.95 | S035 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00486 | F045 On-device robot foundation models | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S035 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00487 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | T021 Humanoid robots | ENABLING | 0.72 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00488 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | T022 General-purpose industrial robots | ENABLING | 0.72 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00489 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | T023 Robot foundation models | ENABLING | 0.72 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00490 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | T024 Swarm robotics | ENABLING | 0.72 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00491 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00492 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00493 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00494 | F045 On-device robot foundation models | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S035 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00495 | S006 S006 | VALIDATES | F046 Open humanoid robot foundation models | EVIDENTIAL | 0.95 | S006 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00496 | F046 Open humanoid robot foundation models | PROPOSED_BY | I005 I005 | PROVENANCE | 0.68 | S006 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00497 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | T021 Humanoid robots | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00498 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | T022 General-purpose industrial robots | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00499 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | T023 Robot foundation models | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00500 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | T024 Swarm robotics | ENABLING | 0.72 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00501 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00502 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00503 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00504 | F046 Open humanoid robot foundation models | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S006 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00505 | S036 S036 | VALIDATES | F047 Internet-scale human-video pretraining for humanoids | EVIDENTIAL | 0.95 | S036 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00506 | F047 Internet-scale human-video pretraining for humanoids | PROPOSED_BY | I024 I024 | PROVENANCE | 0.68 | S036 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00507 | F047 Internet-scale human-video pretraining for humanoids | DEPENDS_ON | T021 Humanoid robots | THEMATIC | 0.56 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00508 | F047 Internet-scale human-video pretraining for humanoids | DEPENDS_ON | T022 General-purpose industrial robots | THEMATIC | 0.56 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00509 | F047 Internet-scale human-video pretraining for humanoids | DEPENDS_ON | T023 Robot foundation models | THEMATIC | 0.56 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00510 | F047 Internet-scale human-video pretraining for humanoids | DEPENDS_ON | T024 Swarm robotics | THEMATIC | 0.56 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00511 | F047 Internet-scale human-video pretraining for humanoids | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00512 | F047 Internet-scale human-video pretraining for humanoids | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00513 | F047 Internet-scale human-video pretraining for humanoids | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S036 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00514 | S037 S037 | VALIDATES | F048 End-to-end automated ML research | EVIDENTIAL | 0.95 | S037 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00515 | F048 End-to-end automated ML research | PROPOSED_BY | P088 P088 | PROVENANCE | 0.78 | S037 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00516 | F048 End-to-end automated ML research | PROPOSED_BY | I025 I025 | PROVENANCE | 0.68 | S037 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00517 | F048 End-to-end automated ML research | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S037 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00518 | F048 End-to-end automated ML research | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S037 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00519 | F048 End-to-end automated ML research | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S037 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00520 | F048 End-to-end automated ML research | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S037 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00521 | F048 End-to-end automated ML research | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S037 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00522 | S003 S003 | VALIDATES | F049 Multi-agent scientific hypothesis generation | EVIDENTIAL | 0.95 | S003 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00523 | F049 Multi-agent scientific hypothesis generation | PROPOSED_BY | P089 P089 | PROVENANCE | 0.78 | S003 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00524 | F049 Multi-agent scientific hypothesis generation | PROPOSED_BY | P090 P090 | PROVENANCE | 0.78 | S003 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00525 | F049 Multi-agent scientific hypothesis generation | PROPOSED_BY | I026 I026 | PROVENANCE | 0.68 | S003 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00526 | F049 Multi-agent scientific hypothesis generation | USES | T002 Autonomous Scientific AI | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00527 | F049 Multi-agent scientific hypothesis generation | USES | T003 AI Scientists | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00528 | F049 Multi-agent scientific hypothesis generation | USES | T019 Machine science networks | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00529 | F049 Multi-agent scientific hypothesis generation | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00530 | F049 Multi-agent scientific hypothesis generation | USES | T012 Multi-agent economies | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00531 | F049 Multi-agent scientific hypothesis generation | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00532 | F049 Multi-agent scientific hypothesis generation | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00533 | F049 Multi-agent scientific hypothesis generation | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00534 | F049 Multi-agent scientific hypothesis generation | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00535 | F049 Multi-agent scientific hypothesis generation | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S003 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00536 | S038 S038 | VALIDATES | F050 LLM + chemistry tools autonomous chemistry assistant | EVIDENTIAL | 0.95 | S038 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00537 | F050 LLM + chemistry tools autonomous chemistry assistant | PROPOSED_BY | P091 P091 | PROVENANCE | 0.78 | S038 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00538 | F050 LLM + chemistry tools autonomous chemistry assistant | PROPOSED_BY | P092 P092 | PROVENANCE | 0.78 | S038 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00539 | F050 LLM + chemistry tools autonomous chemistry assistant | PROPOSED_BY | P093 P093 | PROVENANCE | 0.78 | S038 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00540 | F050 LLM + chemistry tools autonomous chemistry assistant | PROPOSED_BY | P094 P094 | PROVENANCE | 0.78 | S038 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00541 | F050 LLM + chemistry tools autonomous chemistry assistant | PROPOSED_BY | P095 P095 | PROVENANCE | 0.78 | S038 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00542 | F050 LLM + chemistry tools autonomous chemistry assistant | PROPOSED_BY | P096 P096 | PROVENANCE | 0.78 | S038 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00543 | F050 LLM + chemistry tools autonomous chemistry assistant | DEPENDS_ON | T011 AI Agents 2.0 | THEMATIC | 0.56 | S038 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00544 | F050 LLM + chemistry tools autonomous chemistry assistant | DEPENDS_ON | T012 Multi-agent economies | THEMATIC | 0.56 | S038 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00545 | F050 LLM + chemistry tools autonomous chemistry assistant | DEPENDS_ON | T013 Agent-to-agent commerce | THEMATIC | 0.56 | S038 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00546 | F050 LLM + chemistry tools autonomous chemistry assistant | DEPENDS_ON | T014 Machine organizations | THEMATIC | 0.56 | S038 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00547 | F050 LLM + chemistry tools autonomous chemistry assistant | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S038 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00548 | F050 LLM + chemistry tools autonomous chemistry assistant | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S038 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00549 | S011 S011 | VALIDATES | F051 Autonomous robotic materials laboratory | EVIDENTIAL | 0.95 | S011 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00550 | F051 Autonomous robotic materials laboratory | PROPOSED_BY | P097 P097 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00551 | F051 Autonomous robotic materials laboratory | PROPOSED_BY | P098 P098 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00552 | F051 Autonomous robotic materials laboratory | PROPOSED_BY | P099 P099 | PROVENANCE | 0.78 | S011 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00553 | F051 Autonomous robotic materials laboratory | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00554 | F051 Autonomous robotic materials laboratory | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00555 | F051 Autonomous robotic materials laboratory | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00556 | F051 Autonomous robotic materials laboratory | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00557 | F051 Autonomous robotic materials laboratory | ENABLES | T051 AI-designed materials | ENABLING | 0.74 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00558 | F051 Autonomous robotic materials laboratory | ENABLES | T052 Metamaterials | ENABLING | 0.74 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00559 | F051 Autonomous robotic materials laboratory | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00560 | F051 Autonomous robotic materials laboratory | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00561 | F051 Autonomous robotic materials laboratory | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00562 | F051 Autonomous robotic materials laboratory | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S011 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00563 | S023 S023 | VALIDATES | F052 Evolutionary code/algorithm discovery | EVIDENTIAL | 0.95 | S023 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00564 | F052 Evolutionary code/algorithm discovery | PROPOSED_BY | I027 I027 | PROVENANCE | 0.68 | S023 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00565 | F052 Evolutionary code/algorithm discovery | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S023 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00566 | F052 Evolutionary code/algorithm discovery | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00567 | F052 Evolutionary code/algorithm discovery | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00568 | F052 Evolutionary code/algorithm discovery | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00569 | F052 Evolutionary code/algorithm discovery | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00570 | F052 Evolutionary code/algorithm discovery | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S023 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00571 | S039 S039 | VALIDATES | F053 LLM-guided search for new mathematical/computer-science constructions | EVIDENTIAL | 0.95 | S039 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00572 | F053 LLM-guided search for new mathematical/computer-science constructions | PROPOSED_BY | P100 P100 | PROVENANCE | 0.78 | S039 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00573 | F053 LLM-guided search for new mathematical/computer-science constructions | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S039 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00574 | F053 LLM-guided search for new mathematical/computer-science constructions | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00575 | F053 LLM-guided search for new mathematical/computer-science constructions | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00576 | F053 LLM-guided search for new mathematical/computer-science constructions | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00577 | F053 LLM-guided search for new mathematical/computer-science constructions | DEPENDS_ON | T025 Autonomous construction robots | THEMATIC | 0.56 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00578 | F053 LLM-guided search for new mathematical/computer-science constructions | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00579 | F053 LLM-guided search for new mathematical/computer-science constructions | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00580 | F053 LLM-guided search for new mathematical/computer-science constructions | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S039 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00581 | S040 S040 | VALIDATES | F054 AI-discovered low-level algorithms | EVIDENTIAL | 0.95 | S040 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00582 | F054 AI-discovered low-level algorithms | PROPOSED_BY | P101 P101 | PROVENANCE | 0.78 | S040 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00583 | F054 AI-discovered low-level algorithms | PROPOSED_BY | P102 P102 | PROVENANCE | 0.78 | S040 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00584 | F054 AI-discovered low-level algorithms | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S040 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00585 | F054 AI-discovered low-level algorithms | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S040 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00586 | F054 AI-discovered low-level algorithms | DEPENDS_ON | T048 Compute-to-energy optimization | THEMATIC | 0.56 | S040 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00587 | F054 AI-discovered low-level algorithms | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S040 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00588 | F054 AI-discovered low-level algorithms | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S040 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00589 | F054 AI-discovered low-level algorithms | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S040 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00590 | S041 S041 | VALIDATES | F055 AI discovery of matrix-multiplication algorithms | EVIDENTIAL | 0.95 | S041 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00591 | F055 AI discovery of matrix-multiplication algorithms | PROPOSED_BY | P103 P103 | PROVENANCE | 0.78 | S041 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00592 | F055 AI discovery of matrix-multiplication algorithms | PROPOSED_BY | P104 P104 | PROVENANCE | 0.78 | S041 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00593 | F055 AI discovery of matrix-multiplication algorithms | PROPOSED_BY | P100 P100 | PROVENANCE | 0.78 | S041 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00594 | F055 AI discovery of matrix-multiplication algorithms | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S041 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00595 | F055 AI discovery of matrix-multiplication algorithms | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S041 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00596 | F055 AI discovery of matrix-multiplication algorithms | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S041 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00597 | F055 AI discovery of matrix-multiplication algorithms | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S041 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00598 | F055 AI discovery of matrix-multiplication algorithms | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S041 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00599 | F055 AI discovery of matrix-multiplication algorithms | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S041 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00600 | S017 S017 | VALIDATES | F056 Constitutional AI | EVIDENTIAL | 0.95 | S017 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00601 | F056 Constitutional AI | PROPOSED_BY | P039 P039 | PROVENANCE | 0.78 | S017 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00602 | F056 Constitutional AI | PROPOSED_BY | I014 I014 | PROVENANCE | 0.68 | S017 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00603 | F056 Constitutional AI | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00604 | F056 Constitutional AI | GOVERNS | T015 AI governance engines | ENABLING | 0.74 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00605 | F056 Constitutional AI | GOVERNS | M133 National AI | ENABLING | 0.69 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00606 | F056 Constitutional AI | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00607 | F056 Constitutional AI | GOVERNS | M126 Electronic state | ENABLING | 0.69 | S017 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00608 | S042 S042 | VALIDATES | F057 AI safety via debate | EVIDENTIAL | 0.95 | S042 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00609 | F057 AI safety via debate | PROPOSED_BY | P105 P105 | PROVENANCE | 0.78 | S042 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00610 | F057 AI safety via debate | PROPOSED_BY | P106 P106 | PROVENANCE | 0.78 | S042 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00611 | F057 AI safety via debate | PROPOSED_BY | P107 P107 | PROVENANCE | 0.78 | S042 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00612 | F057 AI safety via debate | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S042 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00613 | F057 AI safety via debate | GOVERNS | M133 National AI | ENABLING | 0.69 | S042 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00614 | F057 AI safety via debate | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S042 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00615 | S043 S043 | VALIDATES | F058 Eliciting latent knowledge from advanced systems | EVIDENTIAL | 0.95 | S043 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00616 | F058 Eliciting latent knowledge from advanced systems | PROPOSED_BY | P106 P106 | PROVENANCE | 0.78 | S043 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00617 | F058 Eliciting latent knowledge from advanced systems | PROPOSED_BY | P108 P108 | PROVENANCE | 0.78 | S043 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00618 | F058 Eliciting latent knowledge from advanced systems | PROPOSED_BY | P109 P109 | PROVENANCE | 0.78 | S043 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00619 | F058 Eliciting latent knowledge from advanced systems | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S043 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00620 | F058 Eliciting latent knowledge from advanced systems | GOVERNS | M133 National AI | ENABLING | 0.69 | S043 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00621 | F058 Eliciting latent knowledge from advanced systems | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S043 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00622 | S044 S044 | VALIDATES | F059 Cooperative inverse reinforcement learning | EVIDENTIAL | 0.95 | S044 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00623 | F059 Cooperative inverse reinforcement learning | PROPOSED_BY | P110 P110 | PROVENANCE | 0.78 | S044 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00624 | F059 Cooperative inverse reinforcement learning | PROPOSED_BY | P111 P111 | PROVENANCE | 0.78 | S044 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00625 | F059 Cooperative inverse reinforcement learning | PROPOSED_BY | P112 P112 | PROVENANCE | 0.78 | S044 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00626 | F059 Cooperative inverse reinforcement learning | PROPOSED_BY | P113 P113 | PROVENANCE | 0.78 | S044 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00627 | F059 Cooperative inverse reinforcement learning | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S044 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00628 | F059 Cooperative inverse reinforcement learning | DEPENDS_ON | T074 Brain–computer interfaces | THEMATIC | 0.56 | S044 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00629 | F059 Cooperative inverse reinforcement learning | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S044 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00630 | F059 Cooperative inverse reinforcement learning | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S044 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00631 | F059 Cooperative inverse reinforcement learning | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S044 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00632 | S045 S045 | VALIDATES | F060 Collective Constitutional AI | EVIDENTIAL | 0.95 | S045 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00633 | F060 Collective Constitutional AI | PROPOSED_BY | P114 P114 | PROVENANCE | 0.78 | S045 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00634 | F060 Collective Constitutional AI | PROPOSED_BY | P115 P115 | PROVENANCE | 0.78 | S045 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00635 | F060 Collective Constitutional AI | PROPOSED_BY | P116 P116 | PROVENANCE | 0.78 | S045 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00636 | F060 Collective Constitutional AI | PROPOSED_BY | I028 I028 | PROVENANCE | 0.68 | S045 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00637 | F060 Collective Constitutional AI | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S045 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00638 | F060 Collective Constitutional AI | GOVERNS | T015 AI governance engines | ENABLING | 0.74 | S045 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00639 | F060 Collective Constitutional AI | GOVERNS | M133 National AI | ENABLING | 0.69 | S045 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00640 | F060 Collective Constitutional AI | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S045 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00641 | F060 Collective Constitutional AI | GOVERNS | M126 Electronic state | ENABLING | 0.69 | S045 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00642 | S046 S046 | VALIDATES | F061 Scalable oversight | EVIDENTIAL | 0.95 | S046 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00643 | F061 Scalable oversight | PROPOSED_BY | P117 P117 | PROVENANCE | 0.78 | S046 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00644 | F061 Scalable oversight | GOVERNS | T002 Autonomous Scientific AI | ENABLING | 0.74 | S046 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00645 | F061 Scalable oversight | GOVERNS | T074 Brain–computer interfaces | ENABLING | 0.74 | S046 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00646 | F061 Scalable oversight | GOVERNS | M133 National AI | ENABLING | 0.69 | S046 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00647 | F061 Scalable oversight | GOVERNS | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.69 | S046 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00648 | F061 Scalable oversight | GOVERNS | M135 Human–machine economy | ENABLING | 0.69 | S046 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00649 | S047 S047 | VALIDATES | F062 Protein-structure prediction at proteome scale | EVIDENTIAL | 0.95 | S047 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00650 | F062 Protein-structure prediction at proteome scale | PROPOSED_BY | P118 P118 | PROVENANCE | 0.78 | S047 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00651 | F062 Protein-structure prediction at proteome scale | PROPOSED_BY | I029 I029 | PROVENANCE | 0.68 | S047 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00652 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | T002 Autonomous Scientific AI | ENABLING | 0.72 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00653 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | T003 AI Scientists | ENABLING | 0.72 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00654 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | T019 Machine science networks | ENABLING | 0.72 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00655 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | T063 AI-designed proteins | ENABLING | 0.72 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00656 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00657 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00658 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00659 | F062 Protein-structure prediction at proteome scale | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S047 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00660 | S048 S048 | VALIDATES | F063 Joint modeling of biomolecular interactions | EVIDENTIAL | 0.95 | S048 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00661 | F063 Joint modeling of biomolecular interactions | PROPOSED_BY | P119 P119 | PROVENANCE | 0.78 | S048 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00662 | F063 Joint modeling of biomolecular interactions | PROPOSED_BY | I030 I030 | PROVENANCE | 0.68 | S048 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00663 | F063 Joint modeling of biomolecular interactions | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00664 | F063 Joint modeling of biomolecular interactions | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00665 | F063 Joint modeling of biomolecular interactions | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00666 | F063 Joint modeling of biomolecular interactions | DEPENDS_ON | T058 Molecular manufacturing | THEMATIC | 0.56 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00667 | F063 Joint modeling of biomolecular interactions | DEPENDS_ON | T059 Nanomachines | THEMATIC | 0.56 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00668 | F063 Joint modeling of biomolecular interactions | DEPENDS_ON | T060 Atomically precise manufacturing | THEMATIC | 0.56 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00669 | F063 Joint modeling of biomolecular interactions | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00670 | F063 Joint modeling of biomolecular interactions | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00671 | F063 Joint modeling of biomolecular interactions | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00672 | F063 Joint modeling of biomolecular interactions | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S048 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00673 | S010 S010 | VALIDATES | F064 Genome regulatory variant-effect foundation model | EVIDENTIAL | 0.95 | S010 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00674 | F064 Genome regulatory variant-effect foundation model | PROPOSED_BY | P015 P015 | PROVENANCE | 0.78 | S010 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00675 | F064 Genome regulatory variant-effect foundation model | PROPOSED_BY | P120 P120 | PROVENANCE | 0.78 | S010 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00676 | F064 Genome regulatory variant-effect foundation model | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S010 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00677 | F064 Genome regulatory variant-effect foundation model | INCREASES_CAPACITY_OF | T061 Programmable cells | ENABLING | 0.72 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00678 | F064 Genome regulatory variant-effect foundation model | INCREASES_CAPACITY_OF | T063 AI-designed proteins | ENABLING | 0.72 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00679 | F064 Genome regulatory variant-effect foundation model | INCREASES_CAPACITY_OF | T064 Synthetic organisms | ENABLING | 0.72 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00680 | F064 Genome regulatory variant-effect foundation model | INCREASES_CAPACITY_OF | T070 AI-designed drugs | ENABLING | 0.72 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00681 | F064 Genome regulatory variant-effect foundation model | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00682 | F064 Genome regulatory variant-effect foundation model | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S010 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00683 | S049 S049 | VALIDATES | F065 Long-range genomic regulatory prediction | EVIDENTIAL | 0.95 | S049 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00684 | F065 Long-range genomic regulatory prediction | PROPOSED_BY | P121 P121 | PROVENANCE | 0.78 | S049 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00685 | F065 Long-range genomic regulatory prediction | INCREASES_CAPACITY_OF | T061 Programmable cells | ENABLING | 0.72 | S049 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00686 | F065 Long-range genomic regulatory prediction | INCREASES_CAPACITY_OF | T063 AI-designed proteins | ENABLING | 0.72 | S049 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00687 | F065 Long-range genomic regulatory prediction | INCREASES_CAPACITY_OF | T064 Synthetic organisms | ENABLING | 0.72 | S049 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00688 | F065 Long-range genomic regulatory prediction | INCREASES_CAPACITY_OF | T070 AI-designed drugs | ENABLING | 0.72 | S049 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00689 | F065 Long-range genomic regulatory prediction | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S049 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00690 | F065 Long-range genomic regulatory prediction | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S049 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00691 | S050 S050 | VALIDATES | F066 Generative protein design with diffusion models | EVIDENTIAL | 0.95 | S050 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00692 | F066 Generative protein design with diffusion models | PROPOSED_BY | P122 P122 | PROVENANCE | 0.78 | S050 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00693 | F066 Generative protein design with diffusion models | PROPOSED_BY | P123 P123 | PROVENANCE | 0.78 | S050 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00694 | F066 Generative protein design with diffusion models | PROPOSED_BY | P124 P124 | PROVENANCE | 0.78 | S050 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00695 | F066 Generative protein design with diffusion models | PROPOSED_BY | I031 I031 | PROVENANCE | 0.68 | S050 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00696 | F066 Generative protein design with diffusion models | DEPENDS_ON | T031 Commercial fusion | THEMATIC | 0.56 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00697 | F066 Generative protein design with diffusion models | DEPENDS_ON | T032 Compact fusion reactors | THEMATIC | 0.56 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00698 | F066 Generative protein design with diffusion models | DEPENDS_ON | T033 Next-generation stellarators | THEMATIC | 0.56 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00699 | F066 Generative protein design with diffusion models | DEPENDS_ON | T034 Fusion–fission hybrids | THEMATIC | 0.56 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00700 | F066 Generative protein design with diffusion models | DEPENDS_ON | T051 AI-designed materials | THEMATIC | 0.56 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00701 | F066 Generative protein design with diffusion models | DEPENDS_ON | T052 Metamaterials | THEMATIC | 0.56 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00702 | F066 Generative protein design with diffusion models | INCREASES_CAPACITY_OF | M133 National AI | ENABLING | 0.66 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00703 | F066 Generative protein design with diffusion models | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.66 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00704 | F066 Generative protein design with diffusion models | INCREASES_CAPACITY_OF | M034 Noosphere | ENABLING | 0.66 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00705 | F066 Generative protein design with diffusion models | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | ENABLING | 0.66 | S050 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00706 | S051 S051 | VALIDATES | F067 Programmable CRISPR-Cas9 editing | EVIDENTIAL | 0.95 | S051 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00707 | F067 Programmable CRISPR-Cas9 editing | PROPOSED_BY | P125 P125 | PROVENANCE | 0.78 | S051 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00708 | F067 Programmable CRISPR-Cas9 editing | PROPOSED_BY | P126 P126 | PROVENANCE | 0.78 | S051 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00709 | F067 Programmable CRISPR-Cas9 editing | PROPOSED_BY | P127 P127 | PROVENANCE | 0.78 | S051 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00710 | F067 Programmable CRISPR-Cas9 editing | PROPOSED_BY | P128 P128 | PROVENANCE | 0.78 | S051 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00711 | F067 Programmable CRISPR-Cas9 editing | ENABLES | T061 Programmable cells | ENABLING | 0.74 | S051 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00712 | F067 Programmable CRISPR-Cas9 editing | ENABLES | T063 AI-designed proteins | ENABLING | 0.74 | S051 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00713 | F067 Programmable CRISPR-Cas9 editing | ENABLES | T064 Synthetic organisms | ENABLING | 0.74 | S051 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00714 | F067 Programmable CRISPR-Cas9 editing | ENABLES | T070 AI-designed drugs | ENABLING | 0.74 | S051 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00715 | F067 Programmable CRISPR-Cas9 editing | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S051 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00716 | F067 Programmable CRISPR-Cas9 editing | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S051 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00717 | S052 S052 | VALIDATES | F068 Base editing without double-strand breaks | EVIDENTIAL | 0.95 | S052 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00718 | F068 Base editing without double-strand breaks | PROPOSED_BY | P129 P129 | PROVENANCE | 0.78 | S052 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00719 | F068 Base editing without double-strand breaks | PROPOSED_BY | P130 P130 | PROVENANCE | 0.78 | S052 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00720 | F068 Base editing without double-strand breaks | PROPOSED_BY | P131 P131 | PROVENANCE | 0.78 | S052 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00721 | F068 Base editing without double-strand breaks | PROPOSED_BY | P132 P132 | PROVENANCE | 0.78 | S052 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00722 | F068 Base editing without double-strand breaks | PROPOSED_BY | P133 P133 | PROVENANCE | 0.78 | S052 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00723 | F068 Base editing without double-strand breaks | ENABLES | T061 Programmable cells | ENABLING | 0.74 | S052 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00724 | F068 Base editing without double-strand breaks | ENABLES | T063 AI-designed proteins | ENABLING | 0.74 | S052 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00725 | F068 Base editing without double-strand breaks | ENABLES | T064 Synthetic organisms | ENABLING | 0.74 | S052 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00726 | F068 Base editing without double-strand breaks | ENABLES | T070 AI-designed drugs | ENABLING | 0.74 | S052 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00727 | F068 Base editing without double-strand breaks | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S052 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00728 | F068 Base editing without double-strand breaks | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S052 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00729 | S053 S053 | VALIDATES | F069 Prime editing | EVIDENTIAL | 0.95 | S053 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00730 | F069 Prime editing | PROPOSED_BY | P134 P134 | PROVENANCE | 0.78 | S053 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00731 | F069 Prime editing | PROPOSED_BY | P135 P135 | PROVENANCE | 0.78 | S053 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00732 | F069 Prime editing | PROPOSED_BY | P136 P136 | PROVENANCE | 0.78 | S053 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00733 | F069 Prime editing | PROPOSED_BY | P137 P137 | PROVENANCE | 0.78 | S053 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00734 | F069 Prime editing | ENABLES | T061 Programmable cells | ENABLING | 0.74 | S053 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00735 | F069 Prime editing | ENABLES | T063 AI-designed proteins | ENABLING | 0.74 | S053 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00736 | F069 Prime editing | ENABLES | T064 Synthetic organisms | ENABLING | 0.74 | S053 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00737 | F069 Prime editing | ENABLES | T070 AI-designed drugs | ENABLING | 0.74 | S053 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00738 | F069 Prime editing | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S053 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00739 | F069 Prime editing | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S053 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00740 | S054 S054 | VALIDATES | F070 Minimal synthetic bacterial cell | EVIDENTIAL | 0.95 | S054 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00741 | F070 Minimal synthetic bacterial cell | PROPOSED_BY | P138 P138 | PROVENANCE | 0.78 | S054 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00742 | F070 Minimal synthetic bacterial cell | PROPOSED_BY | I032 I032 | PROVENANCE | 0.68 | S054 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00743 | F070 Minimal synthetic bacterial cell | DEPENDS_ON | T061 Programmable cells | THEMATIC | 0.56 | S054 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00744 | F070 Minimal synthetic bacterial cell | DEPENDS_ON | T063 AI-designed proteins | THEMATIC | 0.56 | S054 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00745 | F070 Minimal synthetic bacterial cell | DEPENDS_ON | T064 Synthetic organisms | THEMATIC | 0.56 | S054 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00746 | F070 Minimal synthetic bacterial cell | DEPENDS_ON | T070 AI-designed drugs | THEMATIC | 0.56 | S054 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00747 | F070 Minimal synthetic bacterial cell | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S054 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00748 | F070 Minimal synthetic bacterial cell | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S054 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00749 | S055 S055 | VALIDATES | F071 Designed living robots / xenobots | EVIDENTIAL | 0.95 | S055 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00750 | F071 Designed living robots / xenobots | PROPOSED_BY | P139 P139 | PROVENANCE | 0.78 | S055 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00751 | F071 Designed living robots / xenobots | PROPOSED_BY | P140 P140 | PROVENANCE | 0.78 | S055 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00752 | F071 Designed living robots / xenobots | PROPOSED_BY | P141 P141 | PROVENANCE | 0.78 | S055 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00753 | F071 Designed living robots / xenobots | PROPOSED_BY | P142 P142 | PROVENANCE | 0.78 | S055 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00754 | F071 Designed living robots / xenobots | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00755 | F071 Designed living robots / xenobots | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00756 | F071 Designed living robots / xenobots | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00757 | F071 Designed living robots / xenobots | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00758 | F071 Designed living robots / xenobots | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00759 | F071 Designed living robots / xenobots | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00760 | F071 Designed living robots / xenobots | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00761 | F071 Designed living robots / xenobots | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S055 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00762 | S056 S056 | VALIDATES | F072 Organoid Intelligence / biocomputing with brain organoids | EVIDENTIAL | 0.95 | S056 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00763 | F072 Organoid Intelligence / biocomputing with brain organoids | PROPOSED_BY | P143 P143 | PROVENANCE | 0.78 | S056 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00764 | F072 Organoid Intelligence / biocomputing with brain organoids | PROPOSED_BY | P144 P144 | PROVENANCE | 0.78 | S056 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00765 | F072 Organoid Intelligence / biocomputing with brain organoids | PROPOSED_BY | P145 P145 | PROVENANCE | 0.78 | S056 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00766 | F072 Organoid Intelligence / biocomputing with brain organoids | PROPOSED_BY | P146 P146 | PROVENANCE | 0.78 | S056 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00767 | F072 Organoid Intelligence / biocomputing with brain organoids | PROPOSED_BY | P147 P147 | PROVENANCE | 0.78 | S056 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00768 | F072 Organoid Intelligence / biocomputing with brain organoids | PROPOSED_BY | P148 P148 | PROVENANCE | 0.78 | S056 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00769 | F072 Organoid Intelligence / biocomputing with brain organoids | DEPENDS_ON | T074 Brain–computer interfaces | THEMATIC | 0.56 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00770 | F072 Organoid Intelligence / biocomputing with brain organoids | DEPENDS_ON | T075 Neural prosthetics | THEMATIC | 0.56 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00771 | F072 Organoid Intelligence / biocomputing with brain organoids | DEPENDS_ON | T076 Brain-to-brain interfaces | THEMATIC | 0.56 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00772 | F072 Organoid Intelligence / biocomputing with brain organoids | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00773 | F072 Organoid Intelligence / biocomputing with brain organoids | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00774 | F072 Organoid Intelligence / biocomputing with brain organoids | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00775 | F072 Organoid Intelligence / biocomputing with brain organoids | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00776 | F072 Organoid Intelligence / biocomputing with brain organoids | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00777 | F072 Organoid Intelligence / biocomputing with brain organoids | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S056 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00778 | S057 S057 | VALIDATES | F073 Living neural systems learning in a closed loop | EVIDENTIAL | 0.95 | S057 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00779 | F073 Living neural systems learning in a closed loop | PROPOSED_BY | P149 P149 | PROVENANCE | 0.78 | S057 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00780 | F073 Living neural systems learning in a closed loop | PROPOSED_BY | I033 I033 | PROVENANCE | 0.68 | S057 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00781 | F073 Living neural systems learning in a closed loop | DEPENDS_ON | T048 Compute-to-energy optimization | THEMATIC | 0.56 | S057 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00782 | F073 Living neural systems learning in a closed loop | DEPENDS_ON | T063 AI-designed proteins | THEMATIC | 0.56 | S057 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00783 | F073 Living neural systems learning in a closed loop | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S057 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00784 | F073 Living neural systems learning in a closed loop | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S057 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00785 | F073 Living neural systems learning in a closed loop | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S057 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00786 | F073 Living neural systems learning in a closed loop | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S057 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00787 | S058 S058 | VALIDATES | F074 Partial epigenetic reprogramming for functional rejuvenation | EVIDENTIAL | 0.95 | S058 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00788 | F074 Partial epigenetic reprogramming for functional rejuvenation | PROPOSED_BY | P150 P150 | PROVENANCE | 0.78 | S058 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00789 | F074 Partial epigenetic reprogramming for functional rejuvenation | PROPOSED_BY | I034 I034 | PROVENANCE | 0.68 | S058 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00790 | F074 Partial epigenetic reprogramming for functional rejuvenation | ENABLES | T077 Regenerative medicine | ENABLING | 0.74 | S058 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00791 | F074 Partial epigenetic reprogramming for functional rejuvenation | ENABLES | T079 Cellular reprogramming | ENABLING | 0.74 | S058 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00792 | F074 Partial epigenetic reprogramming for functional rejuvenation | ENABLES | T080 Longevity engineering | ENABLING | 0.74 | S058 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00793 | F074 Partial epigenetic reprogramming for functional rejuvenation | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S058 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00794 | F074 Partial epigenetic reprogramming for functional rejuvenation | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S058 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00795 | S015 S015 | VALIDATES | F075 High-performance brain-to-text speech neuroprosthesis | EVIDENTIAL | 0.95 | S015 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00796 | F075 High-performance brain-to-text speech neuroprosthesis | PROPOSED_BY | P151 P151 | PROVENANCE | 0.78 | S015 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00797 | F075 High-performance brain-to-text speech neuroprosthesis | PROPOSED_BY | I035 I035 | PROVENANCE | 0.68 | S015 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00798 | F075 High-performance brain-to-text speech neuroprosthesis | DEPENDS_ON | T074 Brain–computer interfaces | THEMATIC | 0.56 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00799 | F075 High-performance brain-to-text speech neuroprosthesis | DEPENDS_ON | T075 Neural prosthetics | THEMATIC | 0.56 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00800 | F075 High-performance brain-to-text speech neuroprosthesis | DEPENDS_ON | T076 Brain-to-brain interfaces | THEMATIC | 0.56 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00801 | F075 High-performance brain-to-text speech neuroprosthesis | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00802 | F075 High-performance brain-to-text speech neuroprosthesis | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00803 | F075 High-performance brain-to-text speech neuroprosthesis | INCREASES_CAPACITY_OF | M135 Human–machine economy | THEMATIC | 0.58 | S015 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00804 | S059 S059 | VALIDATES | F076 Neural decoding directly to synthesized speech | EVIDENTIAL | 0.95 | S059 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00805 | F076 Neural decoding directly to synthesized speech | PROPOSED_BY | P152 P152 | PROVENANCE | 0.78 | S059 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00806 | F076 Neural decoding directly to synthesized speech | PROPOSED_BY | P153 P153 | PROVENANCE | 0.78 | S059 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00807 | F076 Neural decoding directly to synthesized speech | PROPOSED_BY | P154 P154 | PROVENANCE | 0.78 | S059 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00808 | F076 Neural decoding directly to synthesized speech | DEPENDS_ON | T074 Brain–computer interfaces | THEMATIC | 0.56 | S059 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00809 | F076 Neural decoding directly to synthesized speech | DEPENDS_ON | T075 Neural prosthetics | THEMATIC | 0.56 | S059 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00810 | F076 Neural decoding directly to synthesized speech | DEPENDS_ON | T076 Brain-to-brain interfaces | THEMATIC | 0.56 | S059 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00811 | F076 Neural decoding directly to synthesized speech | ENABLES | M135 Human–machine economy | THEMATIC | 0.52 | S059 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00812 | F076 Neural decoding directly to synthesized speech | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S059 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00813 | S060 S060 | VALIDATES | F077 3D bioprinting of thick vascularized tissues | EVIDENTIAL | 0.95 | S060 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00814 | F077 3D bioprinting of thick vascularized tissues | PROPOSED_BY | P155 P155 | PROVENANCE | 0.78 | S060 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00815 | F077 3D bioprinting of thick vascularized tissues | PROPOSED_BY | P156 P156 | PROVENANCE | 0.78 | S060 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00816 | F077 3D bioprinting of thick vascularized tissues | PROPOSED_BY | P157 P157 | PROVENANCE | 0.78 | S060 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00817 | F077 3D bioprinting of thick vascularized tissues | PROPOSED_BY | I036 I036 | PROVENANCE | 0.68 | S060 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00818 | F077 3D bioprinting of thick vascularized tissues | ENABLES | T078 Organ bioprinting | ENABLING | 0.74 | S060 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00819 | F077 3D bioprinting of thick vascularized tissues | INCREASES_CAPACITY_OF | M034 Noosphere | THEMATIC | 0.58 | S060 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00820 | F077 3D bioprinting of thick vascularized tissues | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S060 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00821 | S061 S061 | VALIDATES | F078 Massive AI discovery of stable crystal structures | EVIDENTIAL | 0.95 | S061 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00822 | F078 Massive AI discovery of stable crystal structures | PROPOSED_BY | P158 P158 | PROVENANCE | 0.78 | S061 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00823 | F078 Massive AI discovery of stable crystal structures | PROPOSED_BY | P159 P159 | PROVENANCE | 0.78 | S061 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00824 | F078 Massive AI discovery of stable crystal structures | PROPOSED_BY | I008 I008 | PROVENANCE | 0.68 | S061 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00825 | F078 Massive AI discovery of stable crystal structures | DEPENDS_ON | T002 Autonomous Scientific AI | THEMATIC | 0.56 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00826 | F078 Massive AI discovery of stable crystal structures | DEPENDS_ON | T003 AI Scientists | THEMATIC | 0.56 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00827 | F078 Massive AI discovery of stable crystal structures | DEPENDS_ON | T019 Machine science networks | THEMATIC | 0.56 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00828 | F078 Massive AI discovery of stable crystal structures | DEPENDS_ON | T051 AI-designed materials | THEMATIC | 0.56 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00829 | F078 Massive AI discovery of stable crystal structures | DEPENDS_ON | T052 Metamaterials | THEMATIC | 0.56 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00830 | F078 Massive AI discovery of stable crystal structures | DEPENDS_ON | T054 Self-healing materials | THEMATIC | 0.56 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00831 | F078 Massive AI discovery of stable crystal structures | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00832 | F078 Massive AI discovery of stable crystal structures | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S061 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00833 | S062 S062 | VALIDATES | F079 Generative inorganic materials design | EVIDENTIAL | 0.95 | S062 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00834 | F079 Generative inorganic materials design | PROPOSED_BY | P160 P160 | PROVENANCE | 0.78 | S062 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00835 | F079 Generative inorganic materials design | PROPOSED_BY | P161 P161 | PROVENANCE | 0.78 | S062 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00836 | F079 Generative inorganic materials design | PROPOSED_BY | P162 P162 | PROVENANCE | 0.78 | S062 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00837 | F079 Generative inorganic materials design | PROPOSED_BY | I020 I020 | PROVENANCE | 0.68 | S062 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00838 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | T051 AI-designed materials | ENABLING | 0.72 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00839 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | T052 Metamaterials | ENABLING | 0.72 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00840 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | T054 Self-healing materials | ENABLING | 0.72 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00841 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | T056 2D materials | ENABLING | 0.72 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00842 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | T057 Ultra-high-performance composites | ENABLING | 0.72 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00843 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00844 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00845 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | M088 Nuclear power | THEMATIC | 0.58 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00846 | F079 Generative inorganic materials design | INCREASES_CAPACITY_OF | M137 GOELRO-2 | THEMATIC | 0.58 | S062 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00847 | S063 S063 | VALIDATES | F080 General atomistic foundation simulation across conditions | EVIDENTIAL | 0.95 | S063 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00848 | F080 General atomistic foundation simulation across conditions | PROPOSED_BY | P163 P163 | PROVENANCE | 0.78 | S063 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00849 | F080 General atomistic foundation simulation across conditions | PROPOSED_BY | P164 P164 | PROVENANCE | 0.78 | S063 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00850 | F080 General atomistic foundation simulation across conditions | PROPOSED_BY | P165 P165 | PROVENANCE | 0.78 | S063 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00851 | F080 General atomistic foundation simulation across conditions | PROPOSED_BY | I020 I020 | PROVENANCE | 0.68 | S063 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00852 | F080 General atomistic foundation simulation across conditions | USES | T001 World Models | ENABLING | 0.66 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00853 | F080 General atomistic foundation simulation across conditions | USES | T010 Civilization-scale AI simulation | ENABLING | 0.66 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00854 | F080 General atomistic foundation simulation across conditions | USES | T020 Civilization Digital Twin | ENABLING | 0.66 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00855 | F080 General atomistic foundation simulation across conditions | USES | T051 AI-designed materials | ENABLING | 0.66 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00856 | F080 General atomistic foundation simulation across conditions | USES | T052 Metamaterials | ENABLING | 0.66 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00857 | F080 General atomistic foundation simulation across conditions | USES | T054 Self-healing materials | ENABLING | 0.66 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00858 | F080 General atomistic foundation simulation across conditions | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00859 | F080 General atomistic foundation simulation across conditions | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S063 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00860 | S064 S064 | VALIDATES | F081 Self-healing structural materials | EVIDENTIAL | 0.95 | S064 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00861 | F081 Self-healing structural materials | PROPOSED_BY | P166 P166 | PROVENANCE | 0.78 | S064 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00862 | F081 Self-healing structural materials | PROPOSED_BY | P167 P167 | PROVENANCE | 0.78 | S064 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00863 | F081 Self-healing structural materials | PROPOSED_BY | P168 P168 | PROVENANCE | 0.78 | S064 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00864 | F081 Self-healing structural materials | ENABLES | T051 AI-designed materials | ENABLING | 0.74 | S064 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00865 | F081 Self-healing structural materials | ENABLES | T052 Metamaterials | ENABLING | 0.74 | S064 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00866 | F081 Self-healing structural materials | ENABLES | T054 Self-healing materials | ENABLING | 0.74 | S064 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00867 | F081 Self-healing structural materials | ENABLES | T056 2D materials | ENABLING | 0.74 | S064 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00868 | F081 Self-healing structural materials | ENABLES | T057 Ultra-high-performance composites | ENABLING | 0.74 | S064 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00869 | F081 Self-healing structural materials | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S064 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00870 | S012 S012 | VALIDATES | F082 Programmable textured mechanical metamaterials | EVIDENTIAL | 0.95 | S012 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00871 | F082 Programmable textured mechanical metamaterials | PROPOSED_BY | P169 P169 | PROVENANCE | 0.78 | S012 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00872 | F082 Programmable textured mechanical metamaterials | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00873 | F082 Programmable textured mechanical metamaterials | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00874 | F082 Programmable textured mechanical metamaterials | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00875 | F082 Programmable textured mechanical metamaterials | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00876 | F082 Programmable textured mechanical metamaterials | ENABLES | T051 AI-designed materials | ENABLING | 0.74 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00877 | F082 Programmable textured mechanical metamaterials | ENABLES | T052 Metamaterials | ENABLING | 0.74 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00878 | F082 Programmable textured mechanical metamaterials | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00879 | F082 Programmable textured mechanical metamaterials | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00880 | F082 Programmable textured mechanical metamaterials | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S012 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00881 | S065 S065 | VALIDATES | F083 Autonomous molecular assembly / programmable chemical synthesis | EVIDENTIAL | 0.95 | S065 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00882 | F083 Autonomous molecular assembly / programmable chemical synthesis | PROPOSED_BY | P170 P170 | PROVENANCE | 0.78 | S065 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00883 | F083 Autonomous molecular assembly / programmable chemical synthesis | PROPOSED_BY | P171 P171 | PROVENANCE | 0.78 | S065 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00884 | F083 Autonomous molecular assembly / programmable chemical synthesis | PROPOSED_BY | P172 P172 | PROVENANCE | 0.78 | S065 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00885 | F083 Autonomous molecular assembly / programmable chemical synthesis | PROPOSED_BY | P173 P173 | PROVENANCE | 0.78 | S065 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00886 | F083 Autonomous molecular assembly / programmable chemical synthesis | ENABLES | T058 Molecular manufacturing | ENABLING | 0.74 | S065 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00887 | F083 Autonomous molecular assembly / programmable chemical synthesis | ENABLES | T059 Nanomachines | ENABLING | 0.74 | S065 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00888 | F083 Autonomous molecular assembly / programmable chemical synthesis | ENABLES | T060 Atomically precise manufacturing | ENABLING | 0.74 | S065 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00889 | F083 Autonomous molecular assembly / programmable chemical synthesis | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S065 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00890 | S066 S066 | VALIDATES | F084 Deep-RL control of fusion plasma | EVIDENTIAL | 0.95 | S066 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00891 | F084 Deep-RL control of fusion plasma | PROPOSED_BY | P174 P174 | PROVENANCE | 0.78 | S066 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00892 | F084 Deep-RL control of fusion plasma | PROPOSED_BY | I037 I037 | PROVENANCE | 0.68 | S066 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00893 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | T031 Commercial fusion | ENABLING | 0.72 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00894 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | T032 Compact fusion reactors | ENABLING | 0.72 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00895 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | T033 Next-generation stellarators | ENABLING | 0.72 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00896 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | T034 Fusion–fission hybrids | ENABLING | 0.72 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00897 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | M133 National AI | ENABLING | 0.66 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00898 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.66 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00899 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | M088 Nuclear power | ENABLING | 0.66 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00900 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | M137 GOELRO-2 | ENABLING | 0.66 | S066 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00901 | S067 S067 | VALIDATES | F085 Superhot-rock geothermal | EVIDENTIAL | 0.95 | S067 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00902 | F085 Superhot-rock geothermal | PROPOSED_BY | I038 I038 | PROVENANCE | 0.68 | S067 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00903 | F085 Superhot-rock geothermal | ENABLES | T039 Superhot-rock geothermal | ENABLING | 0.74 | S067 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00904 | F085 Superhot-rock geothermal | INCREASES_CAPACITY_OF | M075 Territorial-production complexes | ENABLING | 0.66 | S067 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00905 | F085 Superhot-rock geothermal | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.66 | S067 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00906 | F085 Superhot-rock geothermal | INCREASES_CAPACITY_OF | M088 Nuclear power | ENABLING | 0.66 | S067 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00907 | F085 Superhot-rock geothermal | INCREASES_CAPACITY_OF | M137 GOELRO-2 | ENABLING | 0.66 | S067 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00908 | S068 S068 | VALIDATES | F086 Compact sodium-cooled fast microreactors | EVIDENTIAL | 0.95 | S068 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00909 | F086 Compact sodium-cooled fast microreactors | PROPOSED_BY | I039 I039 | PROVENANCE | 0.68 | S068 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00910 | F086 Compact sodium-cooled fast microreactors | ENABLES | T035 Small Modular Reactors | ENABLING | 0.74 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00911 | F086 Compact sodium-cooled fast microreactors | ENABLES | T036 Microreactors | ENABLING | 0.74 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00912 | F086 Compact sodium-cooled fast microreactors | ENABLES | T037 Fast-spectrum reactors | ENABLING | 0.74 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00913 | F086 Compact sodium-cooled fast microreactors | ENABLES | T038 Closed nuclear fuel cycle | ENABLING | 0.74 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00914 | F086 Compact sodium-cooled fast microreactors | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | ENABLING | 0.66 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00915 | F086 Compact sodium-cooled fast microreactors | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.66 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00916 | F086 Compact sodium-cooled fast microreactors | INCREASES_CAPACITY_OF | M138 SIBERIAN MANHATTAN | ENABLING | 0.66 | S068 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00917 | S069 S069 | VALIDATES | F087 Space-based solar power with wireless power transfer | EVIDENTIAL | 0.95 | S069 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00918 | F087 Space-based solar power with wireless power transfer | PROPOSED_BY | P175 P175 | PROVENANCE | 0.78 | S069 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00919 | F087 Space-based solar power with wireless power transfer | PROPOSED_BY | P176 P176 | PROVENANCE | 0.78 | S069 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00920 | F087 Space-based solar power with wireless power transfer | PROPOSED_BY | I040 I040 | PROVENANCE | 0.68 | S069 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00921 | F087 Space-based solar power with wireless power transfer | PROPOSED_BY | I041 I041 | PROVENANCE | 0.68 | S069 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00922 | F087 Space-based solar power with wireless power transfer | ENABLES | T040 Space-based solar power | ENABLING | 0.74 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00923 | F087 Space-based solar power with wireless power transfer | ENABLES | T093 Space solar power | ENABLING | 0.74 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00924 | F087 Space-based solar power with wireless power transfer | ENABLES | T041 Everything-to-grid | ENABLING | 0.74 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00925 | F087 Space-based solar power with wireless power transfer | ENABLES | T042 AI Grid | ENABLING | 0.74 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00926 | F087 Space-based solar power with wireless power transfer | ENABLES | T043 Virtual Power Plants | ENABLING | 0.74 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00927 | F087 Space-based solar power with wireless power transfer | ENABLES | T049 Energy Internet | ENABLING | 0.74 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00928 | F087 Space-based solar power with wireless power transfer | INCREASES_CAPACITY_OF | M088 Nuclear power | ENABLING | 0.66 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00929 | F087 Space-based solar power with wireless power transfer | INCREASES_CAPACITY_OF | M137 GOELRO-2 | ENABLING | 0.66 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00930 | F087 Space-based solar power with wireless power transfer | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00931 | F087 Space-based solar power with wireless power transfer | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S069 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00932 | S070 S070 | VALIDATES | F088 Below-threshold quantum error correction | EVIDENTIAL | 0.95 | S070 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00933 | F088 Below-threshold quantum error correction | PROPOSED_BY | I042 I042 | PROVENANCE | 0.68 | S070 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00934 | F088 Below-threshold quantum error correction | ENABLES | T081 Fault-tolerant quantum computers | CAUSAL | 0.82 | S070 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00935 | F088 Below-threshold quantum error correction | ENABLES | T082 Quantum simulation | CAUSAL | 0.82 | S070 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00936 | F088 Below-threshold quantum error correction | ENABLES | T089 Quantum machine learning | CAUSAL | 0.82 | S070 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00937 | F088 Below-threshold quantum error correction | ENABLES | T090 Quantum chemistry engines | CAUSAL | 0.82 | S070 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00938 | F088 Below-threshold quantum error correction | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S070 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00939 | F088 Below-threshold quantum error correction | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S070 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00940 | S071 S071 | VALIDATES | F089 Modular fault-tolerant quantum supercomputer | EVIDENTIAL | 0.95 | S071 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00941 | F089 Modular fault-tolerant quantum supercomputer | PROPOSED_BY | P177 P177 | PROVENANCE | 0.78 | S071 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00942 | F089 Modular fault-tolerant quantum supercomputer | PROPOSED_BY | I043 I043 | PROVENANCE | 0.68 | S071 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00943 | F089 Modular fault-tolerant quantum supercomputer | ENABLES | T081 Fault-tolerant quantum computers | ENABLING | 0.70 | S071 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00944 | F089 Modular fault-tolerant quantum supercomputer | DEPENDS_ON | T082 Quantum simulation | THEMATIC | 0.56 | S071 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00945 | F089 Modular fault-tolerant quantum supercomputer | DEPENDS_ON | T089 Quantum machine learning | THEMATIC | 0.56 | S071 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00946 | F089 Modular fault-tolerant quantum supercomputer | DEPENDS_ON | T090 Quantum chemistry engines | THEMATIC | 0.56 | S071 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00947 | F089 Modular fault-tolerant quantum supercomputer | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S071 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00948 | F089 Modular fault-tolerant quantum supercomputer | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S071 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00949 | S072 S072 | VALIDATES | F090 Utility-scale quantum validated by value-over-cost | EVIDENTIAL | 0.95 | S072 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00950 | F090 Utility-scale quantum validated by value-over-cost | PROPOSED_BY | I044 I044 | PROVENANCE | 0.68 | S072 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00951 | F090 Utility-scale quantum validated by value-over-cost | PROPOSED_BY | I045 I045 | PROVENANCE | 0.68 | S072 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00952 | F090 Utility-scale quantum validated by value-over-cost | DEPENDS_ON | T081 Fault-tolerant quantum computers | THEMATIC | 0.56 | S072 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00953 | F090 Utility-scale quantum validated by value-over-cost | DEPENDS_ON | T082 Quantum simulation | THEMATIC | 0.56 | S072 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00954 | F090 Utility-scale quantum validated by value-over-cost | DEPENDS_ON | T089 Quantum machine learning | THEMATIC | 0.56 | S072 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00955 | F090 Utility-scale quantum validated by value-over-cost | DEPENDS_ON | T090 Quantum chemistry engines | THEMATIC | 0.56 | S072 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00956 | F090 Utility-scale quantum validated by value-over-cost | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S072 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00957 | S073 S073 | VALIDATES | F091 Quantum internet architecture | EVIDENTIAL | 0.95 | S073 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00958 | F091 Quantum internet architecture | PROPOSED_BY | P178 P178 | PROVENANCE | 0.78 | S073 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00959 | F091 Quantum internet architecture | PROPOSED_BY | P179 P179 | PROVENANCE | 0.78 | S073 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00960 | F091 Quantum internet architecture | PROPOSED_BY | P180 P180 | PROVENANCE | 0.78 | S073 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00961 | F091 Quantum internet architecture | ENABLES | T084 Quantum internet | ENABLING | 0.74 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00962 | F091 Quantum internet architecture | ENABLES | T081 Fault-tolerant quantum computers | ENABLING | 0.74 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00963 | F091 Quantum internet architecture | ENABLES | T082 Quantum simulation | ENABLING | 0.74 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00964 | F091 Quantum internet architecture | ENABLES | T089 Quantum machine learning | ENABLING | 0.74 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00965 | F091 Quantum internet architecture | ENABLES | T090 Quantum chemistry engines | ENABLING | 0.74 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00966 | F091 Quantum internet architecture | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00967 | F091 Quantum internet architecture | INCREASES_CAPACITY_OF | M125 Eurasian digital space | THEMATIC | 0.58 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00968 | F091 Quantum internet architecture | INCREASES_CAPACITY_OF | M140 EURASIAN ECONOMIC INTERNET | THEMATIC | 0.58 | S073 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00969 | S074 S074 | VALIDATES | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | EVIDENTIAL | 0.95 | S074 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00970 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | PROPOSED_BY | P181 P181 | PROVENANCE | 0.78 | S074 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00971 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | PROPOSED_BY | P182 P182 | PROVENANCE | 0.78 | S074 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00972 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | PROPOSED_BY | I046 I046 | PROVENANCE | 0.68 | S074 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00973 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00974 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00975 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00976 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00977 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | T092 Orbital manufacturing | ENABLING | 0.74 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00978 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | T098 Autonomous space robotics | ENABLING | 0.74 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00979 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00980 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00981 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00982 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S074 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00983 | S075 S075 | VALIDATES | F093 On-orbit manufacture of very large structures | EVIDENTIAL | 0.95 | S075 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00984 | F093 On-orbit manufacture of very large structures | PROPOSED_BY | I047 I047 | PROVENANCE | 0.68 | S075 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00985 | F093 On-orbit manufacture of very large structures | PROPOSED_BY | I048 I048 | PROVENANCE | 0.68 | S075 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00986 | F093 On-orbit manufacture of very large structures | ENABLES | T021 Humanoid robots | ENABLING | 0.74 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00987 | F093 On-orbit manufacture of very large structures | ENABLES | T022 General-purpose industrial robots | ENABLING | 0.74 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00988 | F093 On-orbit manufacture of very large structures | ENABLES | T023 Robot foundation models | ENABLING | 0.74 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00989 | F093 On-orbit manufacture of very large structures | ENABLES | T024 Swarm robotics | ENABLING | 0.74 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00990 | F093 On-orbit manufacture of very large structures | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00991 | F093 On-orbit manufacture of very large structures | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00992 | F093 On-orbit manufacture of very large structures | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00993 | F093 On-orbit manufacture of very large structures | INCREASES_CAPACITY_OF | M105 Space industrial infrastructure | THEMATIC | 0.58 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00994 | F093 On-orbit manufacture of very large structures | INCREASES_CAPACITY_OF | M147 LUNAR INDUSTRIAL BELT | THEMATIC | 0.58 | S075 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E00995 | S007 S007 | VALIDATES | F094 Self-replicating / growing lunar factory | EVIDENTIAL | 0.95 | S007 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E00996 | F094 Self-replicating / growing lunar factory | PROPOSED_BY | P013 P013 | PROVENANCE | 0.78 | S007 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00997 | F094 Self-replicating / growing lunar factory | PROPOSED_BY | P014 P014 | PROVENANCE | 0.78 | S007 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E00998 | F094 Self-replicating / growing lunar factory | PROPOSED_BY | I049 I049 | PROVENANCE | 0.68 | S007 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E00999 | F094 Self-replicating / growing lunar factory | USES | T021 Humanoid robots | ENABLING | 0.66 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01000 | F094 Self-replicating / growing lunar factory | USES | T022 General-purpose industrial robots | ENABLING | 0.66 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01001 | F094 Self-replicating / growing lunar factory | USES | T023 Robot foundation models | ENABLING | 0.66 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01002 | F094 Self-replicating / growing lunar factory | USES | T024 Swarm robotics | ENABLING | 0.66 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01003 | F094 Self-replicating / growing lunar factory | USES | T095 Lunar industrial bases | ENABLING | 0.66 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01004 | F094 Self-replicating / growing lunar factory | USES | T098 Autonomous space robotics | ENABLING | 0.66 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01005 | F094 Self-replicating / growing lunar factory | INCREASES_CAPACITY_OF | M134 Industrial robotization | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01006 | F094 Self-replicating / growing lunar factory | INCREASES_CAPACITY_OF | M144 ROBOSIBERIA | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01007 | F094 Self-replicating / growing lunar factory | INCREASES_CAPACITY_OF | M075 Territorial-production complexes | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01008 | F094 Self-replicating / growing lunar factory | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01009 | F094 Self-replicating / growing lunar factory | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01010 | F094 Self-replicating / growing lunar factory | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S007 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01011 | S076 S076 | VALIDATES | F095 Lunar fission surface power | EVIDENTIAL | 0.95 | S076 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01012 | F095 Lunar fission surface power | PROPOSED_BY | I050 I050 | PROVENANCE | 0.68 | S076 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01013 | F095 Lunar fission surface power | DEPENDS_ON | T035 Small Modular Reactors | THEMATIC | 0.56 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01014 | F095 Lunar fission surface power | DEPENDS_ON | T036 Microreactors | THEMATIC | 0.56 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01015 | F095 Lunar fission surface power | DEPENDS_ON | T037 Fast-spectrum reactors | THEMATIC | 0.56 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01016 | F095 Lunar fission surface power | DEPENDS_ON | T038 Closed nuclear fuel cycle | THEMATIC | 0.56 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01017 | F095 Lunar fission surface power | DEPENDS_ON | T041 Everything-to-grid | THEMATIC | 0.56 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01018 | F095 Lunar fission surface power | DEPENDS_ON | T042 AI Grid | THEMATIC | 0.56 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01019 | F095 Lunar fission surface power | ENABLES | M075 Territorial-production complexes | THEMATIC | 0.52 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01020 | F095 Lunar fission surface power | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.52 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01021 | F095 Lunar fission surface power | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01022 | F095 Lunar fission surface power | DEPENDS_ON | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.68 | S076 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01023 | S021 S021 | VALIDATES | F096 Orbital data centers / AI compute in space | EVIDENTIAL | 0.95 | S021 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01024 | F096 Orbital data centers / AI compute in space | PROPOSED_BY | P047 P047 | PROVENANCE | 0.78 | S021 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E01025 | F096 Orbital data centers / AI compute in space | PROPOSED_BY | P048 P048 | PROVENANCE | 0.78 | S021 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E01026 | F096 Orbital data centers / AI compute in space | PROPOSED_BY | P049 P049 | PROVENANCE | 0.78 | S021 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E01027 | F096 Orbital data centers / AI compute in space | PROPOSED_BY | I017 I017 | PROVENANCE | 0.68 | S021 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01028 | F096 Orbital data centers / AI compute in space | USES | T091 Space-based data centers | ENABLING | 0.66 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01029 | F096 Orbital data centers / AI compute in space | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01030 | F096 Orbital data centers / AI compute in space | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01031 | F096 Orbital data centers / AI compute in space | INCREASES_CAPACITY_OF | M088 Nuclear power | THEMATIC | 0.58 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01032 | F096 Orbital data centers / AI compute in space | INCREASES_CAPACITY_OF | M137 GOELRO-2 | THEMATIC | 0.58 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01033 | F096 Orbital data centers / AI compute in space | INCREASES_CAPACITY_OF | M143 SIBERIAN AI-ENERGY COMPLEX | THEMATIC | 0.58 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01034 | F096 Orbital data centers / AI compute in space | DEPENDS_ON | M105 Space industrial infrastructure | ENABLING | 0.68 | S021 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01035 | S013 S013 | VALIDATES | F097 Planet-scale geospatial foundation model | EVIDENTIAL | 0.95 | S013 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01036 | F097 Planet-scale geospatial foundation model | PROPOSED_BY | I010 I010 | PROVENANCE | 0.68 | S013 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01037 | F097 Planet-scale geospatial foundation model | PROPOSED_BY | I051 I051 | PROVENANCE | 0.68 | S013 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01038 | F097 Planet-scale geospatial foundation model | INCREASES_CAPACITY_OF | T002 Autonomous Scientific AI | ENABLING | 0.72 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01039 | F097 Planet-scale geospatial foundation model | INCREASES_CAPACITY_OF | T020 Civilization Digital Twin | ENABLING | 0.72 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01040 | F097 Planet-scale geospatial foundation model | INCREASES_CAPACITY_OF | M133 National AI | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01041 | F097 Planet-scale geospatial foundation model | INCREASES_CAPACITY_OF | M150 FULL CIVILIZATION / CIVILIZATION STACK | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01042 | F097 Planet-scale geospatial foundation model | INCREASES_CAPACITY_OF | M039 Planetary Earth monitoring | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01043 | F097 Planet-scale geospatial foundation model | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S013 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01044 | S014 S014 | VALIDATES | F098 Operational Earth-system digital twins | EVIDENTIAL | 0.95 | S014 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01045 | F098 Operational Earth-system digital twins | PROPOSED_BY | I052 I052 | PROVENANCE | 0.68 | S014 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01046 | F098 Operational Earth-system digital twins | USES | T001 World Models | ENABLING | 0.66 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01047 | F098 Operational Earth-system digital twins | USES | T010 Civilization-scale AI simulation | ENABLING | 0.66 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01048 | F098 Operational Earth-system digital twins | USES | T020 Civilization Digital Twin | ENABLING | 0.66 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01049 | F098 Operational Earth-system digital twins | INCREASES_CAPACITY_OF | M039 Planetary Earth monitoring | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01050 | F098 Operational Earth-system digital twins | INCREASES_CAPACITY_OF | M136 NOOSPHERE-1 | THEMATIC | 0.58 | S014 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01051 | S077 S077 | VALIDATES | F099 Machine-native HTTP payments / autonomous-agent micropayments | EVIDENTIAL | 0.95 | S077 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01052 | F099 Machine-native HTTP payments / autonomous-agent micropayments | PROPOSED_BY | P183 P183 | PROVENANCE | 0.78 | S077 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E01053 | F099 Machine-native HTTP payments / autonomous-agent micropayments | PROPOSED_BY | P184 P184 | PROVENANCE | 0.78 | S077 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E01054 | F099 Machine-native HTTP payments / autonomous-agent micropayments | PROPOSED_BY | P185 P185 | PROVENANCE | 0.78 | S077 | ATTRIBUTION | CURATED_ATTRIBUTION | FALSE |
-| E01055 | F099 Machine-native HTTP payments / autonomous-agent micropayments | PROPOSED_BY | I053 I053 | PROVENANCE | 0.68 | S077 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01056 | F099 Machine-native HTTP payments / autonomous-agent micropayments | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S077 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01057 | F099 Machine-native HTTP payments / autonomous-agent micropayments | USES | T012 Multi-agent economies | ENABLING | 0.66 | S077 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01058 | F099 Machine-native HTTP payments / autonomous-agent micropayments | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S077 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01059 | F099 Machine-native HTTP payments / autonomous-agent micropayments | USES | T014 Machine organizations | ENABLING | 0.66 | S077 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01060 | F099 Machine-native HTTP payments / autonomous-agent micropayments | ENABLES | M128 Digital ruble | ENABLING | 0.64 | S077 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01061 | F099 Machine-native HTTP payments / autonomous-agent micropayments | ENABLES | M141 EURASIAN FX / CLEARING ROUTER | ENABLING | 0.64 | S077 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01062 | S078 S078 | VALIDATES | F100 Agentic-commerce interoperability and auditable delegated payments | EVIDENTIAL | 0.95 | S078 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01063 | S079 S079 | VALIDATES | F100 Agentic-commerce interoperability and auditable delegated payments | EVIDENTIAL | 0.95 | S079 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01064 | S080 S080 | VALIDATES | F100 Agentic-commerce interoperability and auditable delegated payments | EVIDENTIAL | 0.95 | S080 | PROVENANCE | VERIFIED_PROVENANCE | TRUE |
-| E01065 | F100 Agentic-commerce interoperability and auditable delegated payments | PROPOSED_BY | I054 I054 | PROVENANCE | 0.68 | S078;S079;S080 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01066 | F100 Agentic-commerce interoperability and auditable delegated payments | PROPOSED_BY | I055 I055 | PROVENANCE | 0.68 | S078;S079;S080 | ATTRIBUTION | CURATED_PROGRAM_ASSOCIATION | FALSE |
-| E01067 | F100 Agentic-commerce interoperability and auditable delegated payments | USES | T011 AI Agents 2.0 | ENABLING | 0.66 | S078;S079;S080 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01068 | F100 Agentic-commerce interoperability and auditable delegated payments | USES | T012 Multi-agent economies | ENABLING | 0.66 | S078;S079;S080 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01069 | F100 Agentic-commerce interoperability and auditable delegated payments | USES | T013 Agent-to-agent commerce | ENABLING | 0.66 | S078;S079;S080 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01070 | F100 Agentic-commerce interoperability and auditable delegated payments | USES | T014 Machine organizations | ENABLING | 0.66 | S078;S079;S080 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01071 | F100 Agentic-commerce interoperability and auditable delegated payments | ENABLES | M150 FULL CIVILIZATION / CIVILIZATION STACK | ENABLING | 0.64 | S078;S079;S080 | NODE_SUPPORT_ONLY | AUTO_CURATED_NEEDS_RELATION_EVIDENCE | FALSE |
-| E01072 | F003 Autonomous science / AI co-scientist | ENABLES | F051 Autonomous robotic materials laboratory | ENABLING | 0.76 | S003;S011 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01073 | F052 Evolutionary code/algorithm discovery | ENABLES | F084 Deep-RL control of fusion plasma | ENABLING | 0.76 | S023;S066 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01074 | F078 Massive AI discovery of stable crystal structures | ENABLES | F051 Autonomous robotic materials laboratory | ENABLING | 0.82 | S061;S011 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01075 | F079 Generative inorganic materials design | ENABLES | F080 General atomistic foundation simulation across conditions | ENABLING | 0.76 | S062;S063 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01076 | F080 General atomistic foundation simulation across conditions | ENABLES | F051 Autonomous robotic materials laboratory | ENABLING | 0.76 | S063;S011 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01077 | F064 Genome regulatory variant-effect foundation model | ENABLES | F067 Programmable CRISPR-Cas9 editing | ENABLING | 0.76 | S010;S051 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01078 | F064 Genome regulatory variant-effect foundation model | ENABLES | F068 Base editing without double-strand breaks | ENABLING | 0.76 | S010;S052 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01079 | F064 Genome regulatory variant-effect foundation model | ENABLES | F069 Prime editing | ENABLING | 0.76 | S010;S053 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01080 | F043 Gemini-based physical AI | ENABLES | F046 Open humanoid robot foundation models | ENABLING | 0.76 | S005;S006 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01081 | F046 Open humanoid robot foundation models | ENABLES | F041 Cross-embodiment robot learning | ENABLING | 0.76 | S006;S033 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01082 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | F093 On-orbit manufacture of very large structures | ENABLING | 0.76 | S074;S075 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01083 | F093 On-orbit manufacture of very large structures | REQUIRES | F095 Lunar fission surface power | CAUSAL | 0.82 | S075;S076 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01084 | F099 Machine-native HTTP payments / autonomous-agent micropayments | ENABLES | F100 Agentic-commerce interoperability and auditable delegated payments | ENABLING | 0.76 | S077;S078;S079;S080 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01085 | F100 Agentic-commerce interoperability and auditable delegated payments | ENABLES | F022 Agent civilization / persistent multi-agent social systems | ENABLING | 0.82 | S078;S079;S080;S016 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01086 | F097 Planet-scale geospatial foundation model | ENABLES | F098 Operational Earth-system digital twins | ENABLING | 0.82 | S013;S014 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01087 | F098 Operational Earth-system digital twins | ENABLES | F016 Earth Operating System / Earth digital twin | ENABLING | 0.82 | S014 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01088 | F052 Evolutionary code/algorithm discovery | ENABLES | F029 Technology Breeder | ENABLING | 0.80 | S023 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01089 | F053 LLM-guided search for new mathematical/computer-science constructions | ENABLES | F029 Technology Breeder | ENABLING | 0.80 | S039 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01090 | F004 Fully automated AI scientist | ENABLES | F029 Technology Breeder | ENABLING | 0.80 | S004 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01091 | F090 Utility-scale quantum validated by value-over-cost | VALIDATES | T081 Fault-tolerant quantum computers | EVIDENTIAL | 0.88 | S072 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01092 | F088 Below-threshold quantum error correction | ENABLES | T081 Fault-tolerant quantum computers | ENABLING | 0.88 | S070 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01093 | F084 Deep-RL control of fusion plasma | INCREASES_CAPACITY_OF | T031 Commercial fusion | ENABLING | 0.86 | S066 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01094 | F078 Massive AI discovery of stable crystal structures | PRODUCES | T051 AI-designed materials | ENABLING | 0.82 | S061 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01095 | F051 Autonomous robotic materials laboratory | PRODUCES | T051 AI-designed materials | ENABLING | 0.84 | S011 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01096 | F054 AI-discovered low-level algorithms | REDUCES_COST_OF | T048 Compute-to-energy optimization | CAUSAL | 0.80 | S040 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01097 | F052 Evolutionary code/algorithm discovery | INCREASES_CAPACITY_OF | T048 Compute-to-energy optimization | ENABLING | 0.80 | S023 | RELATION_DIRECT | CURATED_RELATION | TRUE |
-| E01098 | F099 Machine-native HTTP payments / autonomous-agent micropayments | ENABLES | F022 Agent civilization / persistent multi-agent social systems | ENABLING | 0.78 | S077;S016 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01099 | F100 Agentic-commerce interoperability and auditable delegated payments | GOVERNS | F022 Agent civilization / persistent multi-agent social systems | GOVERNANCE | 0.78 | S078;S079;S080;S016 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01100 | F095 Lunar fission surface power | ENABLES | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.80 | S076 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01101 | F092 In-space servicing, assembly and manufacturing as a space-infrastructure stack | ENABLES | M147 LUNAR INDUSTRIAL BELT | ENABLING | 0.78 | S074 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01102 | F097 Planet-scale geospatial foundation model | ENABLES | F098 Operational Earth-system digital twins | ENABLING | 0.82 | S013;S014 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01103 | F056 Constitutional AI | GOVERNS | F022 Agent civilization / persistent multi-agent social systems | GOVERNANCE | 0.78 | S017;S016 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01104 | F061 Scalable oversight | GOVERNS | F022 Agent civilization / persistent multi-agent social systems | GOVERNANCE | 0.76 | S046;S016 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
-| E01105 | F003 Autonomous science / AI co-scientist | ENABLES | F051 Autonomous robotic materials laboratory | ENABLING | 0.80 | S003;S011 | CANONICAL_SYNTHESIS | CURATED_CANONICAL | TRUE |
+## Gemini Robotics ↔ GR00T ↔ Open X-Embodiment
 
-## 61. Interpretation
+Совместно эти направления указывают на возможное формирование общего слоя обучения для разнородных физических агентов.
 
-This table is intentionally honest about evidence quality. `NODE_SUPPORT_ONLY` is **not** proof of the full source→target relationship. The next research priority is to promote high-impact inferred edges to `RELATION_DIRECT` through relation-specific primary evidence, or to delete/falsify them.
+## NASA ISAM ↔ NOM4D ↔ лунная энергетика
 
-<!-- M3_FULL_TABLES_END -->
+```text
+ЭНЕРГИЯ
+→ ОРБИТАЛЬНОЕ ОБСЛУЖИВАНИЕ
+→ СБОРКА
+→ ПРОИЗВОДСТВО КРУПНЫХ КОНСТРУКЦИЙ
+→ БОЛЕЕ СЛОЖНАЯ КОСМИЧЕСКАЯ ИНФРАСТРУКТУРА
+```
+
+## x402 ↔ AP2 / ACP / UCP ↔ агентная экономика
+
+Технологическая возможность оплаты машиной ещё не создаёт полноценную экономику. Нужны:
+
+- идентичность;
+- авторизация;
+- лимиты;
+- аудит;
+- ответственность;
+- защита от мошенничества;
+- бухгалтерский учёт;
+- внешний полезный продукт.
+
+Именно поэтому платёжный слой соединён с управлением, а не рассматривается как самодостаточная «экономика агентов».
+
+---
+
+# 21. Политика доказательств
+
+Для каждого будущего сильного ребра желательно хранить:
+
+```text
+edge_id
+source_node
+target_node
+relation_type
+primary_source
+evidence_quote_or_paraphrase
+evidence_scope
+confidence
+reviewer
+review_date
+falsification_condition
+status
+```
+
+У связи должен появиться **условие опровержения**.
+
+Например:
+
+> Если независимые эксперименты не показывают ожидаемого увеличения производительности, ребро INCREASES_CAPACITY_OF должно быть понижено или удалено.
+
+Так граф превращается из презентации в научно-инженерный инструмент.
+
+---
+
+# 22. Что считать сильной цивилизационной идеей
+
+Высокий приоритет получает не просто эффектная технология, а узел или комбинация, которые:
+
+1. создают измеримый новый продукт или способность;
+2. имеют физически допустимую архитектуру;
+3. могут пройти экспериментальную проверку;
+4. имеют экономический путь к масштабированию;
+5. усиливают несколько других слоёв;
+6. не требуют скрытого бесконечного внешнего ресурса;
+7. имеют понятные риски и механизм управления;
+8. могут быть встроены в замкнутый продуктивный контур;
+9. повышают реальную производительность;
+10. оставляют системе больше полезной внешней способности, а не только больше внутренних записей.
+
+---
+
+# 23. Главная цивилизационная петля SINERGY
+
+```text
+                  ┌───────────────┐
+                  │      ИИ       │
+                  └──────┬────────┘
+                         ↓
+                  ┌───────────────┐
+                  │     НАУКА     │
+                  └──────┬────────┘
+                         ↓
+                  ┌───────────────┐
+                  │  ТЕХНОЛОГИЯ   │
+                  └──────┬────────┘
+                         ↓
+                  ┌───────────────┐
+                  │ ПРОМЫШЛЕННОСТЬ│
+                  └──────┬────────┘
+                         ↓
+                  ┌───────────────┐
+                  │    КАПИТАЛ    │
+                  └──────┬────────┘
+                         ↓
+                  ┌───────────────┐
+                  │    ЭНЕРГИЯ    │
+                  └──────┬────────┘
+                         ↓
+                  ┌───────────────┐
+                  │  ВЫЧИСЛЕНИЯ   │
+                  └──────┬────────┘
+                         │
+                         └────────────→ обратно к ИИ
+```
+
+Ключевая исследовательская задача:
+
+> **Как сделать этот контур продуктивным, измеримым, безопасным, управляемым и привязанным к реальной внешней ценности, а не к внутреннему круговому учёту?**
+
+---
+
+# 24. Следующий этап — M4: закрытие доказательств
+
+После M3 главная задача уже не в том, чтобы бесконечно добавлять новые названия.
+
+Нужно взять связи с уровнем:
+
+`NODE_SUPPORT_ONLY`
+
+и для каждой выполнить одно из четырёх действий:
+
+1. найти первичный источник, подтверждающий именно связь;
+2. понизить уверенность;
+3. изменить тип связи;
+4. удалить / фальсифицировать ребро.
+
+Приоритет M4:
+
+```text
+ПРИОРИТЕТ
+=
+ЦЕНТРАЛЬНОСТЬ В ГРАФЕ
+× ЦИВИЛИЗАЦИОННОЕ ВОЗДЕЙСТВИЕ
+× НЕОПРЕДЕЛЁННОСТЬ
+```
+
+В первую очередь:
+
+- ИИ ↔ наука ↔ материалы ↔ робототехника;
+- энергия ↔ вычисления ↔ ИИ;
+- агенты ↔ платежи ↔ капитал;
+- Земля ↔ сенсоры ↔ цифровые двойники;
+- атом ↔ Луна ↔ ISAM;
+- биология ↔ ИИ ↔ перепрограммирование;
+- квантовые вычисления ↔ научный поиск.
+
+---
+
+# 25. Долгосрочная дорожная карта
+
+## M4 — Закрытие доказательств
+
+Перевести максимальное число критических рёбер из `NODE_SUPPORT_ONLY` в `RELATION_DIRECT`.
+
+## M5 — Графовая аналитика
+
+Добавить:
+
+- PageRank;
+- betweenness centrality;
+- community detection;
+- bridge nodes;
+- dependency depth;
+- chokepoints;
+- critical path;
+- технологические кластеры;
+- точки каскадного усиления.
+
+## M6 — Движок поиска новых мегапроектов
+
+Искать не просто пары ключевых слов, а доказанные маршруты:
+
+```text
+ТЕХНОЛОГИЯ
+→ ОБЕСПЕЧИВАЕТ
+→ СПОСОБНОСТЬ
+→ УВЕЛИЧИВАЕТ
+→ ПРОИЗВОДСТВО
+→ СОЗДАЁТ
+→ НОВЫЙ РЕСУРС
+→ ОБЕСПЕЧИВАЕТ
+→ СЛЕДУЮЩУЮ ТЕХНОЛОГИЮ
+```
+
+## M7 — Симулятор цивилизационных контуров
+
+Моделировать:
+
+- энергию;
+- вычисления;
+- сырьё;
+- производство;
+- логистику;
+- капитал;
+- экологические ограничения;
+- время;
+- деградацию;
+- аварии;
+- человеческие ограничения;
+- институциональные ограничения.
+
+## M8 — Интеграция с автономной наукой
+
+Передавать лучшие гипотезы в:
+
+- поиск литературы;
+- проектирование экспериментов;
+- симуляции;
+- роботизированные лаборатории;
+- автоматическую проверку результатов.
+
+## M9 — Портфель реальных мегапроектов
+
+Из тысяч графовых комбинаций выбрать небольшое число проектов с:
+
+- ясной точкой А;
+- ясной точкой Б;
+- измеримым результатом;
+- бюджетом;
+- сроками;
+- зависимостями;
+- рисками;
+- критериями остановки.
+
+## M10 — Живой SINERGY CIVILIZATION GRAPH
+
+Граф, в котором новые данные автоматически:
+
+- усиливают или ослабляют рёбра;
+- меняют рейтинг проектов;
+- открывают новые комбинации;
+- закрывают опровергнутые гипотезы;
+- пересчитывают критические зависимости;
+- обновляют дорожную карту цивилизационного развития.
+
+---
+
+# 26. Принципы проекта
+
+1. **Доказательства важнее мифологии.**
+2. **Историческое вдохновение не заменяет современную проверку.**
+3. **Факт, гипотеза и синтез должны быть различимы.**
+4. **Система важнее отдельного гаджета.**
+5. **ИИ должен замыкаться на физический мир и измеримый результат.**
+6. **Энергия и вычисления являются первичными ограниченными ресурсами.**
+7. **Капитал — маршрутизатор, а не смысл цивилизации.**
+8. **Человек сохраняет окончательную субъектность и право решения.**
+9. **Граф должен уметь опровергать собственные связи.**
+10. **Внутренний оборот не равен внешней ценности.**
+11. **Рост числа токенов, записей или транзакций не равен росту производительности.**
+12. **Сильный мегапроект создаёт новые способности, которые питают другие системы.**
+13. **Безопасность и управление являются частью архитектуры, а не последующей надстройкой.**
+14. **Проверяемость важнее эффектной формулировки.**
+15. **SINERGY должен уметь учиться на отрицательных результатах.**
+
+---
+
+# 27. Роль README
+
+Этот README — **главная русскоязычная карта проекта**.
+
+Он должен одновременно выполнять пять функций:
+
+1. **энциклопедия** — хранить все идеи;
+2. **архитектурный документ** — объяснять, как они соединяются;
+3. **реестр доказательств** — показывать силу связей;
+4. **карта развития** — фиксировать M1–M10;
+5. **человеческий интерфейс к машинному графу** — позволять понять JSON/CSV/GraphML без чтения исходных файлов.
+
+Машинные файлы остаются источником для программной обработки.
+
+README — источник для человека.
+
+---
+
+# 28. Структура репозитория
+
+```text
+synergy_megaproject/
+│
+├── README.md
+│
+├── data/
+│   ├── megaproject_nodes.csv
+│   ├── technology_nodes.csv
+│   ├── frontier_nodes.csv
+│   ├── frontier_edges.csv
+│   ├── authors.csv
+│   ├── institutions.csv
+│   ├── sources.csv
+│   ├── evidence.csv
+│   └── relation_types.csv
+│
+├── graph/
+│   ├── frontier_graph.json
+│   ├── frontier_graph.graphml
+│   ├── manifest.json
+│   └── neo4j_import/
+│       ├── nodes.csv
+│       └── relationships.csv
+│
+├── schema/
+│   └── graph_schema.json
+│
+├── tools/
+│   └── validate_graph.py
+│
+├── docs/
+│   ├── M2_MACHINE_READABLE_GRAPH.md
+│   └── M3_PROVENANCE_EDGE_CURATION.md
+│
+├── archive/
+│   └── frontier_edges_m2.csv
+│
+└── .github/
+    └── workflows/
+        └── validate-graph.yml
+```
+
+---
+
+# 29. Канонический статус
+
+**M1 — завершён.**  
+**M2 — завершён.**  
+**M3 — выполнен первый полный проход.**  
+**M4 — следующий исследовательский рубеж.**
+
+Последняя редакция русского README: **27 сентября 2026 года**.
+
+---
+
+# 30. Финальная формула
+
+# **SINERGY — это не один мегапроект.**
+
+# **SINERGY — это система, которая должна уметь находить, доказывать, комбинировать, моделировать и выращивать мегапроекты.**
+
+Именно поэтому конечный объект проекта — не список будущего, а:
+
+# **ЖИВОЙ ДОКАЗАТЕЛЬНЫЙ ГРАФ ЦИВИЛИЗАЦИОННЫХ ВОЗМОЖНОСТЕЙ.**
