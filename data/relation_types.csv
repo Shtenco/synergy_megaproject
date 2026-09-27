@@ -1,16 +1,16 @@
 relation_type,definition,semantic_class
-ENABLES,Source makes target possible or materially unlocks it.,ENABLING
-REQUIRES,Source cannot reasonably function at claimed scope without target.,CAUSAL
-VALIDATES,Source/evidence checks or supports the target claim/capability.,EVIDENTIAL
-DEPENDS_ON,"Source relies on target as an input, substrate or infrastructure dependency.",CAUSAL
-PROPOSED_BY,"Idea/project is attributed to a person, institution or program.",PROVENANCE
-FUNDED_BY,Project/activity receives funding from target. Only use with explicit funding evidence.,PROVENANCE
-USES,Source system uses target technology/resource/capability.,ENABLING
-PRODUCES,Source directly outputs target or an instance of the target class.,CAUSAL
-CONSUMES,Source directly consumes target resource/input.,CAUSAL
-REDUCES_COST_OF,Source measurably lowers resource/cost burden of target.,CAUSAL
-INCREASES_CAPACITY_OF,Source measurably or structurally expands target capability.,ENABLING
-COMPETES_WITH,Source and target are alternative approaches to materially overlapping objectives.,THEMATIC
-FALSIFIES,Source provides evidence inconsistent with target claim.,EVIDENTIAL
-RISKS,Source creates or materially raises a risk to target.,RISK
-GOVERNS,"Source constrains, audits, authorizes or sets rules for target.",GOVERNANCE
+ENABLES,Делает целевую систему возможной либо существенно разблокирует её развитие.,ENABLING
+REQUIRES,Исходный узел не может полноценно работать в заявленном масштабе без целевого.,CAUSAL
+VALIDATES,Источник или эксперимент проверяет и поддерживает целевое утверждение или способность.,EVIDENTIAL
+DEPENDS_ON,"Исходный узел опирается на целевой как на ресурс, инфраструктуру или обязательную предпосылку.",CAUSAL
+PROPOSED_BY,"Идея или проект атрибутированы человеку, институту или программе.",PROVENANCE
+FUNDED_BY,Проект или активность получают финансирование от целевого субъекта; требуется явное подтверждение финансирования.,PROVENANCE
+USES,"Исходная система использует целевую технологию, ресурс или способность.",ENABLING
+PRODUCES,Исходная система непосредственно создаёт целевой результат либо экземпляр целевого класса.,CAUSAL
+CONSUMES,Исходная система непосредственно потребляет целевой ресурс или вход.,CAUSAL
+REDUCES_COST_OF,Исходная технология снижает стоимость или ресурсную нагрузку целевой способности.,CAUSAL
+INCREASES_CAPACITY_OF,"Исходная технология расширяет производительность, масштаб или функциональные возможности целевого узла.",ENABLING
+COMPETES_WITH,Узлы являются альтернативными подходами к существенно пересекающейся задаче.,THEMATIC
+FALSIFIES,"Источник содержит данные, несовместимые с целевым утверждением.",EVIDENTIAL
+RISKS,Исходный узел создаёт либо существенно повышает риск для целевого.,RISK
+GOVERNS,"Исходный узел задаёт правила, ограничения, аудит, полномочия или контроль целевой системы.",GOVERNANCE
