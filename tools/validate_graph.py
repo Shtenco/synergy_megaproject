@@ -33,8 +33,8 @@ with (ROOT/"graph/frontier_graph.json").open(encoding="utf-8") as fh: g=json.loa
 if g.get("schema_version")!="3.0": errors.append("graph schema != 3.0")
 if g["counts"]["edges"]!=len(e): errors.append("edge count mismatch")
 if errors:
-    print("SINERGY GRAPH M3 VALIDATION: FAILED")
+    print("ПРОВЕРКА ГРАФА SINERGY M3: ОШИБКА")
     for z in errors: print(" -",z)
     sys.exit(1)
-print("SINERGY GRAPH M3 VALIDATION: GREEN")
+print("ПРОВЕРКА ГРАФА SINERGY M3: GREEN")
 print(f"M={len(m)} T={len(t)} F={len(f)} Edges={len(e)}")
