@@ -1,0 +1,103 @@
+id,frontier_id,source_id,relation,confidence,verification_status,note
+EV0001,F001,S001,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0002,F002,S002,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0003,F003,S003,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0004,F004,S004,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0005,F005,S004,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0006,F006,S005,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0007,F007,S006,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0008,F008,S007,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0009,F009,S008,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0010,F010,S009,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0011,F011,S010,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0012,F012,S003,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0013,F013,S011,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0014,F014,S012,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0015,F015,S013,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0016,F016,S014,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0017,F017,S015,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0018,F018,S016,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0019,F019,S001,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0020,F020,S001,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0021,F021,S017,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0022,F022,S016,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0023,F023,S018,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0024,F024,S019,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0025,F025,S020,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0026,F026,S021,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0027,F027,S022,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0028,F028,S007,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0029,F029,S023,ENABLED_BY_EVIDENCE,UNASSESSED,SOURCE_RECORDED,Source demonstrates enabling frontier; it does not necessarily propose the entire SINERGY synthesis.
+EV0030,F030,S019,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0031,F031,S024,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0032,F032,S025,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0033,F033,S026,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0034,F034,S027,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0035,F035,S028,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0036,F036,S029,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0037,F037,S016,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0038,F038,S030,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0039,F039,S031,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0040,F040,S032,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0041,F041,S033,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0042,F042,S034,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0043,F043,S005,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0044,F044,S005,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0045,F045,S035,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0046,F046,S006,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0047,F047,S036,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0048,F048,S037,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0049,F049,S003,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0050,F050,S038,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0051,F051,S011,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0052,F052,S023,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0053,F053,S039,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0054,F054,S040,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0055,F055,S041,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0056,F056,S017,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0057,F057,S042,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0058,F058,S043,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0059,F059,S044,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0060,F060,S045,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0061,F061,S046,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0062,F062,S047,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0063,F063,S048,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0064,F064,S010,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0065,F065,S049,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0066,F066,S050,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0067,F067,S051,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0068,F068,S052,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0069,F069,S053,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0070,F070,S054,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0071,F071,S055,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0072,F072,S056,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0073,F073,S057,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0074,F074,S058,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0075,F075,S015,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0076,F076,S059,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0077,F077,S060,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0078,F078,S061,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0079,F079,S062,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0080,F080,S063,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0081,F081,S064,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0082,F082,S012,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0083,F083,S065,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0084,F084,S066,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0085,F085,S067,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0086,F086,S068,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0087,F087,S069,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0088,F088,S070,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0089,F089,S071,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0090,F090,S072,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0091,F091,S073,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0092,F092,S074,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0093,F093,S075,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0094,F094,S007,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0095,F095,S076,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0096,F096,S021,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0097,F097,S013,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0098,F098,S014,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0099,F099,S077,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0100,F100,S078,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0101,F100,S079,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
+EV0102,F100,S080,SUPPORTED_BY,UNASSESSED,SOURCE_RECORDED,Representative/primary source as documented in README.
