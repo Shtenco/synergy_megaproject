@@ -11,7 +11,8 @@
     "edges": 1105,
     "strong_edges": 136,
     "direct_relation_evidence_edges": 7,
-    "edges_needing_relation_evidence": 701
+    "edges_needing_relation_evidence": 701,
+    "nodes": 670
   },
   "relation_counts": {
     "VALIDATES": 103,
@@ -50,5 +51,6 @@
   "language": "ru",
   "human_readable_language": "Русский",
   "technical_identifiers_language": "stable_machine_codes",
-  "description": "Канонический манифест русскоязычного SINERGY Civilization Graph. ID и технические enum-коды сохраняются без перевода для совместимости."
+  "description": "Манифест русскоязычного графа SINERGY. Экспорт JSON/GraphML/Neo4j синхронизирован с русскими M/T/F-каталогами.",
+  "graph_exports_language": "Русские отображаемые подписи; стабильные технические ID и enum-коды"
 }
