@@ -873,14 +873,13 @@ Each frontier idea should eventually preserve:
 - [x] 20 project-native SINERGY technology syntheses
 - [x] Initial forum/frontier scan
 - [x] 29 frontier concepts captured as seed nodes
+- [x] **SINERGY FRONTIER GRAPH 1.0 — 100 canonical frontier concepts (F001–F100) with provenance**
 - [x] typed Frontier Graph concept
 - [x] main civilization feedback loop identified
 
-## 47. Next canonical milestone — SINERGY FRONTIER GRAPH 1.0
+## 47. SINERGY FRONTIER GRAPH 1.0 — CLOSED
 
-Target:
-
-**100 high-signal frontier concepts with authors and primary sources.**
+Status: **CLOSED on 2026-09-27 at 100 canonical frontier concepts (F001–F100), with representative authors/programs, dated sources, maturity labels and SINERGY mappings.**
 
 For each concept capture:
 
@@ -901,7 +900,7 @@ Priority source communities already identified:
 - biotech communities
 - space-industry communities
 
-The target graph size after this phase:
+Canonical graph composition after this phase:
 
 - ~150 megaproject/historical nodes
 - 100 frontier-technology nodes
@@ -976,3 +975,323 @@ This repository is the canonical home for:
 - future whitepapers, graph datasets, simulators and prototypes.
 
 The README is intended to remain a **living master document**. New frontier research should be added here first or linked from here with clear provenance and status.
+
+
+---
+
+# PART XV — SINERGY FRONTIER GRAPH 1.0 — CANONICAL F001–F100
+
+**Version:** 1.0  
+**Canonical freeze date:** 2026-09-27  
+**Status:** CLOSED — first 100 sourced frontier concepts  
+**Role:** sourced frontier layer on top of the 150-node megaproject genome + 100-technology layer.
+
+## 48. Provenance policy for Frontier Graph 1.0
+
+The catalog below is deliberately stricter than the earlier brainstorming layer.
+
+- **PRIMARY** — original paper, official project page, protocol specification, government program or first-party research release.
+- **REPRESENTATIVE** — a strong source that demonstrates the concept, but is not necessarily the historical origin of the idea.
+- **SINERGY_SYNTHESIS** — a project-native system concept. These entries keep a representative source showing the enabling frontier, but SINERGY does not claim that the source's authors proposed the whole synthesized system.
+- **FOUNDATIONAL** — the concept is already established and is a building block for newer frontier systems.
+- **ACTIVE / EMERGING** — active research/deployment with real demonstrations.
+- **EXPERIMENTAL** — technically demonstrated but not yet general or scalable.
+- **PROGRAM** — an active institutional development/validation program.
+- **CONCEPTUAL / HYPOTHETICAL** — coherent but not yet demonstrated at the claimed system scale.
+
+Where an idea has no single legitimate “inventor”, the table uses **Representative authors / program**, not “inventor”.
+
+## 49. Canonical catalog
+
+| ID | Frontier concept | Representative authors / program | Source | Year | Maturity | SINERGY connection |
+|---|---|---|---|---:|---|---|
+| F001 | Post-AGI civilization as a design/coordination problem | David Duvenaud, Jan Kulveit, Raymond Douglas; workshop participants | [Post-AGI Civilizational Equilibria](https://post-agi.org/) | 2026 | ACTIVE / CONCEPTUAL | GOVERNANCE + AI + HUMAN + CAPITAL |
+| F002 | Civilization/world-model simulation | David Ha, Jürgen Schmidhuber; SINERGY synthesis at civilization scale | [World Models](https://arxiv.org/abs/1803.10122) | 2018 | FOUNDATIONAL → SYNTHESIS | AI + EARTH + ECONOMY + SIMULATION |
+| F003 | Autonomous science / AI co-scientist | Juraj Gottweis, Vivek Natarajan, Google Research | [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) | 2025 | ACTIVE / EMERGING | AI + KNOWLEDGE + BIO |
+| F004 | Fully automated AI scientist | Chris Lu, Cong Lu, Robert T. Lange, Jakob Foerster, Jeff Clune, David Ha | [The AI Scientist](https://arxiv.org/abs/2408.06292) | 2024 | EXPERIMENTAL | AI + SCIENCE + CODE + EVALUATION |
+| F005 | Science Graph / machine-readable discovery loop | SINERGY synthesis; AI Scientist and autonomous-lab work as enabling evidence | [The AI Scientist](https://arxiv.org/abs/2408.06292) | 2024 | SINERGY_SYNTHESIS | KNOWLEDGE GRAPH + EXPERIMENT + TECHNOLOGY |
+| F006 | Agent → robot → physical-world action loop | Google DeepMind robotics teams | [Gemini Robotics](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | 2025 | ACTIVE / EMERGING | AI + ROBOTICS + INDUSTRY |
+| F007 | General-purpose humanoid foundation models | NVIDIA Isaac GR00T team | [Isaac GR00T](https://developer.nvidia.com/isaac/gr00t) | 2024–2026 | ACTIVE / EMERGING | AI + ROBOTICS + MANUFACTURING |
+| F008 | Robot economy / recursively expanding physical production | Robert Freitas Jr., William Gilbreath et al.; NASA study | [Advanced Automation for Space Missions](https://ntrs.nasa.gov/citations/19830007077) | 1982 | CONCEPTUAL / FOUNDATIONAL | ROBOTICS + INDUSTRY + SPACE |
+| F009 | Energy–Compute Economy | SINERGY synthesis; modern AI infrastructure as enabling substrate | [Google data-center energy research context](https://deepmind.google/discover/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/) | 2018–2026 | SINERGY_SYNTHESIS | ENERGY + COMPUTE + CAPITAL |
+| F010 | Bidirectional “everything-to-grid” energy participation | distributed-energy / V2G research community | [Vehicle-to-grid foundational review](https://doi.org/10.1016/j.jpowsour.2004.12.022) | 2005→ | ACTIVE / EMERGING | ENERGY + CITIES + MOBILITY |
+| F011 | Biological world models | Ziga Avsec, Natasha Latysheva; Google DeepMind | [AlphaGenome](https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/) | 2025–2026 | ACTIVE / EMERGING | AI + BIO + MEDICINE |
+| F012 | Biological Cloud / automated design-build-test loops | SINERGY synthesis; automated science as substrate | [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) | 2025 | SINERGY_SYNTHESIS | BIO + COMPUTE + ROBOTIC LABS |
+| F013 | AI-driven materials evolution | Szymanski, Rendy, Fei, Kumar, Ceder, Persson, DeepMind collaborators | [A-Lab](https://www.nature.com/articles/s41586-023-06734-w) | 2023 | EXPERIMENTAL / ACTIVE | AI + MATTER + ROBOTICS + SCIENCE |
+| F014 | Programmable/adaptive mechanical matter | Corentin Coulais, Eial Teomy, Koen de Reus, Yair Shokef, Martin van Hecke | [Programmable mechanical metamaterials](https://www.nature.com/articles/nature18960) | 2016 | EXPERIMENTAL / FOUNDATIONAL | MATTER + ROBOTICS |
+| F015 | Planetary sensor/data fabric | AlphaEarth Foundations team | [AlphaEarth Foundations](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) | 2025 | ACTIVE / EMERGING | EARTH + DATA + AI |
+| F016 | Earth Operating System / Earth digital twin | Destination Earth / ECMWF; SINERGY synthesis above the twin layer | [Destination Earth Digital Twins](https://destine.ecmwf.int/digital-twins/) | 2024–2026 | ACTIVE → SYNTHESIS | EARTH + AI + ENERGY + CITIES |
+| F017 | High-bandwidth brain–computer communication | Francis Willett, Erin Kunz, Chaofei Fan, Jaimie Henderson et al. | [High-performance speech neuroprosthesis](https://www.nature.com/articles/s41586-023-06377-x) | 2023 | EXPERIMENTAL | HUMAN + AI + BCI |
+| F018 | Persistent digital-person / behavioral-agent models | Joon Sung Park, Joseph O'Brien, Carrie Cai, Meredith Ringel Morris, Percy Liang, Michael Bernstein | [Generative Agents](https://arxiv.org/abs/2304.03442) | 2023 | EXPERIMENTAL / CONCEPTUAL | HUMAN + MEMORY + AGENTS |
+| F019 | Work-optional / abundance-oriented civilization | SINERGY synthesis; post-AGI economics community as representative source | [Post-AGI Civilizational Equilibria](https://post-agi.org/) | 2025–2026 | CONCEPTUAL | HUMAN + ROBOTICS + CAPITAL + GOVERNANCE |
+| F020 | Post-AGI statecraft | Samuel Hammond; Post-AGI workshop | [2026 workshop program](https://post-agi.org/) | 2026 | CONCEPTUAL / ACTIVE DISCUSSION | GOVERNANCE + AI + ECONOMY |
+| F021 | AI constitutionalism | Yuntao Bai et al., Anthropic | [Constitutional AI](https://arxiv.org/abs/2212.08073) | 2022 | FOUNDATIONAL / ACTIVE | GOVERNANCE + AI + AUDIT |
+| F022 | Agent civilization / persistent multi-agent social systems | Park et al.; AutoGen / multi-agent research | [Generative Agents](https://arxiv.org/abs/2304.03442) | 2023 | EXPERIMENTAL → CONCEPTUAL | AGENTS + ECONOMY + GOVERNANCE |
+| F023 | Autonomous capital allocation / Capital Router | Stephan Zheng, Alexander Trott, Sunil Srinivasa, David Parkes, Richard Socher et al.; SINERGY extension | [AI Economist](https://arxiv.org/abs/2108.02755) | 2021 | EXPERIMENTAL → SYNTHESIS | CAPITAL + AI + GOVERNANCE |
+| F024 | Autonomous global logistics / planetary supply-chain graph | SINERGY synthesis; agent/robot planning as substrate | [ReAct](https://arxiv.org/abs/2210.03629) | 2022 | SINERGY_SYNTHESIS | MOBILITY + AI + TRADE |
+| F025 | Space industrialization as an infrastructure ecosystem | NASA ISAM community | [NASA ISAM](https://www.nasa.gov/isam/) | 2025–2026 | ACTIVE / PROGRAM | SPACE + ROBOTICS + INDUSTRY |
+| F026 | Orbital compute / data centers in space | Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud | [Starcloud / NVIDIA](https://blogs.nvidia.com/blog/starcloud/) | 2025 | EXPERIMENTAL / EMERGING | SPACE + COMPUTE + ENERGY |
+| F027 | Moon as an industrial node | NASA lunar ISRU / surface technology programs | [NASA Lunar Surface Innovation](https://www.nasa.gov/space-technology-mission-directorate/lunar-surface-innovation-initiative/) | 2020s | PROGRAM / EMERGING | SPACE + MATTER + ENERGY + INDUSTRY |
+| F028 | Self-expanding industrial system | Freitas, Gilbreath et al.; NASA Advanced Automation study | [NASA CP-2255](https://ntrs.nasa.gov/citations/19830007077) | 1982 | CONCEPTUAL | INDUSTRY + ROBOTICS + ENERGY |
+| F029 | Technology Breeder | SINERGY synthesis; AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces | [AlphaEvolve](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) | 2025 | SINERGY_SYNTHESIS | SINERGY ENGINE + SCIENCE + AI |
+| F030 | Reasoning + acting agents (ReAct) | Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao | [ReAct](https://arxiv.org/abs/2210.03629) | 2022 | FOUNDATIONAL / ACTIVE | AI + TOOLS + AGENTS |
+| F031 | Self-taught API/tool use | Timo Schick, Jane Dwivedi-Yu, Roberto Dessì et al. | [Toolformer](https://arxiv.org/abs/2302.04761) | 2023 | FOUNDATIONAL | AI + TOOLS + SERVICES |
+| F032 | Verbal reinforcement / self-reflective agents | Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao | [Reflexion](https://arxiv.org/abs/2303.11366) | 2023 | FOUNDATIONAL / EXPERIMENTAL | AI + MEMORY + LEARNING |
+| F033 | Deliberative search over reasoning paths | Shunyu Yao, Dian Yu, Jeffrey Zhao et al. | [Tree of Thoughts](https://arxiv.org/abs/2305.10601) | 2023 | FOUNDATIONAL | AI + PLANNING |
+| F034 | Iterative self-feedback refinement | Aman Madaan et al. | [Self-Refine](https://arxiv.org/abs/2303.17651) | 2023 | FOUNDATIONAL | AI + SELF-IMPROVEMENT |
+| F035 | Multi-agent conversational orchestration | Qingyun Wu et al., Microsoft Research | [AutoGen](https://arxiv.org/abs/2308.08155) | 2023 | ACTIVE | AGENTS + ORGANIZATIONS |
+| F036 | Lifelong embodied skill acquisition | Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar | [Voyager](https://arxiv.org/abs/2305.16291) | 2023 | EXPERIMENTAL | AGENTS + WORLD MODEL + ROBOTICS |
+| F037 | Generative-agent social simulation | Joon Sung Park et al. | [Generative Agents](https://arxiv.org/abs/2304.03442) | 2023 | EXPERIMENTAL | AGENTS + SOCIETY + SIMULATION |
+| F038 | General reinforcement learning through learned world models | Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap | [DreamerV3](https://arxiv.org/abs/2301.04104) | 2023 | ACTIVE / FOUNDATIONAL | WORLD MODELS + CONTROL |
+| F039 | Language models grounded by robotic affordances | Michael Ahn et al., Google Robotics | [SayCan](https://arxiv.org/abs/2204.01691) | 2022 | FOUNDATIONAL | AI + ROBOTICS + PLANNING |
+| F040 | Embodied multimodal language model | Danny Driess, Fei Xia, Mehdi Sajjadi et al. | [PaLM-E](https://arxiv.org/abs/2303.03378) | 2023 | FOUNDATIONAL | AI + SENSORS + ROBOTICS |
+| F041 | Cross-embodiment robot learning | Open X-Embodiment Collaboration | [Open X-Embodiment / RT-X](https://arxiv.org/abs/2310.08864) | 2023 | ACTIVE | ROBOTICS + SHARED DATA |
+| F042 | Vision-language-action robotics | Anthony Brohan et al., Google DeepMind | [RT-2](https://arxiv.org/abs/2307.15818) | 2023 | ACTIVE / FOUNDATIONAL | AI + ROBOTICS |
+| F043 | Gemini-based physical AI | Google DeepMind robotics team | [Gemini Robotics](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | 2025 | ACTIVE / EMERGING | AI + ROBOTICS + PHYSICAL WORLD |
+| F044 | Embodied reasoning for robots | Google DeepMind | [Gemini Robotics-ER](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | 2025 | ACTIVE / EMERGING | AI + SPATIAL REASONING |
+| F045 | On-device robot foundation models | Google DeepMind | [Gemini Robotics family](https://deepmind.google/models/gemini-robotics/) | 2025–2026 | ACTIVE / EMERGING | EDGE COMPUTE + ROBOTICS |
+| F046 | Open humanoid robot foundation models | NVIDIA Isaac GR00T team | [Isaac GR00T](https://developer.nvidia.com/isaac/gr00t) | 2024–2026 | ACTIVE | ROBOTICS + FOUNDATION MODELS |
+| F047 | Internet-scale human-video pretraining for humanoids | Figure AI | [Project Go-Big](https://www.figure.ai/news/project-go-big) | 2025 | EMERGING | HUMAN VIDEO + ROBOT LEARNING |
+| F048 | End-to-end automated ML research | Chris Lu et al., Sakana AI | [The AI Scientist](https://sakana.ai/ai-scientist/) | 2024 | EXPERIMENTAL | AI + SCIENCE |
+| F049 | Multi-agent scientific hypothesis generation | Gottweis, Natarajan et al., Google | [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) | 2025 | ACTIVE / EXPERIMENTAL | AI + SCIENCE + BIO |
+| F050 | LLM + chemistry tools autonomous chemistry assistant | Andres M. Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, Philippe Schwaller | [ChemCrow](https://arxiv.org/abs/2304.05376) | 2023 | EXPERIMENTAL | AI + CHEMISTRY + TOOLS |
+| F051 | Autonomous robotic materials laboratory | Nathan Szymanski et al.; Gerbrand Ceder, Kristin Persson collaborators | [A-Lab](https://www.nature.com/articles/s41586-023-06734-w) | 2023 | EXPERIMENTAL / ACTIVE | AI + ROBOTICS + MATERIALS |
+| F052 | Evolutionary code/algorithm discovery | AlphaEvolve team, Google DeepMind | [AlphaEvolve](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) | 2025 | ACTIVE / EMERGING | AI + ALGORITHMS + R&D |
+| F053 | LLM-guided search for new mathematical/computer-science constructions | Bernardino Romera-Paredes et al., Google DeepMind | [FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/) | 2023 | EXPERIMENTAL / ACTIVE | AI + MATHEMATICS + SEARCH |
+| F054 | AI-discovered low-level algorithms | Daniel Mankowitz, Andrea Michi et al., Google DeepMind | [AlphaDev](https://deepmind.google/blog/alphadev-discovers-faster-sorting-algorithms/) | 2023 | REALIZED / ACTIVE | AI + COMPUTE EFFICIENCY |
+| F055 | AI discovery of matrix-multiplication algorithms | Alhussein Fawzi, Matej Balog, Bernardino Romera-Paredes et al. | [AlphaTensor](https://deepmind.google/blog/discovering-novel-algorithms-with-alphatensor/) | 2022 | EXPERIMENTAL / FOUNDATIONAL | AI + MATHEMATICS + COMPUTE |
+| F056 | Constitutional AI | Yuntao Bai et al., Anthropic | [Constitutional AI](https://arxiv.org/abs/2212.08073) | 2022 | ACTIVE / FOUNDATIONAL | AI + GOVERNANCE |
+| F057 | AI safety via debate | Geoffrey Irving, Paul Christiano, Dario Amodei | [AI Safety via Debate](https://arxiv.org/abs/1805.00899) | 2018 | FOUNDATIONAL / CONCEPTUAL | AI + OVERSIGHT |
+| F058 | Eliciting latent knowledge from advanced systems | Paul Christiano, Mark Xu, Ajeya Cotra / ARC | [ELK report](https://www.alignmentforum.org/posts/QK7hM7XW7W6WZQ9To/eliciting-latent-knowledge) | 2021 | RESEARCH PROGRAM | AI + VERIFICATION |
+| F059 | Cooperative inverse reinforcement learning | Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, Stuart Russell | [CIRL](https://arxiv.org/abs/1606.03137) | 2016 | FOUNDATIONAL | HUMAN + AI + PREFERENCE LEARNING |
+| F060 | Collective Constitutional AI | Anthropic + Collective Intelligence Project; Saffron Huang, Divya Siddarth, Liane Lovitt et al. | [Collective Constitutional AI](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) | 2023 | EXPERIMENTAL | GOVERNANCE + PARTICIPATION + AI |
+| F061 | Scalable oversight | Samuel Bowman et al. | [Measuring Progress on Scalable Oversight](https://arxiv.org/abs/2211.03540) | 2022 | ACTIVE RESEARCH | AI + AUDIT + HUMAN OVERSIGHT |
+| F062 | Protein-structure prediction at proteome scale | John Jumper et al., DeepMind | [AlphaFold2](https://www.nature.com/articles/s41586-021-03819-2) | 2021 | REALIZED / FOUNDATIONAL | AI + BIO + SCIENCE |
+| F063 | Joint modeling of biomolecular interactions | Josh Abramson et al., Google DeepMind / Isomorphic Labs | [AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) | 2024 | ACTIVE | AI + BIO + DRUG DISCOVERY |
+| F064 | Genome regulatory variant-effect foundation model | Ziga Avsec, Natasha Latysheva et al., Google DeepMind | [AlphaGenome](https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/) | 2025–2026 | ACTIVE / EMERGING | AI + GENOMICS |
+| F065 | Long-range genomic regulatory prediction | Ziga Avsec et al. | [Enformer](https://www.nature.com/articles/s41592-021-01252-x) | 2021 | FOUNDATIONAL | AI + GENOMICS |
+| F066 | Generative protein design with diffusion models | Joseph Watson, David Juergens, Nathaniel Bennett et al.; David Baker lab | [RFdiffusion](https://www.nature.com/articles/s41586-023-06415-8) | 2023 | ACTIVE / EMERGING | AI + BIO + MATERIAL DESIGN |
+| F067 | Programmable CRISPR-Cas9 editing | Martin Jinek, Krzysztof Chylinski, Jennifer Doudna, Emmanuelle Charpentier et al. | [Science 2012](https://doi.org/10.1126/science.1225829) | 2012 | REALIZED / FOUNDATIONAL | BIO + GENETIC ENGINEERING |
+| F068 | Base editing without double-strand breaks | Alexis Komor, Yongjoo Kim, Michael Packer, John Zuris, David Liu et al. | [Nature 2016](https://www.nature.com/articles/nature17946) | 2016 | ACTIVE / FOUNDATIONAL | BIO + MEDICINE |
+| F069 | Prime editing | Andrew Anzalone, Peyton Randolph, Jessie Davis et al.; David Liu | [Nature 2019](https://www.nature.com/articles/s41586-019-1711-4) | 2019 | ACTIVE / EMERGING | BIO + MEDICINE |
+| F070 | Minimal synthetic bacterial cell | Clyde Hutchison III et al., J. Craig Venter Institute | [Science: JCVI-syn3.0](https://doi.org/10.1126/science.aad6253) | 2016 | EXPERIMENTAL / FOUNDATIONAL | SYNTHETIC BIOLOGY |
+| F071 | Designed living robots / xenobots | Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard | [PNAS](https://www.pnas.org/doi/10.1073/pnas.1910837117) | 2020 | EXPERIMENTAL | BIO + ROBOTICS |
+| F072 | Organoid Intelligence / biocomputing with brain organoids | Lena Smirnova, Brian Caffo, David Gracias, Brett Kagan, Alysson Muotri, Thomas Hartung et al. | [Organoid Intelligence](https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full) | 2023 | EXPERIMENTAL / CONCEPTUAL | BIO + COMPUTE + HUMAN |
+| F073 | Living neural systems learning in a closed loop | Brett Kagan et al., Cortical Labs | [DishBrain / Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6) | 2022 | EXPERIMENTAL | BIOCOMPUTE + LEARNING |
+| F074 | Partial epigenetic reprogramming for functional rejuvenation | Yuancheng Lu et al.; David Sinclair lab | [Nature 2020](https://www.nature.com/articles/s41586-020-2975-4) | 2020 | EXPERIMENTAL | LONGEVITY + BIO |
+| F075 | High-performance brain-to-text speech neuroprosthesis | Francis Willett et al.; Jaimie Henderson lab | [Nature 2023](https://www.nature.com/articles/s41586-023-06377-x) | 2023 | EXPERIMENTAL | HUMAN + BCI + AI |
+| F076 | Neural decoding directly to synthesized speech | Gopala Anumanchipalli, Josh Chartier, Edward Chang | [Nature 2019](https://www.nature.com/articles/s41586-019-1119-1) | 2019 | EXPERIMENTAL / FOUNDATIONAL | HUMAN + BCI + COMMUNICATION |
+| F077 | 3D bioprinting of thick vascularized tissues | David Kolesky, Kimberly Homan, Mark Skylar-Scott et al.; Jennifer Lewis lab | [PNAS 2016](https://www.pnas.org/doi/10.1073/pnas.1521342113) | 2016 | EXPERIMENTAL | BIO + MANUFACTURING + MEDICINE |
+| F078 | Massive AI discovery of stable crystal structures | Amil Merchant, Ekin Dogus Cubuk et al., Google DeepMind | [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) | 2023 | ACTIVE / EMERGING | AI + MATTER |
+| F079 | Generative inorganic materials design | Claudio Zeni, Robert Pinsler, Daniel Zügner et al., Microsoft Research | [MatterGen](https://www.nature.com/articles/s41586-025-08628-5) | 2025 | ACTIVE / EMERGING | AI + MATTER + ENERGY |
+| F080 | General atomistic foundation simulation across conditions | Han Yang, Chenxi Hu, Yichi Zhou et al., Microsoft Research | [MatterSim](https://www.microsoft.com/en-us/research/publication/mattersim-a-deep-learning-atomistic-model-across-elements-temperatures-and-pressures/) | 2024 | ACTIVE / EMERGING | AI + MATERIALS SIMULATION |
+| F081 | Self-healing structural materials | S. R. White, N. R. Sottos, P. H. Geubelle et al. | [Nature 2001](https://www.nature.com/articles/35057232) | 2001 | FOUNDATIONAL / ACTIVE FIELD | MATTER + INFRASTRUCTURE |
+| F082 | Programmable textured mechanical metamaterials | Corentin Coulais et al. | [Nature 2016](https://www.nature.com/articles/nature18960) | 2016 | EXPERIMENTAL | MATTER + ROBOTICS |
+| F083 | Autonomous molecular assembly / programmable chemical synthesis | Wenjing Meng, Richard Muscat, Mireya McKee et al.; Andrew Turberfield | [Nature Chemistry](https://www.nature.com/articles/nchem.2495) | 2016 | EXPERIMENTAL | NANOTECH + MANUFACTURING |
+| F084 | Deep-RL control of fusion plasma | Jonas Degrave et al.; DeepMind + Swiss Plasma Center | [Nature 2022](https://www.nature.com/articles/s41586-021-04301-9) | 2022 | EXPERIMENTAL / ACTIVE | AI + FUSION + ENERGY |
+| F085 | Superhot-rock geothermal | ARPA-E SUPERHOT program | [ARPA-E SUPERHOT](https://arpa-e.energy.gov/technologies/programs/superhot) | 2025–2026 | PROGRAM | ENERGY + INDUSTRY |
+| F086 | Compact sodium-cooled fast microreactors | Oklo Aurora | [Oklo technology](https://oklo.com/technology) | 2020s | ACTIVE PROGRAM / PRE-COMMERCIAL | NUCLEAR + CITIES + COMPUTE |
+| F087 | Space-based solar power with wireless power transfer | Caltech Space Solar Power Project; Ali Hajimiri, Sergio Pellegrino, Harry Atwater teams | [Caltech SSPP](https://www.spacesolar.caltech.edu/) | 2013–2020s | EXPERIMENTAL | SPACE + ENERGY |
+| F088 | Below-threshold quantum error correction | Google Quantum AI / Willow team | [Making quantum error correction work](https://research.google/blog/making-quantum-error-correction-work/) | 2024 | EXPERIMENTAL / MAJOR MILESTONE | QUANTUM + COMPUTE |
+| F089 | Modular fault-tolerant quantum supercomputer | IBM Quantum; Starling roadmap | [IBM Quantum Roadmap](https://www.ibm.com/roadmaps/quantum/) | 2025–2030 plan | ACTIVE PROGRAM | QUANTUM + HPC |
+| F090 | Utility-scale quantum validated by value-over-cost | DARPA Quantum Benchmarking Initiative; program manager Micah Stoutimore | [DARPA QBI](https://www.darpa.mil/research/programs/quantum-benchmarking-initiative) | 2024–2026 | ACTIVE PROGRAM | QUANTUM + ECONOMICS + VERIFICATION |
+| F091 | Quantum internet architecture | Stephanie Wehner, David Elkouss, Ronald Hanson | [Science 2018](https://www.science.org/doi/10.1126/science.aam9288) | 2018 | RESEARCH / EMERGING | NETWORK + QUANTUM |
+| F092 | In-space servicing, assembly and manufacturing as a space-infrastructure stack | John Mulvaney, Dale Arney et al.; NASA ISAM | [NASA ISAM State of Play 2025](https://ntrs.nasa.gov/citations/20250008988) | 2025 | ACTIVE PROGRAM | SPACE + ROBOTICS + MANUFACTURING |
+| F093 | On-orbit manufacture of very large structures | DARPA NOM4D; Andrew Detor program line | [DARPA NOM4D demos](https://www.darpa.mil/news/2025/novel-tech-space-structures) | 2021–2026 | ACTIVE PROGRAM / DEMO | SPACE + MATTER + ROBOTICS |
+| F094 | Self-replicating / growing lunar factory | Robert Freitas Jr., William Gilbreath et al.; NASA/ASEE study | [NASA Advanced Automation for Space Missions](https://ntrs.nasa.gov/citations/19830007077) | 1982 | CONCEPTUAL / FAR-FRONTIER | SPACE + ROBOTICS + SELF-EXPANDING INDUSTRY |
+| F095 | Lunar fission surface power | NASA + U.S. Department of Energy | [NASA/DOE lunar reactor program](https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/) | 2026 | ACTIVE PROGRAM | SPACE + NUCLEAR + INDUSTRY |
+| F096 | Orbital data centers / AI compute in space | Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud | [NVIDIA / Starcloud](https://blogs.nvidia.com/blog/starcloud/) | 2025 | EXPERIMENTAL / EMERGING | SPACE + COMPUTE + ENERGY |
+| F097 | Planet-scale geospatial foundation model | AlphaEarth Foundations team, Google DeepMind / Earth Engine | [AlphaEarth Foundations](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) | 2025 | ACTIVE / EMERGING | EARTH + AI + SENSOR WEB |
+| F098 | Operational Earth-system digital twins | Destination Earth / ECMWF and partners | [Destination Earth Digital Twins](https://destine.ecmwf.int/digital-twins/) | 2024–2026 | ACTIVE PROGRAM | EARTH + SIMULATION + POLICY |
+| F099 | Machine-native HTTP payments / autonomous-agent micropayments | Erik Reppel, Nemil Dalal, Dan Kim; Coinbase x402 | [x402](https://www.coinbase.com/developer-platform/discover/launches/x402) | 2025 | ACTIVE / EMERGING | AGENT ECONOMY + CAPITAL + SERVICES |
+| F100 | Agentic-commerce interoperability and auditable delegated payments | Google AP2/UCP ecosystem; Stripe/OpenAI ACP ecosystem | [AP2](https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/) · [ACP](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce) · [UCP](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/) | 2025–2026 | ACTIVE / EMERGING | AGENTS + COMMERCE + IDENTITY + PAYMENTS |
+
+## 50. What changed from the 29-node seed
+
+The earlier **29 frontier concepts remain valuable**, but they mixed three different levels:
+
+1. externally sourced frontier concepts;
+2. broad system-level interpretations;
+3. original SINERGY syntheses.
+
+Frontier Graph 1.0 normalizes those layers.
+
+Examples:
+
+- **Earth Operating System**, **Biological Cloud**, **Capital Router**, **Technology Breeder** remain explicitly labeled **SINERGY_SYNTHESIS**.
+- **A-Lab**, **AlphaEvolve**, **AlphaGenome**, **Gemini Robotics**, **MatterGen**, **Willow/QEC**, **NASA ISAM**, **x402**, **AP2/ACP/UCP** are traceable external frontier nodes.
+- A synthetic megaproject can therefore point to its enabling external evidence instead of being presented as if the whole synthesis already exists.
+
+## 51. Frontier Graph 1.0 domain map
+
+The 100-node layer now spans these coupled domains:
+
+~~~text
+AI / AGENTS / REASONING
+        ↓
+AUTONOMOUS SCIENCE
+        ↓
+ROBOTICS / PHYSICAL AI
+        ↓
+MATERIALS ─────── BIOLOGY
+        ↓              ↓
+MANUFACTURING      HUMAN / BCI
+        ↓              ↓
+ENERGY ───── COMPUTE / QUANTUM
+        ↓              ↓
+INFRASTRUCTURE ── DIGITAL EARTH
+        ↓
+SPACE / LUNAR INDUSTRY
+        ↓
+AGENT ECONOMY / PAYMENTS
+        ↓
+GOVERNANCE / POST-AGI INSTITUTIONS
+        ↓
+SINERGY CIVILIZATION GRAPH
+~~~
+
+The important result is not that 100 ideas have been collected. The result is that several previously separate frontiers now expose **closed capability loops**.
+
+### Loop A — autonomous scientific production
+
+~~~text
+AI hypothesis generation
+→ simulation
+→ robotic experiment
+→ measurement
+→ learned model
+→ material / molecule / algorithm
+→ manufacturing candidate
+→ next hypothesis
+~~~
+
+Evidence nodes: F003, F004, F050–F055, F078–F080.
+
+### Loop B — embodied machine economy
+
+~~~text
+agent
+→ tool discovery
+→ payment
+→ compute
+→ robot action
+→ service / production
+→ revenue
+→ new resource purchase
+→ agent
+~~~
+
+Evidence nodes: F030–F047, F099–F100.
+
+### Loop C — energy–compute–intelligence
+
+~~~text
+energy
+→ compute
+→ AI
+→ better algorithms / controls
+→ more efficient energy & compute
+→ more AI capacity
+~~~
+
+Evidence nodes: F052–F055, F084–F090.
+
+### Loop D — self-expanding off-Earth industry
+
+~~~text
+ISRU / imported feedstock
+→ energy
+→ robotic manufacturing
+→ larger structures
+→ more power / compute
+→ more robotics
+→ more industrial capacity
+~~~
+
+Evidence / precursor nodes: F092–F096 and F028/F094.
+
+This loop remains **far from fully autonomous self-replication**; the graph explicitly separates today's ISAM demonstrations from the much stronger self-expanding-industry hypothesis.
+
+### Loop E — planet-scale sensing and simulation
+
+~~~text
+satellites + sensors
+→ geospatial foundation models
+→ Earth-system digital twins
+→ prediction
+→ constrained planning / intervention
+→ new observations
+~~~
+
+Evidence nodes: F015–F016 and F097–F098.
+
+## 52. Strongest cross-domain edges discovered in v1.0
+
+The first 100-node freeze exposes particularly important edges for future SINERGY work:
+
+- **F003 AI co-scientist ↔ F051 A-Lab** → autonomous theory-to-experiment science.
+- **F052 AlphaEvolve ↔ F084 fusion control** → machine discovery/optimization directly affecting physical energy systems.
+- **F078 GNoME ↔ F051 A-Lab** → computationally proposed matter → robotic synthesis.
+- **F079 MatterGen ↔ F080 MatterSim ↔ F051 A-Lab** → generate → simulate → synthesize → measure.
+- **F064 AlphaGenome ↔ F067–F074 genetic/reprogramming tools** → model → design → biological intervention → feedback.
+- **F043 Gemini Robotics ↔ F046 GR00T ↔ F041 Open X-Embodiment** → shared foundation layer for heterogeneous physical agents.
+- **F085–F087 advanced energy ↔ F096 orbital compute** → new compute geographies constrained by real energy economics.
+- **F088–F091 quantum stack ↔ F029 Technology Breeder** → future hybrid search/simulation capabilities, only when validated against classical cost/performance.
+- **F092 ISAM ↔ F093 NOM4D ↔ F095 lunar fission** → power + assembly + manufacturing as the precursor stack for industrial space.
+- **F099 x402 ↔ F100 AP2/ACP/UCP ↔ F022 Agent Civilization** → agents can move from “talking to one another” toward discoverable, payable, auditable economic interaction.
+- **F097 AlphaEarth ↔ F098 Destination Earth ↔ F016 Earth OS** → measurements → representation → digital twin → decision layer.
+- **F001/F020/F021/F056–F061 ↔ all autonomous loops** → governance and oversight become architectural dependencies, not a late compliance add-on.
+
+## 53. What Frontier Graph 1.0 does NOT claim
+
+Frontier Graph 1.0 deliberately avoids several category errors:
+
+- A paper is not the same as a scalable product.
+- A lab demonstration is not the same as an economically viable infrastructure system.
+- A roadmap is not a delivered technology.
+- An institutional program is not proof that its end-state will work.
+- A frontier forecast is not a physical law.
+- “Self-expanding industry” is substantially stronger than today's robotics or ISAM.
+- “Digital person” is not evidence that consciousness can be uploaded.
+- “Organoid intelligence” is not equivalent to human-like intelligence.
+- Quantum utility is not assumed; F090 explicitly keeps **value-over-cost verification** in the graph.
+- Agent payments do not by themselves create a healthy economy; identity, authorization, liability, fraud controls, accounting and external value production remain required.
+
+## 54. Frontier Graph 1.0 completion criterion
+
+The milestone is considered **closed** because the repository now contains:
+
+- exactly **100 canonical F-nodes**;
+- representative authors/programs;
+- a dated source for every node;
+- a maturity/status field;
+- an explicit SINERGY mapping;
+- separation of external evidence from SINERGY synthesis;
+- first cross-domain edge map;
+- first capability-loop map.
+
+The next milestone is no longer “find 100 ideas”.
+
+It is:
+
+# **M2 — MACHINE-READABLE SINERGY CIVILIZATION GRAPH**
+
+Required artifacts:
+
+~~~text
+data/frontier_nodes.csv
+data/frontier_edges.csv
+data/megaproject_nodes.csv
+data/technology_nodes.csv
+data/authors.csv
+data/institutions.csv
+data/sources.csv
+data/evidence.csv
+
+graph/frontier_graph.json
+graph/frontier_graph.graphml
+graph/neo4j_import/
+~~~
+
+And every F-node must receive stable machine IDs, normalized source provenance, evidence confidence and explicit edges to the 150 megaproject nodes and 100 technology nodes.
+
