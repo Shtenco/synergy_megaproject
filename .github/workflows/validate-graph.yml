@@ -1,4 +1,4 @@
-name: Validate SINERGY Civilization Graph
+name: Проверка SINERGY Civilization Graph
 on:
   push:
     paths: ['data/**','graph/**','schema/**','tools/validate_graph.py','.github/workflows/validate-graph.yml']
