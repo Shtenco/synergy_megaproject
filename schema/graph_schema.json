@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "SINERGY Civilization Graph",
+  "title": "Граф цивилизационных возможностей SINERGY",
   "type": "object",
   "required": [
     "schema_version",
@@ -71,5 +71,6 @@
         }
       }
     }
-  }
+  },
+  "description": "Машинная схема графа SINERGY. Технические поля и enum-коды остаются стабильными; человекочитаемые подписи и документация ведутся на русском языке."
 }
