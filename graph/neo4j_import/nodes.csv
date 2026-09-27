@@ -1,671 +1,671 @@
-node_id:ID,name,node_type:LABEL
-M001,Russian space as a unified economic organism,MEGAPROJECT
-M002,Mendeleev-style rationalization of resources,MEGAPROJECT
-M003,Development of productive forces in the East,MEGAPROJECT
-M004,Ural–Siberian industrial belt,MEGAPROJECT
-M005,Great Siberia,MEGAPROJECT
-M006,Far East as the Pacific facade,MEGAPROJECT
-M007,Arctic as a new frontier,MEGAPROJECT
-M008,Russia as continental infrastructure,MEGAPROJECT
-M009,Russia as a bridge of civilizations,MEGAPROJECT
-M010,Russia as an independent civilizational pole,MEGAPROJECT
-M011,Common Cause,MEGAPROJECT
-M012,Active evolution,MEGAPROJECT
-M013,Regulation of nature,MEGAPROJECT
-M014,Management of climate processes,MEGAPROJECT
-M015,Victory over death,MEGAPROJECT
-M016,Resurrection of ancestors,MEGAPROJECT
-M017,Cosmic settlement of humanity,MEGAPROJECT
-M018,Humanity as a single subject,MEGAPROJECT
-M019,Earth as the launchpad of civilization,MEGAPROJECT
-M020,Immortal civilization,MEGAPROJECT
-M021,Rocket propulsion,MEGAPROJECT
-M022,Multistage rocket,MEGAPROJECT
-M023,Space station,MEGAPROJECT
-M024,Orbital settlements,MEGAPROJECT
-M025,Space cities,MEGAPROJECT
-M026,Planetary expansion,MEGAPROJECT
-M027,Solar System as an economic space,MEGAPROJECT
-M028,Space industry,MEGAPROJECT
-M029,Solar energy in space,MEGAPROJECT
-M030,Multi-stage development of civilization,MEGAPROJECT
-M031,Biosphere as a global system,MEGAPROJECT
-M032,Living matter as a geological force,MEGAPROJECT
-M033,Humanity as a geological factor,MEGAPROJECT
-M034,Noosphere,MEGAPROJECT
-M035,Science as a planetary force,MEGAPROJECT
-M036,Management of biogeochemical flows,MEGAPROJECT
-M037,Closing material cycles,MEGAPROJECT
-M038,Rational transformation of the biosphere,MEGAPROJECT
-M039,Planetary Earth monitoring,MEGAPROJECT
-M040,Global Earth knowledge system,MEGAPROJECT
-M041,Solar activity and biological processes,MEGAPROJECT
-M042,Cosmic factors of life cycles,MEGAPROJECT
-M043,Heliobiology,MEGAPROJECT
-M044,Space medicine,MEGAPROJECT
-M045,Monitoring the influence of the space environment on humans,MEGAPROJECT
-M046,Periodic system as a foundation for materials science,MEGAPROJECT
-M047,Systemic management of natural resources,MEGAPROJECT
-M048,Oil industry,MEGAPROJECT
-M049,Petrochemical complex,MEGAPROJECT
-M050,Siberian resource-industrial base,MEGAPROJECT
-M051,Urals as a metallurgical core,MEGAPROJECT
-M052,Raw materials → energy → transport → industry,MEGAPROJECT
-M053,Scientific organization of industry,MEGAPROJECT
-M054,State statistical planning,MEGAPROJECT
-M055,Industrial Russia,MEGAPROJECT
-M056,GOELRO,MEGAPROJECT
-M057,Regional power systems,MEGAPROJECT
-M058,Unified energy system,MEGAPROJECT
-M059,Electrification of transport,MEGAPROJECT
-M060,Electrification of industry,MEGAPROJECT
-M061,Electrification of agriculture,MEGAPROJECT
-M062,Energy as the foundation of modernization,MEGAPROJECT
-M063,Energy + industry + transport,MEGAPROJECT
-M064,Territorial development planning,MEGAPROJECT
-M065,Unified economic organism,MEGAPROJECT
-M066,Five-year planning,MEGAPROJECT
-M067,Ural–Kuznetsk combine,MEGAPROJECT
-M068,Magnitogorsk industrial complex,MEGAPROJECT
-M069,Kuzbass,MEGAPROJECT
-M070,Dnieper energy complex,MEGAPROJECT
-M071,DneproGES,MEGAPROJECT
-M072,Volga–Kama energy cascade,MEGAPROJECT
-M073,Angara–Yenisei energy complex,MEGAPROJECT
-M074,Kansk–Achinsk fuel and energy complex,MEGAPROJECT
-M075,Territorial-production complexes,MEGAPROJECT
-M076,Trans-Siberian Railway,MEGAPROJECT
-M077,BAM,MEGAPROJECT
-M078,Eastern railway polygon,MEGAPROJECT
-M079,Angara–Yenisei industrial hub,MEGAPROJECT
-M080,Krasnoyarsk industrial belt,MEGAPROJECT
-M081,Novosibirsk scientific center,MEGAPROJECT
-M082,Akademgorodok,MEGAPROJECT
-M083,Tomsk scientific-technological center,MEGAPROJECT
-M084,Siberian nuclear complex,MEGAPROJECT
-M085,Siberian scientific-industrial belt,MEGAPROJECT
-M086,Soviet atomic project,MEGAPROJECT
-M087,Peaceful atom,MEGAPROJECT
-M088,Nuclear power,MEGAPROJECT
-M089,Closed nuclear fuel cycle,MEGAPROJECT
-M090,Fast reactors,MEGAPROJECT
-M091,Small modular nuclear power,MEGAPROJECT
-M092,Nuclear icebreakers,MEGAPROJECT
-M093,Nuclear Arctic,MEGAPROJECT
-M094,Nuclear power for remote territories,MEGAPROJECT
-M095,Nuclear energy as a foundation for industrial development,MEGAPROJECT
-M096,Satellite navigation,MEGAPROJECT
-M097,Satellite communications,MEGAPROJECT
-M098,Earth remote sensing,MEGAPROJECT
-M099,Human spaceflight,MEGAPROJECT
-M100,Orbital stations,MEGAPROJECT
-M101,Vostochny Cosmodrome,MEGAPROJECT
-M102,Multi-satellite constellations,MEGAPROJECT
-M103,Russian orbital station,MEGAPROJECT
-M104,Serial satellite manufacturing,MEGAPROJECT
-M105,Space industrial infrastructure,MEGAPROJECT
-M106,Northern Sea Route,MEGAPROJECT
-M107,Year-round Arctic navigation,MEGAPROJECT
-M108,Nuclear icebreaker fleet,MEGAPROJECT
-M109,Arctic ports,MEGAPROJECT
-M110,Arctic airfields,MEGAPROJECT
-M111,Arctic cities,MEGAPROJECT
-M112,Arctic energy complexes,MEGAPROJECT
-M113,Underwater Arctic infrastructure,MEGAPROJECT
-M114,Arctic satellite network,MEGAPROJECT
-M115,Arctic industrial belt,MEGAPROJECT
-M116,EAEU,MEGAPROJECT
-M117,Eurasian economic path,MEGAPROJECT
-M118,Greater Eurasian Partnership,MEGAPROJECT
-M119,North–South corridor,MEGAPROJECT
-M120,Eastern transport corridor,MEGAPROJECT
-M121,Russia–Kazakhstan–China,MEGAPROJECT
-M122,Russia–Iran–India,MEGAPROJECT
-M123,Eurasian railway network,MEGAPROJECT
-M124,Eurasian energy corridors,MEGAPROJECT
-M125,Eurasian digital space,MEGAPROJECT
-M126,Electronic state,MEGAPROJECT
-M127,Digital public services,MEGAPROJECT
-M128,Digital ruble,MEGAPROJECT
-M129,National payment infrastructure,MEGAPROJECT
-M130,National cloud computing,MEGAPROJECT
-M131,Sovereign digital infrastructure,MEGAPROJECT
-M132,National data system,MEGAPROJECT
-M133,National AI,MEGAPROJECT
-M134,Industrial robotization,MEGAPROJECT
-M135,Human–machine economy,MEGAPROJECT
-M136,NOOSPHERE-1,MEGAPROJECT
-M137,GOELRO-2,MEGAPROJECT
-M138,SIBERIAN MANHATTAN,MEGAPROJECT
-M139,ARCTIC DIGITAL CONTINENT,MEGAPROJECT
-M140,EURASIAN ECONOMIC INTERNET,MEGAPROJECT
-M141,EURASIAN FX / CLEARING ROUTER,MEGAPROJECT
-M142,ATOMIC NORTH,MEGAPROJECT
-M143,SIBERIAN AI-ENERGY COMPLEX,MEGAPROJECT
-M144,ROBOSIBERIA,MEGAPROJECT
-M145,EURASIAN TRANSPORT NETWORK 4.0,MEGAPROJECT
-M146,RUSSIAN SPACE INTERNET / ORBITAL INFRASTRUCTURE,MEGAPROJECT
-M147,LUNAR INDUSTRIAL BELT,MEGAPROJECT
-M148,ORBITAL ENERGY,MEGAPROJECT
-M149,IMMORTAL LIBRARY,MEGAPROJECT
-M150,FULL CIVILIZATION / CIVILIZATION STACK,MEGAPROJECT
-T001,World Models,TECHNOLOGY
-T002,Autonomous Scientific AI,TECHNOLOGY
-T003,AI Scientists,TECHNOLOGY
-T004,AI Engineers,TECHNOLOGY
-T005,Full-cycle AI programmers,TECHNOLOGY
-T006,Recursive AI R&D,TECHNOLOGY
-T007,Causal AI,TECHNOLOGY
-T008,Neuro-symbolic AI,TECHNOLOGY
-T009,Collective AI,TECHNOLOGY
-T010,Civilization-scale AI simulation,TECHNOLOGY
-T011,AI Agents 2.0,TECHNOLOGY
-T012,Multi-agent economies,TECHNOLOGY
-T013,Agent-to-agent commerce,TECHNOLOGY
-T014,Machine organizations,TECHNOLOGY
-T015,AI governance engines,TECHNOLOGY
-T016,Autonomous infrastructure management,TECHNOLOGY
-T017,Self-healing software,TECHNOLOGY
-T018,Self-designing algorithms,TECHNOLOGY
-T019,Machine science networks,TECHNOLOGY
-T020,Civilization Digital Twin,TECHNOLOGY
-T021,Humanoid robots,TECHNOLOGY
-T022,General-purpose industrial robots,TECHNOLOGY
-T023,Robot foundation models,TECHNOLOGY
-T024,Swarm robotics,TECHNOLOGY
-T025,Autonomous construction robots,TECHNOLOGY
-T026,Autonomous mining,TECHNOLOGY
-T027,Autonomous agriculture,TECHNOLOGY
-T028,Autonomous underwater robots,TECHNOLOGY
-T029,Arctic robots,TECHNOLOGY
-T030,Self-replicating robotic factories,TECHNOLOGY
-T031,Commercial fusion,TECHNOLOGY
-T032,Compact fusion reactors,TECHNOLOGY
-T033,Next-generation stellarators,TECHNOLOGY
-T034,Fusion–fission hybrids,TECHNOLOGY
-T035,Small Modular Reactors,TECHNOLOGY
-T036,Microreactors,TECHNOLOGY
-T037,Fast-spectrum reactors,TECHNOLOGY
-T038,Closed nuclear fuel cycle,TECHNOLOGY
-T039,Superhot-rock geothermal,TECHNOLOGY
-T040,Space-based solar power,TECHNOLOGY
-T041,Everything-to-grid,TECHNOLOGY
-T042,AI Grid,TECHNOLOGY
-T043,Virtual Power Plants,TECHNOLOGY
-T044,Superconducting power grids,TECHNOLOGY
-T045,DC megagrids,TECHNOLOGY
-T046,Eurasian supergrid,TECHNOLOGY
-T047,Nuclear-powered data centers,TECHNOLOGY
-T048,Compute-to-energy optimization,TECHNOLOGY
-T049,Energy Internet,TECHNOLOGY
-T050,Autonomous energy islands,TECHNOLOGY
-T051,AI-designed materials,TECHNOLOGY
-T052,Metamaterials,TECHNOLOGY
-T053,Programmable matter,TECHNOLOGY
-T054,Self-healing materials,TECHNOLOGY
-T055,Room-temperature superconductors,TECHNOLOGY
-T056,2D materials,TECHNOLOGY
-T057,Ultra-high-performance composites,TECHNOLOGY
-T058,Molecular manufacturing,TECHNOLOGY
-T059,Nanomachines,TECHNOLOGY
-T060,Atomically precise manufacturing,TECHNOLOGY
-T061,Programmable cells,TECHNOLOGY
-T062,Engineered living therapeutics,TECHNOLOGY
-T063,AI-designed proteins,TECHNOLOGY
-T064,Synthetic organisms,TECHNOLOGY
-T065,Synthetic food,TECHNOLOGY
-T066,Precision fermentation,TECHNOLOGY
-T067,Cellular agriculture,TECHNOLOGY
-T068,Xenotransplantation,TECHNOLOGY
-T069,Personalized mRNA vaccines,TECHNOLOGY
-T070,AI-designed drugs,TECHNOLOGY
-T071,Digital twins of patients,TECHNOLOGY
-T072,AI clinical systems / AI doctors,TECHNOLOGY
-T073,Robotic microsurgery,TECHNOLOGY
-T074,Brain–computer interfaces,TECHNOLOGY
-T075,Neural prosthetics,TECHNOLOGY
-T076,Brain-to-brain interfaces,TECHNOLOGY
-T077,Regenerative medicine,TECHNOLOGY
-T078,Organ bioprinting,TECHNOLOGY
-T079,Cellular reprogramming,TECHNOLOGY
-T080,Longevity engineering,TECHNOLOGY
-T081,Fault-tolerant quantum computers,TECHNOLOGY
-T082,Quantum simulation,TECHNOLOGY
-T083,Quantum networks,TECHNOLOGY
-T084,Quantum internet,TECHNOLOGY
-T085,Quantum sensors,TECHNOLOGY
-T086,Quantum navigation,TECHNOLOGY
-T087,Quantum cryptography,TECHNOLOGY
-T088,Post-quantum cryptography,TECHNOLOGY
-T089,Quantum machine learning,TECHNOLOGY
-T090,Quantum chemistry engines,TECHNOLOGY
-T091,Space-based data centers,TECHNOLOGY
-T092,Orbital manufacturing,TECHNOLOGY
-T093,Space solar power,TECHNOLOGY
-T094,Lunar resource extraction,TECHNOLOGY
-T095,Lunar industrial bases,TECHNOLOGY
-T096,Asteroid mining,TECHNOLOGY
-T097,Orbital fuel depots,TECHNOLOGY
-T098,Autonomous space robotics,TECHNOLOGY
-T099,Active orbital debris removal,TECHNOLOGY
-T100,Self-expanding space industry,TECHNOLOGY
-F001,Post-AGI civilization as a design/coordination problem,FRONTIER_IDEA
-F002,Civilization/world-model simulation,FRONTIER_IDEA
-F003,Autonomous science / AI co-scientist,FRONTIER_IDEA
-F004,Fully automated AI scientist,FRONTIER_IDEA
-F005,Science Graph / machine-readable discovery loop,FRONTIER_IDEA
-F006,Agent → robot → physical-world action loop,FRONTIER_IDEA
-F007,General-purpose humanoid foundation models,FRONTIER_IDEA
-F008,Robot economy / recursively expanding physical production,FRONTIER_IDEA
-F009,Energy–Compute Economy,FRONTIER_IDEA
-F010,Bidirectional “everything-to-grid” energy participation,FRONTIER_IDEA
-F011,Biological world models,FRONTIER_IDEA
-F012,Biological Cloud / automated design-build-test loops,FRONTIER_IDEA
-F013,AI-driven materials evolution,FRONTIER_IDEA
-F014,Programmable/adaptive mechanical matter,FRONTIER_IDEA
-F015,Planetary sensor/data fabric,FRONTIER_IDEA
-F016,Earth Operating System / Earth digital twin,FRONTIER_IDEA
-F017,High-bandwidth brain–computer communication,FRONTIER_IDEA
-F018,Persistent digital-person / behavioral-agent models,FRONTIER_IDEA
-F019,Work-optional / abundance-oriented civilization,FRONTIER_IDEA
-F020,Post-AGI statecraft,FRONTIER_IDEA
-F021,AI constitutionalism,FRONTIER_IDEA
-F022,Agent civilization / persistent multi-agent social systems,FRONTIER_IDEA
-F023,Autonomous capital allocation / Capital Router,FRONTIER_IDEA
-F024,Autonomous global logistics / planetary supply-chain graph,FRONTIER_IDEA
-F025,Space industrialization as an infrastructure ecosystem,FRONTIER_IDEA
-F026,Orbital compute / data centers in space,FRONTIER_IDEA
-F027,Moon as an industrial node,FRONTIER_IDEA
-F028,Self-expanding industrial system,FRONTIER_IDEA
-F029,Technology Breeder,FRONTIER_IDEA
-F030,Reasoning + acting agents (ReAct),FRONTIER_IDEA
-F031,Self-taught API/tool use,FRONTIER_IDEA
-F032,Verbal reinforcement / self-reflective agents,FRONTIER_IDEA
-F033,Deliberative search over reasoning paths,FRONTIER_IDEA
-F034,Iterative self-feedback refinement,FRONTIER_IDEA
-F035,Multi-agent conversational orchestration,FRONTIER_IDEA
-F036,Lifelong embodied skill acquisition,FRONTIER_IDEA
-F037,Generative-agent social simulation,FRONTIER_IDEA
-F038,General reinforcement learning through learned world models,FRONTIER_IDEA
-F039,Language models grounded by robotic affordances,FRONTIER_IDEA
-F040,Embodied multimodal language model,FRONTIER_IDEA
-F041,Cross-embodiment robot learning,FRONTIER_IDEA
-F042,Vision-language-action robotics,FRONTIER_IDEA
-F043,Gemini-based physical AI,FRONTIER_IDEA
-F044,Embodied reasoning for robots,FRONTIER_IDEA
-F045,On-device robot foundation models,FRONTIER_IDEA
-F046,Open humanoid robot foundation models,FRONTIER_IDEA
-F047,Internet-scale human-video pretraining for humanoids,FRONTIER_IDEA
-F048,End-to-end automated ML research,FRONTIER_IDEA
-F049,Multi-agent scientific hypothesis generation,FRONTIER_IDEA
-F050,LLM + chemistry tools autonomous chemistry assistant,FRONTIER_IDEA
-F051,Autonomous robotic materials laboratory,FRONTIER_IDEA
-F052,Evolutionary code/algorithm discovery,FRONTIER_IDEA
-F053,LLM-guided search for new mathematical/computer-science constructions,FRONTIER_IDEA
-F054,AI-discovered low-level algorithms,FRONTIER_IDEA
-F055,AI discovery of matrix-multiplication algorithms,FRONTIER_IDEA
-F056,Constitutional AI,FRONTIER_IDEA
-F057,AI safety via debate,FRONTIER_IDEA
-F058,Eliciting latent knowledge from advanced systems,FRONTIER_IDEA
-F059,Cooperative inverse reinforcement learning,FRONTIER_IDEA
-F060,Collective Constitutional AI,FRONTIER_IDEA
-F061,Scalable oversight,FRONTIER_IDEA
-F062,Protein-structure prediction at proteome scale,FRONTIER_IDEA
-F063,Joint modeling of biomolecular interactions,FRONTIER_IDEA
-F064,Genome regulatory variant-effect foundation model,FRONTIER_IDEA
-F065,Long-range genomic regulatory prediction,FRONTIER_IDEA
-F066,Generative protein design with diffusion models,FRONTIER_IDEA
-F067,Programmable CRISPR-Cas9 editing,FRONTIER_IDEA
-F068,Base editing without double-strand breaks,FRONTIER_IDEA
-F069,Prime editing,FRONTIER_IDEA
-F070,Minimal synthetic bacterial cell,FRONTIER_IDEA
-F071,Designed living robots / xenobots,FRONTIER_IDEA
-F072,Organoid Intelligence / biocomputing with brain organoids,FRONTIER_IDEA
-F073,Living neural systems learning in a closed loop,FRONTIER_IDEA
-F074,Partial epigenetic reprogramming for functional rejuvenation,FRONTIER_IDEA
-F075,High-performance brain-to-text speech neuroprosthesis,FRONTIER_IDEA
-F076,Neural decoding directly to synthesized speech,FRONTIER_IDEA
-F077,3D bioprinting of thick vascularized tissues,FRONTIER_IDEA
-F078,Massive AI discovery of stable crystal structures,FRONTIER_IDEA
-F079,Generative inorganic materials design,FRONTIER_IDEA
-F080,General atomistic foundation simulation across conditions,FRONTIER_IDEA
-F081,Self-healing structural materials,FRONTIER_IDEA
-F082,Programmable textured mechanical metamaterials,FRONTIER_IDEA
-F083,Autonomous molecular assembly / programmable chemical synthesis,FRONTIER_IDEA
-F084,Deep-RL control of fusion plasma,FRONTIER_IDEA
-F085,Superhot-rock geothermal,FRONTIER_IDEA
-F086,Compact sodium-cooled fast microreactors,FRONTIER_IDEA
-F087,Space-based solar power with wireless power transfer,FRONTIER_IDEA
-F088,Below-threshold quantum error correction,FRONTIER_IDEA
-F089,Modular fault-tolerant quantum supercomputer,FRONTIER_IDEA
-F090,Utility-scale quantum validated by value-over-cost,FRONTIER_IDEA
-F091,Quantum internet architecture,FRONTIER_IDEA
-F092,"In-space servicing, assembly and manufacturing as a space-infrastructure stack",FRONTIER_IDEA
-F093,On-orbit manufacture of very large structures,FRONTIER_IDEA
-F094,Self-replicating / growing lunar factory,FRONTIER_IDEA
-F095,Lunar fission surface power,FRONTIER_IDEA
-F096,Orbital data centers / AI compute in space,FRONTIER_IDEA
-F097,Planet-scale geospatial foundation model,FRONTIER_IDEA
-F098,Operational Earth-system digital twins,FRONTIER_IDEA
-F099,Machine-native HTTP payments / autonomous-agent micropayments,FRONTIER_IDEA
-F100,Agentic-commerce interoperability and auditable delegated payments,FRONTIER_IDEA
-P001,David Duvenaud,PERSON
-P002,Jan Kulveit,PERSON
-P003,Raymond Douglas,PERSON
-P004,David Ha,PERSON
-P005,Jürgen Schmidhuber,PERSON
-P006,Juraj Gottweis,PERSON
-P007,Vivek Natarajan,PERSON
-P008,Chris Lu,PERSON
-P009,Cong Lu,PERSON
-P010,Robert T. Lange,PERSON
-P011,Jakob Foerster,PERSON
-P012,Jeff Clune,PERSON
-P013,Robert Freitas Jr.,PERSON
-P014,William Gilbreath .,PERSON
-P015,Ziga Avsec,PERSON
-P016,Natasha Latysheva,PERSON
-P017,Szymanski,PERSON
-P018,Rendy,PERSON
-P019,Fei,PERSON
-P020,Kumar,PERSON
-P021,Ceder,PERSON
-P022,Persson,PERSON
-P023,Corentin Coulais,PERSON
-P024,Eial Teomy,PERSON
-P025,Koen de Reus,PERSON
-P026,Yair Shokef,PERSON
-P027,Martin van Hecke,PERSON
-P028,Francis Willett,PERSON
-P029,Erin Kunz,PERSON
-P030,Chaofei Fan,PERSON
-P031,Jaimie Henderson .,PERSON
-P032,Joon Sung Park,PERSON
-P033,Joseph O'Brien,PERSON
-P034,Carrie Cai,PERSON
-P035,Meredith Ringel Morris,PERSON
-P036,Percy Liang,PERSON
-P037,Michael Bernstein,PERSON
-P038,Samuel Hammond,PERSON
-P039,Yuntao Bai .,PERSON
-P040,Park .,PERSON
-P041,Stephan Zheng,PERSON
-P042,Alexander Trott,PERSON
-P043,Sunil Srinivasa,PERSON
-P044,David Parkes,PERSON
-P045,Richard Socher .,PERSON
-P046,agent/robot planning as substrate,PERSON
-P047,Philip Johnston,PERSON
-P048,Ezra Feilden,PERSON
-P049,Adi Oltean,PERSON
-P050,Freitas,PERSON
-P051,Gilbreath .,PERSON
-P052,AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces,PERSON
-P053,Shunyu Yao,PERSON
-P054,Jeffrey Zhao,PERSON
-P055,Dian Yu,PERSON
-P056,Nan Du,PERSON
-P057,Izhak Shafran,PERSON
-P058,Karthik Narasimhan,PERSON
-P059,Yuan Cao,PERSON
-P060,Timo Schick,PERSON
-P061,Jane Dwivedi-Yu,PERSON
-P062,Roberto Dessì .,PERSON
-P063,Noah Shinn,PERSON
-P064,Federico Cassano,PERSON
-P065,Edward Berman,PERSON
-P066,Ashwin Gopinath,PERSON
-P067,Jeffrey Zhao .,PERSON
-P068,Aman Madaan .,PERSON
-P069,Qingyun Wu .,PERSON
-P070,Guanzhi Wang,PERSON
-P071,Yuqi Xie,PERSON
-P072,Yunfan Jiang,PERSON
-P073,Ajay Mandlekar,PERSON
-P074,Chaowei Xiao,PERSON
-P075,Yuke Zhu,PERSON
-P076,Linxi Fan,PERSON
-P077,Anima Anandkumar,PERSON
-P078,Joon Sung Park .,PERSON
-P079,Danijar Hafner,PERSON
-P080,Jurgis Pasukonis,PERSON
-P081,Jimmy Ba,PERSON
-P082,Timothy Lillicrap,PERSON
-P083,Michael Ahn .,PERSON
-P084,Danny Driess,PERSON
-P085,Fei Xia,PERSON
-P086,Mehdi Sajjadi .,PERSON
-P087,Anthony Brohan .,PERSON
-P088,Chris Lu .,PERSON
-P089,Gottweis,PERSON
-P090,Natarajan .,PERSON
-P091,Andres M. Bran,PERSON
-P092,Sam Cox,PERSON
-P093,Oliver Schilter,PERSON
-P094,Carlo Baldassari,PERSON
-P095,Andrew D. White,PERSON
-P096,Philippe Schwaller,PERSON
-P097,Nathan Szymanski .,PERSON
-P098,Gerbrand Ceder,PERSON
-P099,Kristin Persson collaborators,PERSON
-P100,Bernardino Romera-Paredes .,PERSON
-P101,Daniel Mankowitz,PERSON
-P102,Andrea Michi .,PERSON
-P103,Alhussein Fawzi,PERSON
-P104,Matej Balog,PERSON
-P105,Geoffrey Irving,PERSON
-P106,Paul Christiano,PERSON
-P107,Dario Amodei,PERSON
-P108,Mark Xu,PERSON
-P109,Ajeya Cotra / ARC,PERSON
-P110,Dylan Hadfield-Menell,PERSON
-P111,Anca Dragan,PERSON
-P112,Pieter Abbeel,PERSON
-P113,Stuart Russell,PERSON
-P114,Saffron Huang,PERSON
-P115,Divya Siddarth,PERSON
-P116,Liane Lovitt .,PERSON
-P117,Samuel Bowman .,PERSON
-P118,John Jumper .,PERSON
-P119,Josh Abramson .,PERSON
-P120,Natasha Latysheva .,PERSON
-P121,Ziga Avsec .,PERSON
-P122,Joseph Watson,PERSON
-P123,David Juergens,PERSON
-P124,Nathaniel Bennett .,PERSON
-P125,Martin Jinek,PERSON
-P126,Krzysztof Chylinski,PERSON
-P127,Jennifer Doudna,PERSON
-P128,Emmanuelle Charpentier .,PERSON
-P129,Alexis Komor,PERSON
-P130,Yongjoo Kim,PERSON
-P131,Michael Packer,PERSON
-P132,John Zuris,PERSON
-P133,David Liu .,PERSON
-P134,Andrew Anzalone,PERSON
-P135,Peyton Randolph,PERSON
-P136,Jessie Davis .,PERSON
-P137,David Liu,PERSON
-P138,Clyde Hutchison III .,PERSON
-P139,Sam Kriegman,PERSON
-P140,Douglas Blackiston,PERSON
-P141,Michael Levin,PERSON
-P142,Josh Bongard,PERSON
-P143,Lena Smirnova,PERSON
-P144,Brian Caffo,PERSON
-P145,David Gracias,PERSON
-P146,Brett Kagan,PERSON
-P147,Alysson Muotri,PERSON
-P148,Thomas Hartung .,PERSON
-P149,Brett Kagan .,PERSON
-P150,Yuancheng Lu .,PERSON
-P151,Francis Willett .,PERSON
-P152,Gopala Anumanchipalli,PERSON
-P153,Josh Chartier,PERSON
-P154,Edward Chang,PERSON
-P155,David Kolesky,PERSON
-P156,Kimberly Homan,PERSON
-P157,Mark Skylar-Scott .,PERSON
-P158,Amil Merchant,PERSON
-P159,Ekin Dogus Cubuk .,PERSON
-P160,Claudio Zeni,PERSON
-P161,Robert Pinsler,PERSON
-P162,Daniel Zügner .,PERSON
-P163,Han Yang,PERSON
-P164,Chenxi Hu,PERSON
-P165,Yichi Zhou .,PERSON
-P166,S. R. White,PERSON
-P167,N. R. Sottos,PERSON
-P168,P. H. Geubelle .,PERSON
-P169,Corentin Coulais .,PERSON
-P170,Wenjing Meng,PERSON
-P171,Richard Muscat,PERSON
-P172,Mireya McKee .,PERSON
-P173,Andrew Turberfield,PERSON
-P174,Jonas Degrave .,PERSON
-P175,Ali Hajimiri,PERSON
-P176,Sergio Pellegrino,PERSON
-P177,Starling roadmap,PERSON
-P178,Stephanie Wehner,PERSON
-P179,David Elkouss,PERSON
-P180,Ronald Hanson,PERSON
-P181,John Mulvaney,PERSON
-P182,Dale Arney .,PERSON
-P183,Erik Reppel,PERSON
-P184,Nemil Dalal,PERSON
-P185,Dan Kim,PERSON
-I001,workshop participants,INSTITUTION
-I002,Google Research,INSTITUTION
-I003,AI Scientist and autonomous-lab work as enabling evidence,INSTITUTION
-I004,Google DeepMind robotics teams,INSTITUTION
-I005,NVIDIA Isaac GR00T team,INSTITUTION
-I006,NASA study,INSTITUTION
-I007,distributed-energy / V2G research community,INSTITUTION
-I008,Google DeepMind,INSTITUTION
-I009,DeepMind collaborators,INSTITUTION
-I010,AlphaEarth Foundations team,INSTITUTION
-I011,Destination Earth / ECMWF,INSTITUTION
-I012,post-AGI economics community as representative source,INSTITUTION
-I013,Post-AGI workshop,INSTITUTION
-I014,Anthropic,INSTITUTION
-I015,AutoGen / multi-agent research,INSTITUTION
-I016,NASA ISAM community,INSTITUTION
-I017,Starcloud,INSTITUTION
-I018,NASA lunar ISRU / surface technology programs,INSTITUTION
-I019,NASA Advanced Automation study,INSTITUTION
-I020,Microsoft Research,INSTITUTION
-I021,Google Robotics,INSTITUTION
-I022,Open X-Embodiment Collaboration,INSTITUTION
-I023,Google DeepMind robotics team,INSTITUTION
-I024,Figure AI,INSTITUTION
-I025,Sakana AI,INSTITUTION
-I026,Google,INSTITUTION
-I027,AlphaEvolve team,INSTITUTION
-I028,Anthropic + Collective Intelligence Project,INSTITUTION
-I029,DeepMind,INSTITUTION
-I030,Google DeepMind / Isomorphic Labs,INSTITUTION
-I031,David Baker lab,INSTITUTION
-I032,J. Craig Venter Institute,INSTITUTION
-I033,Cortical Labs,INSTITUTION
-I034,David Sinclair lab,INSTITUTION
-I035,Jaimie Henderson lab,INSTITUTION
-I036,Jennifer Lewis lab,INSTITUTION
-I037,DeepMind + Swiss Plasma Center,INSTITUTION
-I038,ARPA-E SUPERHOT program,INSTITUTION
-I039,Oklo Aurora,INSTITUTION
-I040,Caltech Space Solar Power Project,INSTITUTION
-I041,Harry Atwater teams,INSTITUTION
-I042,Google Quantum AI / Willow team,INSTITUTION
-I043,IBM Quantum,INSTITUTION
-I044,DARPA Quantum Benchmarking Initiative,INSTITUTION
-I045,program manager Micah Stoutimore,INSTITUTION
-I046,NASA ISAM,INSTITUTION
-I047,DARPA NOM4D,INSTITUTION
-I048,Andrew Detor program line,INSTITUTION
-I049,NASA/ASEE study,INSTITUTION
-I050,NASA + U.S. Department of Energy,INSTITUTION
-I051,Google DeepMind / Earth Engine,INSTITUTION
-I052,Destination Earth / ECMWF and partners,INSTITUTION
-I053,Coinbase x402,INSTITUTION
-I054,Google AP2/UCP ecosystem,INSTITUTION
-I055,Stripe/OpenAI ACP ecosystem,INSTITUTION
-S001,Post-AGI Civilizational Equilibria,SOURCE
-S002,World Models,SOURCE
-S003,AI co-scientist,SOURCE
-S004,The AI Scientist,SOURCE
-S005,Gemini Robotics,SOURCE
-S006,Isaac GR00T,SOURCE
-S007,Advanced Automation for Space Missions,SOURCE
-S008,Google data-center energy research context,SOURCE
-S009,Vehicle-to-grid foundational review,SOURCE
-S010,AlphaGenome,SOURCE
-S011,A-Lab,SOURCE
-S012,Programmable mechanical metamaterials,SOURCE
-S013,AlphaEarth Foundations,SOURCE
-S014,Destination Earth Digital Twins,SOURCE
-S015,High-performance speech neuroprosthesis,SOURCE
-S016,Generative Agents,SOURCE
-S017,Constitutional AI,SOURCE
-S018,AI Economist,SOURCE
-S019,ReAct,SOURCE
-S020,NASA ISAM,SOURCE
-S021,Starcloud / NVIDIA,SOURCE
-S022,NASA Lunar Surface Innovation,SOURCE
-S023,AlphaEvolve,SOURCE
-S024,Toolformer,SOURCE
-S025,Reflexion,SOURCE
-S026,Tree of Thoughts,SOURCE
-S027,Self-Refine,SOURCE
-S028,AutoGen,SOURCE
-S029,Voyager,SOURCE
-S030,DreamerV3,SOURCE
-S031,SayCan,SOURCE
-S032,PaLM-E,SOURCE
-S033,Open X-Embodiment / RT-X,SOURCE
-S034,RT-2,SOURCE
-S035,Gemini Robotics family,SOURCE
-S036,Project Go-Big,SOURCE
-S037,The AI Scientist,SOURCE
-S038,ChemCrow,SOURCE
-S039,FunSearch,SOURCE
-S040,AlphaDev,SOURCE
-S041,AlphaTensor,SOURCE
-S042,AI Safety via Debate,SOURCE
-S043,ELK report,SOURCE
-S044,CIRL,SOURCE
-S045,Collective Constitutional AI,SOURCE
-S046,Measuring Progress on Scalable Oversight,SOURCE
-S047,AlphaFold2,SOURCE
-S048,AlphaFold 3,SOURCE
-S049,Enformer,SOURCE
-S050,RFdiffusion,SOURCE
-S051,Science 2012,SOURCE
-S052,Nature 2016,SOURCE
-S053,Nature 2019,SOURCE
-S054,Science: JCVI-syn3.0,SOURCE
-S055,PNAS,SOURCE
-S056,Organoid Intelligence,SOURCE
-S057,DishBrain / Neuron,SOURCE
-S058,Nature 2020,SOURCE
-S059,Nature 2019,SOURCE
-S060,PNAS 2016,SOURCE
-S061,GNoME,SOURCE
-S062,MatterGen,SOURCE
-S063,MatterSim,SOURCE
-S064,Nature 2001,SOURCE
-S065,Nature Chemistry,SOURCE
-S066,Nature 2022,SOURCE
-S067,ARPA-E SUPERHOT,SOURCE
-S068,Oklo technology,SOURCE
-S069,Caltech SSPP,SOURCE
-S070,Making quantum error correction work,SOURCE
-S071,IBM Quantum Roadmap,SOURCE
-S072,DARPA QBI,SOURCE
-S073,Science 2018,SOURCE
-S074,NASA ISAM State of Play 2025,SOURCE
-S075,DARPA NOM4D demos,SOURCE
-S076,NASA/DOE lunar reactor program,SOURCE
-S077,x402,SOURCE
-S078,AP2,SOURCE
-S079,ACP,SOURCE
-S080,UCP,SOURCE
+node_id:ID,name,name_ru,node_type:LABEL,node_type_ru
+M001,Российское пространство как единый экономический организм,Российское пространство как единый экономический организм,MEGAPROJECT,МЕГАПРОЕКТ
+M002,Менделеевская рационализация ресурсов,Менделеевская рационализация ресурсов,MEGAPROJECT,МЕГАПРОЕКТ
+M003,Развитие производительных сил Востока,Развитие производительных сил Востока,MEGAPROJECT,МЕГАПРОЕКТ
+M004,Урало-Сибирский промышленный пояс,Урало-Сибирский промышленный пояс,MEGAPROJECT,МЕГАПРОЕКТ
+M005,Великая Сибирь,Великая Сибирь,MEGAPROJECT,МЕГАПРОЕКТ
+M006,Дальний Восток как тихоокеанский фасад,Дальний Восток как тихоокеанский фасад,MEGAPROJECT,МЕГАПРОЕКТ
+M007,Арктика как новый фронтир,Арктика как новый фронтир,MEGAPROJECT,МЕГАПРОЕКТ
+M008,Россия как континентальная инфраструктура,Россия как континентальная инфраструктура,MEGAPROJECT,МЕГАПРОЕКТ
+M009,Россия как мост цивилизаций,Россия как мост цивилизаций,MEGAPROJECT,МЕГАПРОЕКТ
+M010,Россия как самостоятельный цивилизационный полюс,Россия как самостоятельный цивилизационный полюс,MEGAPROJECT,МЕГАПРОЕКТ
+M011,Общее дело,Общее дело,MEGAPROJECT,МЕГАПРОЕКТ
+M012,Активная эволюция,Активная эволюция,MEGAPROJECT,МЕГАПРОЕКТ
+M013,Регулирование природы,Регулирование природы,MEGAPROJECT,МЕГАПРОЕКТ
+M014,Управление климатическими процессами,Управление климатическими процессами,MEGAPROJECT,МЕГАПРОЕКТ
+M015,Победа над смертью,Победа над смертью,MEGAPROJECT,МЕГАПРОЕКТ
+M016,Воскрешение предков,Воскрешение предков,MEGAPROJECT,МЕГАПРОЕКТ
+M017,Космическое расселение человечества,Космическое расселение человечества,MEGAPROJECT,МЕГАПРОЕКТ
+M018,Человечество как единый субъект,Человечество как единый субъект,MEGAPROJECT,МЕГАПРОЕКТ
+M019,Земля как стартовая площадка цивилизации,Земля как стартовая площадка цивилизации,MEGAPROJECT,МЕГАПРОЕКТ
+M020,Бессмертная цивилизация,Бессмертная цивилизация,MEGAPROJECT,МЕГАПРОЕКТ
+M021,Ракетное движение,Ракетное движение,MEGAPROJECT,МЕГАПРОЕКТ
+M022,Многоступенчатая ракета,Многоступенчатая ракета,MEGAPROJECT,МЕГАПРОЕКТ
+M023,Космическая станция,Космическая станция,MEGAPROJECT,МЕГАПРОЕКТ
+M024,Орбитальные поселения,Орбитальные поселения,MEGAPROJECT,МЕГАПРОЕКТ
+M025,Космические города,Космические города,MEGAPROJECT,МЕГАПРОЕКТ
+M026,Планетарная экспансия,Планетарная экспансия,MEGAPROJECT,МЕГАПРОЕКТ
+M027,Солнечная система как экономическое пространство,Солнечная система как экономическое пространство,MEGAPROJECT,МЕГАПРОЕКТ
+M028,Космическая промышленность,Космическая промышленность,MEGAPROJECT,МЕГАПРОЕКТ
+M029,Солнечная энергетика в космосе,Солнечная энергетика в космосе,MEGAPROJECT,МЕГАПРОЕКТ
+M030,Многоступенчатое развитие цивилизации,Многоступенчатое развитие цивилизации,MEGAPROJECT,МЕГАПРОЕКТ
+M031,Биосфера как глобальная система,Биосфера как глобальная система,MEGAPROJECT,МЕГАПРОЕКТ
+M032,Живое вещество как геологическая сила,Живое вещество как геологическая сила,MEGAPROJECT,МЕГАПРОЕКТ
+M033,Человечество как геологический фактор,Человечество как геологический фактор,MEGAPROJECT,МЕГАПРОЕКТ
+M034,Ноосфера,Ноосфера,MEGAPROJECT,МЕГАПРОЕКТ
+M035,Наука как планетарная сила,Наука как планетарная сила,MEGAPROJECT,МЕГАПРОЕКТ
+M036,Управление биогеохимическими потоками,Управление биогеохимическими потоками,MEGAPROJECT,МЕГАПРОЕКТ
+M037,Замыкание материальных циклов,Замыкание материальных циклов,MEGAPROJECT,МЕГАПРОЕКТ
+M038,Рациональное преобразование биосферы,Рациональное преобразование биосферы,MEGAPROJECT,МЕГАПРОЕКТ
+M039,Планетарный мониторинг Земли,Планетарный мониторинг Земли,MEGAPROJECT,МЕГАПРОЕКТ
+M040,Глобальная система знаний о Земле,Глобальная система знаний о Земле,MEGAPROJECT,МЕГАПРОЕКТ
+M041,Солнечная активность и биологические процессы,Солнечная активность и биологические процессы,MEGAPROJECT,МЕГАПРОЕКТ
+M042,Космические факторы жизненных циклов,Космические факторы жизненных циклов,MEGAPROJECT,МЕГАПРОЕКТ
+M043,Гелиобиология,Гелиобиология,MEGAPROJECT,МЕГАПРОЕКТ
+M044,Космическая медицина,Космическая медицина,MEGAPROJECT,МЕГАПРОЕКТ
+M045,Мониторинг влияния космической среды на человека,Мониторинг влияния космической среды на человека,MEGAPROJECT,МЕГАПРОЕКТ
+M046,Периодическая система как фундамент материаловедения,Периодическая система как фундамент материаловедения,MEGAPROJECT,МЕГАПРОЕКТ
+M047,Системное управление природными ресурсами,Системное управление природными ресурсами,MEGAPROJECT,МЕГАПРОЕКТ
+M048,Нефтяная промышленность,Нефтяная промышленность,MEGAPROJECT,МЕГАПРОЕКТ
+M049,Нефтехимический комплекс,Нефтехимический комплекс,MEGAPROJECT,МЕГАПРОЕКТ
+M050,Сибирская ресурсно-промышленная база,Сибирская ресурсно-промышленная база,MEGAPROJECT,МЕГАПРОЕКТ
+M051,Урал как металлургическое ядро,Урал как металлургическое ядро,MEGAPROJECT,МЕГАПРОЕКТ
+M052,Сырьё → энергия → транспорт → промышленность,Сырьё → энергия → транспорт → промышленность,MEGAPROJECT,МЕГАПРОЕКТ
+M053,Научная организация промышленности,Научная организация промышленности,MEGAPROJECT,МЕГАПРОЕКТ
+M054,Государственное статистическое планирование,Государственное статистическое планирование,MEGAPROJECT,МЕГАПРОЕКТ
+M055,Индустриальная Россия,Индустриальная Россия,MEGAPROJECT,МЕГАПРОЕКТ
+M056,ГОЭЛРО,ГОЭЛРО,MEGAPROJECT,МЕГАПРОЕКТ
+M057,Региональные энергосистемы,Региональные энергосистемы,MEGAPROJECT,МЕГАПРОЕКТ
+M058,Единая энергосистема,Единая энергосистема,MEGAPROJECT,МЕГАПРОЕКТ
+M059,Электрификация транспорта,Электрификация транспорта,MEGAPROJECT,МЕГАПРОЕКТ
+M060,Электрификация промышленности,Электрификация промышленности,MEGAPROJECT,МЕГАПРОЕКТ
+M061,Электрификация сельского хозяйства,Электрификация сельского хозяйства,MEGAPROJECT,МЕГАПРОЕКТ
+M062,Энергия как основа модернизации,Энергия как основа модернизации,MEGAPROJECT,МЕГАПРОЕКТ
+M063,Энергия + промышленность + транспорт,Энергия + промышленность + транспорт,MEGAPROJECT,МЕГАПРОЕКТ
+M064,Территориальное планирование развития,Территориальное планирование развития,MEGAPROJECT,МЕГАПРОЕКТ
+M065,Единый хозяйственный организм,Единый хозяйственный организм,MEGAPROJECT,МЕГАПРОЕКТ
+M066,Пятилетнее планирование,Пятилетнее планирование,MEGAPROJECT,МЕГАПРОЕКТ
+M067,Урало-Кузнецкий комбинат,Урало-Кузнецкий комбинат,MEGAPROJECT,МЕГАПРОЕКТ
+M068,Магнитогорский промышленный комплекс,Магнитогорский промышленный комплекс,MEGAPROJECT,МЕГАПРОЕКТ
+M069,Кузбасс,Кузбасс,MEGAPROJECT,МЕГАПРОЕКТ
+M070,Днепровский энергетический комплекс,Днепровский энергетический комплекс,MEGAPROJECT,МЕГАПРОЕКТ
+M071,ДнепроГЭС,ДнепроГЭС,MEGAPROJECT,МЕГАПРОЕКТ
+M072,Волжско-Камский энергетический каскад,Волжско-Камский энергетический каскад,MEGAPROJECT,МЕГАПРОЕКТ
+M073,Ангаро-Енисейский энергетический комплекс,Ангаро-Енисейский энергетический комплекс,MEGAPROJECT,МЕГАПРОЕКТ
+M074,Канско-Ачинский топливно-энергетический комплекс,Канско-Ачинский топливно-энергетический комплекс,MEGAPROJECT,МЕГАПРОЕКТ
+M075,Территориально-производственные комплексы,Территориально-производственные комплексы,MEGAPROJECT,МЕГАПРОЕКТ
+M076,Транссибирская магистраль,Транссибирская магистраль,MEGAPROJECT,МЕГАПРОЕКТ
+M077,БАМ,БАМ,MEGAPROJECT,МЕГАПРОЕКТ
+M078,Восточный железнодорожный полигон,Восточный железнодорожный полигон,MEGAPROJECT,МЕГАПРОЕКТ
+M079,Ангаро-Енисейский промышленный узел,Ангаро-Енисейский промышленный узел,MEGAPROJECT,МЕГАПРОЕКТ
+M080,Красноярский промышленный пояс,Красноярский промышленный пояс,MEGAPROJECT,МЕГАПРОЕКТ
+M081,Новосибирский научный центр,Новосибирский научный центр,MEGAPROJECT,МЕГАПРОЕКТ
+M082,Академгородок,Академгородок,MEGAPROJECT,МЕГАПРОЕКТ
+M083,Томский научно-технологический центр,Томский научно-технологический центр,MEGAPROJECT,МЕГАПРОЕКТ
+M084,Сибирский ядерный комплекс,Сибирский ядерный комплекс,MEGAPROJECT,МЕГАПРОЕКТ
+M085,Сибирский научно-промышленный пояс,Сибирский научно-промышленный пояс,MEGAPROJECT,МЕГАПРОЕКТ
+M086,Советский атомный проект,Советский атомный проект,MEGAPROJECT,МЕГАПРОЕКТ
+M087,Мирный атом,Мирный атом,MEGAPROJECT,МЕГАПРОЕКТ
+M088,Атомная энергетика,Атомная энергетика,MEGAPROJECT,МЕГАПРОЕКТ
+M089,Замкнутый ядерный топливный цикл,Замкнутый ядерный топливный цикл,MEGAPROJECT,МЕГАПРОЕКТ
+M090,Реакторы на быстрых нейтронах,Реакторы на быстрых нейтронах,MEGAPROJECT,МЕГАПРОЕКТ
+M091,Малая модульная атомная энергетика,Малая модульная атомная энергетика,MEGAPROJECT,МЕГАПРОЕКТ
+M092,Атомные ледоколы,Атомные ледоколы,MEGAPROJECT,МЕГАПРОЕКТ
+M093,Атомная Арктика,Атомная Арктика,MEGAPROJECT,МЕГАПРОЕКТ
+M094,Атомная энергетика для удалённых территорий,Атомная энергетика для удалённых территорий,MEGAPROJECT,МЕГАПРОЕКТ
+M095,Атомная энергетика как фундамент индустриального развития,Атомная энергетика как фундамент индустриального развития,MEGAPROJECT,МЕГАПРОЕКТ
+M096,Спутниковая навигация,Спутниковая навигация,MEGAPROJECT,МЕГАПРОЕКТ
+M097,Спутниковая связь,Спутниковая связь,MEGAPROJECT,МЕГАПРОЕКТ
+M098,Дистанционное зондирование Земли,Дистанционное зондирование Земли,MEGAPROJECT,МЕГАПРОЕКТ
+M099,Пилотируемая космонавтика,Пилотируемая космонавтика,MEGAPROJECT,МЕГАПРОЕКТ
+M100,Орбитальные станции,Орбитальные станции,MEGAPROJECT,МЕГАПРОЕКТ
+M101,Космодром Восточный,Космодром Восточный,MEGAPROJECT,МЕГАПРОЕКТ
+M102,Многоспутниковые группировки,Многоспутниковые группировки,MEGAPROJECT,МЕГАПРОЕКТ
+M103,Российская орбитальная станция,Российская орбитальная станция,MEGAPROJECT,МЕГАПРОЕКТ
+M104,Серийное производство спутников,Серийное производство спутников,MEGAPROJECT,МЕГАПРОЕКТ
+M105,Космическая промышленная инфраструктура,Космическая промышленная инфраструктура,MEGAPROJECT,МЕГАПРОЕКТ
+M106,Северный морской путь,Северный морской путь,MEGAPROJECT,МЕГАПРОЕКТ
+M107,Круглогодичная арктическая навигация,Круглогодичная арктическая навигация,MEGAPROJECT,МЕГАПРОЕКТ
+M108,Атомный ледокольный флот,Атомный ледокольный флот,MEGAPROJECT,МЕГАПРОЕКТ
+M109,Арктические порты,Арктические порты,MEGAPROJECT,МЕГАПРОЕКТ
+M110,Арктические аэродромы,Арктические аэродромы,MEGAPROJECT,МЕГАПРОЕКТ
+M111,Арктические города,Арктические города,MEGAPROJECT,МЕГАПРОЕКТ
+M112,Арктические энергетические комплексы,Арктические энергетические комплексы,MEGAPROJECT,МЕГАПРОЕКТ
+M113,Подводная арктическая инфраструктура,Подводная арктическая инфраструктура,MEGAPROJECT,МЕГАПРОЕКТ
+M114,Арктическая спутниковая сеть,Арктическая спутниковая сеть,MEGAPROJECT,МЕГАПРОЕКТ
+M115,Арктический промышленный пояс,Арктический промышленный пояс,MEGAPROJECT,МЕГАПРОЕКТ
+M116,ЕАЭС,ЕАЭС,MEGAPROJECT,МЕГАПРОЕКТ
+M117,Евразийский экономический путь,Евразийский экономический путь,MEGAPROJECT,МЕГАПРОЕКТ
+M118,Большое Евразийское партнёрство,Большое Евразийское партнёрство,MEGAPROJECT,МЕГАПРОЕКТ
+M119,Коридор Север–Юг,Коридор Север–Юг,MEGAPROJECT,МЕГАПРОЕКТ
+M120,Восточный транспортный коридор,Восточный транспортный коридор,MEGAPROJECT,МЕГАПРОЕКТ
+M121,Россия–Казахстан–Китай,Россия–Казахстан–Китай,MEGAPROJECT,МЕГАПРОЕКТ
+M122,Россия–Иран–Индия,Россия–Иран–Индия,MEGAPROJECT,МЕГАПРОЕКТ
+M123,Евразийская железнодорожная сеть,Евразийская железнодорожная сеть,MEGAPROJECT,МЕГАПРОЕКТ
+M124,Евразийские энергетические коридоры,Евразийские энергетические коридоры,MEGAPROJECT,МЕГАПРОЕКТ
+M125,Евразийское цифровое пространство,Евразийское цифровое пространство,MEGAPROJECT,МЕГАПРОЕКТ
+M126,Электронное государство,Электронное государство,MEGAPROJECT,МЕГАПРОЕКТ
+M127,Цифровые государственные услуги,Цифровые государственные услуги,MEGAPROJECT,МЕГАПРОЕКТ
+M128,Цифровой рубль,Цифровой рубль,MEGAPROJECT,МЕГАПРОЕКТ
+M129,Национальная платёжная инфраструктура,Национальная платёжная инфраструктура,MEGAPROJECT,МЕГАПРОЕКТ
+M130,Национальные облачные вычисления,Национальные облачные вычисления,MEGAPROJECT,МЕГАПРОЕКТ
+M131,Суверенная цифровая инфраструктура,Суверенная цифровая инфраструктура,MEGAPROJECT,МЕГАПРОЕКТ
+M132,Национальная система данных,Национальная система данных,MEGAPROJECT,МЕГАПРОЕКТ
+M133,Национальный искусственный интеллект,Национальный искусственный интеллект,MEGAPROJECT,МЕГАПРОЕКТ
+M134,Промышленная роботизация,Промышленная роботизация,MEGAPROJECT,МЕГАПРОЕКТ
+M135,Человеко-машинная экономика,Человеко-машинная экономика,MEGAPROJECT,МЕГАПРОЕКТ
+M136,НООСФЕРА-1,НООСФЕРА-1,MEGAPROJECT,МЕГАПРОЕКТ
+M137,ГОЭЛРО-2,ГОЭЛРО-2,MEGAPROJECT,МЕГАПРОЕКТ
+M138,СИБИРСКИЙ МАНХЭТТЕН,СИБИРСКИЙ МАНХЭТТЕН,MEGAPROJECT,МЕГАПРОЕКТ
+M139,АРКТИЧЕСКИЙ ЦИФРОВОЙ КОНТИНЕНТ,АРКТИЧЕСКИЙ ЦИФРОВОЙ КОНТИНЕНТ,MEGAPROJECT,МЕГАПРОЕКТ
+M140,ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ ИНТЕРНЕТ,ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ ИНТЕРНЕТ,MEGAPROJECT,МЕГАПРОЕКТ
+M141,ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР,ЕВРАЗИЙСКИЙ ВАЛЮТНО-КЛИРИНГОВЫЙ МАРШРУТИЗАТОР,MEGAPROJECT,МЕГАПРОЕКТ
+M142,АТОМНЫЙ СЕВЕР,АТОМНЫЙ СЕВЕР,MEGAPROJECT,МЕГАПРОЕКТ
+M143,СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС,СИБИРСКИЙ ИИ-ЭНЕРГЕТИЧЕСКИЙ КОМПЛЕКС,MEGAPROJECT,МЕГАПРОЕКТ
+M144,РОБОСИБИРЬ,РОБОСИБИРЬ,MEGAPROJECT,МЕГАПРОЕКТ
+M145,ЕВРАЗИЙСКАЯ ТРАНСПОРТНАЯ СЕТЬ 4.0,ЕВРАЗИЙСКАЯ ТРАНСПОРТНАЯ СЕТЬ 4.0,MEGAPROJECT,МЕГАПРОЕКТ
+M146,РОССИЙСКИЙ КОСМИЧЕСКИЙ ИНТЕРНЕТ / ОРБИТАЛЬНАЯ ИНФРАСТРУКТУРА,РОССИЙСКИЙ КОСМИЧЕСКИЙ ИНТЕРНЕТ / ОРБИТАЛЬНАЯ ИНФРАСТРУКТУРА,MEGAPROJECT,МЕГАПРОЕКТ
+M147,ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС,ЛУННЫЙ ПРОМЫШЛЕННЫЙ ПОЯС,MEGAPROJECT,МЕГАПРОЕКТ
+M148,ОРБИТАЛЬНАЯ ЭНЕРГЕТИКА,ОРБИТАЛЬНАЯ ЭНЕРГЕТИКА,MEGAPROJECT,МЕГАПРОЕКТ
+M149,БЕССМЕРТНАЯ БИБЛИОТЕКА,БЕССМЕРТНАЯ БИБЛИОТЕКА,MEGAPROJECT,МЕГАПРОЕКТ
+M150,ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК,ПОЛНАЯ ЦИВИЛИЗАЦИЯ / ЦИВИЛИЗАЦИОННЫЙ СТЕК,MEGAPROJECT,МЕГАПРОЕКТ
+T001,Мировые модели,Мировые модели,TECHNOLOGY,ТЕХНОЛОГИЯ
+T002,Автономный научный ИИ,Автономный научный ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T003,ИИ-учёные,ИИ-учёные,TECHNOLOGY,ТЕХНОЛОГИЯ
+T004,ИИ-инженеры,ИИ-инженеры,TECHNOLOGY,ТЕХНОЛОГИЯ
+T005,ИИ-программисты полного цикла,ИИ-программисты полного цикла,TECHNOLOGY,ТЕХНОЛОГИЯ
+T006,Рекурсивные исследования и разработки ИИ,Рекурсивные исследования и разработки ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T007,Причинно-следственный ИИ,Причинно-следственный ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T008,Нейросимвольный ИИ,Нейросимвольный ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T009,Коллективный ИИ,Коллективный ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T010,Моделирование цивилизационного масштаба с помощью ИИ,Моделирование цивилизационного масштаба с помощью ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T011,ИИ-агенты 2.0,ИИ-агенты 2.0,TECHNOLOGY,ТЕХНОЛОГИЯ
+T012,Мультиагентные экономики,Мультиагентные экономики,TECHNOLOGY,ТЕХНОЛОГИЯ
+T013,Торговля агент–агент,Торговля агент–агент,TECHNOLOGY,ТЕХНОЛОГИЯ
+T014,Машинные организации,Машинные организации,TECHNOLOGY,ТЕХНОЛОГИЯ
+T015,Движки управления и регулирования ИИ,Движки управления и регулирования ИИ,TECHNOLOGY,ТЕХНОЛОГИЯ
+T016,Автономное управление инфраструктурой,Автономное управление инфраструктурой,TECHNOLOGY,ТЕХНОЛОГИЯ
+T017,Самовосстанавливающееся программное обеспечение,Самовосстанавливающееся программное обеспечение,TECHNOLOGY,ТЕХНОЛОГИЯ
+T018,Самопроектирующиеся алгоритмы,Самопроектирующиеся алгоритмы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T019,Машинные научные сети,Машинные научные сети,TECHNOLOGY,ТЕХНОЛОГИЯ
+T020,Цифровой двойник цивилизации,Цифровой двойник цивилизации,TECHNOLOGY,ТЕХНОЛОГИЯ
+T021,Гуманоидные роботы,Гуманоидные роботы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T022,Универсальные промышленные роботы,Универсальные промышленные роботы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T023,Фундаментальные модели для роботов,Фундаментальные модели для роботов,TECHNOLOGY,ТЕХНОЛОГИЯ
+T024,Роевая робототехника,Роевая робототехника,TECHNOLOGY,ТЕХНОЛОГИЯ
+T025,Автономные строительные роботы,Автономные строительные роботы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T026,Автономная добыча полезных ископаемых,Автономная добыча полезных ископаемых,TECHNOLOGY,ТЕХНОЛОГИЯ
+T027,Автономное сельское хозяйство,Автономное сельское хозяйство,TECHNOLOGY,ТЕХНОЛОГИЯ
+T028,Автономные подводные роботы,Автономные подводные роботы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T029,Арктические роботы,Арктические роботы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T030,Самореплицирующиеся роботизированные фабрики,Самореплицирующиеся роботизированные фабрики,TECHNOLOGY,ТЕХНОЛОГИЯ
+T031,Коммерческий термоядерный синтез,Коммерческий термоядерный синтез,TECHNOLOGY,ТЕХНОЛОГИЯ
+T032,Компактные термоядерные реакторы,Компактные термоядерные реакторы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T033,Стеллараторы нового поколения,Стеллараторы нового поколения,TECHNOLOGY,ТЕХНОЛОГИЯ
+T034,Гибридные термоядерно-ядерные системы,Гибридные термоядерно-ядерные системы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T035,Малые модульные реакторы,Малые модульные реакторы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T036,Микрореакторы,Микрореакторы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T037,Реакторы быстрого спектра,Реакторы быстрого спектра,TECHNOLOGY,ТЕХНОЛОГИЯ
+T038,Замкнутый ядерный топливный цикл,Замкнутый ядерный топливный цикл,TECHNOLOGY,ТЕХНОЛОГИЯ
+T039,Сверхгорячая геотермальная энергетика,Сверхгорячая геотермальная энергетика,TECHNOLOGY,ТЕХНОЛОГИЯ
+T040,Космическая солнечная энергетика,Космическая солнечная энергетика,TECHNOLOGY,ТЕХНОЛОГИЯ
+T041,Всё-в-сеть / Everything-to-Grid,Всё-в-сеть / Everything-to-Grid,TECHNOLOGY,ТЕХНОЛОГИЯ
+T042,ИИ-управляемая энергосеть,ИИ-управляемая энергосеть,TECHNOLOGY,ТЕХНОЛОГИЯ
+T043,Виртуальные электростанции,Виртуальные электростанции,TECHNOLOGY,ТЕХНОЛОГИЯ
+T044,Сверхпроводящие энергосети,Сверхпроводящие энергосети,TECHNOLOGY,ТЕХНОЛОГИЯ
+T045,Мегасети постоянного тока,Мегасети постоянного тока,TECHNOLOGY,ТЕХНОЛОГИЯ
+T046,Евразийская суперсеть,Евразийская суперсеть,TECHNOLOGY,ТЕХНОЛОГИЯ
+T047,Атомные дата-центры,Атомные дата-центры,TECHNOLOGY,ТЕХНОЛОГИЯ
+T048,Оптимизация «вычисления ↔ энергия»,Оптимизация «вычисления ↔ энергия»,TECHNOLOGY,ТЕХНОЛОГИЯ
+T049,Энергетический интернет,Энергетический интернет,TECHNOLOGY,ТЕХНОЛОГИЯ
+T050,Автономные энергетические острова,Автономные энергетические острова,TECHNOLOGY,ТЕХНОЛОГИЯ
+T051,"Материалы, спроектированные ИИ","Материалы, спроектированные ИИ",TECHNOLOGY,ТЕХНОЛОГИЯ
+T052,Метаматериалы,Метаматериалы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T053,Программируемая материя,Программируемая материя,TECHNOLOGY,ТЕХНОЛОГИЯ
+T054,Самовосстанавливающиеся материалы,Самовосстанавливающиеся материалы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T055,Комнатно-температурные сверхпроводники,Комнатно-температурные сверхпроводники,TECHNOLOGY,ТЕХНОЛОГИЯ
+T056,Двумерные материалы,Двумерные материалы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T057,Сверхвысокопрочные композиты,Сверхвысокопрочные композиты,TECHNOLOGY,ТЕХНОЛОГИЯ
+T058,Молекулярное производство,Молекулярное производство,TECHNOLOGY,ТЕХНОЛОГИЯ
+T059,Наномашины,Наномашины,TECHNOLOGY,ТЕХНОЛОГИЯ
+T060,Атомарно-точное производство,Атомарно-точное производство,TECHNOLOGY,ТЕХНОЛОГИЯ
+T061,Программируемые клетки,Программируемые клетки,TECHNOLOGY,ТЕХНОЛОГИЯ
+T062,Инженерные живые терапевтические системы,Инженерные живые терапевтические системы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T063,"Белки, спроектированные ИИ","Белки, спроектированные ИИ",TECHNOLOGY,ТЕХНОЛОГИЯ
+T064,Синтетические организмы,Синтетические организмы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T065,Синтетическая пища,Синтетическая пища,TECHNOLOGY,ТЕХНОЛОГИЯ
+T066,Прецизионная ферментация,Прецизионная ферментация,TECHNOLOGY,ТЕХНОЛОГИЯ
+T067,Клеточное сельское хозяйство,Клеточное сельское хозяйство,TECHNOLOGY,ТЕХНОЛОГИЯ
+T068,Ксенотрансплантация,Ксенотрансплантация,TECHNOLOGY,ТЕХНОЛОГИЯ
+T069,Персонализированные мРНК-вакцины,Персонализированные мРНК-вакцины,TECHNOLOGY,ТЕХНОЛОГИЯ
+T070,"Лекарства, спроектированные ИИ","Лекарства, спроектированные ИИ",TECHNOLOGY,ТЕХНОЛОГИЯ
+T071,Цифровые двойники пациентов,Цифровые двойники пациентов,TECHNOLOGY,ТЕХНОЛОГИЯ
+T072,Клинические ИИ-системы / ИИ-врачи,Клинические ИИ-системы / ИИ-врачи,TECHNOLOGY,ТЕХНОЛОГИЯ
+T073,Роботизированная микрохирургия,Роботизированная микрохирургия,TECHNOLOGY,ТЕХНОЛОГИЯ
+T074,Интерфейсы мозг–компьютер,Интерфейсы мозг–компьютер,TECHNOLOGY,ТЕХНОЛОГИЯ
+T075,Нейропротезы,Нейропротезы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T076,Интерфейсы мозг–мозг,Интерфейсы мозг–мозг,TECHNOLOGY,ТЕХНОЛОГИЯ
+T077,Регенеративная медицина,Регенеративная медицина,TECHNOLOGY,ТЕХНОЛОГИЯ
+T078,Биопечать органов,Биопечать органов,TECHNOLOGY,ТЕХНОЛОГИЯ
+T079,Клеточное перепрограммирование,Клеточное перепрограммирование,TECHNOLOGY,ТЕХНОЛОГИЯ
+T080,Инженерия долголетия,Инженерия долголетия,TECHNOLOGY,ТЕХНОЛОГИЯ
+T081,Отказоустойчивые квантовые компьютеры,Отказоустойчивые квантовые компьютеры,TECHNOLOGY,ТЕХНОЛОГИЯ
+T082,Квантовое моделирование,Квантовое моделирование,TECHNOLOGY,ТЕХНОЛОГИЯ
+T083,Квантовые сети,Квантовые сети,TECHNOLOGY,ТЕХНОЛОГИЯ
+T084,Квантовый интернет,Квантовый интернет,TECHNOLOGY,ТЕХНОЛОГИЯ
+T085,Квантовые сенсоры,Квантовые сенсоры,TECHNOLOGY,ТЕХНОЛОГИЯ
+T086,Квантовая навигация,Квантовая навигация,TECHNOLOGY,ТЕХНОЛОГИЯ
+T087,Квантовая криптография,Квантовая криптография,TECHNOLOGY,ТЕХНОЛОГИЯ
+T088,Постквантовая криптография,Постквантовая криптография,TECHNOLOGY,ТЕХНОЛОГИЯ
+T089,Квантовое машинное обучение,Квантовое машинное обучение,TECHNOLOGY,ТЕХНОЛОГИЯ
+T090,Квантовые химические вычислители,Квантовые химические вычислители,TECHNOLOGY,ТЕХНОЛОГИЯ
+T091,Космические дата-центры,Космические дата-центры,TECHNOLOGY,ТЕХНОЛОГИЯ
+T092,Орбитальное производство,Орбитальное производство,TECHNOLOGY,ТЕХНОЛОГИЯ
+T093,Космическая солнечная энергетика,Космическая солнечная энергетика,TECHNOLOGY,ТЕХНОЛОГИЯ
+T094,Добыча лунных ресурсов,Добыча лунных ресурсов,TECHNOLOGY,ТЕХНОЛОГИЯ
+T095,Лунные промышленные базы,Лунные промышленные базы,TECHNOLOGY,ТЕХНОЛОГИЯ
+T096,Добыча ресурсов астероидов,Добыча ресурсов астероидов,TECHNOLOGY,ТЕХНОЛОГИЯ
+T097,Орбитальные топливные депо,Орбитальные топливные депо,TECHNOLOGY,ТЕХНОЛОГИЯ
+T098,Автономная космическая робототехника,Автономная космическая робототехника,TECHNOLOGY,ТЕХНОЛОГИЯ
+T099,Активное удаление орбитального мусора,Активное удаление орбитального мусора,TECHNOLOGY,ТЕХНОЛОГИЯ
+T100,Саморасширяющаяся космическая промышленность,Саморасширяющаяся космическая промышленность,TECHNOLOGY,ТЕХНОЛОГИЯ
+F001,Пост-AGI цивилизация как задача проектирования и координации,Пост-AGI цивилизация как задача проектирования и координации,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F002,Моделирование цивилизации с помощью мировых моделей,Моделирование цивилизации с помощью мировых моделей,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F003,Автономная наука / ИИ-соисследователь,Автономная наука / ИИ-соисследователь,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F004,Полностью автоматизированный ИИ-учёный,Полностью автоматизированный ИИ-учёный,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F005,Научный граф / машиночитаемый цикл открытий,Научный граф / машиночитаемый цикл открытий,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F006,Контур «агент → робот → действие в физическом мире»,Контур «агент → робот → действие в физическом мире»,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F007,Универсальные фундаментальные модели для гуманоидов,Универсальные фундаментальные модели для гуманоидов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F008,Роботизированная экономика / рекурсивно расширяющееся физическое производство,Роботизированная экономика / рекурсивно расширяющееся физическое производство,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F009,Экономика «энергия–вычисления»,Экономика «энергия–вычисления»,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F010,Двунаправленное участие всех активов в энергосети,Двунаправленное участие всех активов в энергосети,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F011,Биологические мировые модели,Биологические мировые модели,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F012,Биологическое облако / автоматизированные циклы проектирование–сборка–тест,Биологическое облако / автоматизированные циклы проектирование–сборка–тест,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F013,Эволюция материалов под управлением ИИ,Эволюция материалов под управлением ИИ,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F014,Программируемая / адаптивная механическая материя,Программируемая / адаптивная механическая материя,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F015,Планетарная сенсорная и информационная ткань,Планетарная сенсорная и информационная ткань,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F016,Операционная система Земли / цифровой двойник Земли,Операционная система Земли / цифровой двойник Земли,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F017,Высокоскоростная связь мозг–компьютер,Высокоскоростная связь мозг–компьютер,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F018,Постоянная цифровая личность / поведенческая агентная модель,Постоянная цифровая личность / поведенческая агентная модель,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F019,Цивилизация с необязательным трудом / экономика изобилия,Цивилизация с необязательным трудом / экономика изобилия,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F020,Государственное и институциональное устройство после AGI,Государственное и институциональное устройство после AGI,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F021,Конституционализм ИИ,Конституционализм ИИ,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F022,Цивилизация агентов / устойчивые мультиагентные социальные системы,Цивилизация агентов / устойчивые мультиагентные социальные системы,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F023,Автономное распределение капитала / маршрутизатор капитала,Автономное распределение капитала / маршрутизатор капитала,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F024,Автономная глобальная логистика / планетарный граф цепочек поставок,Автономная глобальная логистика / планетарный граф цепочек поставок,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F025,Космическая индустриализация как инфраструктурная экосистема,Космическая индустриализация как инфраструктурная экосистема,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F026,Орбитальные вычисления / дата-центры в космосе,Орбитальные вычисления / дата-центры в космосе,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F027,Луна как промышленный узел,Луна как промышленный узел,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F028,Саморасширяющаяся промышленная система,Саморасширяющаяся промышленная система,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F029,Размножитель технологий / Technology Breeder,Размножитель технологий / Technology Breeder,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F030,"Агенты, объединяющие рассуждение и действие — ReAct","Агенты, объединяющие рассуждение и действие — ReAct",FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F031,Самостоятельное освоение API и инструментов,Самостоятельное освоение API и инструментов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F032,Вербальное подкрепление и саморефлексия агентов,Вербальное подкрепление и саморефлексия агентов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F033,Дерево рассуждений / поиск по траекториям мышления,Дерево рассуждений / поиск по траекториям мышления,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F034,Итеративное самоулучшение через обратную связь,Итеративное самоулучшение через обратную связь,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F035,Мультиагентная разговорная оркестрация,Мультиагентная разговорная оркестрация,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F036,Непрерывное накопление навыков воплощённым агентом,Непрерывное накопление навыков воплощённым агентом,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F037,Социальное моделирование генеративными агентами,Социальное моделирование генеративными агентами,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F038,Обучение с подкреплением через изученные мировые модели,Обучение с подкреплением через изученные мировые модели,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F039,"Языковые модели, заземлённые в доступностях робота","Языковые модели, заземлённые в доступностях робота",FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F040,Воплощённая мультимодальная языковая модель,Воплощённая мультимодальная языковая модель,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F041,Межплатформенное обучение роботов на разных телах,Межплатформенное обучение роботов на разных телах,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F042,Робототехника «зрение–язык–действие»,Робототехника «зрение–язык–действие»,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F043,Физический ИИ на базе Gemini,Физический ИИ на базе Gemini,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F044,Воплощённое пространственное рассуждение для роботов,Воплощённое пространственное рассуждение для роботов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F045,Фундаментальные модели роботов на устройстве,Фундаментальные модели роботов на устройстве,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F046,Открытые фундаментальные модели для гуманоидов,Открытые фундаментальные модели для гуманоидов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F047,Предобучение гуманоидов на интернет-масштабном человеческом видео,Предобучение гуманоидов на интернет-масштабном человеческом видео,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F048,Полностью автоматизированные исследования в машинном обучении,Полностью автоматизированные исследования в машинном обучении,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F049,Мультиагентная генерация научных гипотез,Мультиагентная генерация научных гипотез,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F050,Автономный химический ассистент: LLM + химические инструменты,Автономный химический ассистент: LLM + химические инструменты,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F051,Автономная роботизированная лаборатория материалов,Автономная роботизированная лаборатория материалов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F052,Эволюционный поиск кода и алгоритмов,Эволюционный поиск кода и алгоритмов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F053,Поиск новых математических и вычислительных конструкций с помощью LLM,Поиск новых математических и вычислительных конструкций с помощью LLM,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F054,"Алгоритмы низкого уровня, открытые ИИ","Алгоритмы низкого уровня, открытые ИИ",FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F055,Открытие алгоритмов матричного умножения с помощью ИИ,Открытие алгоритмов матричного умножения с помощью ИИ,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F056,Конституционный ИИ,Конституционный ИИ,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F057,Безопасность ИИ через дебаты,Безопасность ИИ через дебаты,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F058,Извлечение скрытых знаний из продвинутых систем,Извлечение скрытых знаний из продвинутых систем,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F059,Кооперативное обратное обучение с подкреплением,Кооперативное обратное обучение с подкреплением,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F060,Коллективный конституционный ИИ,Коллективный конституционный ИИ,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F061,Масштабируемый надзор,Масштабируемый надзор,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F062,Предсказание структуры белков в масштабе протеома,Предсказание структуры белков в масштабе протеома,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F063,Совместное моделирование биомолекулярных взаимодействий,Совместное моделирование биомолекулярных взаимодействий,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F064,Фундаментальная модель регуляторных эффектов геномных вариантов,Фундаментальная модель регуляторных эффектов геномных вариантов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F065,Предсказание дальнодействующей регуляции генома,Предсказание дальнодействующей регуляции генома,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F066,Генеративное проектирование белков диффузионными моделями,Генеративное проектирование белков диффузионными моделями,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F067,Программируемое редактирование CRISPR-Cas9,Программируемое редактирование CRISPR-Cas9,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F068,Базовое редактирование без двунитевых разрывов ДНК,Базовое редактирование без двунитевых разрывов ДНК,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F069,Прайм-редактирование генома,Прайм-редактирование генома,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F070,Минимальная синтетическая бактериальная клетка,Минимальная синтетическая бактериальная клетка,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F071,Спроектированные живые роботы / ксеноботы,Спроектированные живые роботы / ксеноботы,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F072,Органоидный интеллект / биовычисления на органоидах мозга,Органоидный интеллект / биовычисления на органоидах мозга,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F073,Обучение живых нейронных систем в замкнутом контуре,Обучение живых нейронных систем в замкнутом контуре,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F074,Частичное эпигенетическое перепрограммирование для функционального омоложения,Частичное эпигенетическое перепрограммирование для функционального омоложения,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F075,Высокопроизводительный нейропротез речи «мозг → текст»,Высокопроизводительный нейропротез речи «мозг → текст»,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F076,Нейронное декодирование непосредственно в синтезированную речь,Нейронное декодирование непосредственно в синтезированную речь,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F077,3D-биопечать толстых васкуляризованных тканей,3D-биопечать толстых васкуляризованных тканей,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F078,Массовое открытие стабильных кристаллических структур с помощью ИИ,Массовое открытие стабильных кристаллических структур с помощью ИИ,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F079,Генеративное проектирование неорганических материалов,Генеративное проектирование неорганических материалов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F080,Универсальное атомистическое моделирование в разных условиях,Универсальное атомистическое моделирование в разных условиях,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F081,Самовосстанавливающиеся конструкционные материалы,Самовосстанавливающиеся конструкционные материалы,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F082,Программируемые текстурированные механические метаматериалы,Программируемые текстурированные механические метаматериалы,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F083,Автономная молекулярная сборка / программируемый химический синтез,Автономная молекулярная сборка / программируемый химический синтез,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F084,Управление термоядерной плазмой глубоким обучением с подкреплением,Управление термоядерной плазмой глубоким обучением с подкреплением,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F085,Сверхгорячая геотермальная энергетика,Сверхгорячая геотермальная энергетика,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F086,Компактные натриевые быстрые микрореакторы,Компактные натриевые быстрые микрореакторы,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F087,Космическая солнечная энергетика с беспроводной передачей энергии,Космическая солнечная энергетика с беспроводной передачей энергии,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F088,Квантовая коррекция ошибок ниже порогового уровня,Квантовая коррекция ошибок ниже порогового уровня,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F089,Модульный отказоустойчивый квантовый суперкомпьютер,Модульный отказоустойчивый квантовый суперкомпьютер,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F090,"Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости»","Квантовые вычисления промышленного масштаба, проверяемые по критерию «ценность выше стоимости»",FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F091,Архитектура квантового интернета,Архитектура квантового интернета,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F092,"Орбитальное обслуживание, сборка и производство как инфраструктурный стек","Орбитальное обслуживание, сборка и производство как инфраструктурный стек",FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F093,Орбитальное производство сверхкрупных конструкций,Орбитальное производство сверхкрупных конструкций,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F094,Самореплицирующаяся / растущая лунная фабрика,Самореплицирующаяся / растущая лунная фабрика,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F095,Лунная ядерная энергетика поверхности,Лунная ядерная энергетика поверхности,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F096,Орбитальные дата-центры / ИИ-вычисления в космосе,Орбитальные дата-центры / ИИ-вычисления в космосе,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F097,Планетарная геопространственная фундаментальная модель,Планетарная геопространственная фундаментальная модель,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F098,Операционные цифровые двойники системы Земли,Операционные цифровые двойники системы Земли,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F099,Машинные HTTP-платежи / микроплатежи автономных агентов,Машинные HTTP-платежи / микроплатежи автономных агентов,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+F100,Интероперабельная агентная коммерция и аудируемые делегированные платежи,Интероперабельная агентная коммерция и аудируемые делегированные платежи,FRONTIER_IDEA,ФРОНТИРНАЯ_ИДЕЯ
+P001,David Duvenaud,David Duvenaud,PERSON,АВТОР
+P002,Jan Kulveit,Jan Kulveit,PERSON,АВТОР
+P003,Raymond Douglas,Raymond Douglas,PERSON,АВТОР
+P004,David Ha,David Ha,PERSON,АВТОР
+P005,Jürgen Schmidhuber,Jürgen Schmidhuber,PERSON,АВТОР
+P006,Juraj Gottweis,Juraj Gottweis,PERSON,АВТОР
+P007,Vivek Natarajan,Vivek Natarajan,PERSON,АВТОР
+P008,Chris Lu,Chris Lu,PERSON,АВТОР
+P009,Cong Lu,Cong Lu,PERSON,АВТОР
+P010,Robert T. Lange,Robert T. Lange,PERSON,АВТОР
+P011,Jakob Foerster,Jakob Foerster,PERSON,АВТОР
+P012,Jeff Clune,Jeff Clune,PERSON,АВТОР
+P013,Robert Freitas Jr.,Robert Freitas Jr.,PERSON,АВТОР
+P014,William Gilbreath .,William Gilbreath .,PERSON,АВТОР
+P015,Ziga Avsec,Ziga Avsec,PERSON,АВТОР
+P016,Natasha Latysheva,Natasha Latysheva,PERSON,АВТОР
+P017,Szymanski,Szymanski,PERSON,АВТОР
+P018,Rendy,Rendy,PERSON,АВТОР
+P019,Fei,Fei,PERSON,АВТОР
+P020,Kumar,Kumar,PERSON,АВТОР
+P021,Ceder,Ceder,PERSON,АВТОР
+P022,Persson,Persson,PERSON,АВТОР
+P023,Corentin Coulais,Corentin Coulais,PERSON,АВТОР
+P024,Eial Teomy,Eial Teomy,PERSON,АВТОР
+P025,Koen de Reus,Koen de Reus,PERSON,АВТОР
+P026,Yair Shokef,Yair Shokef,PERSON,АВТОР
+P027,Martin van Hecke,Martin van Hecke,PERSON,АВТОР
+P028,Francis Willett,Francis Willett,PERSON,АВТОР
+P029,Erin Kunz,Erin Kunz,PERSON,АВТОР
+P030,Chaofei Fan,Chaofei Fan,PERSON,АВТОР
+P031,Jaimie Henderson .,Jaimie Henderson .,PERSON,АВТОР
+P032,Joon Sung Park,Joon Sung Park,PERSON,АВТОР
+P033,Joseph O'Brien,Joseph O'Brien,PERSON,АВТОР
+P034,Carrie Cai,Carrie Cai,PERSON,АВТОР
+P035,Meredith Ringel Morris,Meredith Ringel Morris,PERSON,АВТОР
+P036,Percy Liang,Percy Liang,PERSON,АВТОР
+P037,Michael Bernstein,Michael Bernstein,PERSON,АВТОР
+P038,Samuel Hammond,Samuel Hammond,PERSON,АВТОР
+P039,Yuntao Bai .,Yuntao Bai .,PERSON,АВТОР
+P040,Park .,Park .,PERSON,АВТОР
+P041,Stephan Zheng,Stephan Zheng,PERSON,АВТОР
+P042,Alexander Trott,Alexander Trott,PERSON,АВТОР
+P043,Sunil Srinivasa,Sunil Srinivasa,PERSON,АВТОР
+P044,David Parkes,David Parkes,PERSON,АВТОР
+P045,Richard Socher .,Richard Socher .,PERSON,АВТОР
+P046,agent/robot planning as substrate,agent/robot planning as substrate,PERSON,АВТОР
+P047,Philip Johnston,Philip Johnston,PERSON,АВТОР
+P048,Ezra Feilden,Ezra Feilden,PERSON,АВТОР
+P049,Adi Oltean,Adi Oltean,PERSON,АВТОР
+P050,Freitas,Freitas,PERSON,АВТОР
+P051,Gilbreath .,Gilbreath .,PERSON,АВТОР
+P052,AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces,AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces,PERSON,АВТОР
+P053,Shunyu Yao,Shunyu Yao,PERSON,АВТОР
+P054,Jeffrey Zhao,Jeffrey Zhao,PERSON,АВТОР
+P055,Dian Yu,Dian Yu,PERSON,АВТОР
+P056,Nan Du,Nan Du,PERSON,АВТОР
+P057,Izhak Shafran,Izhak Shafran,PERSON,АВТОР
+P058,Karthik Narasimhan,Karthik Narasimhan,PERSON,АВТОР
+P059,Yuan Cao,Yuan Cao,PERSON,АВТОР
+P060,Timo Schick,Timo Schick,PERSON,АВТОР
+P061,Jane Dwivedi-Yu,Jane Dwivedi-Yu,PERSON,АВТОР
+P062,Roberto Dessì .,Roberto Dessì .,PERSON,АВТОР
+P063,Noah Shinn,Noah Shinn,PERSON,АВТОР
+P064,Federico Cassano,Federico Cassano,PERSON,АВТОР
+P065,Edward Berman,Edward Berman,PERSON,АВТОР
+P066,Ashwin Gopinath,Ashwin Gopinath,PERSON,АВТОР
+P067,Jeffrey Zhao .,Jeffrey Zhao .,PERSON,АВТОР
+P068,Aman Madaan .,Aman Madaan .,PERSON,АВТОР
+P069,Qingyun Wu .,Qingyun Wu .,PERSON,АВТОР
+P070,Guanzhi Wang,Guanzhi Wang,PERSON,АВТОР
+P071,Yuqi Xie,Yuqi Xie,PERSON,АВТОР
+P072,Yunfan Jiang,Yunfan Jiang,PERSON,АВТОР
+P073,Ajay Mandlekar,Ajay Mandlekar,PERSON,АВТОР
+P074,Chaowei Xiao,Chaowei Xiao,PERSON,АВТОР
+P075,Yuke Zhu,Yuke Zhu,PERSON,АВТОР
+P076,Linxi Fan,Linxi Fan,PERSON,АВТОР
+P077,Anima Anandkumar,Anima Anandkumar,PERSON,АВТОР
+P078,Joon Sung Park .,Joon Sung Park .,PERSON,АВТОР
+P079,Danijar Hafner,Danijar Hafner,PERSON,АВТОР
+P080,Jurgis Pasukonis,Jurgis Pasukonis,PERSON,АВТОР
+P081,Jimmy Ba,Jimmy Ba,PERSON,АВТОР
+P082,Timothy Lillicrap,Timothy Lillicrap,PERSON,АВТОР
+P083,Michael Ahn .,Michael Ahn .,PERSON,АВТОР
+P084,Danny Driess,Danny Driess,PERSON,АВТОР
+P085,Fei Xia,Fei Xia,PERSON,АВТОР
+P086,Mehdi Sajjadi .,Mehdi Sajjadi .,PERSON,АВТОР
+P087,Anthony Brohan .,Anthony Brohan .,PERSON,АВТОР
+P088,Chris Lu .,Chris Lu .,PERSON,АВТОР
+P089,Gottweis,Gottweis,PERSON,АВТОР
+P090,Natarajan .,Natarajan .,PERSON,АВТОР
+P091,Andres M. Bran,Andres M. Bran,PERSON,АВТОР
+P092,Sam Cox,Sam Cox,PERSON,АВТОР
+P093,Oliver Schilter,Oliver Schilter,PERSON,АВТОР
+P094,Carlo Baldassari,Carlo Baldassari,PERSON,АВТОР
+P095,Andrew D. White,Andrew D. White,PERSON,АВТОР
+P096,Philippe Schwaller,Philippe Schwaller,PERSON,АВТОР
+P097,Nathan Szymanski .,Nathan Szymanski .,PERSON,АВТОР
+P098,Gerbrand Ceder,Gerbrand Ceder,PERSON,АВТОР
+P099,Kristin Persson collaborators,Kristin Persson collaborators,PERSON,АВТОР
+P100,Bernardino Romera-Paredes .,Bernardino Romera-Paredes .,PERSON,АВТОР
+P101,Daniel Mankowitz,Daniel Mankowitz,PERSON,АВТОР
+P102,Andrea Michi .,Andrea Michi .,PERSON,АВТОР
+P103,Alhussein Fawzi,Alhussein Fawzi,PERSON,АВТОР
+P104,Matej Balog,Matej Balog,PERSON,АВТОР
+P105,Geoffrey Irving,Geoffrey Irving,PERSON,АВТОР
+P106,Paul Christiano,Paul Christiano,PERSON,АВТОР
+P107,Dario Amodei,Dario Amodei,PERSON,АВТОР
+P108,Mark Xu,Mark Xu,PERSON,АВТОР
+P109,Ajeya Cotra / ARC,Ajeya Cotra / ARC,PERSON,АВТОР
+P110,Dylan Hadfield-Menell,Dylan Hadfield-Menell,PERSON,АВТОР
+P111,Anca Dragan,Anca Dragan,PERSON,АВТОР
+P112,Pieter Abbeel,Pieter Abbeel,PERSON,АВТОР
+P113,Stuart Russell,Stuart Russell,PERSON,АВТОР
+P114,Saffron Huang,Saffron Huang,PERSON,АВТОР
+P115,Divya Siddarth,Divya Siddarth,PERSON,АВТОР
+P116,Liane Lovitt .,Liane Lovitt .,PERSON,АВТОР
+P117,Samuel Bowman .,Samuel Bowman .,PERSON,АВТОР
+P118,John Jumper .,John Jumper .,PERSON,АВТОР
+P119,Josh Abramson .,Josh Abramson .,PERSON,АВТОР
+P120,Natasha Latysheva .,Natasha Latysheva .,PERSON,АВТОР
+P121,Ziga Avsec .,Ziga Avsec .,PERSON,АВТОР
+P122,Joseph Watson,Joseph Watson,PERSON,АВТОР
+P123,David Juergens,David Juergens,PERSON,АВТОР
+P124,Nathaniel Bennett .,Nathaniel Bennett .,PERSON,АВТОР
+P125,Martin Jinek,Martin Jinek,PERSON,АВТОР
+P126,Krzysztof Chylinski,Krzysztof Chylinski,PERSON,АВТОР
+P127,Jennifer Doudna,Jennifer Doudna,PERSON,АВТОР
+P128,Emmanuelle Charpentier .,Emmanuelle Charpentier .,PERSON,АВТОР
+P129,Alexis Komor,Alexis Komor,PERSON,АВТОР
+P130,Yongjoo Kim,Yongjoo Kim,PERSON,АВТОР
+P131,Michael Packer,Michael Packer,PERSON,АВТОР
+P132,John Zuris,John Zuris,PERSON,АВТОР
+P133,David Liu .,David Liu .,PERSON,АВТОР
+P134,Andrew Anzalone,Andrew Anzalone,PERSON,АВТОР
+P135,Peyton Randolph,Peyton Randolph,PERSON,АВТОР
+P136,Jessie Davis .,Jessie Davis .,PERSON,АВТОР
+P137,David Liu,David Liu,PERSON,АВТОР
+P138,Clyde Hutchison III .,Clyde Hutchison III .,PERSON,АВТОР
+P139,Sam Kriegman,Sam Kriegman,PERSON,АВТОР
+P140,Douglas Blackiston,Douglas Blackiston,PERSON,АВТОР
+P141,Michael Levin,Michael Levin,PERSON,АВТОР
+P142,Josh Bongard,Josh Bongard,PERSON,АВТОР
+P143,Lena Smirnova,Lena Smirnova,PERSON,АВТОР
+P144,Brian Caffo,Brian Caffo,PERSON,АВТОР
+P145,David Gracias,David Gracias,PERSON,АВТОР
+P146,Brett Kagan,Brett Kagan,PERSON,АВТОР
+P147,Alysson Muotri,Alysson Muotri,PERSON,АВТОР
+P148,Thomas Hartung .,Thomas Hartung .,PERSON,АВТОР
+P149,Brett Kagan .,Brett Kagan .,PERSON,АВТОР
+P150,Yuancheng Lu .,Yuancheng Lu .,PERSON,АВТОР
+P151,Francis Willett .,Francis Willett .,PERSON,АВТОР
+P152,Gopala Anumanchipalli,Gopala Anumanchipalli,PERSON,АВТОР
+P153,Josh Chartier,Josh Chartier,PERSON,АВТОР
+P154,Edward Chang,Edward Chang,PERSON,АВТОР
+P155,David Kolesky,David Kolesky,PERSON,АВТОР
+P156,Kimberly Homan,Kimberly Homan,PERSON,АВТОР
+P157,Mark Skylar-Scott .,Mark Skylar-Scott .,PERSON,АВТОР
+P158,Amil Merchant,Amil Merchant,PERSON,АВТОР
+P159,Ekin Dogus Cubuk .,Ekin Dogus Cubuk .,PERSON,АВТОР
+P160,Claudio Zeni,Claudio Zeni,PERSON,АВТОР
+P161,Robert Pinsler,Robert Pinsler,PERSON,АВТОР
+P162,Daniel Zügner .,Daniel Zügner .,PERSON,АВТОР
+P163,Han Yang,Han Yang,PERSON,АВТОР
+P164,Chenxi Hu,Chenxi Hu,PERSON,АВТОР
+P165,Yichi Zhou .,Yichi Zhou .,PERSON,АВТОР
+P166,S. R. White,S. R. White,PERSON,АВТОР
+P167,N. R. Sottos,N. R. Sottos,PERSON,АВТОР
+P168,P. H. Geubelle .,P. H. Geubelle .,PERSON,АВТОР
+P169,Corentin Coulais .,Corentin Coulais .,PERSON,АВТОР
+P170,Wenjing Meng,Wenjing Meng,PERSON,АВТОР
+P171,Richard Muscat,Richard Muscat,PERSON,АВТОР
+P172,Mireya McKee .,Mireya McKee .,PERSON,АВТОР
+P173,Andrew Turberfield,Andrew Turberfield,PERSON,АВТОР
+P174,Jonas Degrave .,Jonas Degrave .,PERSON,АВТОР
+P175,Ali Hajimiri,Ali Hajimiri,PERSON,АВТОР
+P176,Sergio Pellegrino,Sergio Pellegrino,PERSON,АВТОР
+P177,Starling roadmap,Starling roadmap,PERSON,АВТОР
+P178,Stephanie Wehner,Stephanie Wehner,PERSON,АВТОР
+P179,David Elkouss,David Elkouss,PERSON,АВТОР
+P180,Ronald Hanson,Ronald Hanson,PERSON,АВТОР
+P181,John Mulvaney,John Mulvaney,PERSON,АВТОР
+P182,Dale Arney .,Dale Arney .,PERSON,АВТОР
+P183,Erik Reppel,Erik Reppel,PERSON,АВТОР
+P184,Nemil Dalal,Nemil Dalal,PERSON,АВТОР
+P185,Dan Kim,Dan Kim,PERSON,АВТОР
+I001,workshop participants,workshop participants,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I002,Google Research,Google Research,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I003,AI Scientist and autonomous-lab work as enabling evidence,AI Scientist and autonomous-lab work as enabling evidence,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I004,Google DeepMind robotics teams,Google DeepMind robotics teams,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I005,NVIDIA Isaac GR00T team,NVIDIA Isaac GR00T team,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I006,NASA study,NASA study,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I007,distributed-energy / V2G research community,distributed-energy / V2G research community,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I008,Google DeepMind,Google DeepMind,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I009,DeepMind collaborators,DeepMind collaborators,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I010,AlphaEarth Foundations team,AlphaEarth Foundations team,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I011,Destination Earth / ECMWF,Destination Earth / ECMWF,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I012,post-AGI economics community as representative source,post-AGI economics community as representative source,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I013,Post-AGI workshop,Post-AGI workshop,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I014,Anthropic,Anthropic,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I015,AutoGen / multi-agent research,AutoGen / multi-agent research,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I016,NASA ISAM community,NASA ISAM community,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I017,Starcloud,Starcloud,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I018,NASA lunar ISRU / surface technology programs,NASA lunar ISRU / surface technology programs,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I019,NASA Advanced Automation study,NASA Advanced Automation study,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I020,Microsoft Research,Microsoft Research,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I021,Google Robotics,Google Robotics,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I022,Open X-Embodiment Collaboration,Open X-Embodiment Collaboration,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I023,Google DeepMind robotics team,Google DeepMind robotics team,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I024,Figure AI,Figure AI,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I025,Sakana AI,Sakana AI,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I026,Google,Google,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I027,AlphaEvolve team,AlphaEvolve team,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I028,Anthropic + Collective Intelligence Project,Anthropic + Collective Intelligence Project,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I029,DeepMind,DeepMind,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I030,Google DeepMind / Isomorphic Labs,Google DeepMind / Isomorphic Labs,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I031,David Baker lab,David Baker lab,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I032,J. Craig Venter Institute,J. Craig Venter Institute,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I033,Cortical Labs,Cortical Labs,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I034,David Sinclair lab,David Sinclair lab,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I035,Jaimie Henderson lab,Jaimie Henderson lab,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I036,Jennifer Lewis lab,Jennifer Lewis lab,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I037,DeepMind + Swiss Plasma Center,DeepMind + Swiss Plasma Center,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I038,ARPA-E SUPERHOT program,ARPA-E SUPERHOT program,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I039,Oklo Aurora,Oklo Aurora,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I040,Caltech Space Solar Power Project,Caltech Space Solar Power Project,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I041,Harry Atwater teams,Harry Atwater teams,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I042,Google Quantum AI / Willow team,Google Quantum AI / Willow team,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I043,IBM Quantum,IBM Quantum,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I044,DARPA Quantum Benchmarking Initiative,DARPA Quantum Benchmarking Initiative,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I045,program manager Micah Stoutimore,program manager Micah Stoutimore,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I046,NASA ISAM,NASA ISAM,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I047,DARPA NOM4D,DARPA NOM4D,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I048,Andrew Detor program line,Andrew Detor program line,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I049,NASA/ASEE study,NASA/ASEE study,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I050,NASA + U.S. Department of Energy,NASA + U.S. Department of Energy,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I051,Google DeepMind / Earth Engine,Google DeepMind / Earth Engine,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I052,Destination Earth / ECMWF and partners,Destination Earth / ECMWF and partners,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I053,Coinbase x402,Coinbase x402,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I054,Google AP2/UCP ecosystem,Google AP2/UCP ecosystem,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+I055,Stripe/OpenAI ACP ecosystem,Stripe/OpenAI ACP ecosystem,INSTITUTION,ИНСТИТУТ_ИЛИ_ПРОГРАММА
+S001,Post-AGI Civilizational Equilibria,Post-AGI Civilizational Equilibria,SOURCE,ИСТОЧНИК
+S002,World Models,World Models,SOURCE,ИСТОЧНИК
+S003,AI co-scientist,AI co-scientist,SOURCE,ИСТОЧНИК
+S004,The AI Scientist,The AI Scientist,SOURCE,ИСТОЧНИК
+S005,Gemini Robotics,Gemini Robotics,SOURCE,ИСТОЧНИК
+S006,Isaac GR00T,Isaac GR00T,SOURCE,ИСТОЧНИК
+S007,Advanced Automation for Space Missions,Advanced Automation for Space Missions,SOURCE,ИСТОЧНИК
+S008,Google data-center energy research context,Google data-center energy research context,SOURCE,ИСТОЧНИК
+S009,Vehicle-to-grid foundational review,Vehicle-to-grid foundational review,SOURCE,ИСТОЧНИК
+S010,AlphaGenome,AlphaGenome,SOURCE,ИСТОЧНИК
+S011,A-Lab,A-Lab,SOURCE,ИСТОЧНИК
+S012,Programmable mechanical metamaterials,Programmable mechanical metamaterials,SOURCE,ИСТОЧНИК
+S013,AlphaEarth Foundations,AlphaEarth Foundations,SOURCE,ИСТОЧНИК
+S014,Destination Earth Digital Twins,Destination Earth Digital Twins,SOURCE,ИСТОЧНИК
+S015,High-performance speech neuroprosthesis,High-performance speech neuroprosthesis,SOURCE,ИСТОЧНИК
+S016,Generative Agents,Generative Agents,SOURCE,ИСТОЧНИК
+S017,Constitutional AI,Constitutional AI,SOURCE,ИСТОЧНИК
+S018,AI Economist,AI Economist,SOURCE,ИСТОЧНИК
+S019,ReAct,ReAct,SOURCE,ИСТОЧНИК
+S020,NASA ISAM,NASA ISAM,SOURCE,ИСТОЧНИК
+S021,Starcloud / NVIDIA,Starcloud / NVIDIA,SOURCE,ИСТОЧНИК
+S022,NASA Lunar Surface Innovation,NASA Lunar Surface Innovation,SOURCE,ИСТОЧНИК
+S023,AlphaEvolve,AlphaEvolve,SOURCE,ИСТОЧНИК
+S024,Toolformer,Toolformer,SOURCE,ИСТОЧНИК
+S025,Reflexion,Reflexion,SOURCE,ИСТОЧНИК
+S026,Tree of Thoughts,Tree of Thoughts,SOURCE,ИСТОЧНИК
+S027,Self-Refine,Self-Refine,SOURCE,ИСТОЧНИК
+S028,AutoGen,AutoGen,SOURCE,ИСТОЧНИК
+S029,Voyager,Voyager,SOURCE,ИСТОЧНИК
+S030,DreamerV3,DreamerV3,SOURCE,ИСТОЧНИК
+S031,SayCan,SayCan,SOURCE,ИСТОЧНИК
+S032,PaLM-E,PaLM-E,SOURCE,ИСТОЧНИК
+S033,Open X-Embodiment / RT-X,Open X-Embodiment / RT-X,SOURCE,ИСТОЧНИК
+S034,RT-2,RT-2,SOURCE,ИСТОЧНИК
+S035,Gemini Robotics family,Gemini Robotics family,SOURCE,ИСТОЧНИК
+S036,Project Go-Big,Project Go-Big,SOURCE,ИСТОЧНИК
+S037,The AI Scientist,The AI Scientist,SOURCE,ИСТОЧНИК
+S038,ChemCrow,ChemCrow,SOURCE,ИСТОЧНИК
+S039,FunSearch,FunSearch,SOURCE,ИСТОЧНИК
+S040,AlphaDev,AlphaDev,SOURCE,ИСТОЧНИК
+S041,AlphaTensor,AlphaTensor,SOURCE,ИСТОЧНИК
+S042,AI Safety via Debate,AI Safety via Debate,SOURCE,ИСТОЧНИК
+S043,ELK report,ELK report,SOURCE,ИСТОЧНИК
+S044,CIRL,CIRL,SOURCE,ИСТОЧНИК
+S045,Collective Constitutional AI,Collective Constitutional AI,SOURCE,ИСТОЧНИК
+S046,Measuring Progress on Scalable Oversight,Measuring Progress on Scalable Oversight,SOURCE,ИСТОЧНИК
+S047,AlphaFold2,AlphaFold2,SOURCE,ИСТОЧНИК
+S048,AlphaFold 3,AlphaFold 3,SOURCE,ИСТОЧНИК
+S049,Enformer,Enformer,SOURCE,ИСТОЧНИК
+S050,RFdiffusion,RFdiffusion,SOURCE,ИСТОЧНИК
+S051,Science 2012,Science 2012,SOURCE,ИСТОЧНИК
+S052,Nature 2016,Nature 2016,SOURCE,ИСТОЧНИК
+S053,Nature 2019,Nature 2019,SOURCE,ИСТОЧНИК
+S054,Science: JCVI-syn3.0,Science: JCVI-syn3.0,SOURCE,ИСТОЧНИК
+S055,PNAS,PNAS,SOURCE,ИСТОЧНИК
+S056,Organoid Intelligence,Organoid Intelligence,SOURCE,ИСТОЧНИК
+S057,DishBrain / Neuron,DishBrain / Neuron,SOURCE,ИСТОЧНИК
+S058,Nature 2020,Nature 2020,SOURCE,ИСТОЧНИК
+S059,Nature 2019,Nature 2019,SOURCE,ИСТОЧНИК
+S060,PNAS 2016,PNAS 2016,SOURCE,ИСТОЧНИК
+S061,GNoME,GNoME,SOURCE,ИСТОЧНИК
+S062,MatterGen,MatterGen,SOURCE,ИСТОЧНИК
+S063,MatterSim,MatterSim,SOURCE,ИСТОЧНИК
+S064,Nature 2001,Nature 2001,SOURCE,ИСТОЧНИК
+S065,Nature Chemistry,Nature Chemistry,SOURCE,ИСТОЧНИК
+S066,Nature 2022,Nature 2022,SOURCE,ИСТОЧНИК
+S067,ARPA-E SUPERHOT,ARPA-E SUPERHOT,SOURCE,ИСТОЧНИК
+S068,Oklo technology,Oklo technology,SOURCE,ИСТОЧНИК
+S069,Caltech SSPP,Caltech SSPP,SOURCE,ИСТОЧНИК
+S070,Making quantum error correction work,Making quantum error correction work,SOURCE,ИСТОЧНИК
+S071,IBM Quantum Roadmap,IBM Quantum Roadmap,SOURCE,ИСТОЧНИК
+S072,DARPA QBI,DARPA QBI,SOURCE,ИСТОЧНИК
+S073,Science 2018,Science 2018,SOURCE,ИСТОЧНИК
+S074,NASA ISAM State of Play 2025,NASA ISAM State of Play 2025,SOURCE,ИСТОЧНИК
+S075,DARPA NOM4D demos,DARPA NOM4D demos,SOURCE,ИСТОЧНИК
+S076,NASA/DOE lunar reactor program,NASA/DOE lunar reactor program,SOURCE,ИСТОЧНИК
+S077,x402,x402,SOURCE,ИСТОЧНИК
+S078,AP2,AP2,SOURCE,ИСТОЧНИК
+S079,ACP,ACP,SOURCE,ИСТОЧНИК
+S080,UCP,UCP,SOURCE,ИСТОЧНИК
