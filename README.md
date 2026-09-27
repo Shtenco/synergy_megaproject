@@ -2686,6 +2686,7 @@ synergy_megaproject/
 ├── docs/
 │   ├── M2_MACHINE_READABLE_GRAPH.md
 │   └── M3_PROVENANCE_EDGE_CURATION.md
+│   └── DATA_FORMATS_RU.md
 │
 ├── archive/
 │   └── frontier_edges_m2.csv
@@ -2717,3 +2718,8 @@ synergy_megaproject/
 Именно поэтому конечный объект проекта — не список будущего, а:
 
 # **ЖИВОЙ ДОКАЗАТЕЛЬНЫЙ ГРАФ ЦИВИЛИЗАЦИОННЫХ ВОЗМОЖНОСТЕЙ.**
+
+
+## Справочник форматов данных
+
+Подробное описание полей CSV/JSON/GraphML/Neo4j: [docs/DATA_FORMATS_RU.md](docs/DATA_FORMATS_RU.md).
