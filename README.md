@@ -1295,3 +1295,26 @@ graph/neo4j_import/
 
 And every F-node must receive stable machine IDs, normalized source provenance, evidence confidence and explicit edges to the 150 megaproject nodes and 100 technology nodes.
 
+
+
+---
+
+# PART XVI — M2 MACHINE-READABLE GRAPH
+
+**Status:** IMPLEMENTED — initial canonical machine-readable build.
+
+The README remains the human-readable canon; the graph is now materialized under `data/`, `graph/`, `schema/` and `tools/`.
+
+Canonical invariants:
+
+- `M001..M150` — 150 megaproject nodes
+- `T001..T100` — 100 technology nodes
+- `F001..F100` — 100 frontier nodes
+- separate people, institution and source nodes
+- explicit typed edges
+- JSON + CSV + GraphML + Neo4j imports
+- integrity validator: `python tools/validate_graph.py`
+
+See [M2 documentation](docs/M2_MACHINE_READABLE_GRAPH.md) and [graph manifest](graph/manifest.json).
+
+**Important:** M2 technology/megaproject cross-layer edges are a deterministic first-pass semantic mapping, not yet expert-curated causal claims. M3 must review and promote them to evidence-backed relation types.
