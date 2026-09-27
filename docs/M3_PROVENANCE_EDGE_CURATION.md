@@ -1,42 +1,40 @@
-# M3 — Provenance & Edge Curation
+# M3 — Происхождение, доказательность и курация связей
 
-Status: **IMPLEMENTED — first full semantic/provenance curation pass**
+Статус: **реализован первый полный проход**
 
-Review date: **2026-09-27**
+Дата ревизии: **27 сентября 2026 года**
 
-M3 replaces the M2 placeholder relations `MAPS_TO_TECHNOLOGY` and `CONTRIBUTES_TO_MEGAPROJECT` with the canonical vocabulary:
-- `ENABLES`
-- `REQUIRES`
-- `VALIDATES`
-- `DEPENDS_ON`
-- `PROPOSED_BY`
-- `FUNDED_BY`
-- `USES`
-- `PRODUCES`
-- `CONSUMES`
-- `REDUCES_COST_OF`
-- `INCREASES_CAPACITY_OF`
-- `COMPETES_WITH`
-- `FALSIFIES`
-- `RISKS`
-- `GOVERNS`
+## Что изменилось
 
-Every edge carries evidence_source, evidence_scope, confidence, review_status, semantic_class, strong_edge and review_date.
+M3 заменяет временные M2-связи `MAPS_TO_TECHNOLOGY` и `CONTRIBUTES_TO_MEGAPROJECT` каноническими типами:
 
-## Evidence honesty
+`ENABLES`, `REQUIRES`, `VALIDATES`, `DEPENDS_ON`, `PROPOSED_BY`, `FUNDED_BY`, `USES`, `PRODUCES`, `CONSUMES`, `REDUCES_COST_OF`, `INCREASES_CAPACITY_OF`, `COMPETES_WITH`, `FALSIFIES`, `RISKS`, `GOVERNS`.
 
-- `RELATION_DIRECT`: source materially supports the specific relation.
-- `PROVENANCE`: source validates the existence/content of the target frontier node.
-- `ATTRIBUTION`: representative authorship/program association.
-- `CANONICAL_SYNTHESIS`: explicit SINERGY systems synthesis grounded in sourced component nodes.
-- `NODE_SUPPORT_ONLY`: source supports the frontier node but **does not yet prove the cross-layer relation**.
+Машинные enum-коды не переводятся ради совместимости. Их смысл и вся документация вокруг них — на русском.
 
-## Counts
+Каждое каноническое ребро хранит:
 
-- 350 idea nodes: 150 M + 100 T + 100 F
-- 1105 curated edges
-- 136 strong edges
-- 7 direct-relation evidence edges
-- 701 edges still requiring relation-specific evidence
+- источник доказательства;
+- область действия доказательства;
+- уверенность;
+- статус проверки;
+- семантический класс;
+- признак сильной связи;
+- дату проверки;
+- пояснение.
 
-The full human-readable registry of all ideas and all edges is in README.md.
+## Честность доказательств
+
+`RELATION_DIRECT` — источник поддерживает именно конкретную связь.
+
+`PROVENANCE` — источник подтверждает существование и содержание узла.
+
+`ATTRIBUTION` — подтверждается связь с автором, группой или программой.
+
+`CANONICAL_SYNTHESIS` — системная гипотеза SINERGY, собранная из подтверждённых компонентов.
+
+`NODE_SUPPORT_ONLY` — источник подтверждает исходный frontier-узел, но **не доказывает автоматически межслойную связь**.
+
+## Цель следующего прохода
+
+M4 должен закрывать relation-specific evidence у наиболее важных рёбер, переводя их в `RELATION_DIRECT`, либо понижая, меняя или удаляя связь.
