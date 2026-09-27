@@ -1,0 +1,101 @@
+id,name,year,maturity,provenance,sinergy_connection,attribution_raw,source_ids,author_ids,institution_ids
+F001,Post-AGI civilization as a design/coordination problem,2026,ACTIVE / CONCEPTUAL,REPRESENTATIVE,GOVERNANCE + AI + HUMAN + CAPITAL,"David Duvenaud, Jan Kulveit, Raymond Douglas; workshop participants",S001,P001;P002;P003,I001
+F002,Civilization/world-model simulation,2018,FOUNDATIONAL → SYNTHESIS,SINERGY_SYNTHESIS,AI + EARTH + ECONOMY + SIMULATION,"David Ha, Jürgen Schmidhuber; SINERGY synthesis at civilization scale",S002,P004;P005,
+F003,Autonomous science / AI co-scientist,2025,ACTIVE / EMERGING,REPRESENTATIVE,AI + KNOWLEDGE + BIO,"Juraj Gottweis, Vivek Natarajan, Google Research",S003,P006;P007,I002
+F004,Fully automated AI scientist,2024,EXPERIMENTAL,REPRESENTATIVE,AI + SCIENCE + CODE + EVALUATION,"Chris Lu, Cong Lu, Robert T. Lange, Jakob Foerster, Jeff Clune, David Ha",S004,P008;P009;P010;P011;P012;P004,
+F005,Science Graph / machine-readable discovery loop,2024,SINERGY_SYNTHESIS,SINERGY_SYNTHESIS,KNOWLEDGE GRAPH + EXPERIMENT + TECHNOLOGY,SINERGY synthesis; AI Scientist and autonomous-lab work as enabling evidence,S004,,I003
+F006,Agent → robot → physical-world action loop,2025,ACTIVE / EMERGING,REPRESENTATIVE,AI + ROBOTICS + INDUSTRY,Google DeepMind robotics teams,S005,,I004
+F007,General-purpose humanoid foundation models,2024–2026,ACTIVE / EMERGING,REPRESENTATIVE,AI + ROBOTICS + MANUFACTURING,NVIDIA Isaac GR00T team,S006,,I005
+F008,Robot economy / recursively expanding physical production,1982,CONCEPTUAL / FOUNDATIONAL,REPRESENTATIVE,ROBOTICS + INDUSTRY + SPACE,"Robert Freitas Jr., William Gilbreath et al.; NASA study",S007,P013;P014,I006
+F009,Energy–Compute Economy,2018–2026,SINERGY_SYNTHESIS,SINERGY_SYNTHESIS,ENERGY + COMPUTE + CAPITAL,SINERGY synthesis; modern AI infrastructure as enabling substrate,S008,,
+F010,Bidirectional “everything-to-grid” energy participation,2005→,ACTIVE / EMERGING,REPRESENTATIVE,ENERGY + CITIES + MOBILITY,distributed-energy / V2G research community,S009,,I007
+F011,Biological world models,2025–2026,ACTIVE / EMERGING,REPRESENTATIVE,AI + BIO + MEDICINE,"Ziga Avsec, Natasha Latysheva; Google DeepMind",S010,P015;P016,I008
+F012,Biological Cloud / automated design-build-test loops,2025,SINERGY_SYNTHESIS,SINERGY_SYNTHESIS,BIO + COMPUTE + ROBOTIC LABS,SINERGY synthesis; automated science as substrate,S003,,
+F013,AI-driven materials evolution,2023,EXPERIMENTAL / ACTIVE,REPRESENTATIVE,AI + MATTER + ROBOTICS + SCIENCE,"Szymanski, Rendy, Fei, Kumar, Ceder, Persson, DeepMind collaborators",S011,P017;P018;P019;P020;P021;P022,I009
+F014,Programmable/adaptive mechanical matter,2016,EXPERIMENTAL / FOUNDATIONAL,REPRESENTATIVE,MATTER + ROBOTICS,"Corentin Coulais, Eial Teomy, Koen de Reus, Yair Shokef, Martin van Hecke",S012,P023;P024;P025;P026;P027,
+F015,Planetary sensor/data fabric,2025,ACTIVE / EMERGING,REPRESENTATIVE,EARTH + DATA + AI,AlphaEarth Foundations team,S013,,I010
+F016,Earth Operating System / Earth digital twin,2024–2026,ACTIVE → SYNTHESIS,SINERGY_SYNTHESIS,EARTH + AI + ENERGY + CITIES,Destination Earth / ECMWF; SINERGY synthesis above the twin layer,S014,,I011
+F017,High-bandwidth brain–computer communication,2023,EXPERIMENTAL,REPRESENTATIVE,HUMAN + AI + BCI,"Francis Willett, Erin Kunz, Chaofei Fan, Jaimie Henderson et al.",S015,P028;P029;P030;P031,
+F018,Persistent digital-person / behavioral-agent models,2023,EXPERIMENTAL / CONCEPTUAL,REPRESENTATIVE,HUMAN + MEMORY + AGENTS,"Joon Sung Park, Joseph O'Brien, Carrie Cai, Meredith Ringel Morris, Percy Liang, Michael Bernstein",S016,P032;P033;P034;P035;P036;P037,
+F019,Work-optional / abundance-oriented civilization,2025–2026,CONCEPTUAL,SINERGY_SYNTHESIS,HUMAN + ROBOTICS + CAPITAL + GOVERNANCE,SINERGY synthesis; post-AGI economics community as representative source,S001,,I012
+F020,Post-AGI statecraft,2026,CONCEPTUAL / ACTIVE DISCUSSION,REPRESENTATIVE,GOVERNANCE + AI + ECONOMY,Samuel Hammond; Post-AGI workshop,S001,P038,I013
+F021,AI constitutionalism,2022,FOUNDATIONAL / ACTIVE,REPRESENTATIVE,GOVERNANCE + AI + AUDIT,"Yuntao Bai et al., Anthropic",S017,P039,I014
+F022,Agent civilization / persistent multi-agent social systems,2023,EXPERIMENTAL → CONCEPTUAL,REPRESENTATIVE,AGENTS + ECONOMY + GOVERNANCE,Park et al.; AutoGen / multi-agent research,S016,P040,I015
+F023,Autonomous capital allocation / Capital Router,2021,EXPERIMENTAL → SYNTHESIS,SINERGY_SYNTHESIS,CAPITAL + AI + GOVERNANCE,"Stephan Zheng, Alexander Trott, Sunil Srinivasa, David Parkes, Richard Socher et al.; SINERGY extension",S018,P041;P042;P043;P044;P045,
+F024,Autonomous global logistics / planetary supply-chain graph,2022,SINERGY_SYNTHESIS,SINERGY_SYNTHESIS,MOBILITY + AI + TRADE,SINERGY synthesis; agent/robot planning as substrate,S019,P046,
+F025,Space industrialization as an infrastructure ecosystem,2025–2026,ACTIVE / PROGRAM,REPRESENTATIVE,SPACE + ROBOTICS + INDUSTRY,NASA ISAM community,S020,,I016
+F026,Orbital compute / data centers in space,2025,EXPERIMENTAL / EMERGING,REPRESENTATIVE,SPACE + COMPUTE + ENERGY,"Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud",S021,P047;P048;P049,I017
+F027,Moon as an industrial node,2020s,PROGRAM / EMERGING,REPRESENTATIVE,SPACE + MATTER + ENERGY + INDUSTRY,NASA lunar ISRU / surface technology programs,S022,,I018
+F028,Self-expanding industrial system,1982,CONCEPTUAL,REPRESENTATIVE,INDUSTRY + ROBOTICS + ENERGY,"Freitas, Gilbreath et al.; NASA Advanced Automation study",S007,P050;P051,I019
+F029,Technology Breeder,2025,SINERGY_SYNTHESIS,SINERGY_SYNTHESIS,SINERGY ENGINE + SCIENCE + AI,SINERGY synthesis; AlphaEvolve/FunSearch/AI Scientist as evidence of machine search over solution spaces,S023,P052,
+F030,Reasoning + acting agents (ReAct),2022,FOUNDATIONAL / ACTIVE,REPRESENTATIVE,AI + TOOLS + AGENTS,"Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao",S019,P053;P054;P055;P056;P057;P058;P059,
+F031,Self-taught API/tool use,2023,FOUNDATIONAL,REPRESENTATIVE,AI + TOOLS + SERVICES,"Timo Schick, Jane Dwivedi-Yu, Roberto Dessì et al.",S024,P060;P061;P062,
+F032,Verbal reinforcement / self-reflective agents,2023,FOUNDATIONAL / EXPERIMENTAL,REPRESENTATIVE,AI + MEMORY + LEARNING,"Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao",S025,P063;P064;P065;P066;P058;P053,
+F033,Deliberative search over reasoning paths,2023,FOUNDATIONAL,REPRESENTATIVE,AI + PLANNING,"Shunyu Yao, Dian Yu, Jeffrey Zhao et al.",S026,P053;P055;P067,
+F034,Iterative self-feedback refinement,2023,FOUNDATIONAL,REPRESENTATIVE,AI + SELF-IMPROVEMENT,Aman Madaan et al.,S027,P068,
+F035,Multi-agent conversational orchestration,2023,ACTIVE,REPRESENTATIVE,AGENTS + ORGANIZATIONS,"Qingyun Wu et al., Microsoft Research",S028,P069,I020
+F036,Lifelong embodied skill acquisition,2023,EXPERIMENTAL,REPRESENTATIVE,AGENTS + WORLD MODEL + ROBOTICS,"Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar",S029,P070;P071;P072;P073;P074;P075;P076;P077,
+F037,Generative-agent social simulation,2023,EXPERIMENTAL,REPRESENTATIVE,AGENTS + SOCIETY + SIMULATION,Joon Sung Park et al.,S016,P078,
+F038,General reinforcement learning through learned world models,2023,ACTIVE / FOUNDATIONAL,REPRESENTATIVE,WORLD MODELS + CONTROL,"Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap",S030,P079;P080;P081;P082,
+F039,Language models grounded by robotic affordances,2022,FOUNDATIONAL,REPRESENTATIVE,AI + ROBOTICS + PLANNING,"Michael Ahn et al., Google Robotics",S031,P083,I021
+F040,Embodied multimodal language model,2023,FOUNDATIONAL,REPRESENTATIVE,AI + SENSORS + ROBOTICS,"Danny Driess, Fei Xia, Mehdi Sajjadi et al.",S032,P084;P085;P086,
+F041,Cross-embodiment robot learning,2023,ACTIVE,REPRESENTATIVE,ROBOTICS + SHARED DATA,Open X-Embodiment Collaboration,S033,,I022
+F042,Vision-language-action robotics,2023,ACTIVE / FOUNDATIONAL,REPRESENTATIVE,AI + ROBOTICS,"Anthony Brohan et al., Google DeepMind",S034,P087,I008
+F043,Gemini-based physical AI,2025,ACTIVE / EMERGING,REPRESENTATIVE,AI + ROBOTICS + PHYSICAL WORLD,Google DeepMind robotics team,S005,,I023
+F044,Embodied reasoning for robots,2025,ACTIVE / EMERGING,REPRESENTATIVE,AI + SPATIAL REASONING,Google DeepMind,S005,,I008
+F045,On-device robot foundation models,2025–2026,ACTIVE / EMERGING,REPRESENTATIVE,EDGE COMPUTE + ROBOTICS,Google DeepMind,S035,,I008
+F046,Open humanoid robot foundation models,2024–2026,ACTIVE,REPRESENTATIVE,ROBOTICS + FOUNDATION MODELS,NVIDIA Isaac GR00T team,S006,,I005
+F047,Internet-scale human-video pretraining for humanoids,2025,EMERGING,REPRESENTATIVE,HUMAN VIDEO + ROBOT LEARNING,Figure AI,S036,,I024
+F048,End-to-end automated ML research,2024,EXPERIMENTAL,REPRESENTATIVE,AI + SCIENCE,"Chris Lu et al., Sakana AI",S037,P088,I025
+F049,Multi-agent scientific hypothesis generation,2025,ACTIVE / EXPERIMENTAL,REPRESENTATIVE,AI + SCIENCE + BIO,"Gottweis, Natarajan et al., Google",S003,P089;P090,I026
+F050,LLM + chemistry tools autonomous chemistry assistant,2023,EXPERIMENTAL,REPRESENTATIVE,AI + CHEMISTRY + TOOLS,"Andres M. Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, Philippe Schwaller",S038,P091;P092;P093;P094;P095;P096,
+F051,Autonomous robotic materials laboratory,2023,EXPERIMENTAL / ACTIVE,REPRESENTATIVE,AI + ROBOTICS + MATERIALS,"Nathan Szymanski et al.; Gerbrand Ceder, Kristin Persson collaborators",S011,P097;P098;P099,
+F052,Evolutionary code/algorithm discovery,2025,ACTIVE / EMERGING,REPRESENTATIVE,AI + ALGORITHMS + R&D,"AlphaEvolve team, Google DeepMind",S023,,I027;I008
+F053,LLM-guided search for new mathematical/computer-science constructions,2023,EXPERIMENTAL / ACTIVE,REPRESENTATIVE,AI + MATHEMATICS + SEARCH,"Bernardino Romera-Paredes et al., Google DeepMind",S039,P100,I008
+F054,AI-discovered low-level algorithms,2023,REALIZED / ACTIVE,REPRESENTATIVE,AI + COMPUTE EFFICIENCY,"Daniel Mankowitz, Andrea Michi et al., Google DeepMind",S040,P101;P102,I008
+F055,AI discovery of matrix-multiplication algorithms,2022,EXPERIMENTAL / FOUNDATIONAL,REPRESENTATIVE,AI + MATHEMATICS + COMPUTE,"Alhussein Fawzi, Matej Balog, Bernardino Romera-Paredes et al.",S041,P103;P104;P100,
+F056,Constitutional AI,2022,ACTIVE / FOUNDATIONAL,REPRESENTATIVE,AI + GOVERNANCE,"Yuntao Bai et al., Anthropic",S017,P039,I014
+F057,AI safety via debate,2018,FOUNDATIONAL / CONCEPTUAL,REPRESENTATIVE,AI + OVERSIGHT,"Geoffrey Irving, Paul Christiano, Dario Amodei",S042,P105;P106;P107,
+F058,Eliciting latent knowledge from advanced systems,2021,RESEARCH PROGRAM,REPRESENTATIVE,AI + VERIFICATION,"Paul Christiano, Mark Xu, Ajeya Cotra / ARC",S043,P106;P108;P109,
+F059,Cooperative inverse reinforcement learning,2016,FOUNDATIONAL,REPRESENTATIVE,HUMAN + AI + PREFERENCE LEARNING,"Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, Stuart Russell",S044,P110;P111;P112;P113,
+F060,Collective Constitutional AI,2023,EXPERIMENTAL,REPRESENTATIVE,GOVERNANCE + PARTICIPATION + AI,"Anthropic + Collective Intelligence Project; Saffron Huang, Divya Siddarth, Liane Lovitt et al.",S045,P114;P115;P116,I028
+F061,Scalable oversight,2022,ACTIVE RESEARCH,REPRESENTATIVE,AI + AUDIT + HUMAN OVERSIGHT,Samuel Bowman et al.,S046,P117,
+F062,Protein-structure prediction at proteome scale,2021,REALIZED / FOUNDATIONAL,REPRESENTATIVE,AI + BIO + SCIENCE,"John Jumper et al., DeepMind",S047,P118,I029
+F063,Joint modeling of biomolecular interactions,2024,ACTIVE,REPRESENTATIVE,AI + BIO + DRUG DISCOVERY,"Josh Abramson et al., Google DeepMind / Isomorphic Labs",S048,P119,I030
+F064,Genome regulatory variant-effect foundation model,2025–2026,ACTIVE / EMERGING,REPRESENTATIVE,AI + GENOMICS,"Ziga Avsec, Natasha Latysheva et al., Google DeepMind",S010,P015;P120,I008
+F065,Long-range genomic regulatory prediction,2021,FOUNDATIONAL,REPRESENTATIVE,AI + GENOMICS,Ziga Avsec et al.,S049,P121,
+F066,Generative protein design with diffusion models,2023,ACTIVE / EMERGING,REPRESENTATIVE,AI + BIO + MATERIAL DESIGN,"Joseph Watson, David Juergens, Nathaniel Bennett et al.; David Baker lab",S050,P122;P123;P124,I031
+F067,Programmable CRISPR-Cas9 editing,2012,REALIZED / FOUNDATIONAL,REPRESENTATIVE,BIO + GENETIC ENGINEERING,"Martin Jinek, Krzysztof Chylinski, Jennifer Doudna, Emmanuelle Charpentier et al.",S051,P125;P126;P127;P128,
+F068,Base editing without double-strand breaks,2016,ACTIVE / FOUNDATIONAL,REPRESENTATIVE,BIO + MEDICINE,"Alexis Komor, Yongjoo Kim, Michael Packer, John Zuris, David Liu et al.",S052,P129;P130;P131;P132;P133,
+F069,Prime editing,2019,ACTIVE / EMERGING,REPRESENTATIVE,BIO + MEDICINE,"Andrew Anzalone, Peyton Randolph, Jessie Davis et al.; David Liu",S053,P134;P135;P136;P137,
+F070,Minimal synthetic bacterial cell,2016,EXPERIMENTAL / FOUNDATIONAL,REPRESENTATIVE,SYNTHETIC BIOLOGY,"Clyde Hutchison III et al., J. Craig Venter Institute",S054,P138,I032
+F071,Designed living robots / xenobots,2020,EXPERIMENTAL,REPRESENTATIVE,BIO + ROBOTICS,"Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard",S055,P139;P140;P141;P142,
+F072,Organoid Intelligence / biocomputing with brain organoids,2023,EXPERIMENTAL / CONCEPTUAL,REPRESENTATIVE,BIO + COMPUTE + HUMAN,"Lena Smirnova, Brian Caffo, David Gracias, Brett Kagan, Alysson Muotri, Thomas Hartung et al.",S056,P143;P144;P145;P146;P147;P148,
+F073,Living neural systems learning in a closed loop,2022,EXPERIMENTAL,REPRESENTATIVE,BIOCOMPUTE + LEARNING,"Brett Kagan et al., Cortical Labs",S057,P149,I033
+F074,Partial epigenetic reprogramming for functional rejuvenation,2020,EXPERIMENTAL,REPRESENTATIVE,LONGEVITY + BIO,Yuancheng Lu et al.; David Sinclair lab,S058,P150,I034
+F075,High-performance brain-to-text speech neuroprosthesis,2023,EXPERIMENTAL,REPRESENTATIVE,HUMAN + BCI + AI,Francis Willett et al.; Jaimie Henderson lab,S015,P151,I035
+F076,Neural decoding directly to synthesized speech,2019,EXPERIMENTAL / FOUNDATIONAL,REPRESENTATIVE,HUMAN + BCI + COMMUNICATION,"Gopala Anumanchipalli, Josh Chartier, Edward Chang",S059,P152;P153;P154,
+F077,3D bioprinting of thick vascularized tissues,2016,EXPERIMENTAL,REPRESENTATIVE,BIO + MANUFACTURING + MEDICINE,"David Kolesky, Kimberly Homan, Mark Skylar-Scott et al.; Jennifer Lewis lab",S060,P155;P156;P157,I036
+F078,Massive AI discovery of stable crystal structures,2023,ACTIVE / EMERGING,REPRESENTATIVE,AI + MATTER,"Amil Merchant, Ekin Dogus Cubuk et al., Google DeepMind",S061,P158;P159,I008
+F079,Generative inorganic materials design,2025,ACTIVE / EMERGING,REPRESENTATIVE,AI + MATTER + ENERGY,"Claudio Zeni, Robert Pinsler, Daniel Zügner et al., Microsoft Research",S062,P160;P161;P162,I020
+F080,General atomistic foundation simulation across conditions,2024,ACTIVE / EMERGING,REPRESENTATIVE,AI + MATERIALS SIMULATION,"Han Yang, Chenxi Hu, Yichi Zhou et al., Microsoft Research",S063,P163;P164;P165,I020
+F081,Self-healing structural materials,2001,FOUNDATIONAL / ACTIVE FIELD,REPRESENTATIVE,MATTER + INFRASTRUCTURE,"S. R. White, N. R. Sottos, P. H. Geubelle et al.",S064,P166;P167;P168,
+F082,Programmable textured mechanical metamaterials,2016,EXPERIMENTAL,REPRESENTATIVE,MATTER + ROBOTICS,Corentin Coulais et al.,S012,P169,
+F083,Autonomous molecular assembly / programmable chemical synthesis,2016,EXPERIMENTAL,REPRESENTATIVE,NANOTECH + MANUFACTURING,"Wenjing Meng, Richard Muscat, Mireya McKee et al.; Andrew Turberfield",S065,P170;P171;P172;P173,
+F084,Deep-RL control of fusion plasma,2022,EXPERIMENTAL / ACTIVE,REPRESENTATIVE,AI + FUSION + ENERGY,Jonas Degrave et al.; DeepMind + Swiss Plasma Center,S066,P174,I037
+F085,Superhot-rock geothermal,2025–2026,PROGRAM,REPRESENTATIVE,ENERGY + INDUSTRY,ARPA-E SUPERHOT program,S067,,I038
+F086,Compact sodium-cooled fast microreactors,2020s,ACTIVE PROGRAM / PRE-COMMERCIAL,REPRESENTATIVE,NUCLEAR + CITIES + COMPUTE,Oklo Aurora,S068,,I039
+F087,Space-based solar power with wireless power transfer,2013–2020s,EXPERIMENTAL,REPRESENTATIVE,SPACE + ENERGY,"Caltech Space Solar Power Project; Ali Hajimiri, Sergio Pellegrino, Harry Atwater teams",S069,P175;P176,I040;I041
+F088,Below-threshold quantum error correction,2024,EXPERIMENTAL / MAJOR MILESTONE,REPRESENTATIVE,QUANTUM + COMPUTE,Google Quantum AI / Willow team,S070,,I042
+F089,Modular fault-tolerant quantum supercomputer,2025–2030 plan,ACTIVE PROGRAM,REPRESENTATIVE,QUANTUM + HPC,IBM Quantum; Starling roadmap,S071,P177,I043
+F090,Utility-scale quantum validated by value-over-cost,2024–2026,ACTIVE PROGRAM,REPRESENTATIVE,QUANTUM + ECONOMICS + VERIFICATION,DARPA Quantum Benchmarking Initiative; program manager Micah Stoutimore,S072,,I044;I045
+F091,Quantum internet architecture,2018,RESEARCH / EMERGING,REPRESENTATIVE,NETWORK + QUANTUM,"Stephanie Wehner, David Elkouss, Ronald Hanson",S073,P178;P179;P180,
+F092,"In-space servicing, assembly and manufacturing as a space-infrastructure stack",2025,ACTIVE PROGRAM,REPRESENTATIVE,SPACE + ROBOTICS + MANUFACTURING,"John Mulvaney, Dale Arney et al.; NASA ISAM",S074,P181;P182,I046
+F093,On-orbit manufacture of very large structures,2021–2026,ACTIVE PROGRAM / DEMO,REPRESENTATIVE,SPACE + MATTER + ROBOTICS,DARPA NOM4D; Andrew Detor program line,S075,,I047;I048
+F094,Self-replicating / growing lunar factory,1982,CONCEPTUAL / FAR-FRONTIER,REPRESENTATIVE,SPACE + ROBOTICS + SELF-EXPANDING INDUSTRY,"Robert Freitas Jr., William Gilbreath et al.; NASA/ASEE study",S007,P013;P014,I049
+F095,Lunar fission surface power,2026,ACTIVE PROGRAM,REPRESENTATIVE,SPACE + NUCLEAR + INDUSTRY,NASA + U.S. Department of Energy,S076,,I050
+F096,Orbital data centers / AI compute in space,2025,EXPERIMENTAL / EMERGING,REPRESENTATIVE,SPACE + COMPUTE + ENERGY,"Philip Johnston, Ezra Feilden, Adi Oltean; Starcloud",S021,P047;P048;P049,I017
+F097,Planet-scale geospatial foundation model,2025,ACTIVE / EMERGING,REPRESENTATIVE,EARTH + AI + SENSOR WEB,"AlphaEarth Foundations team, Google DeepMind / Earth Engine",S013,,I010;I051
+F098,Operational Earth-system digital twins,2024–2026,ACTIVE PROGRAM,REPRESENTATIVE,EARTH + SIMULATION + POLICY,Destination Earth / ECMWF and partners,S014,,I052
+F099,Machine-native HTTP payments / autonomous-agent micropayments,2025,ACTIVE / EMERGING,REPRESENTATIVE,AGENT ECONOMY + CAPITAL + SERVICES,"Erik Reppel, Nemil Dalal, Dan Kim; Coinbase x402",S077,P183;P184;P185,I053
+F100,Agentic-commerce interoperability and auditable delegated payments,2025–2026,ACTIVE / EMERGING,REPRESENTATIVE,AGENTS + COMMERCE + IDENTITY + PAYMENTS,Google AP2/UCP ecosystem; Stripe/OpenAI ACP ecosystem,S078;S079;S080,,I054;I055
