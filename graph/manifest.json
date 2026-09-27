@@ -46,5 +46,9 @@
     "frontier": 100,
     "legacy_mapping_relations": 0
   },
-  "canonical_edge_file": "data/frontier_edges.csv"
+  "canonical_edge_file": "data/frontier_edges.csv",
+  "language": "ru",
+  "human_readable_language": "Русский",
+  "technical_identifiers_language": "stable_machine_codes",
+  "description": "Канонический манифест русскоязычного SINERGY Civilization Graph. ID и технические enum-коды сохраняются без перевода для совместимости."
 }
