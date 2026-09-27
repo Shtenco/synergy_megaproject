@@ -1,0 +1,37 @@
+{
+  "version": "2.0",
+  "canonical_freeze": "2026-09-27",
+  "source_of_truth": "README.md",
+  "counts": {
+    "megaprojects": 150,
+    "technologies": 100,
+    "frontier": 100,
+    "authors": 185,
+    "institutions": 55,
+    "sources": 80,
+    "nodes": 670,
+    "edges": 1090
+  },
+  "invariants": {
+    "megaprojects": 150,
+    "technologies": 100,
+    "frontier": 100
+  },
+  "generated_files": [
+    "data/authors.csv",
+    "data/evidence.csv",
+    "data/frontier_edges.csv",
+    "data/frontier_nodes.csv",
+    "data/institutions.csv",
+    "data/megaproject_nodes.csv",
+    "data/sources.csv",
+    "data/technology_nodes.csv",
+    "docs/M2_MACHINE_READABLE_GRAPH.md",
+    "graph/frontier_graph.graphml",
+    "graph/frontier_graph.json",
+    "graph/neo4j_import/nodes.csv",
+    "graph/neo4j_import/relationships.csv",
+    "schema/graph_schema.json",
+    "tools/validate_graph.py"
+  ]
+}
